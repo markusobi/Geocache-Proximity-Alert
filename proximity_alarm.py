@@ -45,18 +45,22 @@ def read_geocaches(gpx_filename):
     root = tree.getroot()
     if not root.tag.endswith("}gpx"):
         return []
-    for wpt in root.findall("{*}wpt"):
+    for wpt in root.findall("{*}wpt[{*}type][{*}name][@lat][@lon]"):
         wpt_type = wpt.find("{*}type")
-        if wpt_type is None:
+        types = wpt_type.text.split("|")
+        # pocket queries have an extra type field
+        types2 = wpt.find("{*}extensions/{*}cache/{*}type")
+        if types2 is not None:
+            types.extend(types2.text.split("|"))
+        if "geocache" not in map(str.lower, types):
             continue
-        types = list(map(str.lower, wpt_type.text.split("|")))
-        if "geocache" not in types:
+        name_element = wpt.find(".//{*}cache/{*}name")
+        if name_element is None:
             continue
         gc_code = wpt.find("{*}name").text
-        name = wpt.find(".//{*}cache/{*}name").text
         lat = wpt.get("lat")
         lon = wpt.get("lon")
-        geocache = Geocache(name=name, gc_code=gc_code, lat=lat, lon=lon, types=types)
+        geocache = Geocache(name=name_element.text, gc_code=gc_code, lat=lat, lon=lon, types=types)
         geocaches.append(geocache)
     print(f"found {len(geocaches)} geocache(s) in {gpx_filename}")
     return geocaches
