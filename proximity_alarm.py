@@ -30,8 +30,17 @@ gpx_template = """<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 </gpx>"""
 
 
-def read_waypoints(gpx_filename):
-    waypoints = []
+class Geocache(object):
+    def __init__(self, name, gc_code, lat, lon, types):
+        self.name = name
+        self.gc_code = gc_code
+        self.lat = lat
+        self.lon = lon
+        self.types = types
+
+
+def read_geocaches(gpx_filename):
+    geocaches = []
     tree = ElementTree.parse(gpx_filename)
     root = tree.getroot()
     if not root.tag.endswith("}gpx"):
@@ -43,27 +52,30 @@ def read_waypoints(gpx_filename):
         types = list(map(str.lower, wpt_type.text.split("|")))
         if "geocache" not in types:
             continue
-        waypoints.append(wpt)
-    print(f"found {len(waypoints)} geocache(s) in {gpx_filename}")
-    return waypoints
+        gc_code = wpt.find("{*}name").text
+        name = wpt.find(".//{*}cache/{*}name").text
+        lat = wpt.get("lat")
+        lon = wpt.get("lon")
+        geocache = Geocache(name=name, gc_code=gc_code, lat=lat, lon=lon, types=types)
+        geocaches.append(geocache)
+    print(f"found {len(geocaches)} geocache(s) in {gpx_filename}")
+    return geocaches
 
 
 def get_xml_namespaces(filename):
     return [(prefix, schema_url) for event, (prefix, schema_url) in ElementTree.iterparse(filename, events=['start-ns'])]
 
 
-def write_waypoints(waypoints):
+def proximity_alert_tree(geocaches):
     gpx_template_root = ElementTree.fromstring(gpx_template)
     root = gpx_template_root
     template_wpt = root.find("{*}wpt")
     root.remove(template_wpt)
-    for waypoint in waypoints:
+    for geocache in geocaches:
         new_wpt_element = copy.deepcopy(template_wpt)
-        new_wpt_element.set("lat", waypoint.get("lat"))
-        new_wpt_element.set("lon", waypoint.get("lon"))
-        GC_code = waypoint.find("{*}name").text
-        cache_name = waypoint.find(".//{*}cache/{*}name").text
-        new_wpt_element.find("{*}name").text = f"{cache_name} ({GC_code})"
+        new_wpt_element.set("lat", geocache.lat)
+        new_wpt_element.set("lon", geocache.lon)
+        new_wpt_element.find("{*}name").text = f"{geocache.name} ({geocache.gc_code})"
         root.append(new_wpt_element)
     return ElementTree.ElementTree(root)
 
@@ -74,11 +86,11 @@ def main():
         gpx_filenames = glob.glob("*.gpx")
         if len(gpx_filenames) == 0:
             sys.exit("error: no gpx files given and no gpx files found in current directory")
-    waypoints = []
+    geocaches = []
     for gpx_filename in gpx_filenames:
-        waypoints.extend(read_waypoints(gpx_filename))
-    print(f"found total {len(waypoints)} geocache(s)")
-    tree = write_waypoints(waypoints)
+        geocaches.extend(read_geocaches(gpx_filename))
+    print(f"found total {len(geocaches)} geocache(s)")
+    tree = proximity_alert_tree(geocaches)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
         ElementTree.register_namespace(prefix, schema_url)
