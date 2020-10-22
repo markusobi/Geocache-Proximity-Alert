@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import copy
-import glob
+import pathlib
 import sys
 import xml.etree.ElementTree as ElementTree
 import io
@@ -39,9 +39,9 @@ class Geocache(object):
         self.types = types
 
 
-def read_geocaches(gpx_filename):
+def read_geocaches(gpx_filepath):
     geocaches = []
-    tree = ElementTree.parse(gpx_filename)
+    tree = ElementTree.parse(gpx_filepath)
     root = tree.getroot()
     if not root.tag.endswith("}gpx"):
         return []
@@ -62,7 +62,7 @@ def read_geocaches(gpx_filename):
         lon = wpt.get("lon")
         geocache = Geocache(name=name_element.text, gc_code=gc_code, lat=lat, lon=lon, types=types)
         geocaches.append(geocache)
-    print(f"found {len(geocaches)} geocache(s) in {gpx_filename}")
+    print(f"found {len(geocaches)} geocache(s) in {gpx_filepath}")
     return geocaches
 
 
@@ -87,15 +87,15 @@ def proximity_alert_tree(geocaches):
 def main():
     if sys.version_info < (3, 8):
         sys.exit("error: python version too old. python 3.8 or higher is required to run this program")
-    gpx_filenames = sys.argv[1:]
-    if len(gpx_filenames) == 0:
-        gpx_filenames = glob.glob("*.gpx")
-        if len(gpx_filenames) == 0:
+    gpx_filepaths = sys.argv[1:]
+    if len(gpx_filepaths) == 0:
+        gpx_filepaths = list(pathlib.Path.cwd().rglob("*.gpx"))
+        if len(gpx_filepaths) == 0:
             sys.exit("error: no gpx files given and no gpx files found in current directory")
     geocaches = []
-    for gpx_filename in gpx_filenames:
-        geocaches.extend(read_geocaches(gpx_filename))
-    print(f"found total {len(geocaches)} geocache(s)")
+    for gpx_filepath in gpx_filepaths:
+        geocaches.extend(read_geocaches(gpx_filepath))
+    print(f"{len(geocaches)} geocache(s) found")
     tree = proximity_alert_tree(geocaches)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
