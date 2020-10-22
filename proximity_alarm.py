@@ -85,6 +85,8 @@ def proximity_alert_tree(geocaches):
 
 
 def main():
+    if sys.version_info < (3, 8):
+        sys.exit("error: python version too old. python 3.8 or higher is required to run this program")
     gpx_filenames = sys.argv[1:]
     if len(gpx_filenames) == 0:
         gpx_filenames = glob.glob("*.gpx")
