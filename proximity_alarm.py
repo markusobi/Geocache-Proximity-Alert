@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import copy
 import pathlib
+import re
 import sys
 import xml.etree.ElementTree as ElementTree
 import io
@@ -31,12 +32,15 @@ gpx_template = """<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 
 class Geocache(object):
-    def __init__(self, name, gc_code, lat, lon, types):
+    def __init__(self, name, gc_code, lat, lon, types, difficulty, terrain, hint=None):
         self.name = name
         self.gc_code = gc_code
         self.lat = lat
         self.lon = lon
         self.types = types
+        self.difficulty = difficulty
+        self.terrain = terrain
+        self.hint = hint
 
 
 def read_geocaches(gpx_filepath):
@@ -58,9 +62,22 @@ def read_geocaches(gpx_filepath):
         if name_element is None:
             continue
         gc_code = wpt.find("{*}name").text
+        difficulty = wpt.find(".//{*}cache/{*}difficulty").text
+        terrain = wpt.find(".//{*}cache/{*}terrain").text
+        hint = wpt.find(".//{*}cache/{*}encoded_hints").text
+        # replace xhtml linebreaks
+        hint = re.sub("<br\s*?/>", "\n", hint).strip()
+        hint = None if hint == "" else hint
         lat = wpt.get("lat")
         lon = wpt.get("lon")
-        geocache = Geocache(name=name_element.text, gc_code=gc_code, lat=lat, lon=lon, types=types)
+        geocache = Geocache(name=name_element.text,
+                            gc_code=gc_code,
+                            lat=lat,
+                            lon=lon,
+                            types=types,
+                            difficulty=difficulty,
+                            terrain=terrain,
+                            hint=hint)
         geocaches.append(geocache)
     print(f"found {len(geocaches)} geocache(s) in {gpx_filepath}")
     return geocaches
