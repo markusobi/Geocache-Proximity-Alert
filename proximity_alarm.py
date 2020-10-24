@@ -96,7 +96,11 @@ def proximity_alert_tree(geocaches):
         new_wpt_element = copy.deepcopy(template_wpt)
         new_wpt_element.set("lat", geocache.lat)
         new_wpt_element.set("lon", geocache.lon)
-        new_wpt_element.find("{*}name").text = f"{geocache.name} ({geocache.gc_code})"
+        if geocache.hint is None:
+            display_name = "{name} (D{difficulty}/T{terrain})".format(**vars(geocache))
+        else:
+            display_name = "{name} (D{difficulty}/T{terrain} {hint})".format(**vars(geocache))
+        new_wpt_element.find("{*}name").text = display_name
         root.append(new_wpt_element)
     return ElementTree.ElementTree(root)
 
