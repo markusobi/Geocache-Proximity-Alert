@@ -72,8 +72,8 @@ def read_geocaches(gpx_filepath):
         difficulty = wpt.find(".//{*}cache/{*}difficulty").text
         terrain = wpt.find(".//{*}cache/{*}terrain").text
         hint = wpt.find(".//{*}cache/{*}encoded_hints").text
-        # replace xhtml linebreaks
-        hint = re.sub("<br\s*?/>", "\n", hint).strip()
+        # replace xhtml linebreaks in hints
+        hint = re.sub(r"<br\s*?/>", "\n", hint).strip()
         hint = None if hint == "" else hint
         lat = wpt.get("lat")
         lon = wpt.get("lon")
@@ -91,7 +91,8 @@ def read_geocaches(gpx_filepath):
 
 
 def get_xml_namespaces(filename):
-    return [(prefix, schema_url) for event, (prefix, schema_url) in ElementTree.iterparse(filename, events=['start-ns'])]
+    return [(prefix, schema_url) for event, (prefix, schema_url) in
+            ElementTree.iterparse(filename, events=['start-ns'])]
 
 
 def proximity_alert_tree(geocaches):
