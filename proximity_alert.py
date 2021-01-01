@@ -111,7 +111,7 @@ def proximity_alert_tree(geocaches, distance, display_format):
     return ElementTree.ElementTree(root)
 
 
-def alarm_for_files(gpx_filepaths, out_file_or_filename, distance, display_format, verbose):
+def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, verbose):
     geocaches = []
     for gpx_filepath in gpx_filepaths:
         geocaches_found = read_geocaches(gpx_filepath)
@@ -143,11 +143,11 @@ def main():
         "{hint}\n" \
         "{name}"
 
-    alarm_for_files(gpx_filepaths=gpx_filepaths,
-                    out_file_or_filename="proximity_alarm.gpx",
-                    distance=50.0,
-                    display_format=display_format,
-                    verbose=True)
+    create_alert(gpx_filepaths=gpx_filepaths,
+                 out_file_or_filename="proximity_alert.gpx",
+                 distance=50.0,
+                 display_format=display_format,
+                 verbose=True)
 
 
 if __name__ == "__main__":

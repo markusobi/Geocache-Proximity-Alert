@@ -6,11 +6,11 @@ import glob
 import sys
 os.chdir(pathlib.Path(__file__).parent)
 sys.path.append("..")
-import proximity_alarm
+import proximity_alert
 
 
 class Test(unittest.TestCase):
-    def test_alarm_for_files(self):
+    def test_create_alert(self):
         generate_reference_output = False
         display_format = \
             "{gc_code}\n" \
@@ -23,7 +23,7 @@ class Test(unittest.TestCase):
             with self.subTest(testcase_dir):
                 gpx_filepaths = glob.glob(testcase_dir + "/in/*.gpx")
                 outfile = io.BytesIO()
-                proximity_alarm.alarm_for_files(
+                proximity_alert.create_alert(
                     gpx_filepaths=gpx_filepaths,
                     out_file_or_filename=outfile,
                     distance=42.0,
