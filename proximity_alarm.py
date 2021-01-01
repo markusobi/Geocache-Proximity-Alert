@@ -88,7 +88,6 @@ def read_geocaches(gpx_filepath):
                             terrain=terrain,
                             hint=hint)
         geocaches.append(geocache)
-    print(f"found {len(geocaches)} geocache(s) in {gpx_filepath}")
     return geocaches
 
 
@@ -112,11 +111,16 @@ def proximity_alert_tree(geocaches, distance, display_format):
     return ElementTree.ElementTree(root)
 
 
-def alarm_for_files(gpx_filepaths, out_file_or_filename, distance, display_format):
+def alarm_for_files(gpx_filepaths, out_file_or_filename, distance, display_format, verbose):
     geocaches = []
     for gpx_filepath in gpx_filepaths:
-        geocaches.extend(read_geocaches(gpx_filepath))
-    print(f"{len(geocaches)} geocache(s) found")
+        geocaches_found = read_geocaches(gpx_filepath)
+        if verbose:
+            print(f"{len(geocaches_found)} geocache(s) found in {gpx_filepath}")
+        geocaches.extend(geocaches_found)
+
+    if verbose:
+        print(f"{len(geocaches)} geocache(s) found in total")
     tree = proximity_alert_tree(geocaches, distance, display_format)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
@@ -138,8 +142,12 @@ def main():
         "D{difficulty}/T{terrain}\n" \
         "{hint}\n" \
         "{name}"
-    distance = 50.0
-    alarm_for_files(gpx_filepaths, "proximity_alarm.gpx", distance, display_format)
+
+    alarm_for_files(gpx_filepaths=gpx_filepaths,
+                    out_file_or_filename="proximity_alarm.gpx",
+                    distance=50.0,
+                    display_format=display_format,
+                    verbose=True)
 
 
 if __name__ == "__main__":

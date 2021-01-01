@@ -17,14 +17,18 @@ class Test(unittest.TestCase):
             "D{difficulty}/T{terrain}\n" \
             "{hint}\n" \
             "{name}"
-        distance = 42.0
         encoding = "utf-8"
 
         for testcase_dir in glob.glob("testcases/*/"):
             with self.subTest(testcase_dir):
                 gpx_filepaths = glob.glob(testcase_dir + "/in/*.gpx")
                 outfile = io.BytesIO()
-                proximity_alarm.alarm_for_files(gpx_filepaths, outfile, distance, display_format)
+                proximity_alarm.alarm_for_files(
+                    gpx_filepaths=gpx_filepaths,
+                    out_file_or_filename=outfile,
+                    distance=42.0,
+                    display_format=display_format,
+                    verbose=False)
                 reference_output_filepath = testcase_dir + "/out.gpx"
                 if generate_reference_output:
                     with open(reference_output_filepath, "wb") as f:
