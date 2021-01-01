@@ -1,0 +1,200 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "kabs4" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>https://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2020-12-27T16:13:08.9168785Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="52.550883" minlon="13.3987" maxlat="52.550883" maxlon="13.3987" />
+  <wpt lat="52.550883" lon="13.3987">
+    <time>2008-10-01T00:00:00</time>
+    <name>GC1GTKQ</name>
+    <desc>Behmstraßenbrücke by 4kabs, Traditional Cache (2/1)</desc>
+    <url>https://www.geocaching.com/seek/cache_details.aspx?guid=83161084-ea6a-4f73-b74c-feba2916b320</url>
+    <urlname>Behmstraßenbrücke</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="1013694" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+      <groundspeak:name>Behmstraßenbrücke</groundspeak:name>
+      <groundspeak:placed_by>4kabs</groundspeak:placed_by>
+      <groundspeak:owner id="1649927">kabs4</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:attributes>
+        <groundspeak:attribute id="1" inc="1">Dogs</groundspeak:attribute>
+        <groundspeak:attribute id="6" inc="1">Recommended for kids</groundspeak:attribute>
+        <groundspeak:attribute id="7" inc="1">Takes less than one hour</groundspeak:attribute>
+        <groundspeak:attribute id="13" inc="1">Available 24/7</groundspeak:attribute>
+        <groundspeak:attribute id="25" inc="1">Parking nearby</groundspeak:attribute>
+        <groundspeak:attribute id="32" inc="1">Bicycles</groundspeak:attribute>
+        <groundspeak:attribute id="33" inc="1">Motorcycles</groundspeak:attribute>
+        <groundspeak:attribute id="41" inc="1">Stroller accessible</groundspeak:attribute>
+      </groundspeak:attributes>
+      <groundspeak:difficulty>2</groundspeak:difficulty>
+      <groundspeak:terrain>1</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Berlin</groundspeak:state>
+      <groundspeak:short_description html="True">
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;p align="center"&gt;&lt;img border="0" src="http://www.kabitschke.com/geo/behmstrasse.jpg" width="512" height="1024" /&gt;&lt;/p&gt;
+&lt;p align="center"&gt; &lt;a href="http://www.andyhoppe.com/"&gt;&lt;img src="http://www.andyhoppe.com/count/?id=1222745880" alt="Counter" style="border:none;" /&gt;&lt;/a&gt;&lt;/p&gt;
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>von der Aussenseite und nicht fallen lassen</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="985262705">
+          <groundspeak:date>2020-12-27T20:13:45Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="6780118">Sötes Länneken</groundspeak:finder>
+          <groundspeak:text encoded="False">Oh, hier wehte heute kräftig der Wind. 
+Aber das Döschen konnte dank genauer Koordinaten gut gefunden werden. Danke fürs Herführen 
+Sötes Länneken </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="985172513">
+          <groundspeak:date>2020-12-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="14794360">Lionors</groundspeak:finder>
+          <groundspeak:text encoded="False">Die heutige Strahlenjagd führte schnelsener und mich wieder nach Pankow. Trotz des nieselig kalten und ungemütlichen Wetters waren reichlich Muggel unterwegs und an der einen oder anderen Stelle war Geduld gefragt. Hier haben wir uns auf eine längere Suche eingestellt, aber dann ging es doch ganz schnell. Koords sind sehr genau!
+Geloggt haben wir mit unserem Teamnamen schnelli.
+Vielen Dank fürs Herführen und fürs Legen und Pflegen.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="985133938">
+          <groundspeak:date>2020-12-26T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="3309004">schnelsener</groundspeak:finder>
+          <groundspeak:text encoded="False">Zusammen mit Lionors ging es an diesem Feiertag auf Strahlenjagd. Glücklicherweise hatte es aufgehört zu schneien und wir konnten weitgehend muggelfrei die Dose suchen und finden. Geloggt haben wir mit unserem Teamnamen schnelli.
+Frohe Weihnachten und TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="984564615">
+          <groundspeak:date>2020-12-22T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="31693551">Eddieswelt</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke für den Cache, wir konnten beim Spaziergang bei schlechtem Wetter gut und muffelfrei zugreifen</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="984346199">
+          <groundspeak:date>2020-12-21T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="12927153">ER1969</groundspeak:finder>
+          <groundspeak:text encoded="False">Hier war ich schon mehrmals und immer war viel los.
+
+Heute konnte ich nach einem 
+Moment der suche Erfolg melden und das Logbuch bearbeiten.
+
+Nach durchführung der cacheraktivitäten konnte ich mit einem 😁 weiterziehen 
+
+
+Geloggt: 21. Dezember 2020 12:27 
+ 
+Danke für diesen Cache 4kabs 👍</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="982145329">
+          <groundspeak:date>2020-12-07T01:17:36Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="6924332">Beamer69</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute mal hier eine Adventsrunde gedreht und schnell fündig geworden.
+TFTC </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="980692756">
+          <groundspeak:date>2020-11-28T17:14:54Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="29512279">Steks</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei einem Spaziergang schnell und gut gefunden :) 
+Danke fürs Legen, Hegen und Pflegen!
+
+28.11.2020, 09:14</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="980395065">
+          <groundspeak:date>2020-11-26T05:28:45Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32673632">lisbertil</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke für den schönen cache</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="979410223">
+          <groundspeak:date>2020-11-20T23:54:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="33153090">emmawegener</groundspeak:finder>
+          <groundspeak:text encoded="False">Hohe metal Brücke 🌉 </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="978380620">
+          <groundspeak:date>2020-11-15T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="15331413">SaBeST</groundspeak:finder>
+          <groundspeak:text encoded="False">Dank des Hinweises konnte der Kleine relativ schnell entdeckt werden. Nach dem loggen noch die Aussicht genossen. Vielen Dank für's legen und pflegen 🙂</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="977892507">
+          <groundspeak:date>2020-11-14T03:26:11Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="33043185">MrWepunkt</groundspeak:finder>
+          <groundspeak:text encoded="False">Nice 👌</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="977892448">
+          <groundspeak:date>2020-11-14T03:25:48Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="28334254">2schweine</groundspeak:finder>
+          <groundspeak:text encoded="False">(:</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="977608944">
+          <groundspeak:date>2020-11-12T03:10:52Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="29449043">kiri2001</groundspeak:finder>
+          <groundspeak:text encoded="False">Fast schon zu einfach😁</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="977535013">
+          <groundspeak:date>2020-11-11T21:45:22Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="33043222">Tomlnk</groundspeak:finder>
+          <groundspeak:text encoded="False">👍🏼</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="976396179">
+          <groundspeak:date>2020-11-07T22:09:46Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32986822">awwfs</groundspeak:finder>
+          <groundspeak:text encoded="False">Schöner Ausblick</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="975596309">
+          <groundspeak:date>2020-11-02T21:22:20Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32776442">Sealander2020</groundspeak:finder>
+          <groundspeak:text encoded="False">Danke des Hinweises leicht zu finden. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="974999883">
+          <groundspeak:date>2020-10-31T21:00:18Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32914611">Tri3</groundspeak:finder>
+          <groundspeak:text encoded="False">Hat Spaß gemacht Danke:)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="973809417">
+          <groundspeak:date>2020-10-25T19:16:37Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5680695">NicoleMaxLeoMatze4</groundspeak:finder>
+          <groundspeak:text encoded="False">Kurz vor der Rückfahrt ins Münsterland noch die Beine vertreten und die Dose schnell geloggt. </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="973252295">
+          <groundspeak:date>2020-10-23T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32820922">sk128</groundspeak:finder>
+          <groundspeak:text encoded="False">Gefunden, sehr schön :)</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="984471681">
+          <groundspeak:date>2020-10-22T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="28973870">EricFinn</groundspeak:finder>
+          <groundspeak:text encoded="False">22. Oktober 2020 
+EricFinn war mit BoeserBubeNW22 und JJMom715 da, ihr findet uns im Logbuch unter dem Namen die Chaoten 2020.
+
+Das ist mein 1044. Fund! 🏅
+
+Ich benutze MILLIARDENTEURE Satelliten um im Wald Tupperdosen zu suchen
+
+Danke an 4kabs für das Herführen, Legen und Pflegen des Caches. DfdC! 🎁
+
+❤️ Grüße EricFinn</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+</gpx>
