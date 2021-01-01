@@ -13,7 +13,7 @@ Nicht vom Beckenrand springen!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -26,7 +26,7 @@ Historischer Hafen Berlin</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -39,7 +39,7 @@ Pankebogen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>

@@ -21,7 +21,8 @@ class Test(unittest.TestCase):
             with self.subTest(testcase_dir):
                 gpx_filepaths = glob.glob(testcase_dir + "/in/*.gpx")
                 outfile = io.BytesIO()
-                proximity_alarm.alarm_for_files(gpx_filepaths, outfile, display_name)
+                distance = 42.0
+                proximity_alarm.alarm_for_files(gpx_filepaths, outfile, distance, display_name)
                 reference_output_filepath = testcase_dir + "/out.gpx"
                 generate_reference_output = False
                 if generate_reference_output:

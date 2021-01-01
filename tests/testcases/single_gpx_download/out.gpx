@@ -12,7 +12,7 @@ Behmstra&#223;enbr&#252;cke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>

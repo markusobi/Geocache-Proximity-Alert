@@ -30,7 +30,7 @@ gpx_template = """<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>0.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -96,7 +96,7 @@ def get_xml_namespaces(filename):
             ElementTree.iterparse(filename, events=['start-ns'])]
 
 
-def proximity_alert_tree(geocaches, display_name):
+def proximity_alert_tree(geocaches, distance, display_name):
     gpx_template_root = ElementTree.fromstring(gpx_template)
     root = gpx_template_root
     template_wpt = root.find("{*}wpt")
@@ -106,16 +106,17 @@ def proximity_alert_tree(geocaches, display_name):
         new_wpt_element.set("lat", geocache.lat)
         new_wpt_element.set("lon", geocache.lon)
         new_wpt_element.find("{*}name").text = display_name(geocache)
+        new_wpt_element.find("{*}extensions/{*}WaypointExtension/{*}Proximity").text = str(distance)
         root.append(new_wpt_element)
     return ElementTree.ElementTree(root)
 
 
-def alarm_for_files(gpx_filepaths, out_file_or_filename, display_name):
+def alarm_for_files(gpx_filepaths, out_file_or_filename, distance, display_name):
     geocaches = []
     for gpx_filepath in gpx_filepaths:
         geocaches.extend(read_geocaches(gpx_filepath))
     print(f"{len(geocaches)} geocache(s) found")
-    tree = proximity_alert_tree(geocaches, display_name)
+    tree = proximity_alert_tree(geocaches, distance, display_name)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
         ElementTree.register_namespace(prefix, schema_url)
@@ -136,7 +137,8 @@ def main():
             return "{gc_code}\nD{difficulty}/T{terrain}\n{name}".format(**vars(geocache))
         else:
             return "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}".format(**vars(geocache))
-    alarm_for_files(gpx_filepaths, "proximity_alarm.gpx", display_name)
+    distance = 50.0
+    alarm_for_files(gpx_filepaths, "proximity_alarm.gpx", distance, display_name)
 
 
 if __name__ == "__main__":

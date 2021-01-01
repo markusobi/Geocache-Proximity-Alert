@@ -12,7 +12,7 @@ Vergessene Welten </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -24,7 +24,7 @@ Dunkles Kapitel I (An der D&#252;ne)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -36,7 +36,7 @@ Bonus- Vergessene Welten</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -50,7 +50,7 @@ Vogel des Jahres</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -62,7 +62,7 @@ Dunkles Kapitel III (Der Kommandantenhof)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -74,7 +74,7 @@ Der Br&#252;ckenw&#228;chter am Kanal</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -86,7 +86,7 @@ Das verbindende Element</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -105,7 +105,7 @@ Meilenstein im Gleisbett</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -118,7 +118,7 @@ Oranienburgs (fast) vergessene Orte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -132,7 +132,7 @@ Todesmarsch-Gedenk-Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -144,7 +144,7 @@ Fischi, Fischi, Fischi</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -156,7 +156,7 @@ Teufel, Fehler und ihre Verknotungen (reload)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -170,7 +170,7 @@ Hicks &amp; Astrid's Runde #01</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -184,7 +184,7 @@ Sechzig</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -196,7 +196,7 @@ Der Lehnitzsee</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -209,7 +209,7 @@ Hidden People</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -222,7 +222,7 @@ Tiere am See - 2 Die s&#252;dliche Saubucht</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -234,7 +234,7 @@ Bekannte Melodie</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -247,7 +247,7 @@ Tanjas Herbstbaum</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -259,7 +259,7 @@ Methusalem</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -271,7 +271,7 @@ Unterwegs in Oranienburg - An der Rolle #Reloaded#</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -283,7 +283,7 @@ Seeblick</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -296,7 +296,7 @@ Kreisliga-Legendinnen # 1</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -308,7 +308,7 @@ Hochwasser in Oranienburg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -320,7 +320,7 @@ D3.5/T2
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -334,7 +334,7 @@ Zum Cache: im Kleineren
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -347,7 +347,7 @@ Ein Kleiner an der Havel (sch&#246;ne Natur)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -360,7 +360,7 @@ Rund um Berlin #1</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -373,7 +373,7 @@ Lieblingsfarbe GELB (3)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -385,7 +385,7 @@ GHG - WTB</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -399,7 +399,7 @@ Geburtstagsr&#228;tsel - Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -416,7 +416,7 @@ Oranienburger Schloss-Runde</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -429,7 +429,7 @@ Wie unangenehm!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -441,7 +441,7 @@ Rapunzel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -453,7 +453,7 @@ Dunkles Kapitel II (Schmachtenhagener Forst)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -465,7 +465,7 @@ Die Br&#252;cke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -477,7 +477,7 @@ Grabowsee</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -489,7 +489,7 @@ Schloss Oranienburg (LAB-Bonus)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -502,7 +502,7 @@ Die Schranke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -515,7 +515,7 @@ Batmans Versteck</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -528,7 +528,7 @@ Kein Drive In - Ein Efeu In #1</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -541,7 +541,7 @@ Einfach mal abh&#228;ngen </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -554,7 +554,7 @@ Drope-In</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -566,7 +566,7 @@ Der Legostein</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -579,7 +579,7 @@ Zum Jubil&#228;um 110 Jahre "Kolonie Eintracht Orania"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -592,7 +592,7 @@ Birkenhaus-An der Linde</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -605,7 +605,7 @@ Bonus - Faunas Merkw&#252;rdigkeiten</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -617,7 +617,7 @@ Baumhochzeit</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -630,7 +630,7 @@ Am Karpfenteich Krankenhaus Oranienburg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -643,7 +643,7 @@ Immer am Wasser entlang...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -656,7 +656,7 @@ Faunas Merkw&#252;rdigkeiten</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -669,7 +669,7 @@ Lieblingsfarbe Gelb (6)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -682,7 +682,7 @@ Lieblingsfarbe GELB (4)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -695,7 +695,7 @@ DC+RI</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -707,7 +707,7 @@ Schmachtenhagener Dorfrunde</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -720,7 +720,7 @@ Heinkel Flugzeugwerke Bonus Cache </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -732,7 +732,7 @@ Die Pappe im Wald</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -745,7 +745,7 @@ Der Garten Eden - Bonus</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -758,7 +758,7 @@ Waldgeisterchen Luca &amp; Fine</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -771,7 +771,7 @@ Herausforderung f&#252;r schwere Gef&#228;hrte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -784,7 +784,7 @@ Lieblingsfarbe GELB (1)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -797,7 +797,7 @@ Waldgeist Bibi</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -810,7 +810,7 @@ Wasser ist Leben</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -823,7 +823,7 @@ Der Teerbrenner Erdmann</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -836,7 +836,7 @@ Waldgeist David</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -849,7 +849,7 @@ Happy Birthday -Waldgeister- |reloaded|</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -862,7 +862,7 @@ Waldgeist Sarah</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -875,7 +875,7 @@ Der Garten Eden</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -887,7 +887,7 @@ O-Town</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -899,7 +899,7 @@ Sport Frei!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -911,7 +911,7 @@ Heinkel Flugzeugwerke LP-Cache (second edition)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -924,7 +924,7 @@ Waldgeister Bonus</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -937,7 +937,7 @@ wikipedia
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -950,7 +950,7 @@ Waldgeist Ida</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
@@ -963,7 +963,7 @@ Der Wald schl&#228;gt zur&#252;ck</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
-            <wptx1:Proximity>50.0</wptx1:Proximity>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
             <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
         </wptx1:WaypointExtension>
     </extensions>
