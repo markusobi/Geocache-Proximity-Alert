@@ -12,7 +12,11 @@ import proximity_alarm
 class Test(unittest.TestCase):
     def test_alarm_for_files(self):
         generate_reference_output = False
-        display_format = "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}"
+        display_format = \
+            "{gc_code}\n" \
+            "D{difficulty}/T{terrain}\n" \
+            "{hint}\n" \
+            "{name}"
         distance = 42.0
         encoding = "utf-8"
 

@@ -133,7 +133,11 @@ def main():
         if len(gpx_filepaths) == 0:
             sys.exit("error: no gpx files given and no gpx files found in current directory")
 
-    display_format = "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}"
+    display_format =\
+        "{gc_code}\n" \
+        "D{difficulty}/T{terrain}\n" \
+        "{hint}\n" \
+        "{name}"
     distance = 50.0
     alarm_for_files(gpx_filepaths, "proximity_alarm.gpx", distance, display_format)
 
