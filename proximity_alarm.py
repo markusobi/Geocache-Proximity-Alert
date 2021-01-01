@@ -1,6 +1,6 @@
 #!/usr/bin/env python3
 import copy
-import pathlib
+import glob
 import re
 import sys
 import xml.etree.ElementTree as ElementTree
@@ -133,7 +133,7 @@ def main():
         sys.exit("error: python version too old. python 3.8 or higher is required to run this program")
     gpx_filepaths = sys.argv[1:]
     if len(gpx_filepaths) == 0:
-        gpx_filepaths = list(pathlib.Path.cwd().rglob("*.gpx"))
+        gpx_filepaths = glob.glob("**/*.gpx", recursive=True)
         if len(gpx_filepaths) == 0:
             sys.exit("error: no gpx files given and no gpx files found in current directory")
 
