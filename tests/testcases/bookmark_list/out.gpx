@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Geocache Proximity Alert" version="1.1" xsi:schemaLocation="         http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd         http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd         http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd">
 <metadata>
     <link href="https://github.com/markusobi/Geocache-Proximity-Alert">
@@ -9,8 +10,8 @@
 D2.5/T1.5
 Die Addition von A bis H ergibt 564
 Final: magnetisch
-Wegen h&#228;ufiger Probleme beim Stage 1 wurde das Listing am 30.05.20 erg&#228;nzt und korrigiert.
-VIPs in Sch&#246;neberg</name>
+Wegen häufiger Probleme beim Stage 1 wurde das Listing am 30.05.20 ergänzt und korrigiert.
+VIPs in Schöneberg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -23,7 +24,7 @@ VIPs in Sch&#246;neberg</name>
     <name>GC5C6DE
 D1/T1
 gibs mir
-PET am Rathaus Sch&#246;neberg </name>
+PET am Rathaus Schöneberg </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -36,7 +37,7 @@ PET am Rathaus Sch&#246;neberg </name>
     <name>GC8J7MK
 D1.5/T1
 Briefkasten der DPAG
-BERLINER SPIONAGENETZWERK - Meraner Stra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Meraner Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -61,8 +62,8 @@ Paradiesvogel
 <wpt lat="52.480783" lon="13.34975">
     <name>GC4KPM9
 D4/T1.5
-Zum Gl&#252;ck geh&#246;ren in aufsteigenden Folgen auch Kunst, Liebe, Die Menschen, das Recht, das Gute, Einstellung, Ruhe, Aufmerksamkeit und der Dank.
-Gl&#252;ck ist ...</name>
+Zum Glück gehören in aufsteigenden Folgen auch Kunst, Liebe, Die Menschen, das Recht, das Gute, Einstellung, Ruhe, Aufmerksamkeit und der Dank.
+Glück ist ...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -74,7 +75,7 @@ Gl&#252;ck ist ...</name>
 <wpt lat="52.478583" lon="13.344083">
     <name>GC84K6J
 D4/T1
-Blick auf Hinweistafel - "G&#228;rtchen" im R&#252;cken - unterhalb von "P.." - Achtet bitte auf Muggel !
+Blick auf Hinweistafel - "Gärtchen" im Rücken - unterhalb von "P.." - Achtet bitte auf Muggel !
 Alle PUZZELN nur nicht...</name>
     <sym>custom 0</sym>
     <extensions>
@@ -88,7 +89,7 @@ Alle PUZZELN nur nicht...</name>
     <name>GC8J7M5
 D4/T1.5
 
-BERLINER SPIONAGENETZWERK - Babelsberger Stra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Babelsberger Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -126,8 +127,8 @@ Yuh</name>
 <wpt lat="52.49" lon="13.34">
     <name>GC2F4Z2
 D2/T2.5
-[Final] High Voltage (nicht wirklich - v&#246;llig ungef&#228;hrlich!) 
-... die Seite zur Stra&#223;e
+[Final] High Voltage (nicht wirklich - völlig ungefährlich!) 
+... die Seite zur Straße
  Ich werde Dir schreiben ...</name>
     <sym>custom 0</sym>
     <extensions>
@@ -154,7 +155,7 @@ Magenta</name>
     <name>GC6BA6G
 D1.5/T1.5
 Hinter Werbeversprechungen steckt sich doch manchmal was.
-Kleiner Valentinstagsgru&#223; - Geburtstagscache</name>
+Kleiner Valentinstagsgruß - Geburtstagscache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -167,7 +168,7 @@ Kleiner Valentinstagsgru&#223; - Geburtstagscache</name>
     <name>GC84DZN
 D4/T1.5
 
-Friedenauer Puzzle - Die Wohnanlage Cecilieng&#228;rten</name>
+Friedenauer Puzzle - Die Wohnanlage Ceciliengärten</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -193,8 +194,8 @@ Cheruskerpark</name>
 <wpt lat="52.481767" lon="13.358233">
     <name>GC7XB9N
 D2/T1.5
-Magnetisch, kleiner als Filmdose. Man muss nicht auf unbefugtes Gel&#228;nde! Schuhe zubinden! Die Stelle ist besonders.
-Peilen in Sch&#246;neberg</name>
+Magnetisch, kleiner als Filmdose. Man muss nicht auf unbefugtes Gelände! Schuhe zubinden! Die Stelle ist besonders.
+Peilen in Schöneberg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -209,7 +210,7 @@ D3/T1.5
 Start: Heinz Erhardt - Die Made
 Stage 3: Frei nach Sepp Herberger - Das Runde ist im Eckigen // Die Kugel ist nicht rund
 !! Punktrechnung geht vor Strichrechnung !!
-Pferdest&#228;lle?</name>
+Pferdeställe?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -222,7 +223,7 @@ Pferdest&#228;lle?</name>
     <name>GC87489
 D4/T1.5
 Logeintrag vom 22.9.20 beachten
-Finale: rot &#252;ber 15 von unten
+Finale: rot über 15 von unten
 Friedenauer Puzzle - Die Schule</name>
     <sym>custom 0</sym>
     <extensions>
@@ -262,7 +263,7 @@ Mini- Multi</name>
     <name>GC7P0MM
 D3.5/T3
 Tastsinn benutzen ist hilfreich
-Tiersafari 2 &#8211; Die drei entlaufenen Tiger</name>
+Tiersafari 2 – Die drei entlaufenen Tiger</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -274,7 +275,7 @@ Tiersafari 2 &#8211; Die drei entlaufenen Tiger</name>
 <wpt lat="52.4742" lon="13.351217">
     <name>GC740FP
 D3/T2
-Am Anfang der Mauer im Zaun h&#228;ngend, unter fu&#223;h&#246;he
+Am Anfang der Mauer im Zaun hängend, unter fußhöhe
 Finden - Peilen - Loggen</name>
     <sym>custom 0</sym>
     <extensions>
@@ -339,7 +340,7 @@ Friedenauer Literaten</name>
 <wpt lat="52.4934" lon="13.351117">
     <name>GC260NB
 D2/T1.5
-Cach ebe h&#228;lt eris tmag neti sch
+Cach ebe hält eris tmag neti sch
 The Regenbogen-Oscar goes to ... ///13monde</name>
     <sym>custom 0</sym>
     <extensions>
@@ -366,7 +367,7 @@ Friedenauer Puzzle - Das Rathaus</name>
     <name>GC203GE
 D1.5/T1.5
 Leitplanke
-Priesterweg-Radrennbahn-Sch&#246;neberg</name>
+Priesterweg-Radrennbahn-Schöneberg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -378,8 +379,8 @@ Priesterweg-Radrennbahn-Sch&#246;neberg</name>
 <wpt lat="52.48545" lon="13.324467">
     <name>GC3T476
 D1/T5
-T5 hei&#223;t nat&#252;rlich: Kletterausr&#252;stung erforderlich
-Ein kleiner leichter T5er f&#252;r zwischendurch</name>
+T5 heißt natürlich: Kletterausrüstung erforderlich
+Ein kleiner leichter T5er für zwischendurch</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -433,8 +434,8 @@ D3.5/T2
 (gesamter Zeitaufwand ca. eine halbe Stunde)
 S2 Dymo (Taschenspiegel, bei Dunkelheit auch Licht, nicht hinten)
 S3 Dymo (zweimal da)
-Final magnetisch knieh&#246;he blau 2 (bei sch&#246;nem Wetter tags&#252;ber muggelig)
-Verh&#252;llter Rossb&#228;ndiger</name>
+Final magnetisch kniehöhe blau 2 (bei schönem Wetter tagsüber muggelig)
+Verhüllter Rossbändiger</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -459,7 +460,7 @@ Kleiner Vatertagscache 2020</name>
 <wpt lat="52.485217" lon="13.364">
     <name>GC1EFQ2
 D1.5/T1.5
-Es muss kein Gel&#228;nder &#252;berstiegen werden, es ist kein Fallrohr, nur "Sesam &#246;ffne dich"
+Es muss kein Geländer überstiegen werden, es ist kein Fallrohr, nur "Sesam öffne dich"
 Berliner Stolpersteine "Paul Hinze"</name>
     <sym>custom 0</sym>
     <extensions>
@@ -472,7 +473,7 @@ Berliner Stolpersteine "Paul Hinze"</name>
 <wpt lat="52.470417" lon="13.340417">
     <name>GC83H92
 D4/T1.5
-Gleich der Erste an der Unterf&#252;hrung. Lass die Dose nicht abst&#252;rzen!
+Gleich der Erste an der Unterführung. Lass die Dose nicht abstürzen!
 Friedenauer Puzzle - Der S-Bahnhof</name>
     <sym>custom 0</sym>
     <extensions>
@@ -498,8 +499,8 @@ Zierstrauchhecke</name>
 <wpt lat="52.471467" lon="13.334017">
     <name>GC4T0X8
 D2.5/T1.5
-Kappe (vorsichtig entfernen, cachebeh&#228;lter innen angeklebt)
-Genie&#223;er-Cache</name>
+Kappe (vorsichtig entfernen, cachebehälter innen angeklebt)
+Genießer-Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -512,7 +513,7 @@ Genie&#223;er-Cache</name>
     <name>GC5WE2K
 D1.5/T2
 Magnetisch , und umschauen.
-Gr&#252;nzug</name>
+Grünzug</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -538,7 +539,7 @@ Friedenauer Puzzle</name>
     <name>GC72B6B
 D1.5/T1
 
-Der Himmel &#252;ber Sch&#246;neberg</name>
+Der Himmel über Schöneberg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -550,8 +551,8 @@ Der Himmel &#252;ber Sch&#246;neberg</name>
 <wpt lat="52.47" lon="13.339167">
     <name>GC42H42
 D3/T1.5
-Kopfh&#246;he
-Friedenauer K&#252;nstler</name>
+Kopfhöhe
+Friedenauer Künstler</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -589,7 +590,7 @@ Lina's Pumpe</name>
 <wpt lat="52.4712" lon="13.332133">
     <name>GC8426R
 D3.5/T1.5
-Neuer Hint (11/20): die Dose jetzt an einem thematisch passenden Dosentr&#228;ger.
+Neuer Hint (11/20): die Dose jetzt an einem thematisch passenden Dosenträger.
 Friedenauer Puzzle - Das Postamt</name>
     <sym>custom 0</sym>
     <extensions>
@@ -628,8 +629,8 @@ Friedenauer Puzzle - Die Landhausvilla</name>
 <wpt lat="52.476517" lon="13.323567">
     <name>GC42TT4
 D2/T2
-Finale: au&#223;en, oben
-Friedenauer K&#252;nstlerfriedhof</name>
+Finale: außen, oben
+Friedenauer Künstlerfriedhof</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -668,7 +669,7 @@ Kuenstlerfriedhof Friedenau - MARLENE</name>
     <name>GC77E42
 D2.5/T4.5
 Finale: 1224
-&#220;ber Augenh&#246;he</name>
+Über Augenhöhe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -694,7 +695,7 @@ Friedenauer Puzzle - Die Kirche</name>
 <wpt lat="52.480917" lon="13.36775">
     <name>GC2F5JK
 D2.5/T2
-Listing lesen , Langer Arm ben&#246;tigt , Passt auf die Muggel auf, es mu&#223; nichts &#252;berstiegen werden !! Bei Fallen lassen bitte melden !!!
+Listing lesen , Langer Arm benötigt , Passt auf die Muggel auf, es muß nichts überstiegen werden !! Bei Fallen lassen bitte melden !!!
 Alfred-Lion-Steg</name>
     <sym>custom 0</sym>
     <extensions>
@@ -708,7 +709,7 @@ Alfred-Lion-Steg</name>
     <name>GC85024
 D3.5/T1.5
 
-Friedenauer Puzzle - Fr&#252;hling</name>
+Friedenauer Puzzle - Frühling</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -733,7 +734,7 @@ Friedhof Priesterweg</name>
 <wpt lat="52.472463" lon="13.325362">
     <name>GC91VG2
 D1.5/T1.5
-In der n&#228;he der Stolpersteine.
+In der nähe der Stolpersteine.
 Fernbach</name>
     <sym>custom 0</sym>
     <extensions>
@@ -812,8 +813,8 @@ Mit Anlauf</name>
 <wpt lat="52.467167" lon="13.336917">
     <name>GC46D1T
 D2/T1.5
-Wie hei&#223;t der Cache nochmal?
-Friedenauer Br&#252;cke</name>
+Wie heißt der Cache nochmal?
+Friedenauer Brücke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -825,7 +826,7 @@ Friedenauer Br&#252;cke</name>
 <wpt lat="52.486333" lon="13.3172">
     <name>GC51M87
 D1/T1.5
-sich St&#228;ndig &#228;ndernd
+sich Ständig ändernd
 magnetisch
 
 Bitte das richtige Logbuch benutzen!
@@ -841,7 +842,7 @@ Reklame </name>
 <wpt lat="52.471567" lon="13.3241">
     <name>GC2ZJW3
 D2.5/T2.5
-linke Ecke, Abw&#228;rts, Schuhe zubinden hilft
+linke Ecke, Abwärts, Schuhe zubinden hilft
 Ein Freund, ein guter Freund</name>
     <sym>custom 0</sym>
     <extensions>
@@ -881,8 +882,8 @@ TB-Freizeiteinrichtung</name>
 <wpt lat="52.499667" lon="13.341217">
     <name>GC8FFWW
 D1.5/T1
-Telefon-S&#228;ule
-BERLINER SPIONAGENETZWERK - Lietzenburger Stra&#223;e</name>
+Telefon-Säule
+BERLINER SPIONAGENETZWERK - Lietzenburger Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -894,8 +895,8 @@ BERLINER SPIONAGENETZWERK - Lietzenburger Stra&#223;e</name>
 <wpt lat="52.466667" lon="13.35">
     <name>GC76DGJ
 D3/T2
-Hinweise gibt's nur, wenn der Schl&#252;ssel passt.
-Codeschl&#252;ssel</name>
+Hinweise gibt's nur, wenn der Schlüssel passt.
+Codeschlüssel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -907,7 +908,7 @@ Codeschl&#252;ssel</name>
 <wpt lat="52.474" lon="13.32">
     <name>GC86KMR
 D4.5/T1.5
-[R&#228;tsel] Nord und Ost (lakonisch) &#8222;Same same but different&#8220;
+[Rätsel] Nord und Ost (lakonisch) „Same same but different“
 Das kommt mir spanisch vor</name>
     <sym>custom 0</sym>
     <extensions>
@@ -933,7 +934,7 @@ Friedenauer Puzzle - Urlaub</name>
 <wpt lat="52.47005" lon="13.3618">
     <name>GC428JC
 D1.5/T1.5
-&#220;ber den Gleisen, Magnetisch, Bauchh&#246;he, nicht fallen lassen ! und wenn ja bitte Melden ! Danke
+Über den Gleisen, Magnetisch, Bauchhöhe, nicht fallen lassen ! und wenn ja bitte Melden ! Danke
 S2/S25</name>
     <sym>custom 0</sym>
     <extensions>
@@ -947,7 +948,7 @@ S2/S25</name>
     <name>GC1A7DX
 D1.5/T1.5
 magnetisch/PETling
-Schwerbelastungsk&#246;rper</name>
+Schwerbelastungskörper</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -998,7 +999,7 @@ Kleiner Muttertagscache 2018</name>
 <wpt lat="52.4725" lon="13.320333">
     <name>GC706NC
 D2/T1
-Wo sch&#228;rft die Katze ihre Krallen?
+Wo schärft die Katze ihre Krallen?
 Katzen</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1011,7 +1012,7 @@ Katzen</name>
 <wpt lat="52.474717" lon="13.3177">
     <name>GC76WP1
 D2/T1.5
-Die Anzahl der Punkte steht f&#252;r die Anzahl der Buchstaben.
+Die Anzahl der Punkte steht für die Anzahl der Buchstaben.
 Final: 484 - unten
 Bitte wieder abdecken, danke. ;-)
 SecretVista's Geburtstagsdose</name>
@@ -1040,7 +1041,7 @@ o/8/15</name>
     <name>GC2WY4P
 D2/T2
 ratyvfu irefvba ba erdhrfg
-Gro&#223;stadtgeotop - Der Fennsee</name>
+Großstadtgeotop - Der Fennsee</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1052,7 +1053,7 @@ Gro&#223;stadtgeotop - Der Fennsee</name>
 <wpt lat="52.465833" lon="13.354167">
     <name>GC2T1K8
 D3.5/T1.5
-BB: Baum - DD: Papierkorbhalter - FF: Metallk&#228;fig - HH: Wand (UV) - II: Holzbarke - JJ: Holzbarke - KK: Metallpfahl (UV) - LL: Metallpfahl (UV) - MM: Holzbarke - OO:Erdboden-Tarnung
+BB: Baum - DD: Papierkorbhalter - FF: Metallkäfig - HH: Wand (UV) - II: Holzbarke - JJ: Holzbarke - KK: Metallpfahl (UV) - LL: Metallpfahl (UV) - MM: Holzbarke - OO:Erdboden-Tarnung
 Halloween in South-Berlin</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1066,7 +1067,7 @@ Halloween in South-Berlin</name>
     <name>GC8QWB0
 D3.5/T1.5
 Es muss kein Beet betreten werden!
-Parkw&#228;chter</name>
+Parkwächter</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1079,7 +1080,7 @@ Parkw&#228;chter</name>
     <name>GC83TE3
 D4.5/T1.5
 Rechts
-Friedenauer Puzzle - Die Goerz-H&#246;fe</name>
+Friedenauer Puzzle - Die Goerz-Höfe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1091,7 +1092,7 @@ Friedenauer Puzzle - Die Goerz-H&#246;fe</name>
 <wpt lat="52.50145" lon="13.3472">
     <name>GC6KKP6
 D2.5/T1.5
-Beachtet die Attribute, es sollte eine Punktlandung m&#246;glich sein.
+Beachtet die Attribute, es sollte eine Punktlandung möglich sein.
 ---
 Look at the attributes and get the point.
 Geile Rutsche</name>
@@ -1119,7 +1120,7 @@ Wittenbergplatz</name>
 <wpt lat="52.470333" lon="13.319967">
     <name>GC6EYF3
 D1.5/T1.5
-Im R&#252;cken, magnetisch
+Im Rücken, magnetisch
 Bergheimer Platz</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1133,7 +1134,7 @@ Bergheimer Platz</name>
     <name>GC140QA
 D2/T1
 50 mm
-Emwie und Susi&#180;s Schatz</name>
+Emwie und Susi´s Schatz</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1159,7 +1160,7 @@ Wer bin ich?</name>
     <name>GC8496Z
 D1.5/T1.5
 Hinweis 1: Standpunkt des Fotos
-Rheingaustra&#223;e 28 ehemals Polizeiwache</name>
+Rheingaustraße 28 ehemals Polizeiwache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1172,7 +1173,7 @@ Rheingaustra&#223;e 28 ehemals Polizeiwache</name>
     <name>GC8WJGR
 D1.5/T1.5
 Guck die Schilde an. Look at the signs.
-Sonntag Spa&#223;</name>
+Sonntag Spaß</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1184,8 +1185,8 @@ Sonntag Spa&#223;</name>
 <wpt lat="52.466233" lon="13.326383">
     <name>GC867JE
 D1.5/T1.5
-Schn&#252;rsenkel und Schl&#252;sselbund o.&#228;. Happy Fishing!
-Lef&#232;vrestra&#223;e Ecke B&#252;singstra&#223;e</name>
+Schnürsenkel und Schlüsselbund o.ä. Happy Fishing!
+Lefèvrestraße Ecke Büsingstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1197,7 +1198,7 @@ Lef&#232;vrestra&#223;e Ecke B&#252;singstra&#223;e</name>
 <wpt lat="52.47705" lon="13.374733">
     <name>GC8Q0K2
 D1.5/T2.5
-Der mittlere der 3 B&#228;ume - s. Spoilerbild
+Der mittlere der 3 Bäume - s. Spoilerbild
 Cachen statt Lockdown April 2020 Nr. 3</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1210,7 +1211,7 @@ Cachen statt Lockdown April 2020 Nr. 3</name>
 <wpt lat="52.476333" lon="13.374767">
     <name>GCTMY9
 D2/T1.5
-Die kleine Dose haftet in der linken Ecke der Tr&#228;gerschiene (falls das so hei&#223;t)
+Die kleine Dose haftet in der linken Ecke der Trägerschiene (falls das so heißt)
 Innehalten</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1236,8 +1237,8 @@ Die Edelstein-Triologie "Rubinrot"</name>
 <wpt lat="52.463883" lon="13.3328">
     <name>GC8EFPA
 D4/T1.5
-Br&#252;cke, Aufzug, Ecke, Gel&#228;nder, unten, rot
-BERLINER SPIONAGENETZWERK - Feuerbachstra&#223;e</name>
+Brücke, Aufzug, Ecke, Geländer, unten, rot
+BERLINER SPIONAGENETZWERK - Feuerbachstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1301,7 +1302,7 @@ Cachekurs #4 - Mystery</name>
 <wpt lat="52.468722" lon="13.319">
     <name>GC84M8N
 D1.5/T1.5
-ca. 5m n&#246;rdlich von der 5
+ca. 5m nördlich von der 5
 Mutter- und Kind-Brunnen</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1340,7 +1341,7 @@ Steglitzer Multi</name>
 <wpt lat="52.465083" lon="13.324633">
     <name>GC7XZNQ
 D2.5/T1.5
-Zwischen den B&#252;schen
+Zwischen den Büschen
 Ehemaliger Bornmarkt</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1353,8 +1354,8 @@ Ehemaliger Bornmarkt</name>
 <wpt lat="52.50405" lon="13.33815">
     <name>GC8EZH7
 D2.5/T1
-Suche den Briefkasten "Das Lesen ist sch&#246;n". Der Rest ergibt sich vor Ort. Berlin,Berlin
-Das Lesen ist sch&#246;n</name>
+Suche den Briefkasten "Das Lesen ist schön". Der Rest ergibt sich vor Ort. Berlin,Berlin
+Das Lesen ist schön</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1366,14 +1367,14 @@ Das Lesen ist sch&#246;n</name>
 <wpt lat="52.489167" lon="13.37715">
     <name>GC6YW9N
 D2/T2
-Der Zugang zum Nationaldenkmal im Viktoriapark ist im Sommerhalbjahr tags&#252;ber von 8:00 Uhr bis 22:00 Uhr m&#246;glich.
+Der Zugang zum Nationaldenkmal im Viktoriapark ist im Sommerhalbjahr tagsüber von 8:00 Uhr bis 22:00 Uhr möglich.
 
-Aus Sicherheitsgr&#252;nden wird der Ort w&#228;hrend der Nacht verschlossen gehalten. Besucher werden gebeten, die eingez&#228;unten Bereiche bis 21:45 Uhr zu verlassen sowie den Anweisungen des Schlie&#223;dienstes Folge zu leisten.
+Aus Sicherheitsgründen wird der Ort während der Nacht verschlossen gehalten. Besucher werden gebeten, die eingezäunten Bereiche bis 21:45 Uhr zu verlassen sowie den Anweisungen des Schließdienstes Folge zu leisten.
 
 Am 30.04. und 01.05. jeden Jahres wird das Nationaldenkmal im Vikoriapark bereits um 20.00 Uhr geschlossen.
 Hinten am Kasten, magnetisch
 
-F&#252;r die n&#228;chsten Wochen etwa 30 m gen S&#252;den im Syringa+Hedelix
+Für die nächsten Wochen etwa 30 m gen Süden im Syringa+Hedelix
 Berliner Kunstspitzen # 6 Kreuzberg</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1387,7 +1388,7 @@ Berliner Kunstspitzen # 6 Kreuzberg</name>
     <name>GC808DT
 D2/T1.5
 trocken /"\ gestellt
-Holsteinische Stra&#223;e Steglitz</name>
+Holsteinische Straße Steglitz</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1399,7 +1400,7 @@ Holsteinische Stra&#223;e Steglitz</name>
 <wpt lat="52.489233" lon="13.377583">
     <name>GC7ZGZN
 D4.5/T3
-immergr&#252;n, hochgeh&#228;ngt
+immergrün, hochgehängt
 Kreuzberg Challenge Cache #1</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1412,7 +1413,7 @@ Kreuzberg Challenge Cache #1</name>
 <wpt lat="52.5045" lon="13.34055">
     <name>GC26EEH
 D2/T1.5
-31 rot / wei&#223;
+31 rot / weiß
 Parkhaus Nr.1 </name>
     <sym>custom 0</sym>
     <extensions>
@@ -1451,8 +1452,8 @@ Kleiner Page - Reloaded</name>
 <wpt lat="52.467033" lon="13.319333">
     <name>GC8W3PC
 D2.5/T1.5
-Start = Stolpern erw&#252;nscht. Rechnungen = Klammern vor Punkt- und vor Strichrechnung und nur explizit angegebene Rechenoperationen durchf&#252;hren. Final = Postblitz
-Ein Cache f&#252;r Ruth</name>
+Start = Stolpern erwünscht. Rechnungen = Klammern vor Punkt- und vor Strichrechnung und nur explizit angegebene Rechenoperationen durchführen. Final = Postblitz
+Ein Cache für Ruth</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1494,8 +1495,8 @@ Eyecatcher</name>
 <wpt lat="52.5044" lon="13.3357">
     <name>GC7AZAZ
 D2.5/T1
-&#228;=ae; &#246;=oe; &#252;=ue
-Wo ist das blo&#223;?</name>
+ä=ae; ö=oe; ü=ue
+Wo ist das bloß?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1534,7 +1535,7 @@ Landart eleven</name>
     <name>GC84991
 D1.5/T1.5
 
-Markelstra&#223;e</name>
+Markelstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1560,8 +1561,8 @@ Die Windsbraut</name>
     <name>GC7KB4H
 D3/T2
 Referenzobjekt: Weithin sichtbar
-Final: immergr&#252;n, angeln
-Finden &#8211; Peilen &#8211; Loggen # 3</name>
+Final: immergrün, angeln
+Finden – Peilen – Loggen # 3</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1600,7 +1601,7 @@ James Bond in Berlin, Teil 1</name>
     <name>GC5VP0W
 D1.5/T1.5
 Nimm Platz.
-Ein Platz f&#252;r Ludwig Barnay</name>
+Ein Platz für Ludwig Barnay</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1628,7 +1629,7 @@ D2/T1
 Klammen gehen vor Punktrechnung
 Punktrechnung geht vor Strichrechnung
 Kein Rechenzeichen = Keine Rechenoperation
-Unter deinen F&#252;&#223;en</name>
+Unter deinen Füßen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1640,7 +1641,7 @@ Unter deinen F&#252;&#223;en</name>
 <wpt lat="52.474367" lon="13.308183">
     <name>GC38JJP
 D3/T1
-So nah an der Autobahn, da lohnt es sich mit dem Auto zu kommen. Schl&#252;ssel nicht vergessen!
+So nah an der Autobahn, da lohnt es sich mit dem Auto zu kommen. Schlüssel nicht vergessen!
 Ein echter Mecklenburger</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1667,7 +1668,7 @@ Kohlenberge</name>
     <name>GC84M8C
 D1.5/T1.5
 
-Florastra&#223;e</name>
+Florastraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1759,7 +1760,7 @@ BERLINER SPIONAGENETZWERK - Bundesring</name>
 <wpt lat="52.482" lon="13.38275">
     <name>GC2VMB1
 D1.5/T3.5
-alle V&#246;gel sind schon da
+alle Vögel sind schon da
 Happy Birthday Niederkiesel</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1773,7 +1774,7 @@ Happy Birthday Niederkiesel</name>
     <name>GC3627Q
 D1.5/T1
 Der Name ist Programm
-Ein Nano im Gr&#252;nen... (reloaded)</name>
+Ein Nano im Grünen... (reloaded)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1786,7 +1787,7 @@ Ein Nano im Gr&#252;nen... (reloaded)</name>
     <name>GC88FFK
 D1.5/T2
 Laterne
-BERLINER SPIONAGENETZWERK - Wiesenerstra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Wiesenerstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1798,10 +1799,10 @@ BERLINER SPIONAGENETZWERK - Wiesenerstra&#223;e</name>
 <wpt lat="52.49645" lon="13.37645">
     <name>GC45EFM
 D3/T2
-da wir den D-Wert nicht hochsetzen m&#246;chten:
-einsf&#252;nfzweivier
+da wir den D-Wert nicht hochsetzen möchten:
+einsfünfzweivier
 komma
-zweif&#252;nff&#252;nfzweiachtsieben
+zweifünffünfzweiachtsieben
 uuuuuuuuuups</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1827,7 +1828,7 @@ Die Welt der Musicals #2</name>
 <wpt lat="52.488417" lon="13.304883">
     <name>GC60Z4V
 D1.5/T1.5
-Hier muss niemand &#252;ber die Planke gehen.
+Hier muss niemand über die Planke gehen.
 Kleiner Leitender-Schmierfink - TB Hotel</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1841,8 +1842,8 @@ Kleiner Leitender-Schmierfink - TB Hotel</name>
     <name>GC8KTW0
 D4/T2
 Im Efeu am Regenrohr bauchhoch
-Stift mitbringen, keine TB m&#246;glich
-Mysteri&#246;ses Mauerteil</name>
+Stift mitbringen, keine TB möglich
+Mysteriöses Mauerteil</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1893,7 +1894,7 @@ Mitten in der City #2</name>
 <wpt lat="52.482867" lon="13.302817">
     <name>GCQ1PG
 D2.5/T1.5
-[Wenn der Erlebnisraum belegt ist, bitte sp&#228;ter wiederkommen, danke - if cachesite is occupied with kiddies, please come back later for your search, thanks] [br]The hint is hidden in the name of the cache, and don&#180;t feel stumped...
+[Wenn der Erlebnisraum belegt ist, bitte später wiederkommen, danke - if cachesite is occupied with kiddies, please come back later for your search, thanks] [br]The hint is hidden in the name of the cache, and don´t feel stumped...
 Abendlicher Sport Cache</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1907,7 +1908,7 @@ Abendlicher Sport Cache</name>
     <name>GC7HPRY
 D1.5/T2
 Bitte unbedingt auf Muggel achten!
-immergr&#252;n
+immergrün
 TB Hotel am Friedhofsweg</name>
     <sym>custom 0</sym>
     <extensions>
@@ -1920,8 +1921,8 @@ TB Hotel am Friedhofsweg</name>
 <wpt lat="52.459986" lon="13.327296">
     <name>GC7VW0E
 D3.5/T2
-375 ml Wasser - schwimmf&#228;hig
-375 ml Die gew&#246;hnliche Robinie </name>
+375 ml Wasser - schwimmfähig
+375 ml Die gewöhnliche Robinie </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1947,7 +1948,7 @@ Bei euch piepts wohl!</name>
     <name>GC6QDF0
 D2.5/T2
 
-Challenge - L&#228;nder und Tage</name>
+Challenge - Länder und Tage</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2025,7 +2026,7 @@ Eleven To One - All Christmas Trees Have Gone</name>
 <wpt lat="52.463833" lon="13.3715">
     <name>GC4TV6M
 D2/T1
-hinter t&#252;rkis, unten rechts
+hinter türkis, unten rechts
 Teufelskicker #1- Moritz macht das Spiel</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2039,7 +2040,7 @@ Teufelskicker #1- Moritz macht das Spiel</name>
     <name>GC4ZEMR
 D2/T1
 Dahinter
-Teufelskicker #4- St&#252;rmer gesucht</name>
+Teufelskicker #4- Stürmer gesucht</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2052,7 +2053,7 @@ Teufelskicker #4- St&#252;rmer gesucht</name>
     <name>GC8GQKW
 D5/T5
 Rund greifhoch am Regenrohr
-16 Earthcaches in 16 Bundesl&#228;ndern - Challenge</name>
+16 Earthcaches in 16 Bundesländern - Challenge</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2097,7 +2098,7 @@ Teufelskicker #3- Holt euch den Cup</name>
     <name>GC8FH59
 D3.5/T1.5
 Regenabflussrohr
-BERLINER SPIONAGENETZWERK - Kreuzbergstra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Kreuzbergstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2122,7 +2123,7 @@ Jutkos Gedenkcache</name>
 <wpt lat="52.4575" lon="13.336333">
     <name>GC8G1ZY
 D4.5/T2.5
-oben rechts, dreieckige &#214;ffnung
+oben rechts, dreieckige Öffnung
 Finden- Peilen- Loggen #17</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2148,7 +2149,7 @@ Kleiner belesener Exraucher</name>
 <wpt lat="52.457417" lon="13.351817">
     <name>GC8GW2F
 D2.5/T1.5
-komplett nutzlos, keine Sachbesch&#228;digung
+komplett nutzlos, keine Sachbeschädigung
 completely useless, no damage to property
 Auf dem Insulaner</name>
     <sym>custom 0</sym>
@@ -2189,7 +2190,7 @@ Bonus zum Adventure Lab "Jazz um den Savignyplatz"</name>
     <name>GC69P7J
 D4/T1.5
 gibt es dann vom Tower...
-&#220;ber den Wolken...</name>
+Über den Wolken...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2202,7 +2203,7 @@ gibt es dann vom Tower...
     <name>GC7CBAN
 D2/T1.5
 orange
-Platz der Luftbr&#252;cke (PladeLu)</name>
+Platz der Luftbrücke (PladeLu)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2214,7 +2215,7 @@ Platz der Luftbr&#252;cke (PladeLu)</name>
 <wpt lat="52.50515" lon="13.319283">
     <name>GC5GTEY
 D1.5/T1
-final: metall, senkrecht, gro&#223;, knapp unter kniehoehe
+final: metall, senkrecht, groß, knapp unter kniehoehe
 Kunst am Bahnhof Savignyplatz</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2227,8 +2228,8 @@ Kunst am Bahnhof Savignyplatz</name>
 <wpt lat="52.500067" lon="13.3773">
     <name>GC763GZ
 D3/T1.5
-R&#228;tsel: Der Ort des Fragezeichens ist nicht zuf&#228;llig gew&#228;hlt
-FN: Er h&#228;ngt
+Rätsel: Der Ort des Fragezeichens ist nicht zufällig gewählt
+FN: Er hängt
 bye, bye</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2242,7 +2243,7 @@ bye, bye</name>
     <name>GC7ZJAT
 D3.5/T1.5
 gelb
-prickelnde Ersatzl&#246;sung bei Bedarf
+prickelnde Ersatzlösung bei Bedarf
 Pfiffige finden einen kurzen Weg
 TiiMoe Bonus</name>
     <sym>custom 0</sym>
@@ -2256,7 +2257,7 @@ TiiMoe Bonus</name>
 <wpt lat="52.4563" lon="13.346683333333333">
     <name>GC6H1MD
 D3/T2
-D&#252;nner Efeubaum, zaunnah
+Dünner Efeubaum, zaunnah
 Friedhofsweg #1</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2296,7 +2297,7 @@ Althoff nicht-mehr-Nano</name>
     <name>GC3X82V
 D2/T1.5
 
-Cham&#228;leon</name>
+Chamäleon</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2308,7 +2309,7 @@ Cham&#228;leon</name>
 <wpt lat="52.4609" lon="13.318383">
     <name>GC6E0GD
 D1.5/T1.5
-Magnetisch, Efeu, Gr&#252;n auf Braun
+Magnetisch, Efeu, Grün auf Braun
 Hier trifft man sich.</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2360,8 +2361,8 @@ Berliner Kunstspitzen #9 Der Insulaner</name>
 <wpt lat="52.459033" lon="13.322667">
     <name>GC77M0E
 D3.5/T1.5
-[R&#228;tsel:] 1. Themengebiete (durcheinander): Musik, Kulinarisches, Fu&#223;ball/Job, Technisches, Haushalt, Botanik, Anatomie, Wesenszug  2. Anzahl der Buchstaben (inkl. &#228;, &#246;, &#252;, &#223;): A 10, B 9 (Achtung: Rechtschreibreform!), C 9, D 8, E 12, F 11, G 9, H11 oder 12, I 12, J 8.  3. Zu B: Weder Tier noch Material tauchen im gesuchten Wort auf. An welcher Stelle des Tieres ist etwas besonderes? Zu D. Weder Glas noch Uhr noch Weck(er) tauchen im gesuchten Wort auf. Wof&#252;r steht die Uhr? Und wie viel ist drin im Glas? 4. Summe der gesuchten Zahlen A-J: 140  [Final:] magnetisches D&#246;schen, ca. 2 m H&#246;he und 15 m s&#252;d&#246;stlich von den Finalkoordinaten.
-Ambigu oder zweideutig &#8211; zu Oma Higallas 89.</name>
+[Rätsel:] 1. Themengebiete (durcheinander): Musik, Kulinarisches, Fußball/Job, Technisches, Haushalt, Botanik, Anatomie, Wesenszug  2. Anzahl der Buchstaben (inkl. ä, ö, ü, ß): A 10, B 9 (Achtung: Rechtschreibreform!), C 9, D 8, E 12, F 11, G 9, H11 oder 12, I 12, J 8.  3. Zu B: Weder Tier noch Material tauchen im gesuchten Wort auf. An welcher Stelle des Tieres ist etwas besonderes? Zu D. Weder Glas noch Uhr noch Weck(er) tauchen im gesuchten Wort auf. Wofür steht die Uhr? Und wie viel ist drin im Glas? 4. Summe der gesuchten Zahlen A-J: 140  [Final:] magnetisches Döschen, ca. 2 m Höhe und 15 m südöstlich von den Finalkoordinaten.
+Ambigu oder zweideutig – zu Oma Higallas 89.</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2374,7 +2375,7 @@ Ambigu oder zweideutig &#8211; zu Oma Higallas 89.</name>
     <name>GC3AD3Z
 D2/T1.5
 takalP / gnisitrevda
-Unter den Br&#252;cken...</name>
+Unter den Brücken...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2399,8 +2400,8 @@ Final: Auf dem Weg bleiben. ma nedob.
 <wpt lat="52.457783" lon="13.326783">
     <name>GC1N7T9
 D1.5/T1
-Ein neues Versteck ben&#246;tigt einen neuen rosebudw&#252;rdigen Hint ! 
-Was haltet Ihr von dem Begriff "Rippchen" oder seitlich gesehen von dem Begriff "Viele gro&#223;e P's".
+Ein neues Versteck benötigt einen neuen rosebudwürdigen Hint ! 
+Was haltet Ihr von dem Begriff "Rippchen" oder seitlich gesehen von dem Begriff "Viele große P's".
 How do you like the hint "Ribs" or viewing by side "Many big P's"
 Rosebud 4 1/2 - The Rose For The Ladies</name>
     <sym>custom 0</sym>
@@ -2415,7 +2416,7 @@ Rosebud 4 1/2 - The Rose For The Ladies</name>
     <name>GC7FTQZ
 D3/T2
 Finale: Filmdose, nicht am Boden
-Erdm&#228;nnchens 2. Familiengeschichte</name>
+Erdmännchens 2. Familiengeschichte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2428,7 +2429,7 @@ Erdm&#228;nnchens 2. Familiengeschichte</name>
     <name>GC40VE2
 D1.5/T1.5
 
-Seeb&#228;der in Berlin III : Norderney</name>
+Seebäder in Berlin III : Norderney</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2481,7 +2482,7 @@ bi52 am Landwehrkanal</name>
 D1.5/T1.5
 Start: kein Hinweis
 ZS: Licht
-Sarottih&#246;fe</name>
+Sarottihöfe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2493,8 +2494,8 @@ Sarottih&#246;fe</name>
 <wpt lat="52.5029" lon="13.376067">
     <name>GC4B0XX
 D3/T1.5
-Kleine Baumgruppe, &#8222;R&#252;ckseite&#8220; des in Richtung Weg geneigten Stammes mit Efeu
-Small grove, at the &#8222;backside&#8220; of the trunk with ivy, that bows to the path
+Kleine Baumgruppe, „Rückseite“ des in Richtung Weg geneigten Stammes mit Efeu
+Small grove, at the „backside“ of the trunk with ivy, that bows to the path
 Mendelssohn-Bartholdy Park</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2600,7 +2601,7 @@ Der Alte vom Rhein</name>
     <name>GC7RYKX
 D2/T1.5
 
-Seeb&#228;der in Berlin IV : Zoppoter Str. ( rel.)</name>
+Seebäder in Berlin IV : Zoppoter Str. ( rel.)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2613,7 +2614,7 @@ Seeb&#228;der in Berlin IV : Zoppoter Str. ( rel.)</name>
     <name>GC7RYMJ
 D2/T1.5
 Bitte einen Stift mitbringen!
-Seeb&#228;der In Berlin V : Borkumer Str.</name>
+Seebäder In Berlin V : Borkumer Str.</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2638,8 +2639,8 @@ Earthcache Challenge Silber</name>
 <wpt lat="52.457167" lon="13.320667">
     <name>GC26G7B
 D2.5/T1
-[R&#228;tsel:] neh mtdent iteler nst!
-[Final:]  fest flach anh&#228;nglich regensicher
+[Rätsel:] neh mtdent iteler nst!
+[Final:]  fest flach anhänglich regensicher
 Go to the Moon!</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2652,7 +2653,7 @@ Go to the Moon!</name>
 <wpt lat="52.4571" lon="13.320617">
     <name>GC6DJW2
 D1.5/T1
-Etwa in Knieh&#246;he.
+Etwa in Kniehöhe.
 Vogel</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2666,7 +2667,7 @@ Vogel</name>
     <name>GC5EVCW
 D2/T3
 Hints gibts nach dem Race, wenn ihr euch zur Zielzone navigieren lasst
-L&#228;ufst du noch rund?</name>
+Läufst du noch rund?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2678,7 +2679,7 @@ L&#228;ufst du noch rund?</name>
 <wpt lat="52.465" lon="13.305167">
     <name>GC5XJVY
 D2/T1.5
-[Final]: Greifhoch an Efeubaum in Zaunn&#228;he
+[Final]: Greifhoch an Efeubaum in Zaunnähe
 S2: Baumnummer ist 016414
 Jagdkatze im Erlenbusch</name>
     <sym>custom 0</sym>
@@ -2706,7 +2707,7 @@ Fritschweg Multi</name>
     <name>GC92M6F
 D1.5/T1.5
 Nomen ist Omen.
-Die Rubinie im Robinienw&#228;ldchen</name>
+Die Rubinie im Robinienwäldchen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2720,7 +2721,7 @@ Die Rubinie im Robinienw&#228;ldchen</name>
 D3/T2
 sechshundertdreimeter und einhundertsiebenundachtziggrad
 erster links
-Mysteri&#246;ser Turm</name>
+Mysteriöser Turm</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2732,8 +2733,8 @@ Mysteri&#246;ser Turm</name>
 <wpt lat="52.499483" lon="13.302817">
     <name>GC6GR58
 D2/T1.5
-K&#252;ssen oder nicht K&#252;ssen?
-Schaub&#252;hne am Lehniner Platz</name>
+Küssen oder nicht Küssen?
+Schaubühne am Lehniner Platz</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2745,7 +2746,7 @@ Schaub&#252;hne am Lehniner Platz</name>
 <wpt lat="52.4569" lon="13.319333">
     <name>GC8ZPED
 D2.5/T3.5
-R&#228;tsel: Umlaute werden aufgeloest
+Rätsel: Umlaute werden aufgeloest
 Summenchecker: 4841
 Finale: Zaun unten
 Berliner Fahrradrouten - Steglitz Route</name>
@@ -2801,7 +2802,7 @@ Tempelhofer Feld #8</name>
 <wpt lat="52.492083" lon="13.39095">
     <name>GC8NT11
 D2.5/T1.5
-70 cm H&#246;he
+70 cm Höhe
 Schneidmann-Kiez</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2853,7 +2854,7 @@ Finden - Peilen - Loggen #9</name>
 <wpt lat="52.506" lon="13.376767">
     <name>GC921T1
 D1.5/T1
-L&#246;schwassereinspeisung
+Löschwassereinspeisung
 Mitten in der City #3</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2866,7 +2867,7 @@ Mitten in der City #3</name>
 <wpt lat="52.48405" lon="13.292866666666669">
     <name>GC72R1M
 D2/T1.5
-Bl&#252;ht ganzj&#228;hrig
+Blüht ganzjährig
 Kleiner Blumenfreund - Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2880,7 +2881,7 @@ Kleiner Blumenfreund - Reloaded</name>
     <name>GC86A9Z
 D3/T1.5
 flach, magnetisch
-Stift mitbringen, keine TB Ablage m&#246;glich
+Stift mitbringen, keine TB Ablage möglich
 Codename MALU</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2907,7 +2908,7 @@ Prickelnde Tennis Werkstatt</name>
     <name>GC5KBBD
 D2/T2
 Der Vorgarten muss nicht betreten werden.
-Mauersteine m&#252;ssen nicht entfernt werden.
+Mauersteine müssen nicht entfernt werden.
 Irischer Ritter</name>
     <sym>custom 0</sym>
     <extensions>
@@ -2920,8 +2921,8 @@ Irischer Ritter</name>
 <wpt lat="52.463933" lon="13.383833">
     <name>GC564AN
 D3/T2
-Geb&#252;sch, h&#228;ngend, gut getarnt. Aussehen siehe Spoilerbild.
-Spaziergang f&#252;r Zwei</name>
+Gebüsch, hängend, gut getarnt. Aussehen siehe Spoilerbild.
+Spaziergang für Zwei</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2962,7 +2963,7 @@ D2.5/T3.5
 Update bei Station 12 vom 12.4.20 beachten!
 Summenchecker: 7000
 Finale: Baumstumpf
-Berliner Fahrradrouten &#8211; RR12 Teltow-Route</name>
+Berliner Fahrradrouten – RR12 Teltow-Route</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2974,8 +2975,8 @@ Berliner Fahrradrouten &#8211; RR12 Teltow-Route</name>
 <wpt lat="52.458333" lon="13.37575">
     <name>GC4KKR9
 D3/T1.5
-[b]Ein Tipp: Nehmt den Geochecker, Google-Earth oder die Spoilerbilder zur Hilfe, da beim Finale aufgrund der Umgebung die Koordinaten starken Schwankungen ausgesetzt sein k&#246;nnen.
- An Stelle des blechernen Gef&#228;ngnisses werdet Ihr nun eine durchsichtige und somit hoffentlich diebstahlsicherere Konstruktion vorfinden. Ich glaube, das tut der Geschichte keinen Abbruch .[/b]
+[b]Ein Tipp: Nehmt den Geochecker, Google-Earth oder die Spoilerbilder zur Hilfe, da beim Finale aufgrund der Umgebung die Koordinaten starken Schwankungen ausgesetzt sein können.
+ An Stelle des blechernen Gefängnisses werdet Ihr nun eine durchsichtige und somit hoffentlich diebstahlsicherere Konstruktion vorfinden. Ich glaube, das tut der Geschichte keinen Abbruch .[/b]
 Findet Nemo</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3043,9 +3044,9 @@ Telefunken Hochhaus</name>
 <wpt lat="52.461367" lon="13.305783">
     <name>GC4MHG6
 D3/T2
-[Start]: Gr&#252;nes Schild am Parkeingang - Dymo
-[Final]: Nahe dem Efeubaum am Boden. Ein Abstieg in die Tiefe ist nicht n&#246;tig!
-Tr&#228;nenweide</name>
+[Start]: Grünes Schild am Parkeingang - Dymo
+[Final]: Nahe dem Efeubaum am Boden. Ein Abstieg in die Tiefe ist nicht nötig!
+Tränenweide</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3098,7 +3099,7 @@ Prof. Hastig und die Yip Yips</name>
 <wpt lat="52.514467" lon="13.33795">
     <name>GC4QKHQ
 D1.5/T1.5
-PLANm&#228;&#223;ig
+PLANmäßig
 Bienenhaus</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3112,7 +3113,7 @@ Bienenhaus</name>
     <name>GC89094
 D2/T1.5
 
-Berliner Siegess&#228;ule / Berlin Victory Column</name>
+Berliner Siegessäule / Berlin Victory Column</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3124,7 +3125,7 @@ Berliner Siegess&#228;ule / Berlin Victory Column</name>
 <wpt lat="52.468167" lon="13.2975">
     <name>GC745QG
 D2.5/T2
-An gek&#246;pftem, dreist&#228;mmigem Silberregen
+An geköpftem, dreistämmigem Silberregen
 Finden - Peilen - Loggen # 7</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3194,7 +3195,7 @@ Die Alte Zollmauer</name>
 <wpt lat="52.496333" lon="13.391167">
     <name>GC238H8
 D2.5/T1.5
-Viele Gr&#252;&#223;e von " Caesar "
+Viele Grüße von " Caesar "
 Gedenkbibliothek</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3209,9 +3210,9 @@ Gedenkbibliothek</name>
 D2/T1.5
 [Spoilerfoto !
 NO NIGHTCACHING, PLEASE !
-...der eigentliche Cachebeh&#228;lter hat eine "Umverpackung", die nicht bewegt werden muss. /
+...der eigentliche Cachebehälter hat eine "Umverpackung", die nicht bewegt werden muss. /
 ...you don't have to move the " outer packaging" of the cache.
-Sightseeing - Wei&#223;es Gold</name>
+Sightseeing - Weißes Gold</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3224,7 +3225,7 @@ Sightseeing - Wei&#223;es Gold</name>
     <name>GC90V9M
 D5/T1
 Finale: hinten, Mitte, unten!
-Gib Gummi, Erdm&#228;nnchen! (#71)</name>
+Gib Gummi, Erdmännchen! (#71)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3236,7 +3237,7 @@ Gib Gummi, Erdm&#228;nnchen! (#71)</name>
 <wpt lat="52.513383" lon="13.326433">
     <name>GC5NMGT
 D3/T1.5
-Am Objekt von rechts reingreifen, dann geht es unauff&#228;lliger
+Am Objekt von rechts reingreifen, dann geht es unauffälliger
 What a HapPI-Day (Mystery) </name>
     <sym>custom 0</sym>
     <extensions>
@@ -3276,7 +3277,7 @@ Anonymus</name>
     <name>GC40VBY
 D1/T1.5
 [ oben ]
-Seeb&#228;der in Berlin II:Heiligendamm und Misdroy</name>
+Seebäder in Berlin II:Heiligendamm und Misdroy</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3288,7 +3289,7 @@ Seeb&#228;der in Berlin II:Heiligendamm und Misdroy</name>
 <wpt lat="52.4693" lon="13.391817">
     <name>GC2B5WA
 D1.5/T1.5
-Rot/Wei&#223;
+Rot/Weiß
 Die Eisenbahn auf dem Tempelhofer Feld</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3303,7 +3304,7 @@ Die Eisenbahn auf dem Tempelhofer Feld</name>
 D3/T2.5
 Die Dose bitte vorsichtig abnehmen und wieder anbringen!
 *** Passt bitte auf alle Muggel auf!!! ***
-B&#252;cherschatzbummel</name>
+Bücherschatzbummel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3316,7 +3317,7 @@ B&#252;cherschatzbummel</name>
     <name>GC72NTW
 D2.5/T2
 QS der addierten Ergebnisse  N =22   E =16
-Liste der Kulturdenkmale in Berlin-Steglitz &#8211; Wikipedia
+Liste der Kulturdenkmale in Berlin-Steglitz – Wikipedia
 Tour 10 - Kulturring in Berlin eV
 Xter Versuch des Fichtenberg Multis</name>
     <sym>custom 0</sym>
@@ -3384,7 +3385,7 @@ T4</name>
     <name>GC85G6X
 D4.5/T2.5
 ownertypisch, Spoilerbild
- R&#228;tselschwierigkeit 1- 3.5  Challenge Cache</name>
+ Rätselschwierigkeit 1- 3.5  Challenge Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3435,7 +3436,7 @@ Sportliches Klettergeschick reicht aus    ca. 6m hoch   von unten kaum zu sehen
 <wpt lat="52.47465" lon="13.395483">
     <name>GC7MJW4
 D1/T1.5
-komplett unn&#246;tig / no need...
+komplett unnötig / no need...
 Tempelhof- The X marks the Tradi</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3448,7 +3449,7 @@ Tempelhof- The X marks the Tradi</name>
 <wpt lat="52.511117" lon="13.37125">
     <name>GC3M1MY
 D2/T2.5
-Nicht verz&#228;hlen, Cache rechts
+Nicht verzählen, Cache rechts
 M-Bahn</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3461,7 +3462,7 @@ M-Bahn</name>
 <wpt lat="52.505933" lon="13.382183">
     <name>GC4B7D6
 D2.5/T1.5
-Gr&#246;&#223;erer Nano, Einer neben Drilling, Gerade &#252;ber Kopfh&#246;he, bei mittlerer Gr&#246;&#223;e gut erreichbar.
+Größerer Nano, Einer neben Drilling, Gerade über Kopfhöhe, bei mittlerer Größe gut erreichbar.
 Bigger kind of nano, one near three-trunk, a  bit above head-level, within average height easily accessible.
 For "music" cross the round stone slab in the square behind the Cache!
 Martin-Gropius-Bau</name>
@@ -3492,7 +3493,7 @@ D2/T2
 magnetisch
 
 Kleinere GCer sollten im Team kommen.
-Gottesh&#228;user: Ev. Trinitatiskirche</name>
+Gotteshäuser: Ev. Trinitatiskirche</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3517,7 +3518,7 @@ Hallo !  Wo Bin Ich ?!?</name>
 <wpt lat="52.4525" lon="13.322633">
     <name>GC7H6G5
 D3/T1.5
-[R&#228;tsel] Anzahl Buchstaben: A 10, B 12, C 14, D 9, E 10, F 13, G 10, H 13, I 12. Zu B: die Sorte Baum ist wichtig! Zu F: die Form und Symbole der roten Steinchen ist irrelevant. Zu I: hier gibt es sogar drei Einzelw&#246;rter! [Final] magnetisch
+[Rätsel] Anzahl Buchstaben: A 10, B 12, C 14, D 9, E 10, F 13, G 10, H 13, I 12. Zu B: die Sorte Baum ist wichtig! Zu F: die Form und Symbole der roten Steinchen ist irrelevant. Zu I: hier gibt es sogar drei Einzelwörter! [Final] magnetisch
 Ambigu der zweite</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3531,7 +3532,7 @@ Ambigu der zweite</name>
     <name>GC3ZVFB
 D2/T1.5
 
-Seeb&#228;der in Berlin I : Von Warnem&#252;nde nach Kolberg</name>
+Seebäder in Berlin I : Von Warnemünde nach Kolberg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3543,7 +3544,7 @@ Seeb&#228;der in Berlin I : Von Warnem&#252;nde nach Kolberg</name>
 <wpt lat="52.452983333333336" lon="13.366683333333333">
     <name>GC5T2GD
 D1/T2
-- Platz f&#252;r 4 Personen
+- Platz für 4 Personen
 
 - Linke Seite fehlt
 
@@ -3560,7 +3561,7 @@ Keine Halben Sachen... oder doch?!</name>
 <wpt lat="52.4648" lon="13.298133">
     <name>GC3HV9P
 D4.5/T2
-Die Uhren geh&#246;ren dir und du willst sie verkaufen. Mach ein Foto von ihnen (alle auf einem Bild). Nein nicht jetzt, sieht ja aus als gingen alle falsch. Es muss auch nicht absolut sekundengenau sein, wir wollen es ja nicht &#252;bertreiben...
+Die Uhren gehören dir und du willst sie verkaufen. Mach ein Foto von ihnen (alle auf einem Bild). Nein nicht jetzt, sieht ja aus als gingen alle falsch. Es muss auch nicht absolut sekundengenau sein, wir wollen es ja nicht übertreiben...
 8 Sekunden</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3586,7 +3587,7 @@ LAHRSCHICKEL AM POTSDAMER PLATZ</name>
 <wpt lat="52.450233" lon="13.333933">
     <name>GC2PJ93
 D2/T1
-Mit "Burg" ist nicht das Haus gemeint. Sie/es ist relativ neu und hindert Besucher daran, das Grundst&#252;ck zu betreten.
+Mit "Burg" ist nicht das Haus gemeint. Sie/es ist relativ neu und hindert Besucher daran, das Grundstück zu betreten.
 Renaturiert?!</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3612,7 +3613,7 @@ So ein hohles Ding.</name>
 <wpt lat="52.51595" lon="13.3527">
     <name>GC4Z7BV
 D2/T1.5
-b&#252;cken
+bücken
 Berlin Sightseeing-Schloss Bellevue - reloaded</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3625,7 +3626,7 @@ Berlin Sightseeing-Schloss Bellevue - reloaded</name>
 <wpt lat="52.498983" lon="13.391767">
     <name>GC447N4
 D5/T1.5
-Mehrstufiges R&#228;tsel. Einen Geochecker-Link gibt es unterwegs.
+Mehrstufiges Rätsel. Einen Geochecker-Link gibt es unterwegs.
 Vision</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3639,7 +3640,7 @@ Vision</name>
     <name>GC1RB70
 D3/T1
 Remember Jimi Hendrix's Song "A.A.T.W."
-Final - In Knieh&#246;he - knee-high
+Final - In Kniehöhe - knee-high
 Rosebud 1 1/2 : Red Rose From The Fair</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3666,8 +3667,8 @@ Bonus Adventure Lab: Kleiner Tiergartenspaziergang</name>
     <name>GC6PMW2
 D3/T3
 Taxus
-Bitte unn&#246;tiges Klettern vermeiden!
-Nat&#252;rliche ECA liegt bereit!
+Bitte unnötiges Klettern vermeiden!
+Natürliche ECA liegt bereit!
 Challenge - Multies und Mysteries</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3709,7 +3710,7 @@ Die andere Seite</name>
     <name>GC7JV3D
 D2.5/T3
 Fast bipolar unten am Baum
-Berliner Kunstspitzen #1&amp;6 Marienh&#246;he</name>
+Berliner Kunstspitzen #1&amp;6 Marienhöhe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3735,9 +3736,9 @@ Zwillinge - Challenge Cache</name>
 <wpt lat="52.459167" lon="13.303667">
     <name>GC8HQPF
 D5/T1
-R&#228;tsel: Quadratischer Baum, Rechnen oder Tool verwenden
+Rätsel: Quadratischer Baum, Rechnen oder Tool verwenden
 Final: Weiss -Rot -Prost
-Mysteri&#246;ser B&#228;r</name>
+Mysteriöser Bär</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3777,7 +3778,7 @@ Kreuz und quer durchs Hansaviertel</name>
     <name>GCM6B5
 D3/T2
 
-Der Geod&#228;t</name>
+Der Geodät</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3789,7 +3790,7 @@ Der Geod&#228;t</name>
 <wpt lat="52.457667" lon="13.305417">
     <name>GC7XVE2
 D2/T1
-Brusthoch, im Efeu geh&#228;ngt - Prost!
+Brusthoch, im Efeu gehängt - Prost!
 Steglitz Galerie</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3803,7 +3804,7 @@ Steglitz Galerie</name>
     <name>GC40ZEV
 D2.5/T1.5
 
-2. Juni 1967 &#8211; Benno Ohnesorg (Astradynes #1)</name>
+2. Juni 1967 – Benno Ohnesorg (Astradynes #1)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3815,8 +3816,8 @@ D2.5/T1.5
 <wpt lat="52.455167" lon="13.310333">
     <name>GC3BHF4
 D2/T1.5
-Griffh&#246;he. Gel&#228;nde nicht betreten.
-Ein Denkmal f&#252;r die RAF</name>
+Griffhöhe. Gelände nicht betreten.
+Ein Denkmal für die RAF</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3854,7 +3855,7 @@ Wenn der Postmann dreimal klingelt...</name>
 <wpt lat="52.504633" lon="13.299417">
     <name>GC8TE12
 D2/T1.5
-L&#228;dt zum Rumh&#228;ngen ein - Let&#8216;s hang out.
+Lädt zum Rumhängen ein - Let‘s hang out.
 Alphabetisierung - Literacy</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3893,13 +3894,13 @@ Aufgepasst?</name>
 <wpt lat="52.4537" lon="13.374067">
     <name>GC26TGV
 D3/T2
-Hints findet Ihr bei den Waypoints der jeweiligen Stationen. - Die von Euch zu findenden Koordinaten - [red]sowie die zum &#214;ffnen der Finaldose wichtigen Werte [/red]- sind mittels des Buchstaben-Alphabeths verschl&#252;sselt, A = 1, B = 2 usw., aber (Achtung) eine 26 k&#246;nnte zum Beispiel auch ein Z  bedeuten [8)] !
+Hints findet Ihr bei den Waypoints der jeweiligen Stationen. - Die von Euch zu findenden Koordinaten - [red]sowie die zum Öffnen der Finaldose wichtigen Werte [/red]- sind mittels des Buchstaben-Alphabeths verschlüsselt, A = 1, B = 2 usw., aber (Achtung) eine 26 könnte zum Beispiel auch ein Z  bedeuten [8)] !
 
 Happy Caching [:)] !
-Gru&#223; Sweetwoodraspler &amp; Muggelinchen [;)]
+Gruß Sweetwoodraspler &amp; Muggelinchen [;)]
 
-Damit kein Frust aufkommt gibt f&#252;r den Notfall unter [red] 0162-4322695[/red] einen Telefonjoker. Wenn das Handy eingeschaltet ist d&#252;rft Ihr ungestraft anrufen. Aber bitte wirklich nur f&#252;r den Notfall. 95% der zuletzt get&#228;tigten Anrufe w&#228;ren unn&#246;tig gewesen. Der Cache ist zu jeder Jahreszeit gut machbar. In der laubarmen Zeit ist es allerdings noch ein wenig einfacher ! Ihr ben&#246;tigt allerdings immer eine leistungsstarke Taschenlampe.  Normale Haushaltstaschenlampen sind zu schwach ! [green]Ein Tipp : [/green]Haltet die Lampen beim Leuchten in Schl&#228;fenh&#246;he - weil Einfallswinkel ist gleich Ausfallswinkel - dann klappt es auch mit dem Auffinden des n&#228;chsten Reflektors ! [red]Und aus gegebenem Anlass nun noch der Ultra-Hint schlechthin: [/red][blue]Die zu suchenden Igel sind lediglich rei&#223;zweckengro&#223;. Den ersten Igel-Reflektor k&#246;nnt Ihr erst in ca. 20 m Entfernung (vom auszurechnenden Startpunkt aus) an einer Strassenlaterne erkennen.[/blue][^]
-Nachtaktive Igel, B&#228;ren &amp; Katzen</name>
+Damit kein Frust aufkommt gibt für den Notfall unter [red] 0162-4322695[/red] einen Telefonjoker. Wenn das Handy eingeschaltet ist dürft Ihr ungestraft anrufen. Aber bitte wirklich nur für den Notfall. 95% der zuletzt getätigten Anrufe wären unnötig gewesen. Der Cache ist zu jeder Jahreszeit gut machbar. In der laubarmen Zeit ist es allerdings noch ein wenig einfacher ! Ihr benötigt allerdings immer eine leistungsstarke Taschenlampe.  Normale Haushaltstaschenlampen sind zu schwach ! [green]Ein Tipp : [/green]Haltet die Lampen beim Leuchten in Schläfenhöhe - weil Einfallswinkel ist gleich Ausfallswinkel - dann klappt es auch mit dem Auffinden des nächsten Reflektors ! [red]Und aus gegebenem Anlass nun noch der Ultra-Hint schlechthin: [/red][blue]Die zu suchenden Igel sind lediglich reißzweckengroß. Den ersten Igel-Reflektor könnt Ihr erst in ca. 20 m Entfernung (vom auszurechnenden Startpunkt aus) an einer Strassenlaterne erkennen.[/blue][^]
+Nachtaktive Igel, Bären &amp; Katzen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3911,8 +3912,8 @@ Nachtaktive Igel, B&#228;ren &amp; Katzen</name>
 <wpt lat="52.463333" lon="13.296667">
     <name>GC7TT98
 D2/T2.5
-Efeubaum, gr&#252;n, oben
-Freudentr&#228;nen zum 4.K von dibo22</name>
+Efeubaum, grün, oben
+Freudentränen zum 4.K von dibo22</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3924,7 +3925,7 @@ Freudentr&#228;nen zum 4.K von dibo22</name>
 <wpt lat="52.468833" lon="13.291333">
     <name>GC6ZXAF
 D3/T3.5
-Angeln an immergr&#252;nem
+Angeln an immergrünem
 Finden - Peilen - Loggen #4 Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3937,7 +3938,7 @@ Finden - Peilen - Loggen #4 Reloaded</name>
 <wpt lat="52.448833" lon="13.35595">
     <name>GC44QQ4
 D3/T1.5
-3 au&#223;er bei f (5), g und j. Nix angeh&#228;ngtes, au&#223;er bei f ( da kommt es eben doch auf etwas feinschliff an ). Nix doppelt. e: 20.5.12.5.6.15.14.-.19.3.8.14.5.9.4.11.12.5.13.13.5
+3 außer bei f (5), g und j. Nix angehängtes, außer bei f ( da kommt es eben doch auf etwas feinschliff an ). Nix doppelt. e: 20.5.12.5.6.15.14.-.19.3.8.14.5.9.4.11.12.5.13.13.5
 Die richtige Verbindung</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3951,7 +3952,7 @@ Die richtige Verbindung</name>
     <name>GC8GD1R
 D4.5/T4.5
 bleu
-Bitte Stift mitbringen, keine TB m&#246;glich
+Bitte Stift mitbringen, keine TB möglich
 Projekt 9 - Challenge Cache</name>
     <sym>custom 0</sym>
     <extensions>
@@ -3965,7 +3966,7 @@ Projekt 9 - Challenge Cache</name>
     <name>GC4MXYE
 D2/T3
 DURCHblick auf MEHREREN Ebenen
-Achenbachbr&#252;cke</name>
+Achenbachbrücke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3978,7 +3979,7 @@ Achenbachbr&#252;cke</name>
     <name>GC8XW0M
 D1.5/T1.5
 Pflanzenkuebel  / planters
-Der Froschk&#246;nig - Ein m&#228;rchenhafter Cache</name>
+Der Froschkönig - Ein märchenhafter Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3990,7 +3991,7 @@ Der Froschk&#246;nig - Ein m&#228;rchenhafter Cache</name>
 <wpt lat="52.511133" lon="13.3091">
     <name>GC6AVA3
 D5/T2
-[DE] Eine &#220;bersetzung ins Deutsche w&#228;re bedeutungslos (ja, dies ist ein Hint!). Siehe auch Spoilerbild. [EN] A translation to German would be meaningless (yes, this is a hint!). Have a look at the spoiler image.
+[DE] Eine Übersetzung ins Deutsche wäre bedeutungslos (ja, dies ist ein Hint!). Siehe auch Spoilerbild. [EN] A translation to German would be meaningless (yes, this is a hint!). Have a look at the spoiler image.
 Two Cities</name>
     <sym>custom 0</sym>
     <extensions>
@@ -4003,7 +4004,7 @@ Two Cities</name>
 <wpt lat="52.448117" lon="13.33595">
     <name>GC83TVH
 D5/T4
-immergr&#252;n, ECA n&#246;tig
+immergrün, ECA nötig
 120 Souvenir Challenge</name>
     <sym>custom 0</sym>
     <extensions>
@@ -4070,7 +4071,7 @@ Produktionsnummer 410</name>
     <name>GC85G7F
 D5/T1
 magnetisch, flach
-R&#228;tselschwierigkeit  4 - 5 Challengecache</name>
+Rätselschwierigkeit  4 - 5 Challengecache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4082,7 +4083,7 @@ R&#228;tselschwierigkeit  4 - 5 Challengecache</name>
 <wpt lat="52.459067" lon="13.30095">
     <name>GC7FP2D
 D2/T1.5
-Vom Fu&#223;weg greifbar
+Vom Fußweg greifbar
 Leerstand Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
@@ -4095,8 +4096,8 @@ Leerstand Reloaded</name>
 <wpt lat="52.448467" lon="13.330483">
     <name>GC8434P
 D5/T5
-Baum Nr. 001974, ECA n&#246;tig
-Souvenir Challenge  - 16 dt. Bundesl&#228;nder</name>
+Baum Nr. 001974, ECA nötig
+Souvenir Challenge  - 16 dt. Bundesländer</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4109,7 +4110,7 @@ Souvenir Challenge  - 16 dt. Bundesl&#228;nder</name>
     <name>GC6T7MF
 D2/T1
 Ist doch klar...
-Bitte wirklich unauff&#228;llig loggen.
+Bitte wirklich unauffällig loggen.
 Owner</name>
     <sym>custom 0</sym>
     <extensions>
@@ -4124,7 +4125,7 @@ Owner</name>
 D2/T1.5
 Start: C+D+E+F+G+J+K+L+M+N= 34
 Final: ziemlich herablassend
-wenn V&#228;ter das Warten nicht ertragen / If dads can</name>
+wenn Väter das Warten nicht ertragen / If dads can</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4136,9 +4137,9 @@ wenn V&#228;ter das Warten nicht ertragen / If dads can</name>
 <wpt lat="52.50925" lon="13.383317">
     <name>GC74B25
 D4/T1
-Finale: magnetisch! Trotzdem aufpassen beim Bergen und Zur&#252;cklegen!
+Finale: magnetisch! Trotzdem aufpassen beim Bergen und Zurücklegen!
 [Update vom 01.07.19 beachten!]
-Erdm&#228;nnchen und Don Luigis Schatzkarte</name>
+Erdmännchen und Don Luigis Schatzkarte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4177,7 +4178,7 @@ Omas Stricknadeln</name>
     <name>GC53HM5
 D2/T1.5
 Erdgas
-Marchbr&#252;cke</name>
+Marchbrücke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4190,7 +4191,7 @@ Marchbr&#252;cke</name>
     <name>GC41WP3
 D2.5/T1.5
 - 2012
-- Sic ht h&#246;he 100m
+- Sic ht höhe 100m
 - bi polar
 Flieger gesucht - 6</name>
     <sym>custom 0</sym>
@@ -4204,8 +4205,8 @@ Flieger gesucht - 6</name>
 <wpt lat="52.5053" lon="13.2968">
     <name>GC8TEEQ
 D1.5/T1
-Kurzes P&#228;uschen
-Die Leonhardtstra&#223;e und ihr Namensgeber</name>
+Kurzes Päuschen
+Die Leonhardtstraße und ihr Namensgeber</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4217,7 +4218,7 @@ Die Leonhardtstra&#223;e und ihr Namensgeber</name>
 <wpt lat="52.51325" lon="13.37625">
     <name>GC7B7JP
 D2.5/T1.5
-[Alle Informationen sind im n&#228;heren Umkreis von dem Denkmal zu finden! Ihr m&#252;sst zwei Infotafeln finden.
+[Alle Informationen sind im näheren Umkreis von dem Denkmal zu finden! Ihr müsst zwei Infotafeln finden.
 All information you can find out nearby the memorial. You have to find two information-boards.]
 6s: saphir/sapphire (virtual cache)</name>
     <sym>custom 0</sym>
@@ -4245,7 +4246,7 @@ onan
     <name>GC57BCR
 D2/T1.5
 
-Dom&#228;ne Dahlem Reloaded</name>
+Domäne Dahlem Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4258,7 +4259,7 @@ Dom&#228;ne Dahlem Reloaded</name>
     <name>GC39ZY0
 D1.5/T1.5
 - 2006
-- Si cht h&#246;he 150m
+- Si cht höhe 150m
 - magnetisch
 Flieger gesucht - 5</name>
     <sym>custom 0</sym>
@@ -4339,8 +4340,8 @@ Critical Communication Cache</name>
 <wpt lat="52.44655" lon="13.336317">
     <name>GC83J44
 D1.5/T4.5
-ECA n&#246;tig
-5 Bundesl&#228;nder Challenge</name>
+ECA nötig
+5 Bundesländer Challenge</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4365,7 +4366,7 @@ Mitten in der City</name>
 <wpt lat="52.467167" lon="13.2891">
     <name>GC52VYD
 D3/T1.5
-[R&#228;tsel:] A, E, F sind zweistellig; F&#252;r Nord ist der &#228;lteste (BN) und f&#252;r Ost der zweit&#228;lteste (BO) Sohn wichtig. Beides ist einstellig.
+[Rätsel:] A, E, F sind zweistellig; Für Nord ist der älteste (BN) und für Ost der zweitälteste (BO) Sohn wichtig. Beides ist einstellig.
 
 [Kontrolle:] Quersumme aller Zahlen N=31 E=22
 
@@ -4382,7 +4383,7 @@ Betula</name>
 <wpt lat="52.45555" lon="13.3842">
     <name>GC1RJBV
 D2.5/T1.5
-Brauchst Du bei der sch&#246;nen 3D-Aussicht wirklich noch einen Hint?
+Brauchst Du bei der schönen 3D-Aussicht wirklich noch einen Hint?
 Stage 1 : Denke an Bill Healey's Song R.A.T.C.
 Nun ist aber gut, oder ?
 Tempelhofer Hafen - Licht am Ende des Tunnels ?</name>
@@ -4398,7 +4399,7 @@ Tempelhofer Hafen - Licht am Ende des Tunnels ?</name>
     <name>GCWJJ0
 D1.5/T1.5
 Einfach abrunden oder weiterrechnen... / just continue calculating...
-Ein Baum mit 3 St&#228;mmen / a three tree
+Ein Baum mit 3 Stämmen / a three tree
 - siehe Spoilerbild
 Stelenfeld</name>
     <sym>custom 0</sym>
@@ -4412,7 +4413,7 @@ Stelenfeld</name>
 <wpt lat="52.45295" lon="13.379233">
     <name>GC1EEVH
 D2/T2
-Schild , Br&#252;ckenmitte , Haus , Finale (Fakirs Bett)
+Schild , Brückenmitte , Haus , Finale (Fakirs Bett)
 Sign , In the Middel of the Bridge , House , Final (Fakirs bed)
 Simon &amp; Garfunkels - B.O.T.W. - Cache</name>
     <sym>custom 0</sym>
@@ -4426,7 +4427,7 @@ Simon &amp; Garfunkels - B.O.T.W. - Cache</name>
 <wpt lat="52.451033" lon="13.374417">
     <name>GC91A5X
 D5/T4.5
-Es geht &#252;ber eine Treppe herunter zum Teltowkanal zu einer kleinen Ausbuchtung mit Rasengittersteinen. 
+Es geht über eine Treppe herunter zum Teltowkanal zu einer kleinen Ausbuchtung mit Rasengittersteinen. 
 Achtung: Nicht ins Wasser fallen!
 Matrix mit Favoritenpunkte Challenge</name>
     <sym>custom 0</sym>
@@ -4442,7 +4443,7 @@ Matrix mit Favoritenpunkte Challenge</name>
 D3.5/T2.5
 iterierte Quersumme (digital root) ABCD=7
 Final: magnetisch (magnetic)
-01 - B&#228;ren weltweit</name>
+01 - Bären weltweit</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4467,7 +4468,7 @@ Yeah - Der Kopf ist ....</name>
 <wpt lat="52.4948" lon="13.285617">
     <name>GC8KRF8
 D2.5/T1
-Hinter wei&#223;em Rechteck in wei&#223;em 4-Eck unter gelb-rotem 3-Eck. / Behind a white rectangle inside a white square below a yellow-red triangle.
+Hinter weißem Rechteck in weißem 4-Eck unter gelb-rotem 3-Eck. / Behind a white rectangle inside a white square below a yellow-red triangle.
 Beton (Concrete) Cadillacs </name>
     <sym>custom 0</sym>
     <extensions>
@@ -4494,7 +4495,7 @@ Gerickesteg Berlin-Moabit</name>
     <name>GC4RF1H
 D1/T1.5
 
-Messelpark-Turnier III - &#220;berquere die Ziellinie</name>
+Messelpark-Turnier III - Überquere die Ziellinie</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4520,7 +4521,7 @@ Finden - Peilen - Loggen #12</name>
     <name>GC6YDDH
 D3.5/T1.5
 Referenzpunkt: FU Schild mit GC
-Final: 1. Zaunpfosten links vom Flachgeb&#228;ude
+Final: 1. Zaunpfosten links vom Flachgebäude
 Finden - Peilen - Loggen #5</name>
     <sym>custom 0</sym>
     <extensions>
@@ -4535,7 +4536,7 @@ Finden - Peilen - Loggen #5</name>
 D1/T1
 You can purchase a piece of history just a few steps away and it's made of concrete.
 -----
-Sie k&#246;nnen ein St&#252;ck der Geschichte gerade einige Schritte weg kaufen, und es hat aus Beton gemacht
+Sie können ein Stück der Geschichte gerade einige Schritte weg kaufen, und es hat aus Beton gemacht
 Historic Words</name>
     <sym>custom 0</sym>
     <extensions>
@@ -4561,9 +4562,9 @@ Der Garnelen Cache ehemals Ameisen Cache </name>
 <wpt lat="52.452833" lon="13.307">
     <name>GC8G2WW
 D5/T1.5
-gr&#252;ner Efeubusch, blau, magnetisch von hinten
-Bitte Stift mitbringen, keine TB m&#246;glich
-Mysteri&#246;ses Objekt</name>
+grüner Efeubusch, blau, magnetisch von hinten
+Bitte Stift mitbringen, keine TB möglich
+Mysteriöses Objekt</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4588,7 +4589,7 @@ Kleines Hansaviertel</name>
 <wpt lat="52.48215" lon="13.405267">
     <name>GC43CNE
 D2.5/T2
-- Landung &gt; Sichth&#246;he 100m
+- Landung &gt; Sichthöhe 100m
 - mag ne tisch
 Flieger gesucht - 7</name>
     <sym>custom 0</sym>
@@ -4602,8 +4603,8 @@ Flieger gesucht - 7</name>
 <wpt lat="52.448" lon="13.3206">
     <name>GC34JT1
 D3.5/T2.5
-R: Baum in der Mitte (der gr&#246;&#223;te)
-Dendrologie im B&#228;kepark</name>
+R: Baum in der Mitte (der größte)
+Dendrologie im Bäkepark</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4615,8 +4616,8 @@ Dendrologie im B&#228;kepark</name>
 <wpt lat="52.509817" lon="13.387067">
     <name>GC5QJMT
 D3.5/T1.5
-Der Countdown l&#228;&#252;ft
-Joschis T-S&#228;ule</name>
+Der Countdown läüft
+Joschis T-Säule</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4628,7 +4629,7 @@ Joschis T-S&#228;ule</name>
 <wpt lat="52.445467" lon="13.350317">
     <name>GC57FPB
 D1.5/T1.5
-auf Kopfh&#246;he
+auf Kopfhöhe
 Bobby's First Secret</name>
     <sym>custom 0</sym>
     <extensions>
@@ -4642,8 +4643,8 @@ Bobby's First Secret</name>
     <name>GC39DHC
 D1.5/T1.5
 2009
-Start   &gt; Sichth&#246;he = 150m
-Landung &gt; Sichth&#246;he = 150m
+Start   &gt; Sichthöhe = 150m
+Landung &gt; Sichthöhe = 150m
 ... mag net isch ...
 Flieger gesucht - 4</name>
     <sym>custom 0</sym>
@@ -4670,7 +4671,7 @@ Begonienplatz</name>
 <wpt lat="52.47845" lon="13.405183">
     <name>GC78K52
 D1.5/T5
-Auf in die H&#246;he.
+Auf in die Höhe.
 Tempelhofer Feld #3</name>
     <sym>custom 0</sym>
     <extensions>
@@ -4722,8 +4723,8 @@ Annis catchup</name>
 <wpt lat="52.494067" lon="13.403283">
     <name>GC5CABM
 D3/T1
-21.02.2016: Es gibt ein Ersatzlogbuch, sch&#246;n sauber, auch wenn die Grillsaison ihren H&#246;hepunkt erreicht. Dazu lauft ihr vom urspr&#252;nglichen Orginalloguch ca. 14m nach links am Zaun entlang. An der Ecke am Zaun steht ein Baum. Zaun 1 Meter hoch klettern, das Ersatzlogbuch liegt in der Astgabel. Es wird also immer 2 Logb&#252;cher geben, bitte nur ins Ersatzlogbuch eintragen, wenn es im Sommer unappetitlich wird.
-Der Erkl&#228;rb&#228;r - Zahlensysteme umrechnen</name>
+21.02.2016: Es gibt ein Ersatzlogbuch, schön sauber, auch wenn die Grillsaison ihren Höhepunkt erreicht. Dazu lauft ihr vom ursprünglichen Orginalloguch ca. 14m nach links am Zaun entlang. An der Ecke am Zaun steht ein Baum. Zaun 1 Meter hoch klettern, das Ersatzlogbuch liegt in der Astgabel. Es wird also immer 2 Logbücher geben, bitte nur ins Ersatzlogbuch eintragen, wenn es im Sommer unappetitlich wird.
+Der Erklärbär - Zahlensysteme umrechnen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4789,7 +4790,7 @@ Igor's Kanone</name>
 <wpt lat="52.444917" lon="13.343333">
     <name>GC4WTMF
 D2/T2.5
-Eine angeblich Ungl&#252;ck bringende Zahl und eine geringf&#252;gige Flei&#223;arbeit am PC hilft Dir hier weiter...Lasst euch hier aber nicht in die Irre f&#252;hre! Die ganze Zeile mit den Zahlen kopieren!
+Eine angeblich Unglück bringende Zahl und eine geringfügige Fleißarbeit am PC hilft Dir hier weiter...Lasst euch hier aber nicht in die Irre führe! Die ganze Zeile mit den Zahlen kopieren!
 Final: Oben, bipolar
 Gib Gummi!</name>
     <sym>custom 0</sym>
@@ -4816,8 +4817,8 @@ Pure Ecstase</name>
 <wpt lat="52.451733" lon="13.30775">
     <name>GC7CAV9
 D3.5/T3
-Immergr&#252;ner Baum, zum Angeln
-Daily f&#252;r Snoopy710</name>
+Immergrüner Baum, zum Angeln
+Daily für Snoopy710</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4856,7 +4857,7 @@ Finden - Peilen - Loggen # 10</name>
     <name>GC832WE
 D1.5/T1
 
-Tante Emma g&#246;nnt sich eine Pause</name>
+Tante Emma gönnt sich eine Pause</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4869,8 +4870,8 @@ Tante Emma g&#246;nnt sich eine Pause</name>
     <name>GC3073K
 D1.5/T1.5
 2010
-Start   &gt; Sichth&#246;he = 418 FT
-Landung &gt; Sichth&#246;he = 218 FT
+Start   &gt; Sichthöhe = 418 FT
+Landung &gt; Sichthöhe = 218 FT
 ... mag net isch ...
 Flieger gesucht - 3</name>
     <sym>custom 0</sym>
@@ -4885,7 +4886,7 @@ Flieger gesucht - 3</name>
     <name>GC4RV7G
 D1.5/T1.5
 
-Br&#252;cke in die Ewigkeit</name>
+Brücke in die Ewigkeit</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4898,7 +4899,7 @@ Br&#252;cke in die Ewigkeit</name>
     <name>GC3DGB0
 D1.5/T1.5
 rund, Metall / round metal
-Kirchnerbr&#252;cke - Es war einmal...</name>
+Kirchnerbrücke - Es war einmal...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4952,7 +4953,7 @@ Cache Calling</name>
     <name>GC7NKW2
 D2.5/T3.5
 Die Summe aller Werte sollte 4017 betragen.
-Der Petling h&#228;ngt in einem Vierling dicht neben der 2. Dreierstufe von unten.
+Der Petling hängt in einem Vierling dicht neben der 2. Dreierstufe von unten.
 Berliner Fahrradrouten - TR1 Westspange</name>
     <sym>custom 0</sym>
     <extensions>
@@ -4979,8 +4980,8 @@ Flieger gesucht - 2</name>
 <wpt lat="52.49455" lon="13.404183">
     <name>GC419XC
 D3/T1.5
-Die Koordinaten des gesamten Multis befinden sich im selben "Minutenbereich" - d.h. es &#228;ndern sich nur die Nachkommastellen.
-Zwischen den B&#228;dern</name>
+Die Koordinaten des gesamten Multis befinden sich im selben "Minutenbereich" - d.h. es ändern sich nur die Nachkommastellen.
+Zwischen den Bädern</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5006,7 +5007,7 @@ Auf Nummer sicher... (DE/ENG)</name>
 <wpt lat="52.452863" lon="13.384218">
     <name>GC84F72
 D1.5/T2
-Hohe Gefahr durch Muggel, eine K&#246;rpergr&#246;&#223;e von 175 cm ist empfehlenswert.
+Hohe Gefahr durch Muggel, eine Körpergröße von 175 cm ist empfehlenswert.
 Ullsteinhaus</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5024,8 +5025,8 @@ D2/T3.5
 3. Keine Person ab 1,60 Meter 
 muss hier (DIN EN 10020) klettern!
 
-Besondere VORSICHT BEI N&#196;SSE!!!
-TEUBNER-BR&#220;CKE</name>
+Besondere VORSICHT BEI NÄSSE!!!
+TEUBNER-BRÜCKE</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5037,9 +5038,9 @@ TEUBNER-BR&#220;CKE</name>
 <wpt lat="52.514633" lon="13.3816">
     <name>GC71VY3
 D2.5/T1.5
-magnetisch, H&#252;fth&#246;he
+magnetisch, Hüfthöhe
 magnetic, waist height
-Geschichtsmeile Wilhelmstra&#223;e</name>
+Geschichtsmeile Wilhelmstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5051,7 +5052,7 @@ Geschichtsmeile Wilhelmstra&#223;e</name>
 <wpt lat="52.453817" lon="13.30065">
     <name>GC7HGE4
 D3/T1.5
-Einer von den zwei dicken Pfosten gegen&#252;ber Nr.38
+Einer von den zwei dicken Pfosten gegenüber Nr.38
 Geocaching Highlights - Challenge Cache</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5104,7 +5105,7 @@ Das Brandenburger Tor</name>
     <name>GC4RV9X
 D1.5/T1.5
 Ein Wink mit dem ... 
-Der bequemste Weg zum Cache geht am Toilettencontainer los. Ein neuer Zaun macht andere Zug&#228;nge schwieriger...
+Der bequemste Weg zum Cache geht am Toilettencontainer los. Ein neuer Zaun macht andere Zugänge schwieriger...
 Halensee</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5117,7 +5118,7 @@ Halensee</name>
 <wpt lat="52.443867" lon="13.35065">
     <name>GC3DG9Q
 D2/T1.5
-zwischen Baumgestr&#252;pp / between small trees
+zwischen Baumgestrüpp / between small trees
 Am Ende des Parks...</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5131,7 +5132,7 @@ Am Ende des Parks...</name>
     <name>GC4REZB
 D1/T1.5
 
-Messelpark-Turnier I - H&#252;rdenlauf mit Angelturnier</name>
+Messelpark-Turnier I - Hürdenlauf mit Angelturnier</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5157,7 +5158,7 @@ Erster links
     <name>GC5RDCC
 D1/T1
 EMREAW
-Warm, w&#228;rmer - hei&#223;</name>
+Warm, wärmer - heiß</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5169,8 +5170,8 @@ Warm, w&#228;rmer - hei&#223;</name>
 <wpt lat="52.445317" lon="13.324283">
     <name>GC5WA31
 D1.5/T2
-h&#246;lzern
-&#214;stlich von Michigan</name>
+hölzern
+Östlich von Michigan</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5195,7 +5196,7 @@ Dschungel-Kinder</name>
 <wpt lat="52.515483" lon="13.381183">
     <name>GC4PH5A
 D4/T1.5
-[Final] Augenh&#246;he / eye level
+[Final] Augenhöhe / eye level
 Es ist. Ist es nicht?</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5208,10 +5209,10 @@ Es ist. Ist es nicht?</name>
 <wpt lat="52.518" lon="13.3746">
     <name>GC7B8VR
 D3.5/T2
-&#214;ffnungszeiten beachten! Anmeldung erforderlich!
+Öffnungszeiten beachten! Anmeldung erforderlich!
 Note opening times! Registration required!
 
-Kostenloser Audio-Guide wird vor der Dachterrasse f&#252;r elf verschiedene Sprachen ausgegeben. Empfehlenswert!      
+Kostenloser Audio-Guide wird vor der Dachterrasse für elf verschiedene Sprachen ausgegeben. Empfehlenswert!      
 Free audio guide is issued in front of the roof terrace for eleven different languages. Recommended!
 Die Glaskuppel - Virtual Reward</name>
     <sym>custom 0</sym>
@@ -5279,7 +5280,7 @@ Kinderfreundliche Challenge</name>
 <wpt lat="52.516667" lon="13.379383">
     <name>GC7Q6NK
 D2.5/T3.5
-Als Punktsumme m&#252;sstet ihr 5662 errechnen. Die Dose ist eingebettet in etwas Totholz.
+Als Punktsumme müsstet ihr 5662 errechnen. Die Dose ist eingebettet in etwas Totholz.
 Radfernweg Berlin - Kopenhagen (Berliner Teil)</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5307,7 +5308,7 @@ Berliner Fahrradrouten - RR3 Spandau-Route</name>
     <name>GC61RVD
 D4/T5
 
-&#9812; Taktiktest &#9818;</name>
+♔ Taktiktest ♚</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5361,7 +5362,7 @@ Botanischer Garten Berlin</name>
     <name>GC7RR6J
 D4.5/T5
 
-Mysteri&#246;se Figur</name>
+Mysteriöse Figur</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5400,7 +5401,7 @@ Herr Lehmanns Rechnereien</name>
     <name>GC76JYY
 D2.5/T2
 Am Wasser bleiben.
-Final: In der N&#228;he von zwei Baumst&#252;mpfen und vier Steinen am Wasser.
+Final: In der Nähe von zwei Baumstümpfen und vier Steinen am Wasser.
 Der See welcher...</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5428,7 +5429,7 @@ Alvin</name>
 D3/T1
 Unsichtbar?
 Sound an!
-K&#246;nigin des Feldes</name>
+Königin des Feldes</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5440,12 +5441,12 @@ K&#246;nigin des Feldes</name>
 <wpt lat="52.4582" lon="13.290417">
     <name>GC2FF9W
 D1.5/T2.5
-Station 1: neben einem bekannten Stadtm&#246;bel, effehzweiohdrei
-Station 2: mehr als Finger an deinen H&#228;nden
+Station 1: neben einem bekannten Stadtmöbel, effehzweiohdrei
+Station 2: mehr als Finger an deinen Händen
 Station 2,5: Berlinbrain
 Station 3: tuff, tuff, tuff die...
 Station 4: Spieglein, Spieglein in der Hand
-Station 4: f&#252;r Faule: von wann bis wann gilt die Parkbeschr&#228;nkung (R&#252;ckseite)
+Station 4: für Faule: von wann bis wann gilt die Parkbeschränkung (Rückseite)
 A Way For A Muskrat(marie)</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5458,11 +5459,11 @@ A Way For A Muskrat(marie)</name>
 <wpt lat="52.518633" lon="13.37615">
     <name>GC39V8D
 D4.5/T1.5
-[R&#228;tsel] Die Summe des Buchstabenwertes des vollst&#228;ndigen Namens minus 132 ist die Antwort auf alle Fragen.
+[Rätsel] Die Summe des Buchstabenwertes des vollständigen Namens minus 132 ist die Antwort auf alle Fragen.
 
 [Final] Siehe Hinweise im Checker.
 
-[F&#252;r erwachsene Cacher] Falls das Logbuch langsam voll wird, lest das Listing. Bitte.
+[Für erwachsene Cacher] Falls das Logbuch langsam voll wird, lest das Listing. Bitte.
 Wer bin ich?</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5476,7 +5477,7 @@ Wer bin ich?</name>
     <name>GC6WEJE
 D3/T3.5
 ca. 5m hoch 
-nat&#252;rliche ECA gibt es Vorort
+natürliche ECA gibt es Vorort
 Taxus Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5490,7 +5491,7 @@ Taxus Reloaded</name>
     <name>GC76YC6
 D3.5/T1
 Der Stromkasten ist TABU !!! Sollte jedem klar sein. Gartenseite ist TABU !!!!
-&#127939;Fix f&#252;r zwischendurch...Halenseepark</name>
+🏃Fix für zwischendurch...Halenseepark</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5504,7 +5505,7 @@ Der Stromkasten ist TABU !!! Sollte jedem klar sein. Gartenseite ist TABU !!!!
 D2.5/T3.5
 Summe aller Werte: 1955
 Finale: Astloch
-Berliner Fahrradrouten - TR4 S&#252;dspange</name>
+Berliner Fahrradrouten - TR4 Südspange</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5531,7 +5532,7 @@ Escape Cache</name>
     <name>GC15P2F
 D1.5/T1.5
 Schild
-Berliner Stolpersteine - Moritzstra&#223;e</name>
+Berliner Stolpersteine - Moritzstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5557,8 +5558,8 @@ Tempelhof - the X marks the spot</name>
     <name>GC6W3VW
 D5/T2
 Vor-Finale: Roxanne soll dieses bunte Licht aus lassen
-Finale: Peile vom Vor-Finale ca. 62 Meter und 137 Grad! ....... gef&#228;hrdet Deine Gesundheit!
-Erdm&#228;nnchen geht ins Museum</name>
+Finale: Peile vom Vor-Finale ca. 62 Meter und 137 Grad! ....... gefährdet Deine Gesundheit!
+Erdmännchen geht ins Museum</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5570,7 +5571,7 @@ Erdm&#228;nnchen geht ins Museum</name>
 <wpt lat="52.52405" lon="13.3395">
     <name>GC2379E
 D3/T1.5
-[R&#228;tsel]Genesis
+[Rätsel]Genesis
 Walhalla</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5599,7 +5600,7 @@ D3/T1
 Nicht aufgeben, es ist halt ein D3  :-)
 Und nochmal : Lest das Listing aufmerksam. 
 Wenn gar nichts mehr geht, bitte eine Mail schicken.
-H&#246;fe am S&#252;dstern</name>
+Höfe am Südstern</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5637,11 +5638,11 @@ Time out</name>
 <wpt lat="52.494733" lon="13.409117">
     <name>GC5FJ75
 D4/T2
-Im Spiel gibt es jede Menge Hinweise, sodass kein Frust aufkommen sollte. Ihr erfahrt es, wenn ihr einen Fehler macht. Da es ein D4 ist und ihr &#252;berleben wollt, m&#252;&#223;t ihr aber auch etwas leisten ;-)
+Im Spiel gibt es jede Menge Hinweise, sodass kein Frust aufkommen sollte. Ihr erfahrt es, wenn ihr einen Fehler macht. Da es ein D4 ist und ihr überleben wollt, müßt ihr aber auch etwas leisten ;-)
 
-ACHTUNG: Neues Cacheversteck in der Testphase seit 28.07.17 (noch nicht in der Cartridge eingepflegt). Cache ist jetzt ein Micro. Keine 2 Logb&#252;cher mehr. Vom urspr&#252;nglichen Versteck geht ihr ca. 80 Schritte westlich bis zur n&#228;chsten Ecke, dann ca.15 Schritte nach links. Brusth&#246;he und die Zahl 380 ist hilfreich.
+ACHTUNG: Neues Cacheversteck in der Testphase seit 28.07.17 (noch nicht in der Cartridge eingepflegt). Cache ist jetzt ein Micro. Keine 2 Logbücher mehr. Vom ursprünglichen Versteck geht ihr ca. 80 Schritte westlich bis zur nächsten Ecke, dann ca.15 Schritte nach links. Brusthöhe und die Zahl 380 ist hilfreich.
 
-Allerletzter Nachtrag: Siehe mein Log vom 21.5.18. Ich habe alles versucht, diesen Cache zu retten. Mein MultiplayerWherigoCache BeFiMu wurde bereits von den Reviewern in den Cacherhimmel geschickt. Die erlebte Willk&#252;r ist wirklich ph&#228;nomenal, ich habe keinen Bock mehr auf den Verein. Also, wer mir ein Foto vom Versteck sendet darf loggen. Wer damit leben kann, prima. Wer nicht damit leben kann soll petzen. Es darf auch eine Ersatzdose gelegt werden.
+Allerletzter Nachtrag: Siehe mein Log vom 21.5.18. Ich habe alles versucht, diesen Cache zu retten. Mein MultiplayerWherigoCache BeFiMu wurde bereits von den Reviewern in den Cacherhimmel geschickt. Die erlebte Willkür ist wirklich phänomenal, ich habe keinen Bock mehr auf den Verein. Also, wer mir ein Foto vom Versteck sendet darf loggen. Wer damit leben kann, prima. Wer nicht damit leben kann soll petzen. Es darf auch eine Ersatzdose gelegt werden.
 The Walking Dead</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5680,11 +5681,11 @@ magnetisch, rechts vom Mauerpfeiler
 <wpt lat="52.517" lon="13.303917">
     <name>GC22J9D
 D2/T1
-Nehmt Platz im Ballsaal und genie&#223;t den Blick auf die alten Fenster. 
+Nehmt Platz im Ballsaal und genießt den Blick auf die alten Fenster. 
 Tarnung kostet 4 Euro/Cacher. 
 Recherche notwendig.
 Take a seat in the ballroom and enjoy the view at the old windows.
-Camouflage costs 2 &#8364;/Cacher.
+Camouflage costs 2 €/Cacher.
 Research necessary.
 Scherbenwelt</name>
     <sym>custom 0</sym>
@@ -5699,7 +5700,7 @@ Scherbenwelt</name>
     <name>GC5AHWN
 D1.5/T1.5
 bipolar,
-bitte verneigt euch vor dem polnischen Qualit&#228;tsprodukt,
+bitte verneigt euch vor dem polnischen Qualitätsprodukt,
 T(h)or wird es euch danken
 Am Westkreuz</name>
     <sym>custom 0</sym>
@@ -5713,8 +5714,8 @@ Am Westkreuz</name>
 <wpt lat="52.4482" lon="13.381983">
     <name>GC8QBC4
 D2/T1.5
-Benjamin Bl&#252;mchen w&#228;re zu dick, um den Cache zu bergen.
-Von M&#252;cken und Elefanten</name>
+Benjamin Blümchen wäre zu dick, um den Cache zu bergen.
+Von Mücken und Elefanten</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5726,8 +5727,8 @@ Von M&#252;cken und Elefanten</name>
 <wpt lat="52.459417" lon="13.286667">
     <name>GC8XCWM
 D3.5/T1.5
-Was war doch Niem&#246;ller bevor er Pfarrer wurde?
-Bonus Adventure Lab:  Martin Niem&#246;ller Haus</name>
+Was war doch Niemöller bevor er Pfarrer wurde?
+Bonus Adventure Lab:  Martin Niemöller Haus</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5739,7 +5740,7 @@ Bonus Adventure Lab:  Martin Niem&#246;ller Haus</name>
 <wpt lat="52.447417" lon="13.3067">
     <name>GC7C883
 D2/T1.5
-Auf Augenh&#246;he, je nach K&#246;rpergr&#246;&#223;e
+Auf Augenhöhe, je nach Körpergröße
 Reformation</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5795,10 +5796,10 @@ Breadbox Memories</name>
 <wpt lat="52.4957" lon="13.409633">
     <name>GC876Q6
 D1.5/T1.5
-Alles was Ihr braucht, steht gro&#223; (und deutlich) im Listing.
+Alles was Ihr braucht, steht groß (und deutlich) im Listing.
 Tante G. hilft Euch weiter !
 Final : Trocken - die Dose ist genau dort, wo Ihr sie vermutet
-Preu&#223;ens Hauptstr&#246;me</name>
+Preußens Hauptströme</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5862,8 +5863,8 @@ QRB </name>
 <wpt lat="52.443433" lon="13.31885">
     <name>GC7HCPB
 D2/T2
-Damit er l&#228;nger h&#228;ngt und nicht wieder wegen nicht umsichtiger Cacher verloren geht eine genaue Beschreibung:
-Geb&#252;sch von der Strasse angehen, ca. 1 Meter vom Verkehrszeichen entfernt, in ca. 2,00 m H&#246;he, Metallh&#252;lse (Nano) am dicken Ast h&#228;ngend
+Damit er länger hängt und nicht wieder wegen nicht umsichtiger Cacher verloren geht eine genaue Beschreibung:
+Gebüsch von der Strasse angehen, ca. 1 Meter vom Verkehrszeichen entfernt, in ca. 2,00 m Höhe, Metallhülse (Nano) am dicken Ast hängend
 Da fehlt doch was ....</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5890,7 +5891,7 @@ Faszination Mathematik #1</name>
     <name>GC7QK6M
 D1.5/T1
 
-Tante Emma w&#252;nscht sich eine Nachricht !</name>
+Tante Emma wünscht sich eine Nachricht !</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5902,7 +5903,7 @@ Tante Emma w&#252;nscht sich eine Nachricht !</name>
 <wpt lat="52.520617" lon="13.376083">
     <name>GC6T49E
 D2.5/T3.5
-Listing ordentlich lesen!, Finale: efeubewachsener Baumstamm mit unauff&#228;lligem Holzhaufen drum herum, Stempel und Kissen bitte im Cache lassen
+Listing ordentlich lesen!, Finale: efeubewachsener Baumstamm mit unauffälligem Holzhaufen drum herum, Stempel und Kissen bitte im Cache lassen
 BWW 3 - Heiligenseer Weg</name>
     <sym>custom 0</sym>
     <extensions>
@@ -5941,9 +5942,9 @@ Kannste ma Seen - Adventure Lab Bonus</name>
 <wpt lat="52.494767" lon="13.276117">
     <name>GC7M35K
 D3/T2.5
-Ja wor&#252;ber reden wir denn?
+Ja worüber reden wir denn?
 Iterative Quersumme
-Wie kommen die L&#246;cher in den K&#228;se?</name>
+Wie kommen die Löcher in den Käse?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5958,7 +5959,7 @@ D3/T2
 Stationen sind durch Waypointangaben eindeutig!
 Gezeigt werden nur Gesteine aus dem Listing - keines doppelt!
 Farbversion des Listings vor Ort ist sinnvoll.
-Ma&#223;stab der Bilder beachten! 
+Maßstab der Bilder beachten! 
 Eigene NAHaufnahmen der Gesteine sind sehr hilfreich!!!
 GESTEINSreicher KREISLAUF Berlin</name>
     <sym>custom 0</sym>
@@ -5986,7 +5987,7 @@ BWW 11 - Wannseeweg</name>
     <name>GC7HT20
 D5/T1.5
 greifhoch
-Mysteri&#246;s</name>
+Mysteriös</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6012,7 +6013,7 @@ Call to Tante Emma</name>
     <name>GC16FCF
 D2/T1
 
-Gefl&#252;gelte Worte</name>
+Geflügelte Worte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6028,8 +6029,8 @@ NebendemSchrank
 
 Achtung, bitte noch 30 m in Richtung SW bis zum Baum
 Im Efeu
-Knieh&#246;he
-Berliner Kunstspitzen #2 Rixdorfer H&#246;he</name>
+Kniehöhe
+Berliner Kunstspitzen #2 Rixdorfer Höhe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6043,7 +6044,7 @@ Berliner Kunstspitzen #2 Rixdorfer H&#246;he</name>
 D1.5/T1
 [de] magnetisch
 [en] magnetic
-Franz&#246;sischer Dom</name>
+Französischer Dom</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6082,7 +6083,7 @@ Nasses Dreieck</name>
 <wpt lat="52.466617" lon="13.410133">
     <name>GC3KE6F
 D1.5/T1.5
-Rechts oben an der Schr&#228;gst&#252;tze, magnetisch. 
+Rechts oben an der Schrägstütze, magnetisch. 
 Top right corner, tilted column. Magnetic.
 Incineration Plant</name>
     <sym>custom 0</sym>
@@ -6097,7 +6098,7 @@ Incineration Plant</name>
     <name>GC2DQX7
 D1.5/T1.5
 Ecke
-K&#252;rassierstra&#223;e</name>
+Kürassierstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6111,7 +6112,7 @@ K&#252;rassierstra&#223;e</name>
 D1.5/T2.5
 1. Es geht nicht nach unten 
 2. Auf Bahnmuggels aufpassen
-3. Genau zur&#252;cklegen
+3. Genau zurücklegen
 Reichsbahnausbesserungswerk RAW Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6154,7 +6155,7 @@ D3.5/T4
 |50 m    |    
 ----------
 |200 ft    |
-Wo er kurz l&#228;stert</name>
+Wo er kurz lästert</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6166,8 +6167,8 @@ Wo er kurz l&#228;stert</name>
 <wpt lat="52.524567" lon="13.36705">
     <name>GC6QR3K
 D4/T1.5
-Erster Teil: Interessante Streckenf&#252;hrungen.
-Zweiter Teil: Was kann man an Bahnh&#246;fen gut z&#228;hlen? Dann addieren.
+Erster Teil: Interessante Streckenführungen.
+Zweiter Teil: Was kann man an Bahnhöfen gut zählen? Dann addieren.
 Reisen mit der Bahn</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6220,7 +6221,7 @@ Galgenhumor</name>
     <name>GC5V115
 D2.5/T1.5
 Final muggelig!
-Multi-St&#228;mmchen, etwa Bauchnabelh&#246;he
+Multi-Stämmchen, etwa Bauchnabelhöhe
 Spielverderber:
 http://goo.gl/oYVk7D
 Operation CAESAR</name>
@@ -6236,7 +6237,7 @@ Operation CAESAR</name>
     <name>GC7A4EA
 D2/T1.5
 
-AVUS-Rennen 3 &#8211; Die legend&#228;re Nordschleife (Vol.2)</name>
+AVUS-Rennen 3 – Die legendäre Nordschleife (Vol.2)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6301,8 +6302,8 @@ Dem Himmel so nah - Bonus Adventure Lab</name>
 <wpt lat="52.52685" lon="13.355017">
     <name>GC3GT81
 D3/T1.5
-Es muggelt &#252;berall!
-Turmstra&#223;e 1964</name>
+Es muggelt überall!
+Turmstraße 1964</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6314,7 +6315,7 @@ Turmstra&#223;e 1964</name>
 <wpt lat="52.521436" lon="13.379987">
     <name>GC36W57
 D3/T3
-Du willst ihn trotz allem wirklich finden? Ich versuche dir hier zu helfen, warum sollte ich dir auch noch einen Tipp geben? Schau auf den Titel. Warum hast du &#8222;entschl&#252;sseln&#8220; angeklickt?
+Du willst ihn trotz allem wirklich finden? Ich versuche dir hier zu helfen, warum sollte ich dir auch noch einen Tipp geben? Schau auf den Titel. Warum hast du „entschlüsseln“ angeklickt?
 Finde nicht diesen Cache ...</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6340,7 +6341,7 @@ GEH HEIM</name>
 <wpt lat="52.503333" lon="13.278517">
     <name>GC7B90F
 D1/T1
-nicht n&#246;tig
+nicht nötig
 Virtual Reward- Meine Avus</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6366,7 +6367,7 @@ Bernhard Wieck Promenade</name>
 <wpt lat="52.52235" lon="13.3777">
     <name>GC8GE25
 D2/T2.5
-Petling in Loch in der Mauer. Das betreten der Gleisanlage ist keinesfalls n&#246;tig!
+Petling in Loch in der Mauer. Das betreten der Gleisanlage ist keinesfalls nötig!
 BERLINER SPIONAGENETZWERK - Residenz einer Uhr</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6379,8 +6380,8 @@ BERLINER SPIONAGENETZWERK - Residenz einer Uhr</name>
 <wpt lat="52.43965" lon="13.326483">
     <name>GC8PQP9
 D1.5/T1.5
-Schn&#252;rsenkel
-Ostpreu&#223;en</name>
+Schnürsenkel
+Ostpreußen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6392,14 +6393,14 @@ Ostpreu&#223;en</name>
 <wpt lat="52.516667" lon="13.391667">
     <name>GC75J68
 D3.5/T1
-Hint1: Kuenstler: Ich fand seine Brillen immer etwas ZU gro&#223;. 
+Hint1: Kuenstler: Ich fand seine Brillen immer etwas ZU groß. 
 
-Hint 2: Kuenstler: Zu seinem bekanntesten Titel gab es Plagiatsvorw&#252;rfe, die er immer bestritten hat.
+Hint 2: Kuenstler: Zu seinem bekanntesten Titel gab es Plagiatsvorwürfe, die er immer bestritten hat.
 
 Hint 3: Kuenstler: Er war 4 mal verheiratet: Von den beiden letzten seiner Frauen weiss ich, dass sie mit ihm auftraten.
 
 Hint 4: VOR ORT: grau und vertikal.
-K&#252;nstler gesucht</name>
+Künstler gesucht</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6455,12 +6456,12 @@ Lieblingsplatz</name>
 <wpt lat="52.5266" lon="13.359433">
     <name>GC6ZMM4
 D2/T3
-Empfinde hier - wie mit allm&#228;chtigem Triebe - ein Herz das andere zieht - und dass vergebens Liebe - vor Liebe flieht - Goethe
+Empfinde hier - wie mit allmächtigem Triebe - ein Herz das andere zieht - und dass vergebens Liebe - vor Liebe flieht - Goethe
 Rechts im Busch
 
 Ist die Dose mal nicht da
-Ein Foto-Log gen&#252;gt na klar
-Berliner Kunstspitzen #7 Fritz-Schlo&#223; Park Gipfel</name>
+Ein Foto-Log genügt na klar
+Berliner Kunstspitzen #7 Fritz-Schloß Park Gipfel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6485,8 +6486,8 @@ Aldi Shiraz</name>
 <wpt lat="52.524967" lon="13.36945">
     <name>GC340N9
 D2.5/T1
-So bl&#252;ht der Enzian!
-T&#252;rsteher</name>
+So blüht der Enzian!
+Türsteher</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6499,7 +6500,7 @@ T&#252;rsteher</name>
     <name>GC84Q9E
 D2.5/T1
 Efeu neben dem Kasten
-Nerviges Versteck &#128513;</name>
+Nerviges Versteck 😁</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6538,8 +6539,8 @@ Berlin Hauptbahnhof</name>
 <wpt lat="52.527217" lon="13.33055">
     <name>GC7EDCA
 D2.5/T1.5
-Station zwei: Wem das Angebot zu gro&#223; ist - gemeint ist das Land, das sozusagen "flambiert" wird. 
-Final: Einfach. Rechts. H&#252;fthoch.
+Station zwei: Wem das Angebot zu groß ist - gemeint ist das Land, das sozusagen "flambiert" wird. 
+Final: Einfach. Rechts. Hüfthoch.
 Das Pfeifen im Walde</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6553,7 +6554,7 @@ Das Pfeifen im Walde</name>
     <name>GC91CD9
 D2.5/T1.5
 
-"Und Action!!! - Gro&#223;es Kino in Berlin" - Bonus </name>
+"Und Action!!! - Großes Kino in Berlin" - Bonus </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6565,8 +6566,8 @@ D2.5/T1.5
 <wpt lat="52.45135" lon="13.3964">
     <name>GC8Y3H6
 D2/T1.5
-Magnetisch, Bauch/Brusth&#246;he
-Gl&#252;ck in kleinen Dosen</name>
+Magnetisch, Bauch/Brusthöhe
+Glück in kleinen Dosen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6604,8 +6605,8 @@ Ahoj Prause</name>
 <wpt lat="52.4478" lon="13.39015">
     <name>GC75P19
 D1.5/T3.5
-Im Winter trage ich eine Glatze, im Sommer ein gr&#252;nes Kleid.
-I. Frisch Geschl&#252;pft Thalia E. </name>
+Im Winter trage ich eine Glatze, im Sommer ein grünes Kleid.
+I. Frisch Geschlüpft Thalia E. </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6617,8 +6618,8 @@ I. Frisch Geschl&#252;pft Thalia E. </name>
 <wpt lat="52.5227" lon="13.379367">
     <name>GC10P05
 D2/T1.5
-Am Fu&#223; der St&#252;tze
-Charit&#233;</name>
+Am Fuß der Stütze
+Charité</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6630,10 +6631,10 @@ Charit&#233;</name>
 <wpt lat="52.4393" lon="13.323917">
     <name>GC4VA4E
 D3.5/T5
-Die Excel-Formel ist keine wirkliche H&#252;rde, denn:
+Die Excel-Formel ist keine wirkliche Hürde, denn:
 - eigentlich muss man kein Excel-Guru sein;
 - eigentlich machen hier ja auch nur sehr wenige Ziffern Sinn
-- und eigentlich f&#228;llt auch einem Zweitkl&#228;ssler die Ungereimtheit auf
+- und eigentlich fällt auch einem Zweitklässler die Ungereimtheit auf
 ichbin96</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6648,7 +6649,7 @@ ichbin96</name>
 D2/T1.5
 Station 1: not on the tree / nicht am baum
 Final: concrete slab / beton
-Squirrel's Walnuts / Eichh&#246;rnchens Waln&#252;sse</name>
+Squirrel's Walnuts / Eichhörnchens Walnüsse</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6687,7 +6688,7 @@ martls Knie (reloaded)</name>
     <name>GC79RPQ
 D3.5/T1.5
 Station C: Asphalt ist die Grenze!
-Final: jetzt eher Brusth&#246;he und sozusagen indoor
+Final: jetzt eher Brusthöhe und sozusagen indoor
 GSZ Moabit (LAGeSo)</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6713,7 +6714,7 @@ Mahnmal Versunkene Bibliothek</name>
 <wpt lat="52.51995" lon="13.387067">
     <name>GC38J8A
 D3/T1.5
-blo&#223; nicht fallen lassen...
+bloß nicht fallen lassen...
 Endstation - Berliner Mauer</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6726,9 +6727,9 @@ Endstation - Berliner Mauer</name>
 <wpt lat="52.519717" lon="13.387917">
     <name>GC7NC8K
 D2/T1.5
-F: Symboltr&#228;chtig
+F: Symbolträchtig
 Final: Nano im Boden
-Z&#252;ge in das Leben &#8211; Z&#252;ge in den Tod</name>
+Züge in das Leben – Züge in den Tod</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6753,7 +6754,7 @@ Code Juliet</name>
 <wpt lat="52.439267" lon="13.32195">
     <name>GC6FAWC
 D1.5/T3.5
-Bei den Zielkordinaten sollte die Raupe in der N&#228;he zu sehen sein.Sie sit etwas getarnt und sollte auch wieder gut getarnt werden. Die Koords. springen hier manchmal.Sie ist nicht im Wasser auch nicht am Ufer.
+Bei den Zielkordinaten sollte die Raupe in der Nähe zu sehen sein.Sie sit etwas getarnt und sollte auch wieder gut getarnt werden. Die Koords. springen hier manchmal.Sie ist nicht im Wasser auch nicht am Ufer.
 Die Urwald-Raupe</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6779,7 +6780,7 @@ Rohrpost</name>
 <wpt lat="52.43965" lon="13.3681">
     <name>GC741KV
 D2/T2
-Erst R&#252;ck-, dann Vorderseite
+Erst Rück-, dann Vorderseite
 #11 Dick und doof</name>
     <sym>custom 0</sym>
     <extensions>
@@ -6794,7 +6795,7 @@ Erst R&#252;ck-, dann Vorderseite
 D2/T2
 Das Licht sollte weiter reichen als man die Batterien werfen kann; achtet drauf das ihr nicht in die "Warte-/Endlos-Schleife" geratet! Spoilerfoto nicht vergessen!!!
 Am Final: Mit Fingerspitzengefuehl aufziehen!
-Ferngespr&#228;ch zum Mondscheintarif</name>
+Ferngespräch zum Mondscheintarif</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6806,8 +6807,8 @@ Ferngespr&#228;ch zum Mondscheintarif</name>
 <wpt lat="52.451667" lon="13.288583">
     <name>GC7MKVC
 D2.5/T1
-Nat&#252;rlich nicht unten auf den Gleisen!
-Wenn der Hahn kr&#228;ht auf dem Mist...</name>
+Natürlich nicht unten auf den Gleisen!
+Wenn der Hahn kräht auf dem Mist...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6845,9 +6846,9 @@ Dorf Lankwitz</name>
 <wpt lat="52.525917" lon="13.370367">
     <name>GC29NNZ
 D4/T1
-Outdoor: NANO, magnetisch - am "gr&#252;nen" Schild - hinten - oben.
-P.S. wegen neuerlicher R&#252;ckfragen: Die Bahn scheint "was gedreht" zu haben. Das gesuchte A ist &lt; 6
-Das kleine ICE-R&#228;tsel</name>
+Outdoor: NANO, magnetisch - am "grünen" Schild - hinten - oben.
+P.S. wegen neuerlicher Rückfragen: Die Bahn scheint "was gedreht" zu haben. Das gesuchte A ist &lt; 6
+Das kleine ICE-Rätsel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6938,7 +6939,7 @@ Der wilde Westen</name>
     <name>GC6MWB4
 D1.5/T1.5
 outside, accessible 24/7
-au&#223;en, immer zug&#228;nglich ab 18.10.
+außen, immer zugänglich ab 18.10.
 Pflanz was!</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7022,7 +7023,7 @@ Die Stadtwohnung vom kleinen Maulwurf</name>
 <wpt lat="52.521383" lon="13.386817">
     <name>GC4Y4FM
 D4/T1
-Print the puzzle on paper, and take a pen. NORTH is on the left, EAST is on the right. Final: Nano, third panel of fence, upper left corner / Druck das R&#228;tsel auf Papier aus, und nimm einen Stift. NORTH ist links, EAST ist rechts. Final: Nano, drittes Zaunfeld, linke obere Ecke
+Print the puzzle on paper, and take a pen. NORTH is on the left, EAST is on the right. Final: Nano, third panel of fence, upper left corner / Druck das Rätsel auf Papier aus, und nimm einen Stift. NORTH ist links, EAST ist rechts. Final: Nano, drittes Zaunfeld, linke obere Ecke
 Two Ways</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7036,7 +7037,7 @@ Two Ways</name>
     <name>GC88AKN
 D2/T1.5
 
-Der B&#252;cherwurm (reloaded)</name>
+Der Bücherwurm (reloaded)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7049,7 +7050,7 @@ Der B&#252;cherwurm (reloaded)</name>
     <name>GC76PWM
 D5/T4.5
 ca. 8 m hoch
-Fotos und Augenf&#228;nger beachten
+Fotos und Augenfänger beachten
 "Schweden Cache"
 90 Souvenir Challenge - Cache</name>
     <sym>custom 0</sym>
@@ -7076,7 +7077,7 @@ Sender Witzleben</name>
 <wpt lat="52.461667" lon="13.411667">
     <name>GC3QWWZ
 D3/T1.5
-Richtig rum zur&#252;cklegen, so tief versenken wie m&#246;glich, wieder abtarnen!
+Richtig rum zurücklegen, so tief versenken wie möglich, wieder abtarnen!
 Auf den Spuren von Friedrich Wurm</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7089,7 +7090,7 @@ Auf den Spuren von Friedrich Wurm</name>
 <wpt lat="52.461833" lon="13.411833">
     <name>GC3Z06X
 D5/T4
-Nicht im oder direkt am Wasser. Die T-Wertung ist zu beachten und f&#252;hrt euch zum Ziel. Am Ziel angelangt sucht den Schl&#252;ssel zum R&#228;tsel hinter dem rostigen Hindernis selbst.
+Nicht im oder direkt am Wasser. Die T-Wertung ist zu beachten und führt euch zum Ziel. Am Ziel angelangt sucht den Schlüssel zum Rätsel hinter dem rostigen Hindernis selbst.
 Friedrich Wurms Versteck</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7115,7 +7116,7 @@ Sie haben Post!</name>
 <wpt lat="52.5" lon="13.27205">
     <name>GC6GG0Y
 D3/T2
-Lest die Aufgaben genau! Der D-Wert bezieht sich auf die gestellten Rechenaufgaben und den gesch&#228;tzten Zeitaufwand zum Absolvieren dieses Multis. Der Cache selbst d&#252;rfte nicht allzu schwer zu finden sein.
+Lest die Aufgaben genau! Der D-Wert bezieht sich auf die gestellten Rechenaufgaben und den geschätzten Zeitaufwand zum Absolvieren dieses Multis. Der Cache selbst dürfte nicht allzu schwer zu finden sein.
 AVUS-Rennen 1 - Start und Ziel</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7141,8 +7142,8 @@ Ein neuer "Lost Place"</name>
 <wpt lat="52.45815" lon="13.278467">
     <name>GC865BD
 D2.5/T2.5
-Unter einem Stein in der N&#228;he vom Zaun neben einer Wurzel, grauer ovaler Stein
-B&#228;renh&#246;hle</name>
+Unter einem Stein in der Nähe vom Zaun neben einer Wurzel, grauer ovaler Stein
+Bärenhöhle</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7195,7 +7196,7 @@ Martinikenfelde</name>
     <name>GC45GFF
 D3.5/T1
 Bei der "1" gibt es zwei Meinungen. Wiki hat die andere. Denkt an Loriot!
-Film ab! Ton l&#228;uft ...</name>
+Film ab! Ton läuft ...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7207,8 +7208,8 @@ Film ab! Ton l&#228;uft ...</name>
 <wpt lat="52.5233" lon="13.383517">
     <name>GC5NG84
 D2.5/T1.5
-GR&#220;N, HAMBURG .... KEINE Filmdose - Zur Orientierung kann der Name des Cache verwendet werden ;) GREEN, HAMBURG &#128521; PLEASE USE YOUR EYES ONLY!
-tilidinmann's T-S&#228;ule</name>
+GRÜN, HAMBURG .... KEINE Filmdose - Zur Orientierung kann der Name des Cache verwendet werden ;) GREEN, HAMBURG 😉 PLEASE USE YOUR EYES ONLY!
+tilidinmann's T-Säule</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7235,8 +7236,8 @@ Please hold the Cache</name>
 D2.5/T1.5
 Ehre sei der Natur!
 St. 3: letzte (Ablese-)Zahl 7 (last digit 7)
-Final: Am markanten Objekt unten, stra&#223;enseitig (under the striking object, street side)
-Luisenst&#228;dtische Kirche</name>
+Final: Am markanten Objekt unten, straßenseitig (under the striking object, street side)
+Luisenstädtische Kirche</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7274,8 +7275,8 @@ Logisch</name>
 <wpt lat="52.525733" lon="13.309917">
     <name>GC7E17P
 D2.5/T1.5
-Je nach K&#246;rpergr&#246;&#223;e plusminus Kopfh&#246;he.
-Im Sommerhalbjahr d&#252;rfte das Bergen schwieriger sein als im Winterhalbjahr.
+Je nach Körpergröße plusminus Kopfhöhe.
+Im Sommerhalbjahr dürfte das Bergen schwieriger sein als im Winterhalbjahr.
 Weintrauben und andere Leckereien</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7288,7 +7289,7 @@ Weintrauben und andere Leckereien</name>
 <wpt lat="52.435867" lon="13.3522">
     <name>GC92PKH
 D1.5/T1.5
-Ihr sucht eine h&#228;ngende Filmdose am Zaun.
+Ihr sucht eine hängende Filmdose am Zaun.
 LiLaReSa Lankwitz</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7315,7 +7316,7 @@ Die Schutzheilige</name>
     <name>GC62D1A
 D4/T1
 Der Trainer hat immer Recht
-Ein Tor f&#252;r Pelotto</name>
+Ein Tor für Pelotto</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7340,7 +7341,7 @@ Laroshell</name>
 <wpt lat="52.437467" lon="13.32045">
     <name>GC856ZB
 D5/T3.5
-ECA n&#246;tig
+ECA nötig
 Earthcache Challenge Cache - "Gold"</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7380,7 +7381,7 @@ Schillerpromenade</name>
 <wpt lat="52.43785" lon="13.318017">
     <name>GC83QBF
 D3.5/T4
-Nicht im NSG, Zaun&#252;berklettern unn&#246;tig
+Nicht im NSG, Zaunüberklettern unnötig
 Greifhoch im Efeu
 Challenge-Multimatix 25 verschiedene D/T Varianten</name>
     <sym>custom 0</sym>
@@ -7395,7 +7396,7 @@ Challenge-Multimatix 25 verschiedene D/T Varianten</name>
     <name>GC8GGCE
 D4.5/T1
 
-Mysteri&#246;se Tafel</name>
+Mysteriöse Tafel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7407,7 +7408,7 @@ Mysteri&#246;se Tafel</name>
 <wpt lat="52.4425" lon="13.302">
     <name>GC4WZB0
 D2.5/T1
-F&#252;nf Viktorias - keine Luise!
+Fünf Viktorias - keine Luise!
 In Berlin immer mit "k"
 (Genau genommen aber immer eine Louisa)
 Nicht von Amsterdamer Designern ablenken lassen!
@@ -7436,7 +7437,7 @@ Gaswerk Mariendorf</name>
 <wpt lat="52.494333" lon="13.267333">
     <name>GC7HRM9
 D4/T2.5
-Buchstabenwert des &#8230; Buchstaben im Namen ohne Artikel
+Buchstabenwert des … Buchstaben im Namen ohne Artikel
 Ist das eine Teeparty?</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7475,7 +7476,7 @@ Virtual Reward - Schloss Charlottenburg </name>
 <wpt lat="52.530927" lon="13.341442">
     <name>GC5VAQV
 D3/T2
-Es ist keine goldene Kugel, aber den Cache tauscht er vielleicht gegen eine gewisse Gef&#228;lligkeit.------------------There is no golden bullet, but perhaps the cache can be exchanged for a certain complacency.
+Es ist keine goldene Kugel, aber den Cache tauscht er vielleicht gegen eine gewisse Gefälligkeit.------------------There is no golden bullet, but perhaps the cache can be exchanged for a certain complacency.
 Handarbeit</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7504,7 +7505,7 @@ D2/T2
 Magnetisch, 
 1. Dach_____, 2. _____ Macciato
 1. Gesuchter Gegenstand (Herbere des Kleinen)
-2. L&#246;sungshilfe
+2. Lösungshilfe
 Zaungast</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7557,7 +7558,7 @@ Piratenschatz</name>
     <name>GC8VBX1
 D1.5/T1.5
 Auf dem Zweiten sieht man besser. ;)
-Geheime &#220;bergabe an der Keitel-Villa</name>
+Geheime Übergabe an der Keitel-Villa</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7596,7 +7597,7 @@ Am Ar... von Kreuzberg</name>
     <name>GC3QGGC
 D1.5/T1.5
 hier ist es trocken, aber irgendwie auch nicht / magnetisch
-M&#228;usebunker</name>
+Mäusebunker</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7622,7 +7623,7 @@ Eine kurze Geschichte der Zahl / Numerals</name>
 <wpt lat="52.496167" lon="13.42">
     <name>GC916YB
 D3.5/T1.5
-in ca. 2 m H&#246;he.
+in ca. 2 m Höhe.
 Asterix und der Geocache</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7635,7 +7636,7 @@ Asterix und der Geocache</name>
 <wpt lat="52.452117" lon="13.2821">
     <name>GC6TZGQ
 D2.5/T3
-Klettern unn&#246;tig!
+Klettern unnötig!
 100 Favoriten Challenge Cache</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7662,7 +7663,7 @@ Muskrat and the Nut / Muskrat und die Nuss</name>
     <name>GC32KM7
 D2/T1
 Wie heisst der Cache gleich nochmal?
-Gutenberg&#180;s K&#228;mmerchen</name>
+Gutenberg´s Kämmerchen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7675,7 +7676,7 @@ Gutenberg&#180;s K&#228;mmerchen</name>
     <name>GC76VF0
 D4/T1.5
 Final: oben rechts, unterhalb. 
-Bitte wieder exakt wie vorgefunden zur&#252;cklegen!
+Bitte wieder exakt wie vorgefunden zurücklegen!
 Der Teufel steckt in den Details</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7716,8 +7717,8 @@ Historischer Arbeitsunfall</name>
 <wpt lat="52.52945" lon="13.368167">
     <name>GC8XY9E
 D1/T1.5
-Das einzige, was die Baustelle bisher &#252;berdauert hat.
-D&#246;bi</name>
+Das einzige, was die Baustelle bisher überdauert hat.
+Döbi</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7743,7 +7744,7 @@ Villa Harteneck</name>
     <name>GC4Z5CW
 D1.5/T2
 
-Br&#252;cke am Hospitalgraben</name>
+Brücke am Hospitalgraben</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7756,7 +7757,7 @@ Br&#252;cke am Hospitalgraben</name>
     <name>GC926PV
 D3/T2
 
-Im Schatten des G&#228;rtnergl&#252;cks</name>
+Im Schatten des Gärtnerglücks</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7768,7 +7769,7 @@ Im Schatten des G&#228;rtnergl&#252;cks</name>
 <wpt lat="52.5235" lon="13.3887">
     <name>GC535R0
 D1.5/T1
-Das Gel&#228;nder aus Stahl ist nicht nur zum Schutz da....the railing is not only for protection [ respektiert und achtet auch die Raucher....
+Das Geländer aus Stahl ist nicht nur zum Schutz da....the railing is not only for protection [ respektiert und achtet auch die Raucher....
 Friedrichstadtpalast</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7782,7 +7783,7 @@ Friedrichstadtpalast</name>
     <name>GC4VPJC
 D4/T4
 Stage 1: AUGEN AUF, ES DARF GESUCHT WERDEN! nicht vorne, nicht unten, magnetisch
-Friedrich Wurms gef&#228;hrliche Hinterlassenschaft</name>
+Friedrich Wurms gefährliche Hinterlassenschaft</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7794,10 +7795,10 @@ Friedrich Wurms gef&#228;hrliche Hinterlassenschaft</name>
 <wpt lat="52.524567" lon="13.386233">
     <name>GC8GGCH
 D4/T1.5
-Rechts neben der L&#246;schwassereinspeisung ist ein Loch - und ein Petling. :)
+Rechts neben der Löschwassereinspeisung ist ein Loch - und ein Petling. :)
 
 Falls das mit dem Magneten nicht klappt, dieses Loch hat zwei Enden. :)
-BERLINER SPIONAGENETZWERK - Claire-Waldoff-Stra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Claire-Waldoff-Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7809,7 +7810,7 @@ BERLINER SPIONAGENETZWERK - Claire-Waldoff-Stra&#223;e</name>
 <wpt lat="52.507917" lon="13.274283">
     <name>GC1J231
 D2/T1
-Man muss sich strecken. Gr&#246;&#223;e &gt; 1,80 m ist vom Vorteil
+Man muss sich strecken. Größe &gt; 1,80 m ist vom Vorteil
 HdR</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7822,7 +7823,7 @@ HdR</name>
 <wpt lat="52.43415" lon="13.33485">
     <name>GC83NZN
 D1.5/T2
-Festem Boden unter den F&#252;&#223;en.
+Festem Boden unter den Füßen.
 Der Reisende</name>
     <sym>custom 0</sym>
     <extensions>
@@ -7836,7 +7837,7 @@ Der Reisende</name>
     <name>GC476MK
 D4/T2.5
 "B" vor Ort oder google
-Rest: phantastische Enzyklop&#228;die
+Rest: phantastische Enzyklopädie
 insg. achtzig Buchstaben
 Louis Lewin</name>
     <sym>custom 0</sym>
@@ -7863,8 +7864,8 @@ BOS-Cache (reloaded)</name>
 <wpt lat="52.522483" lon="13.295417">
     <name>GC9382V
 D2/T1.5
-Preussen, aus Stein auf Sand erbaut, suche am s&#252;dlichen Ende
-"Preu&#223;ens Gloria (Bonus)"</name>
+Preussen, aus Stein auf Sand erbaut, suche am südlichen Ende
+"Preußens Gloria (Bonus)"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7877,7 +7878,7 @@ Preussen, aus Stein auf Sand erbaut, suche am s&#252;dlichen Ende
     <name>GC6FK7G
 D2.5/T3
 Hint 1: Unten, nicht oben!Hint 2: Es ist Schwierigkeitsgrad 3, also nicht zu offensichtlich!
-440 Tonnen auf "Gro&#223;er Fahrt"</name>
+440 Tonnen auf "Großer Fahrt"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7903,7 +7904,7 @@ Staatsfeind Nr. 1</name>
     <name>GC1C7DM
 D1/T1
 jungesgemuese
-Ein Her(t)z f&#252;r Cacher</name>
+Ein Her(t)z für Cacher</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7984,7 +7985,7 @@ Advent(ure) 2018 #14 (MiniMultiNC)</name>
     <name>GC7MT5J
 D4/T5
 Leiter 3m ist notwendig.
-Kletterausr&#252;stung ist nicht n&#246;tig
+Kletterausrüstung ist nicht nötig
 Engel in X-Berg</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8049,7 +8050,7 @@ magnetisch
 <wpt lat="52.52955" lon="13.314883">
     <name>GC79NNT
 D2/T4
-vorkommemde Hausnummern geordnet nach Gr&#246;&#223;e : 16, 22, 28, 36, 42, 100, 112,161
+vorkommemde Hausnummern geordnet nach Größe : 16, 22, 28, 36, 42, 100, 112,161
 Final : Hotel "Zur Linde" mit Seeblick
 Berlin Monopoly der 30er Jahre</name>
     <sym>custom 0</sym>
@@ -8076,7 +8077,7 @@ BERLINER SPIONAGENETZWERK - Wallstreet</name>
 <wpt lat="52.516367" lon="13.404767">
     <name>GC5N4NM
 D2/T1
-Nano, gr&#252;n, Spoilerbild / Nano, green, spoiler picture
+Nano, grün, Spoilerbild / Nano, green, spoiler picture
 Reverse Wherigo, Berlin-Mitte Edition</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8089,7 +8090,7 @@ Reverse Wherigo, Berlin-Mitte Edition</name>
 <wpt lat="52.433333" lon="13.333333">
     <name>GC2BEWJ
 D3/T1.5
-R&#228;tsel: &#196;/&#214;/&#220; bleiben so und haben keinen eigenen Buchstabenwert
+Rätsel: Ä/Ö/Ü bleiben so und haben keinen eigenen Buchstabenwert
 Final:seltene Erden
 fifty ?? fifty !!</name>
     <sym>custom 0</sym>
@@ -8104,7 +8105,7 @@ fifty ?? fifty !!</name>
     <name>GC5PMDH
 D3/T2
 - Jahreszahl / Versteckdatum
-Puschb&#228;r&#180;s Oster - Challenge</name>
+Puschbär´s Oster - Challenge</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8118,10 +8119,10 @@ Puschb&#228;r&#180;s Oster - Challenge</name>
 D3/T1.5
 Ein Cacher stets frohlockt,
 wenn der Schatz im Baumstumpf hockt.
-Ist der efeu-&#252;berwachsen,
+Ist der efeu-überwachsen,
 machen Muggels keine Faxen!
-Hat der noch 'nen Doppelg&#228;nger,
-findet ihn nicht jeder Dosenf&#228;nger!
+Hat der noch 'nen Doppelgänger,
+findet ihn nicht jeder Dosenfänger!
 Der Bischof</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8164,7 +8165,7 @@ Lichterfelde West</name>
     <name>GC8FYW4
 D2/T1
 Setz' Dich lieber!
-BERLINER SPIONAGENETZWERK - Drakestra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Drakestraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8177,8 +8178,8 @@ BERLINER SPIONAGENETZWERK - Drakestra&#223;e</name>
     <name>GC8PP1Y
 D3.5/T1.5
 Stell dir vor, du bist ein Haubentaucher...... ECA erforderlich!
-Die erh&#246;hte D-Wertung ergibt sich auch durch die Fenster- und Balkonmuggel
-V&#246;gel - V&#246;gel - V&#246;gel</name>
+Die erhöhte D-Wertung ergibt sich auch durch die Fenster- und Balkonmuggel
+Vögel - Vögel - Vögel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8190,8 +8191,8 @@ V&#246;gel - V&#246;gel - V&#246;gel</name>
 <wpt lat="52.521133" lon="13.397867">
     <name>GC49MEW
 D4.5/T1.5
-Hast du T&#246;ne? Dann darfst du b&#246;se Vorzeichen getrost ignorieren.
-[Final: Hier sind oft viele Muggel, daher vorzugsweise nachts. Es m&#252;ssen keine Absperrungen &#252;berwunden werden. Bitte keine Gewalt! Es ist keine Filmdose und es passen keinerlei TBs/Coins hinein.]
+Hast du Töne? Dann darfst du böse Vorzeichen getrost ignorieren.
+[Final: Hier sind oft viele Muggel, daher vorzugsweise nachts. Es müssen keine Absperrungen überwunden werden. Bitte keine Gewalt! Es ist keine Filmdose und es passen keinerlei TBs/Coins hinein.]
 Hausmusik beim Alten Fritz</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8218,7 +8219,7 @@ Stadtgarten Moabit</name>
 <wpt lat="52.528417" lon="13.38015">
     <name>GC8HNX6
 D3/T3.5
-Nutzt das &#252;bersichtliche Arbeitsblatt
+Nutzt das übersichtliche Arbeitsblatt
 Finalhinweis gibt's im Checker
 Die vorletzte Mauer</name>
     <sym>custom 0</sym>
@@ -8233,7 +8234,7 @@ Die vorletzte Mauer</name>
     <name>GC3WGPN
 D3.5/T2.5
 Nun ja, was wohl? Magnetisch.
-Nix f&#252;r nerv&#246;se Grobmotoriker und Rudelcacher. H&#252;fthoch.
+Nix für nervöse Grobmotoriker und Rudelcacher. Hüfthoch.
 Referenz: Deutsche ungeschnittene DVD-Fassung. "Netflix" ist nicht hilfreich.
 From dusk till dawn</name>
     <sym>custom 0</sym>
@@ -8247,8 +8248,8 @@ From dusk till dawn</name>
 <wpt lat="52.477567" lon="13.426167">
     <name>GC7X5P8
 D1.5/T1
-R&#228;tsel: Werte der Zahlenschrift jeweils addieren. Cache: Setz' dich erst mal.
-Sch&#246;nschrift</name>
+Rätsel: Werte der Zahlenschrift jeweils addieren. Cache: Setz' dich erst mal.
+Schönschrift</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8261,7 +8262,7 @@ Sch&#246;nschrift</name>
     <name>GC80X7Y
 D2/T1.5
 magnetisch
-An der Rixdorfer Stra&#223;e</name>
+An der Rixdorfer Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8355,7 +8356,7 @@ Grunewaldrunde #1 - Die Efeu-Else</name>
 D2.5/T2
 Mit Blick auf Karl und Friedrich, wenn man links und rechts zwischen zwei Kunstwerken steht, dann ist es LINKS!! 
 - I N N E N - genau im Zentrum! 
-Bitte wieder so zur&#252;cklegen  DANKE!
+Bitte wieder so zurücklegen  DANKE!
 Marx, Monarch und Merkel</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8412,7 +8413,7 @@ D2/T1
 [DE] - Braucht ihr nicht. 
 [ENG] - You do not Need it
 [NL] - echt niet nodig of niet echt nodig :-)
-Cacheschnappi&#180;s T-S&#228;ule</name>
+Cacheschnappi´s T-Säule</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8425,7 +8426,7 @@ Cacheschnappi&#180;s T-S&#228;ule</name>
     <name>GC8KYE6
 D3/T1.5
 2 m
-Bonus Aventure Lab: Buddy B&#228;ren </name>
+Bonus Aventure Lab: Buddy Bären </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8437,7 +8438,7 @@ Bonus Aventure Lab: Buddy B&#228;ren </name>
 <wpt lat="52.513483" lon="13.41145">
     <name>GC4QF5G
 D1/T1
-Seemannsgru&#223;
+Seemannsgruß
 Historischer Hafen Berlin</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8464,9 +8465,9 @@ Widerstand ist zwecklos</name>
 <wpt lat="52.5334" lon="13.359667">
     <name>GC7J8EB
 D4.5/T2
-OM: klein, aber bequeme Sichth&#246;he und es soll ein F sein und kein E!  - EKA: oval und eher oben - UNS: Brust- bis Kopfh&#246;he - O: im Zweifelsfall das linke.
-Final: Bequemer Zugriff von unten. Attribute beachten. Mit etwas Geschick unauff&#228;llig machbar.
-Wortfindungsst&#246;rungen</name>
+OM: klein, aber bequeme Sichthöhe und es soll ein F sein und kein E!  - EKA: oval und eher oben - UNS: Brust- bis Kopfhöhe - O: im Zweifelsfall das linke.
+Final: Bequemer Zugriff von unten. Attribute beachten. Mit etwas Geschick unauffällig machbar.
+Wortfindungsstörungen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8478,7 +8479,7 @@ Wortfindungsst&#246;rungen</name>
 <wpt lat="52.496317" lon="13.262133">
     <name>GC4RMH1
 D2/T2
-h&#228;ngen geblieben
+hängen geblieben
 Mein Schulweg #1</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8544,7 +8545,7 @@ X-Ter</name>
     <name>GC84HTK
 D2.5/T1.5
 Schaut am Zaun unter dem totholz
-D&#246;schen D&#246;schen an der Wand </name>
+Döschen Döschen an der Wand </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8556,7 +8557,7 @@ D&#246;schen D&#246;schen an der Wand </name>
 <wpt lat="52.524733" lon="13.293817">
     <name>GC8PFX9
 D1.5/T1.5
-Baum &#127794; &#127795;   !!Listing lesen!!
+Baum 🌲 🌳   !!Listing lesen!!
 Cache im Schlossgarten </name>
     <sym>custom 0</sym>
     <extensions>
@@ -8570,7 +8571,7 @@ Cache im Schlossgarten </name>
     <name>GC1VJWK
 D2.5/T1
 ... hcsit en gaM ...
-Puschb&#228;r&#180;s - SSSS - Teil 4</name>
+Puschbär´s - SSSS - Teil 4</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8582,7 +8583,7 @@ Puschb&#228;r&#180;s - SSSS - Teil 4</name>
 <wpt lat="52.431306" lon="13.347592">
     <name>GC8Q7HM
 D1.5/T1.5
-Der Cache (eine Filmdose) befindet sich unweit der roten Sitzm&#246;glichkeiten.
+Der Cache (eine Filmdose) befindet sich unweit der roten Sitzmöglichkeiten.
 Am Kinderspielplatz</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8608,7 +8609,7 @@ DH neu</name>
 <wpt lat="52.43163" lon="13.353453">
     <name>GC8XF4J
 D1.5/T1.5
-Ihr sucht einen h&#228;ngenden Petling. Bitte hier nicht parken, es handelt sich um eine Feuerwehrzufahrt!
+Ihr sucht einen hängenden Petling. Bitte hier nicht parken, es handelt sich um eine Feuerwehrzufahrt!
 Am Kleintiergehege </name>
     <sym>custom 0</sym>
     <extensions>
@@ -8622,7 +8623,7 @@ Am Kleintiergehege </name>
     <name>GC8K5W3
 D2.5/T1.5
 
-&#127776;Meteoriten&#127776; im Museum f&#252;r Naturkunde in Berlin </name>
+🌠Meteoriten🌠 im Museum für Naturkunde in Berlin </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8647,8 +8648,8 @@ Kosmologic III</name>
 <wpt lat="52.53215" lon="13.3723">
     <name>GC745FZ
 D2.5/T2
-Final: Ungef&#228;hr f&#252;nfzig cm neben dem roten K&#228;ptn. :-)
-Kommissk&#246;ppe</name>
+Final: Ungefähr fünfzig cm neben dem roten Käptn. :-)
+Kommissköppe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8660,7 +8661,7 @@ Kommissk&#246;ppe</name>
 <wpt lat="52.535083" lon="13.340283">
     <name>GC6EYN6
 D1/T1.5
-nicht n&#246;tig
+nicht nötig
 Mein erster</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8673,8 +8674,8 @@ Mein erster</name>
 <wpt lat="52.534333" lon="13.32865">
     <name>GC745KM
 D1.5/T2.5
-Viele Jahre sp&#228;ter fand der kriminell veranlagte Psychopath K. Wumms das Utensil, er hielt es aber f&#252;r etwas anderes. Sein perfider Plan war bereits gut vorbereitet, aufgrund seiner dummen Verwechslung schlug er jedoch fehl. Gl&#252;ck gehabt! Das Utensil liegt immer noch dort, wo K. Wumms es seinerzeit deponiert hat. Das kleine Schwarze hilft euch.
-&#161;Viva la revoluci&#243;n!</name>
+Viele Jahre später fand der kriminell veranlagte Psychopath K. Wumms das Utensil, er hielt es aber für etwas anderes. Sein perfider Plan war bereits gut vorbereitet, aufgrund seiner dummen Verwechslung schlug er jedoch fehl. Glück gehabt! Das Utensil liegt immer noch dort, wo K. Wumms es seinerzeit deponiert hat. Das kleine Schwarze hilft euch.
+¡Viva la revolución!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8687,7 +8688,7 @@ Viele Jahre sp&#228;ter fand der kriminell veranlagte Psychopath K. Wumms das Ut
     <name>GC1J4MK
 D1/T1.5
 magnetisch, oben, wandseite, nano
-B&#252;rgermeister Boddin</name>
+Bürgermeister Boddin</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8712,7 +8713,7 @@ Rate mal mit Rosenthal</name>
 <wpt lat="52.44105" lon="13.3951">
     <name>GC4HGQ0
 D2.5/T1.5
-Leider ist die sch&#246;ne Bastelei geschredderd.
+Leider ist die schöne Bastelei geschredderd.
 BastelEI</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8727,7 +8728,7 @@ BastelEI</name>
 D3.5/T1.5
 magnetisch / magnetic
 unter / under
-Kreativquartier Heckmann-H&#246;fe</name>
+Kreativquartier Heckmann-Höfe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8753,7 +8754,7 @@ Mein Schulweg #4</name>
     <name>GC1BB97
 D1.5/T1
 magnetisch. Wer auf einer Baustelle landet, sollte sich das Listing noch einmal genauer ansehen.
-B&#228;renzwinger</name>
+Bärenzwinger</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8765,9 +8766,9 @@ B&#228;renzwinger</name>
 <wpt lat="52.5175" lon="13.408417">
     <name>GC82QV8
 D2.5/T1
-quersummeaplusbpluscistdrei&#223;ig
+quersummeaplusbpluscistdreißig
 quersummexplusypluszistvierundzwanzig
-f&#252;rfinalhinweischeckernutzen
+fürfinalhinweischeckernutzen
 
 sumofdigitsofaplusbpluscequalsthirty
 sumofdigitsofxplusypluszequalstwentyfour
@@ -8784,8 +8785,8 @@ Die steinerne Chronik</name>
 <wpt lat="52.532" lon="13.313167">
     <name>GC8KKGY
 D2.5/T2
-- f&#252;r die Antworten gilt &gt; &#228;,&#246;,&#252;,&#223; = ae,oe,ue,ss 
-- Final &gt; typisch Puschb&#228;r
+- für die Antworten gilt &gt; ä,ö,ü,ß = ae,oe,ue,ss 
+- Final &gt; typisch Puschbär
 12.000 Funde und es geht noch weiter ..... </name>
     <sym>custom 0</sym>
     <extensions>
@@ -8804,7 +8805,7 @@ grau
 [Final: ]
 https://www.bam.de/Navigation/EN/About-us/Organisation/Organisation-Chart/organisation-chart.html; 
 grey
-BUMM, &#228;h BAM (reloaded)</name>
+BUMM, äh BAM (reloaded)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8883,7 +8884,7 @@ Kirche auf Wanderschaft I - reloaded</name>
     <name>GC8GGD2
 D3/T2
 Regenabflussrohr
-BERLINER SPIONAGENETZWERK - Tieckstra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Tieckstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8895,8 +8896,8 @@ BERLINER SPIONAGENETZWERK - Tieckstra&#223;e</name>
 <wpt lat="52.442383" lon="13.288333">
     <name>GC83G9X
 D2/T1.5
-[Final] Der P&#228;dagoge. Bitte Auf die Pflanzen achten!!! Und bei Bergungsschwierigkeiten: "Schiebung!" und "Vorzeichen wechseln" sind hier die Zauberw&#246;rter. Alternativ bipolar. Lange ECA kann im Umkreis gefunden werden. Bitte NUR von hinten schieben!!!
-Wenn das W&#246;rtchen wenn nicht w&#228;r...</name>
+[Final] Der Pädagoge. Bitte Auf die Pflanzen achten!!! Und bei Bergungsschwierigkeiten: "Schiebung!" und "Vorzeichen wechseln" sind hier die Zauberwörter. Alternativ bipolar. Lange ECA kann im Umkreis gefunden werden. Bitte NUR von hinten schieben!!!
+Wenn das Wörtchen wenn nicht wär...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8909,8 +8910,8 @@ Wenn das W&#246;rtchen wenn nicht w&#228;r...</name>
     <name>GC6XT7Y
 D2/T2
 Summe A bis G: siebzig  
-Final: gr&#252;n, klassisch,  strecken. 
-Kann evt. etwas haken, bitte gef&#252;hlvoll, dann geht es gut!
+Final: grün, klassisch,  strecken. 
+Kann evt. etwas haken, bitte gefühlvoll, dann geht es gut!
 St. Thomas Friedhof</name>
     <sym>custom 0</sym>
     <extensions>
@@ -8923,14 +8924,14 @@ St. Thomas Friedhof</name>
 <wpt lat="52.524633" lon="13.397167">
     <name>GC1FGTW
 D1.5/T1.5
-Start, von dort 35,662&#176; 38,81m
-Hinweis befindet sich am Ger&#228;teschuppen Code:0303
+Start, von dort 35,662° 38,81m
+Hinweis befindet sich am Geräteschuppen Code:0303
 das Final im Durchgang
-ENG: go to the start, from there you are 35,662 &#176; 38,81m
+ENG: go to the start, from there you are 35,662 ° 38,81m
 next note is at the tool code:0303
 the final is in the passage
 TJ:015203276325
-Jolle Sein Millj&#246;h (Spandauer Vorstadt Berlin)</name>
+Jolle Sein Milljöh (Spandauer Vorstadt Berlin)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8982,8 +8983,8 @@ Time2Go</name>
 <wpt lat="52.53295" lon="13.37325">
     <name>GC2FVKX
 D4/T2
-am Baum in Kopfh&#246;he Petling
-Pankepark - S&#252;dpanke (BND)</name>
+am Baum in Kopfhöhe Petling
+Pankepark - Südpanke (BND)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8995,7 +8996,7 @@ Pankepark - S&#252;dpanke (BND)</name>
 <wpt lat="52.430477" lon="13.356544">
     <name>GC8RB1Q
 D1.5/T1.5
-Ein Papierkorb und eine Bank bewachen die in der N&#228;he h&#228;ngende Filmdose.
+Ein Papierkorb und eine Bank bewachen die in der Nähe hängende Filmdose.
 Der kleine Pfleger</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9034,7 +9035,7 @@ SCHWARZWALD</name>
 <wpt lat="52.53045" lon="13.383333">
     <name>GC8G5H2
 D2.5/T1
-Telefon-S&#228;ule
+Telefon-Säule
 BERLINER SPIONAGENETZWERK - Naturkundemuseum</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9048,7 +9049,7 @@ BERLINER SPIONAGENETZWERK - Naturkundemuseum</name>
     <name>GC85N6F
 D5/T3
 Pfostendose
-D5 Pr&#228;sentierteller an der Uni</name>
+D5 Präsentierteller an der Uni</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9060,7 +9061,7 @@ D5 Pr&#228;sentierteller an der Uni</name>
 <wpt lat="52.429788" lon="13.351592">
     <name>GC8Q7HB
 D1.5/T1.5
-Den Cache (eine Dose) findet man stra&#223;enseitig, nicht vom Park aus.
+Den Cache (eine Dose) findet man straßenseitig, nicht vom Park aus.
 Der kleine Marco</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9103,8 +9104,8 @@ BERLINER SPIONAGENETZWERK - Dreister Nano</name>
 <wpt lat="52.430749" lon="13.362675">
     <name>GC8RGRD
 D1.5/T1.5
-Ihr sucht eine Filmdose in einer H&#246;hle direkt an der Wegkreuzung.
-Der kleine Schl&#228;fer</name>
+Ihr sucht eine Filmdose in einer Höhle direkt an der Wegkreuzung.
+Der kleine Schläfer</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9117,7 +9118,7 @@ Der kleine Schl&#228;fer</name>
     <name>GC6QEEN
 D1.5/T1.5
 bipolar
-BodenkreuzBr&#252;cke</name>
+BodenkreuzBrücke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9130,7 +9131,7 @@ BodenkreuzBr&#252;cke</name>
     <name>GC8EZM1
 D4/T1.5
 Regenabflussrohr
-BERLINER SPIONAGENETZWERK - Rosenstra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Rosenstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9142,7 +9143,7 @@ BERLINER SPIONAGENETZWERK - Rosenstra&#223;e</name>
 <wpt lat="52.469233" lon="13.258433">
     <name>GC1G7X7
 D1/T1.5
-&#180;Birdhouse - "Dez. 16 *"
+´Birdhouse - "Dez. 16 *"
 Das Wirtshaus im Grunewald</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9155,7 +9156,7 @@ Das Wirtshaus im Grunewald</name>
 <wpt lat="52.435833" lon="13.301667">
     <name>GC5ABCP
 D2.5/T1.5
-[Final:] flach, anh&#228;nglich
+[Final:] flach, anhänglich
 Lichterfelder Burgen  -  wiederbelebt</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9170,7 +9171,7 @@ Lichterfelder Burgen  -  wiederbelebt</name>
 D3.5/T1.5
 10.12.48 chinesisch gelesen
 Cache: Trennstelle E26
-eine kleine wei&#223;e Wolke</name>
+eine kleine weiße Wolke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9185,7 +9186,7 @@ D3.5/T2
 Witz: "Pariser platz!"
 Cache: Ich empfehle den Haupteingang.
 
-Seit dem 1.1.2018: nach dem gr&#252;nen Checker bei N +037  und bei E -013
+Seit dem 1.1.2018: nach dem grünen Checker bei N +037  und bei E -013
 Und wo liegt das?</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9199,7 +9200,7 @@ Und wo liegt das?</name>
     <name>GC5QBBP
 D5/T2
 Das Baden in freier Natur kann hilfreich sein!
-Das klassische Erdm&#228;nnchen!</name>
+Das klassische Erdmännchen!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9225,7 +9226,7 @@ Die verschwundene Katze - Berlin Edition</name>
     <name>GC8RXPC
 D2.5/T1.5
 
-&#129513;Puzzle&#129513;</name>
+🧩Puzzle🧩</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9251,7 +9252,7 @@ Mein Schulweg #2</name>
     <name>GC6E6QZ
 D2/T3.5
 EKA
-Sie JAGD KATZEnartig ihr 2. M &#8230;. </name>
+Sie JAGD KATZEnartig ihr 2. M …. </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9303,7 +9304,7 @@ Eibe?</name>
     <name>GC7494J
 D2.5/T1.5
 Da kann man sich auch ausruhen
-Sehr spitze Finger oder entsprechende ECA k&#246;nnen hilfreich sein
+Sehr spitze Finger oder entsprechende ECA können hilfreich sein
 Pflanz was! #2</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9317,7 +9318,7 @@ Pflanz was! #2</name>
     <name>GC2A0M5
 D1/T1.5
 tsoP ehcsitengaM
-Post f&#252;r Tante Hedwig </name>
+Post für Tante Hedwig </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9394,7 +9395,7 @@ Unsere Sternschnuppen...</name>
 <wpt lat="52.450933" lon="13.27075">
     <name>GC6D72Q
 D3.5/T1.5
-Auf der gleichen Stra&#223;enseite wie die Einkaufsm&#246;glichkeit
+Auf der gleichen Straßenseite wie die Einkaufsmöglichkeit
 640 kB ought to be enough for anybody</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9407,7 +9408,7 @@ Auf der gleichen Stra&#223;enseite wie die Einkaufsm&#246;glichkeit
 <wpt lat="52.429033" lon="13.328483">
     <name>GC60YGM
 D5/T1
-h&#228;ngt :-)
+hängt :-)
 LiO (reloaded)</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9420,9 +9421,9 @@ LiO (reloaded)</name>
 <wpt lat="52.46155" lon="13.260833">
     <name>GC5V0GN
 D1.5/T1.5
-STAGE 1: etwa in zwei Meter H&#246;he
-(ganz in der N&#228;he befindet sich eine umgest&#252;rzte Kiefer)
-FINAL: am Boden  /  eh&#228;N red ni gnureikraM retor tim muaB
+STAGE 1: etwa in zwei Meter Höhe
+(ganz in der Nähe befindet sich eine umgestürzte Kiefer)
+FINAL: am Boden  /  ehäN red ni gnureikraM retor tim muaB
 Happy Birthday schulleberlin</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9477,7 +9478,7 @@ D2/T1.5
 magnetisch/magnetic
 zweite Ebene/second level 
 RAL 7001
-[f&#252;r die Dose muss man sich beim Finden nicht hinknien, also braucht man sie auch nicht so weit unten wieder zu verstecken.]
+[für die Dose muss man sich beim Finden nicht hinknien, also braucht man sie auch nicht so weit unten wieder zu verstecken.]
 Der Telespargel</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9530,8 +9531,8 @@ Die drei Drachen-Eier</name>
     <name>GC8J35M
 D2/T2
 am Gitter
-Mit etwas Fingerspitzen Gef&#252;hl 
-Klingt Underground Sound in Plutos H&#252;ll
+Mit etwas Fingerspitzen Gefühl 
+Klingt Underground Sound in Plutos Hüll
 Planeten Weg gen Ost</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9557,10 +9558,10 @@ Erle?</name>
 <wpt lat="52.516167" lon="13.271167">
     <name>GC5P7GG
 D3/T1.5
-m&#246;gliche Umlaute = ae, oe, ue
+mögliche Umlaute = ae, oe, ue
 Grundlage ist die Original-Studiofassung
-Finale: das gro&#223;e Y
-Erdm&#228;nnchen und der schr&#228;ge Vogel </name>
+Finale: das große Y
+Erdmännchen und der schräge Vogel </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9573,7 +9574,7 @@ Erdm&#228;nnchen und der schr&#228;ge Vogel </name>
     <name>GC852Y4
 D1.5/T1
 siehe Spoilerbild
-Jannowitzbr&#252;cke </name>
+Jannowitzbrücke </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9585,8 +9586,8 @@ Jannowitzbr&#252;cke </name>
 <wpt lat="52.475867" lon="13.253617">
     <name>GC3D9FH
 D4.5/T3.5
-Dreihundertsechsundsechzig Zentimeter hoch. Ohne Leiter oder gro&#223;em R&#228;uber ist hier vom Boden aus nix zu machen.
-366 Tage-Problem-gel&#246;st-Challenge-Cache</name>
+Dreihundertsechsundsechzig Zentimeter hoch. Ohne Leiter oder großem Räuber ist hier vom Boden aus nix zu machen.
+366 Tage-Problem-gelöst-Challenge-Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9611,7 +9612,7 @@ Wo bin ich??? Hansis HomeZone</name>
 <wpt lat="52.428417" lon="13.357933">
     <name>GC8RKGX
 D1.5/T1.5
-Den letzten Meter zu unserem 6. Cache, einer Filmdose, am Hausende/Zaunanfang, sollte man sich unbedingt geb&#252;ckt n&#228;hern. Man braucht zwischen den B&#252;schen nicht hin und her laufen.
+Den letzten Meter zu unserem 6. Cache, einer Filmdose, am Hausende/Zaunanfang, sollte man sich unbedingt gebückt nähern. Man braucht zwischen den Büschen nicht hin und her laufen.
 Der General (reloaded)</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9624,7 +9625,7 @@ Der General (reloaded)</name>
 <wpt lat="52.513883" lon="13.419067">
     <name>GC480MN
 D4/T1.5
-Suche eine Eigenschaft der Brennereien, mit der sie sich gern schm&#252;cken, und reduziere sie auf eine Ziffer. Final: Fallrohr 1.5m / Look for something the distilleries like to adorn themselves with, and reduce it to one digit. Final: drain pipe, 1.5m
+Suche eine Eigenschaft der Brennereien, mit der sie sich gern schmücken, und reduziere sie auf eine Ziffer. Final: Fallrohr 1.5m / Look for something the distilleries like to adorn themselves with, and reduce it to one digit. Final: drain pipe, 1.5m
 uisge beatha</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9637,7 +9638,7 @@ uisge beatha</name>
 <wpt lat="52.529633" lon="13.392583">
     <name>GC7H2EF
 D1.5/T1.5
-Stromlinienform &#252;ben
+Stromlinienform üben
 Plitsch platsch #2</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9651,7 +9652,7 @@ Plitsch platsch #2</name>
     <name>GC1FHG3
 D3/T1
 [b]Bleg-Wolley[/b]
-Ich angle mir einen Cache hei&#223;t nun "Power-Bridge"</name>
+Ich angle mir einen Cache heißt nun "Power-Bridge"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9666,7 +9667,7 @@ D3/T2.5
 [DE] Das stinkt zum Himmel.
 [EN] That stinks up to heaven.
 [IT] Puzza da morire.
-Touristic-Spot: Hackesche H&#246;fe</name>
+Touristic-Spot: Hackesche Höfe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9704,8 +9705,8 @@ Die Siemensbahn</name>
 <wpt lat="52.512917" lon="13.4205">
     <name>GC4BFHF
 D3/T1.5
-Wo schwarze Balken und gr&#252;ne B&#246;gen zusammenkommen, von da 1 nach rechts.
-I &#9829; Nerd</name>
+Wo schwarze Balken und grüne Bögen zusammenkommen, von da 1 nach rechts.
+I ♥ Nerd</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9732,7 +9733,7 @@ Schrankenrest</name>
 D1.5/T1.5
 KPN: Denkt an Weihnachten!
 Bitte die Dose wieder gut festklemmen!
-Alle, die sich &#252;ber den fehlenden Kran wundern, lesen bitte nochmal den ersten Satz im Listing und gucken nach Fund der Dose genau auf den Boden, dort seht ihr auch den Kran!
+Alle, die sich über den fehlenden Kran wundern, lesen bitte nochmal den ersten Satz im Listing und gucken nach Fund der Dose genau auf den Boden, dort seht ihr auch den Kran!
 Historischer Kran am Nordhafen</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9745,7 +9746,7 @@ Historischer Kran am Nordhafen</name>
 <wpt lat="52.444433" lon="13.277767">
     <name>GC7DRF0
 D4/T1.5
-Ein kleiner Tipp f&#252;r's Final: Am Ende der Geschichte wird ein Ort beschrieben, den ihr so wiederfindet...
+Ein kleiner Tipp für's Final: Am Ende der Geschichte wird ein Ort beschrieben, den ihr so wiederfindet...
 Die Pokis sind los!</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9786,7 +9787,7 @@ Robinie</name>
     <name>GC7W4HC
 D2/T1.5
 Tor / Gate
-K&#246;nigliches Leihamt</name>
+Königliches Leihamt</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9811,7 +9812,7 @@ Kienappel </name>
 <wpt lat="52.500467" lon="13.256467">
     <name>GC4RMHV
 D2/T2
-Peter Pim ist gegen&#252;ber Billy Ball im Vorteil
+Peter Pim ist gegenüber Billy Ball im Vorteil
 Mein Schulweg #3</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9837,7 +9838,7 @@ Sesselpuper</name>
 <wpt lat="52.521333" lon="13.4105">
     <name>GC8902H
 D1/T1
-Mach eine Foto von Dir oder eine deiner pers&#246;nlichen Sachen mit Der Fernsehen Turm im Hintergrund und postet das mit in der log f&#252;r die Cache
+Mach eine Foto von Dir oder eine deiner persönlichen Sachen mit Der Fernsehen Turm im Hintergrund und postet das mit in der log für die Cache
 
 Photo of yourselves or a personal item with the tower in the background and upload with your log
 Television Tower - Fernsehturm</name>
@@ -9852,7 +9853,7 @@ Television Tower - Fernsehturm</name>
 <wpt lat="52.531933" lon="13.388133">
     <name>GC8DHDR
 D2/T1
-Regenabflussrohr, au&#223;en, rechts vom Eingang
+Regenabflussrohr, außen, rechts vom Eingang
 BERLINER SPIONAGENETZWERK - Nordbahnhof</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9865,8 +9866,8 @@ BERLINER SPIONAGENETZWERK - Nordbahnhof</name>
 <wpt lat="52.430833" lon="13.3105">
     <name>GC8J08H
 D3.5/T2
-Brusthoch am Zaun hinter dem linken gro&#223;en Baum - Prost
-Mysteri&#246;ses Geb&#228;ude </name>
+Brusthoch am Zaun hinter dem linken großen Baum - Prost
+Mysteriöses Gebäude </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9879,7 +9880,7 @@ Mysteri&#246;ses Geb&#228;ude </name>
     <name>GCY5EW
 D2.5/T1
 
-Vor allem, Konrad h&#246;r'!</name>
+Vor allem, Konrad hör'!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9891,10 +9892,10 @@ Vor allem, Konrad h&#246;r'!</name>
 <wpt lat="52.43885" lon="13.400167">
     <name>GC2HJZY
 D2/T2
-Der Rittersmann verfing sich in gar garstigem Gestr&#252;pp.
+Der Rittersmann verfing sich in gar garstigem Gestrüpp.
 
 Hoch zu Ross solltet ihr ihn leicht erreichen.
-Film ab! Dornr&#246;schen</name>
+Film ab! Dornröschen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9907,7 +9908,7 @@ Film ab! Dornr&#246;schen</name>
     <name>GCZN05
 D1/T1
 
-&#128643; 1. Elektrische Stra&#223;enbahn &#128643;</name>
+🚃 1. Elektrische Straßenbahn 🚃</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9945,7 +9946,7 @@ Building BER03 (reloaded)</name>
 <wpt lat="52.5033" lon="13.25745">
     <name>GC4RMJT
 D2/T2
-Ich sei gew&#228;hrt mir die Bitte, ........
+Ich sei gewährt mir die Bitte, ........
 Meine Schule, Bonus zu MeinSchulweg #1 - #4</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9958,7 +9959,7 @@ Meine Schule, Bonus zu MeinSchulweg #1 - #4</name>
 <wpt lat="52.535567" lon="13.3104">
     <name>GC7B4XF
 D1.5/T1.5
-Ich bin magnetisch und h&#228;nge ungf&#228;hr auf Brusth&#246;he.
+Ich bin magnetisch und hänge ungfähr auf Brusthöhe.
 Westhafenkanal</name>
     <sym>custom 0</sym>
     <extensions>
@@ -9971,8 +9972,8 @@ Westhafenkanal</name>
 <wpt lat="52.432667" lon="13.302">
     <name>GC5EJZ7
 D3/T1
-Schaue nach einem Holzst&#252;ck
-&#128054;  Auf den Hund gekommen &#128054; </name>
+Schaue nach einem Holzstück
+🐶  Auf den Hund gekommen 🐶 </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9997,11 +9998,11 @@ Advent(ure) 2018 #23</name>
 <wpt lat="52.438667" lon="13.400933">
     <name>GC1XZND
 D3.5/T2
-&#8222;Jeweils&#8220; hei&#223;t von jeder Ziffer.
+„Jeweils“ heißt von jeder Ziffer.
 Der Sprung ist ein Dreisprung, von dort sind es 6,70m Luftlinie.
-Schau in's Logbuch von Dornr&#246;schen.
+Schau in's Logbuch von Dornröschen.
 Lasst Euch nicht von scheinbaren Abstandskonflikten irretieren.
-Film ab!Indiana Jones,der letzte Kreuzzug&#8211;Der Gral</name>
+Film ab!Indiana Jones,der letzte Kreuzzug–Der Gral</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10026,10 +10027,10 @@ D4.5/T3
 <wpt lat="52.539333" lon="13.352417">
     <name>GC3J5DD
 D3/T1.5
-[Zum R&#228;tsel:] Das Foto muss quadratisch sein. F&#252;r diejenigen, die sich noch an fr&#252;her erinnern k&#246;nnen, ist das R&#228;tsel ein Kinderspiel
+[Zum Rätsel:] Das Foto muss quadratisch sein. Für diejenigen, die sich noch an früher erinnern können, ist das Rätsel ein Kinderspiel
 
 Vor Ort: unten, magnetisch, Ecke, Filmdose
-Der Himmel &#252;ber Wedding</name>
+Der Himmel über Wedding</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10069,7 +10070,7 @@ Eine von 2.000</name>
     <name>GC7EPN2
 D1.5/T1
 Bei Anruf Lehmann
-Die Kruste wird &#252;berbewertet</name>
+Die Kruste wird überbewertet</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10081,7 +10082,7 @@ Die Kruste wird &#252;berbewertet</name>
 <wpt lat="52.53415" lon="13.303517">
     <name>GC3BDZB
 D2.5/T1.5
-Findest du leider in keinem Cache der Serie ;-) N 52&#176; 32.089' E 13&#176; 18.311'
+Findest du leider in keinem Cache der Serie ;-) N 52° 32.089' E 13° 18.311'
 Spree Blick 6</name>
     <sym>custom 0</sym>
     <extensions>
@@ -10108,7 +10109,7 @@ D4.5/T2.5
     <name>GC6KPV1
 D1.5/T1.5
 Durchwachsen
-Er h&#228;ngt</name>
+Er hängt</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10133,8 +10134,8 @@ Einstein beobachtet die ganz Geheimen</name>
 <wpt lat="52.474017" lon="13.4358">
     <name>GC6XNEF
 D3/T1.5
-nicht nat&#252;rlich
-Thomash&#246;he</name>
+nicht natürlich
+Thomashöhe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10146,7 +10147,7 @@ Thomash&#246;he</name>
 <wpt lat="52.533417" lon="13.3869">
     <name>GC93GJP
 D2/T1.5
-k&#246;nnte laut werden, aber von Autos ist man geschutzt
+könnte laut werden, aber von Autos ist man geschutzt
 Bonus: Park am Nordbahnhof Lab</name>
     <sym>custom 0</sym>
     <extensions>
@@ -10161,7 +10162,7 @@ Bonus: Park am Nordbahnhof Lab</name>
 D4/T1.5
 - 2016
 - unter Stein
-K&#228;pt'n, das Boot ist weg - Berlin Edition 3</name>
+Käpt'n, das Boot ist weg - Berlin Edition 3</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10199,7 +10200,7 @@ Drive-in</name>
 <wpt lat="52.5335" lon="13.300167">
     <name>GC9255G
 D4/T1.5
-F&#252;r ca. 50&#8364; im Monat k&#246;nnten Ihr der Dose jeden Tag und jede Nacht sehr nah sein.
+Für ca. 50€ im Monat könnten Ihr der Dose jeden Tag und jede Nacht sehr nah sein.
 visuelle Triangulierung</name>
     <sym>custom 0</sym>
     <extensions>
@@ -10214,7 +10215,7 @@ visuelle Triangulierung</name>
 D3/T2.5
 FINAL:
 schwarz
-Wer im Glashaus sitzt... oder Bitte nicht f&#252;ttern!</name>
+Wer im Glashaus sitzt... oder Bitte nicht füttern!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10239,7 +10240,7 @@ D3/T1
 <wpt lat="52.448333" lon="13.269167">
     <name>GC48749
 D4/T1
-[R&#228;tsel:] ---
+[Rätsel:] ---
 [Final:] gibts im Geochecker
 Paris in 2 seconds</name>
     <sym>custom 0</sym>
@@ -10253,7 +10254,7 @@ Paris in 2 seconds</name>
 <wpt lat="52.466667" lon="13.433333">
     <name>GC8Y53Z
 D3.5/T1.5
-Drinnen: Immer sch&#246;n tippen!
+Drinnen: Immer schön tippen!
 Draussen: Drinnen!
 Mein erster Computer</name>
     <sym>custom 0</sym>
@@ -10281,7 +10282,7 @@ Zora05</name>
     <name>GC7B92Q
 D1/T1
 
-Wie sp&#228;t ist es? (Weltzeituhr) [D, EN, FR]</name>
+Wie spät ist es? (Weltzeituhr) [D, EN, FR]</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10306,7 +10307,7 @@ Tour de Mauerweg 2</name>
 <wpt lat="52.520967" lon="13.4138">
     <name>GC1XF4Z
 D2/T1
-Telekommunikationsger&#228;t
+Telekommunikationsgerät
 Berlin Alexanderplatz</name>
     <sym>custom 0</sym>
     <extensions>
@@ -10333,7 +10334,7 @@ Jawoll Herr Kaleun!</name>
     <name>GC7D699
 D2.5/T2
 
-Eiszeit in Berlin &#10052; die coole Stadt (Ice Age)</name>
+Eiszeit in Berlin ❄ die coole Stadt (Ice Age)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10345,7 +10346,7 @@ Eiszeit in Berlin &#10052; die coole Stadt (Ice Age)</name>
 <wpt lat="52.425983" lon="13.355933">
     <name>GC8Q3YQ
 D1.5/T1
-Der Cache (ein Nano) ist magnetisch und befindet sich in Knieh&#246;he an der Ecke [85]. Nicht am Z&#8230;! - Am R...!
+Der Cache (ein Nano) ist magnetisch und befindet sich in Kniehöhe an der Ecke [85]. Nicht am Z…! - Am R...!
 Der kleine Malteser</name>
     <sym>custom 0</sym>
     <extensions>
@@ -10362,7 +10363,7 @@ AUFGABE:
 nur Buchstaben, keine Satzzeichen/Leerzeichen
 FINAL:
 In der Ecke; rot; 
-k&#246;nnte von Laub verdeckt sein.
+könnte von Laub verdeckt sein.
 Warnung:
 Macht einen Bogen um die nahe Eiche!
 Psalm 23</name>
@@ -10430,8 +10431,8 @@ Stettiner Bahnhof</name>
 <wpt lat="52.539133" lon="13.321317">
     <name>GC7H82K
 D3.5/T2
-Darunter, ca. vierzig cm &#252;ber dem Boden und ca. einen Meter von der rechten Ecke (bei Blickrichtung ca. 2L-J+6  Grad). Zugriff von unten.
-Hinter den Kn&#228;sten</name>
+Darunter, ca. vierzig cm über dem Boden und ca. einen Meter von der rechten Ecke (bei Blickrichtung ca. 2L-J+6  Grad). Zugriff von unten.
+Hinter den Knästen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10489,7 +10490,7 @@ S1: HaHaOh
 S3: Had a cigarre.
 S4: am Boden
 Finale: Magnetisch
-Alte Stra&#223;ennamen (F40)</name>
+Alte Straßennamen (F40)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10502,8 +10503,8 @@ Alte Stra&#223;ennamen (F40)</name>
     <name>GC5GZ6C
 D3/T2
 Ist der gesamte Belag den wir vorgeschlagen haben auf unserer Pizza drauf?
-Keine Tools notwendig, weder f&#252;r das Listing noch am Finale!
-Bilderr&#228;tsel #4#: &#1042;&#1042; macht Pizza</name>
+Keine Tools notwendig, weder für das Listing noch am Finale!
+Bilderrätsel #4#: ВВ macht Pizza</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10531,7 +10532,7 @@ Zeichen und Signalleuchte</name>
 D3/T1.5
 [s]1: nicht unten, Spiegel hilft / [i]not ground level, a mirror would help[/i][/s]  f. hcqngr 22.06.2018
 2: magnetisch / [i]magnetic[/i]
-Gezinkter W&#252;rfel</name>
+Gezinkter Würfel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10545,12 +10546,12 @@ Gezinkter W&#252;rfel</name>
 D4/T2.5
 S4: Zwischen A und J
 S5: Objekt 1 ist im Sommerhalbjahr etwas versteckter
-S6: Genau schauen, Botanik kann st&#246;ren
+S6: Genau schauen, Botanik kann stören
 S16: dort bist du zuvor vermutlich vorbeigekommen
 S17: sie sind rot
 S20: Korkenzieher sind meist aus Metall...
 Final: siehe Spoiler
-Augenma&#223;</name>
+Augenmaß</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10562,12 +10563,12 @@ Augenma&#223;</name>
 <wpt lat="52.532217" lon="13.39465">
     <name>GC7B464
 D4/T2
-Station 5: rechte Stra&#223;enseite, an dieser Station kann man sich in der Tat die Z&#228;hne ausbei&#223;en.
-Station 8: Teil eins in Kopfh&#246;he, blau - Teil zwei ist schwarz.
-Station 10: Ja, es sind ganz sch&#246;n viele. Aber weniger als tausend.
+Station 5: rechte Straßenseite, an dieser Station kann man sich in der Tat die Zähne ausbeißen.
+Station 8: Teil eins in Kopfhöhe, blau - Teil zwei ist schwarz.
+Station 10: Ja, es sind ganz schön viele. Aber weniger als tausend.
 Station 16: Baustellen ignorieren - notfalls dran vorbei gehen 
 Station 18: Wenn du "two bodies" siehst, bist du falsch und hast zu ungenau gemessen.
-Final: Ecke, Kopfh&#246;he
+Final: Ecke, Kopfhöhe
 Invalidencache</name>
     <sym>custom 0</sym>
     <extensions>
@@ -10580,7 +10581,7 @@ Invalidencache</name>
 <wpt lat="52.452283" lon="13.424816999999999">
     <name>GC3DAWT
 D2.5/T1.5
-EN ISO f&#252;r die mit dem Objekt verbundene T&#228;tigkeit. Vierstellige Zahl
+EN ISO für die mit dem Objekt verbundene Tätigkeit. Vierstellige Zahl
 CzweiHazwei-Ohzwei</name>
     <sym>custom 0</sym>
     <extensions>
@@ -10594,7 +10595,7 @@ CzweiHazwei-Ohzwei</name>
     <name>GC6M3KN
 D1/T1.5
 
-Im Wei&#223;</name>
+Im Weiß</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10672,7 +10673,7 @@ KIM 2.0</name>
     <name>GC5DQ8X
 D3.5/T1
 rOt 119
-Bitte keine TBs ablegen, der Cache ist daf&#252;r nicht geeignet!
+Bitte keine TBs ablegen, der Cache ist dafür nicht geeignet!
 Please don't drop TBs, the Cache is not suited for that!
 Der Rosenthaler</name>
     <sym>custom 0</sym>
@@ -10712,10 +10713,10 @@ Im Wald</name>
 <wpt lat="52.438533" lon="13.27985">
     <name>GC7WYGM
 D3/T1.5
-Mu&#223;te zur S-Bahn verlegt werden : 11m in 140&#176; 
-Diagonal &#252;ber den "Platz" , am Ende des linken "Astes" der Holzpalisade 
+Mußte zur S-Bahn verlegt werden : 11m in 140° 
+Diagonal über den "Platz" , am Ende des linken "Astes" der Holzpalisade 
 im Holz eingelassen
-s. Spoilerbilder - auf dem Winterfoto gut zu sehen, im Sommer sehr versteckt unter "Gr&#252;nzeug"
+s. Spoilerbilder - auf dem Winterfoto gut zu sehen, im Sommer sehr versteckt unter "Grünzeug"
 Mini Jasmer - Silver - Challenge Cache </name>
     <sym>custom 0</sym>
     <extensions>
@@ -10728,8 +10729,8 @@ Mini Jasmer - Silver - Challenge Cache </name>
 <wpt lat="52.499667" lon="13.2505">
     <name>GC5XEKW
 D3.5/T1.5
-Der Name des cache enth&#228;lt keinen Fehler
-Es l&#228;uft Euch fast t&#228;glich &#252;ber den Weg,,</name>
+Der Name des cache enthält keinen Fehler
+Es läuft Euch fast täglich über den Weg,,</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10741,7 +10742,7 @@ Es l&#228;uft Euch fast t&#228;glich &#252;ber den Weg,,</name>
 <wpt lat="52.5325" lon="13.290683">
     <name>GC5R3R6
 D1.5/T1.5
-Baumh&#246;hle
+Baumhöhle
 6 Steine oder "nicht anfassen reloaded"</name>
     <sym>custom 0</sym>
     <extensions>
@@ -10755,7 +10756,7 @@ Baumh&#246;hle
     <name>GC8GG5F
 D1.5/T1
 Alles auf eigene Gefahr!
-BERLINER SPIONAGENETZWERK - Magazinstra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Magazinstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10807,7 +10808,7 @@ Teltowkanal Morser</name>
     <name>GC186VX
 D1/T2
 zwischen Himmel und Hoelle
-Teufels H&#252;hneraugen (Bonuscache zu "Teufelsaugen")</name>
+Teufels Hühneraugen (Bonuscache zu "Teufelsaugen")</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10834,8 +10835,8 @@ Berliner Mauerweg: Stettiner Tunnel</name>
     <name>GC8WKKX
 D3.5/T2.5
 Indoor: 
-Manche Werkzeuge sind "stumpf". Dann bitte ein anderes verwenden oder melden. Ansonsten ist diese Frage zu kl&#228;ren: wer spricht?
-Was w&#228;re wenn...?</name>
+Manche Werkzeuge sind "stumpf". Dann bitte ein anderes verwenden oder melden. Ansonsten ist diese Frage zu klären: wer spricht?
+Was wäre wenn...?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10904,7 +10905,7 @@ Kling-a-ling</name>
     <name>GC7DT79
 D2.5/T1.5
 Efeu, nicht am Boden
-W&#228;chter</name>
+Wächter</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -10929,7 +10930,7 @@ Todesstreifen - Berlin Wall (english description)</name>
 <wpt lat="52.480333" lon="13.245883">
     <name>GC44BXV
 D2.5/T5
-plus einskommaf&#252;nf Meter
+plus einskommafünf Meter
 Baumkletterabenteuer 001</name>
     <sym>custom 0</sym>
     <extensions>
@@ -10956,7 +10957,7 @@ Cache in Sicht !  100 x Bennymops</name>
     <name>GC19TGT
 D1/T2
 dazwischen
-Die vergessenen Kaufh&#228;user</name>
+Die vergessenen Kaufhäuser</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11047,8 +11048,8 @@ Voller Wurzeln</name>
 <wpt lat="52.423483" lon="13.357467">
     <name>GC3C5Z3
 D3/T1.5
-Summe aller L&#246;sungen :  siebenzweidreisechs
-Torona macht blau&#8230;.. oder Torona&#8217;s day off</name>
+Summe aller Lösungen :  siebenzweidreisechs
+Torona macht blau….. oder Torona’s day off</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11061,7 +11062,7 @@ Torona macht blau&#8230;.. oder Torona&#8217;s day off</name>
     <name>GC8C70Z
 D2.5/T1.5
 
-F&#252;nf ist Tr&#252;mpf</name>
+Fünf ist Trümpf</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11113,7 +11114,7 @@ Baumgesicht</name>
     <name>GC92DWH
 D2/T1.5
 Jeden Tag kann man sie sehen.
-R&#228;tsel der Sphinx</name>
+Rätsel der Sphinx</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11178,9 +11179,9 @@ Bumm Pling Punkt!</name>
 <wpt lat="52.526583" lon="13.412617">
     <name>GC1Y1C4
 D2/T1.5
-Das &#252;bliche T.
+Das übliche T.
 Wanna call somebody?
-St&#228;dtebauliches - Volksb&#252;hne</name>
+Städtebauliches - Volksbühne</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11192,7 +11193,7 @@ St&#228;dtebauliches - Volksb&#252;hne</name>
 <wpt lat="52.543433" lon="13.339633">
     <name>GC8DH97
 D2/T1.5
-schwarznoppig im immergr&#252;nen
+schwarznoppig im immergrünen
 Furioser Bonus - Die Kugel der Nacht</name>
     <sym>custom 0</sym>
     <extensions>
@@ -11205,7 +11206,7 @@ Furioser Bonus - Die Kugel der Nacht</name>
 <wpt lat="52.4396" lon="13.412883">
     <name>GC1H52B
 D2/T2
-B=60,  wegen Bauarbeiten an der Bahn vor&#252;bergehend ein hint
+B=60,  wegen Bauarbeiten an der Bahn vorübergehend ein hint
 Britzer Garten</name>
     <sym>custom 0</sym>
     <extensions>
@@ -11309,7 +11310,7 @@ Britische Schriftsteller II</name>
 <wpt lat="52.422167" lon="13.347556">
     <name>GC7T5AT
 D1.5/T1.5
-Fiktive Geschichte - der Cache ist real - wer sich an den Hinweisen in der Geschichte orientiert wird schnell f&#252;ndig
+Fiktive Geschichte - der Cache ist real - wer sich an den Hinweisen in der Geschichte orientiert wird schnell fündig
 Die ewigen Wachen vom Okengraben</name>
     <sym>custom 0</sym>
     <extensions>
@@ -11323,7 +11324,7 @@ Die ewigen Wachen vom Okengraben</name>
     <name>GC5XYZF
 D4/T1.5
 
-Golfplatz &#8211; Charlottenburg</name>
+Golfplatz – Charlottenburg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11335,8 +11336,8 @@ Golfplatz &#8211; Charlottenburg</name>
 <wpt lat="52.458417" lon="13.435217">
     <name>GC8BY7H
 D4/T1.5
-Nicht oben! Achte auf ein St&#252;ck vom Baum! Begebe dich Ri. Kanal etwa 2 Meter vor dem Abhang  dann links! Augen auf und nach unten gucken!
-Britzer Br&#252;cke - 56</name>
+Nicht oben! Achte auf ein Stück vom Baum! Begebe dich Ri. Kanal etwa 2 Meter vor dem Abhang  dann links! Augen auf und nach unten gucken!
+Britzer Brücke - 56</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11348,8 +11349,8 @@ Britzer Br&#252;cke - 56</name>
 <wpt lat="52.542483" lon="13.366083">
     <name>GC8EM84
 D4/T3
-Finale: doppelt &#252;berdacht + magnetisch
-Kurioser Wedding (Ecke M&#252;ller)</name>
+Finale: doppelt überdacht + magnetisch
+Kurioser Wedding (Ecke Müller)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11376,7 +11377,7 @@ Kombiniere...ein Cache!</name>
 D3/T2
 Wo fliesst das Wasser (nicht die Pumpe)
 Wasser-Schild
-BERLINER SPIONAGENETZWERK - Wadzeckstra&#223;e</name>
+BERLINER SPIONAGENETZWERK - Wadzeckstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11388,8 +11389,8 @@ BERLINER SPIONAGENETZWERK - Wadzeckstra&#223;e</name>
 <wpt lat="52.52885" lon="13.410033">
     <name>GC8J041
 D1.5/T1
-Telefon-S&#228;ule
-BERLINER SPIONAGENETZWERK - Sch&#246;nhauser Allee</name>
+Telefon-Säule
+BERLINER SPIONAGENETZWERK - Schönhauser Allee</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11428,7 +11429,7 @@ An der Einfahrt</name>
     <name>GC4K9HW
 D2/T1.5
 
-&#188; Schweizer Viertel (reloaded) &#188;</name>
+¼ Schweizer Viertel (reloaded) ¼</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11481,7 +11482,7 @@ D2/T1.5
     <name>GC1ZHTA
 D2/T2
 
-drunter und dr&#252;ber</name>
+drunter und drüber</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11493,7 +11494,7 @@ drunter und dr&#252;ber</name>
 <wpt lat="52.536767" lon="13.294167">
     <name>GC8MD5B
 D2/T1
-Vorsicht Muggels. Bitte unauff&#228;llig und schnell bergen.
+Vorsicht Muggels. Bitte unauffällig und schnell bergen.
 Last Call TXL to BER</name>
     <sym>custom 0</sym>
     <extensions>
@@ -11586,7 +11587,7 @@ Eastside Gallery</name>
 D3.5/T2.5
 AP:      Lanterne
 Final:  Maison d'oiseau
-Les Memoires D&#180;Artagnant </name>
+Les Memoires D´Artagnant </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11625,8 +11626,8 @@ Schoen Gruen</name>
     <name>GC7WYGR
 D3/T2.5
 Vor der Netzgesellschaft, 
-Filmdose in 2,25 m H&#246;he , im gr&#252;n/braunen
-man kommt von au&#223;en ran ohne das Grundst&#252;ck zu betreten.
+Filmdose in 2,25 m Höhe , im grün/braunen
+man kommt von außen ran ohne das Grundstück zu betreten.
  Mini Jasmer - Gold - Challenge Cache </name>
     <sym>custom 0</sym>
     <extensions>
@@ -11640,7 +11641,7 @@ man kommt von au&#223;en ran ohne das Grundst&#252;ck zu betreten.
     <name>GC75WVN
 D2/T2
 
-Rum&#228;nisch-Orthodoxe Kirche &#8222;Mihail und Gavriil&#8220;</name>
+Rumänisch-Orthodoxe Kirche „Mihail und Gavriil“</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11735,8 +11736,8 @@ Plitsch platsch #3</name>
 <wpt lat="52.508333" lon="13.25">
     <name>GC5AAYK
 D2.5/T1.5
-Gr&#252;n ummantelt!
-Erdm&#228;nnchen will auch gef&#252;ttert werden </name>
+Grün ummantelt!
+Erdmännchen will auch gefüttert werden </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11800,8 +11801,8 @@ Die Trabrennbahn Mariendorf</name>
 <wpt lat="52.518533" lon="13.428283">
     <name>GC7HCYR
 D5/T2
-[Puzzle solved before 19.02.2018 18:45: project 61.88m in 118.65&#176;!]
-[DE] ZS: Licht - UV und/oder Dymo, Final: gr&#252;n, rechteckig/UV-Hinweis
+[Puzzle solved before 19.02.2018 18:45: project 61.88m in 118.65°!]
+[DE] ZS: Licht - UV und/oder Dymo, Final: grün, rechteckig/UV-Hinweis
 [EN] Intermediate Stage: Light - UV and/or Dymo, Final: green, rectangular/UV-Hint
 Das Innenhof-Puzzle</name>
     <sym>custom 0</sym>
@@ -11815,8 +11816,8 @@ Das Innenhof-Puzzle</name>
 <wpt lat="52.438333" lon="13.271433">
     <name>GC80GVH
 D4/T1.5
-Wo ist das R&#228;tsel?
-&#127918;  2048 - Gamification &#127918; </name>
+Wo ist das Rätsel?
+🎮  2048 - Gamification 🎮 </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11829,7 +11830,7 @@ Wo ist das R&#228;tsel?
     <name>GC8J12D
 D1/T1
 klassisch
-Handyvorg&#228;nger</name>
+Handyvorgänger</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11881,7 +11882,7 @@ Kleiner Teufel</name>
 <wpt lat="52.48315" lon="13.240317">
     <name>GC6FGJF
 D1.5/T2
-In der N&#228;he des Riesen
+In der Nähe des Riesen
 Riese</name>
     <sym>custom 0</sym>
     <extensions>
@@ -11895,7 +11896,7 @@ Riese</name>
     <name>GC7M2Y7
 D5/T4.5
 
-Der zus&#228;tzliche Hinweis - Neu</name>
+Der zusätzliche Hinweis - Neu</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -11907,7 +11908,7 @@ Der zus&#228;tzliche Hinweis - Neu</name>
 <wpt lat="52.438267" lon="13.4164">
     <name>GC8P8ZQ
 D4/T1.5
-Vom Strassenrand aus erreichbar, bitte nicht ins "Gem&#252;se" treten.
+Vom Strassenrand aus erreichbar, bitte nicht ins "Gemüse" treten.
 An der Neumark</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12026,7 +12027,7 @@ La Cabina</name>
 D2.5/T1.5
 Bitte keine Gewalt und Attribute beachten.
 In Winter nicht machbar ist ernst gemeint.
-&#128293; Super Spoiler - Light my Fire &#128293;</name>
+🔥 Super Spoiler - Light my Fire 🔥</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12052,7 +12053,7 @@ Vopelius Ghia</name>
     <name>GC8D6YZ
 D1.5/T1.5
 
-Die hippste Ex-B&#228;ckerei Berlins</name>
+Die hippste Ex-Bäckerei Berlins</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12103,7 +12104,7 @@ Stechpalme (Ilex)</name>
 <wpt lat="52.454133" lon="13.436383">
     <name>GC86A40
 D1.5/T2
-N&#228;he Birke ;) Das BVG-Gel&#228;nde braucht man nicht zu betreten! Nicht magnetisch, den Cache vorsichtig l&#228;ngs aus der Halterung ziehen! Danke! ;)
+Nähe Birke ;) Das BVG-Gelände braucht man nicht zu betreten! Nicht magnetisch, den Cache vorsichtig längs aus der Halterung ziehen! Danke! ;)
 BVG-56</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12157,7 +12158,7 @@ Platz der Trolle #1</name>
     <name>GC59QN8
 D2/T2.5
 
-Georgia Erf&#252;llt Grunewald</name>
+Georgia Erfüllt Grunewald</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12183,7 +12184,7 @@ Challenge - 6 gleiche Tage in allen 12 M + 1 Monat</name>
     <name>GC6RYWG
 D3/T1
 
-Astradynes T-S&#228;ulen (R&#252;ckruf)</name>
+Astradynes T-Säulen (Rückruf)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12221,8 +12222,8 @@ Flags On The Bridge</name>
 <wpt lat="52.531283" lon="13.412483">
     <name>GC8J03T
 D4/T1
-Telefon-S&#228;ule
-BERLINER SPIONAGENETZWERK - Kollwitzstra&#223;e</name>
+Telefon-Säule
+BERLINER SPIONAGENETZWERK - Kollwitzstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12273,10 +12274,10 @@ Die Wiege Siemensstadts (reloaded)</name>
 <wpt lat="52.449883" lon="13.253117">
     <name>GC91TMV
 D2/T2
-was baute der "grobe Tom" f&#252;r seine G&#228;ste?
+was baute der "grobe Tom" für seine Gäste?
 
-(Im Winter gerne auff&#252;llen)
-Bonus Adventure Lab:  Onkel Toms H&#252;tte</name>
+(Im Winter gerne auffüllen)
+Bonus Adventure Lab:  Onkel Toms Hütte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12301,7 +12302,7 @@ Am Kinderdepot</name>
 <wpt lat="52.488766666666663" lon="13.448916666666667">
     <name>GC8Q424
 D2.5/T3.5
-Steigt ein B&#252;blein auf den Baum,ei so hoch, man sieht es kaum!H&#252;pft von Ast zu &#196;stchen,schaut ins Geocachen.Ui &#8211; da lacht es,hui &#8211; da kracht es!Plumps da liegt es drunten.
+Steigt ein Büblein auf den Baum,ei so hoch, man sieht es kaum!Hüpft von Ast zu Ästchen,schaut ins Geocachen.Ui – da lacht es,hui – da kracht es!Plumps da liegt es drunten.
 Irrlicht</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12314,7 +12315,7 @@ Irrlicht</name>
 <wpt lat="52.544583" lon="13.374467">
     <name>GCQMYN
 D1.5/T2.5
-Streck Dich - &#252;berm Wasser bist du richtig
+Streck Dich - überm Wasser bist du richtig
 Pankebogen</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12342,7 +12343,7 @@ NME</name>
     <name>GC6XMCT
 D4.5/T3
 
-Der Erdm&#228;nnchen-Bonus!</name>
+Der Erdmännchen-Bonus!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12367,8 +12368,8 @@ Der kleine Fuchur</name>
 <wpt lat="52.422883" lon="13.304717">
     <name>GC7HFP9
 D2.5/T3
-Ein Tritt, Fahrrad oder der "R&#228;uber" w&#228;re sicherlich hilfreich.
-nemmonreb&#252; ottoleP nov edruw retl&#228;hebehcaC ned r&#252;f eedI eiD
+Ein Tritt, Fahrrad oder der "Räuber" wäre sicherlich hilfreich.
+nemmonrebü ottoleP nov edruw retlähebehcaC ned rüf eedI eiD
 4x4 D/T Matrix - Erster Schritt zur 81 - Challenge</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12382,7 +12383,7 @@ nemmonreb&#252; ottoleP nov edruw retl&#228;hebehcaC ned r&#252;f eedI eiD
     <name>GC8YPQ8
 D3.5/T1.5
 unten 
-nicht am m&#252;lleimer
+nicht am mülleimer
 Am Arkonaplatz </name>
     <sym>custom 0</sym>
     <extensions>
@@ -12464,7 +12465,7 @@ Gefangen?</name>
 <wpt lat="52.541617" lon="13.388933">
     <name>GC6FM1R
 D1.5/T1.5
-Mehrst&#228;mmiger Baum unten
+Mehrstämmiger Baum unten
 o/8/15 - Wo bin ich</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12478,7 +12479,7 @@ o/8/15 - Wo bin ich</name>
     <name>GC6AW48
 D2/T1.5
 Absoluten Stealth-Modus einschalten!
-Pl&#246;tzenseeblick</name>
+Plötzenseeblick</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12583,7 +12584,7 @@ Wo bin ich ? - Reloaded</name>
     <name>GC5ZF7G
 D2/T1.5
 Links vom Tor durchs Loch nach links greifen... 
-Beim Zur&#252;cklegen drauf achten, dass nix rausguckt
+Beim Zurücklegen drauf achten, dass nix rausguckt
 Sendemast Britz</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12611,7 +12612,7 @@ Wo bin ich ? - Mitte ( 1. Teil )</name>
     <name>GC3WCFP
 D2.5/T2.5
 ca. 3,20m gnilteP
-Die Fahnen hoch (ehem. CO&#178;)</name>
+Die Fahnen hoch (ehem. CO²)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12624,7 +12625,7 @@ Die Fahnen hoch (ehem. CO&#178;)</name>
     <name>GC8VJ84
 D2/T1
 Klassiker
-&#214;ffentliche geb&#252;hrenpflichtige Fernsprechanlage</name>
+Öffentliche gebührenpflichtige Fernsprechanlage</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12688,11 +12689,11 @@ Giesensdorf</name>
 <wpt lat="52.502383" lon="13.446283">
     <name>GC377PC
 D2/T1.5
-Station 2: Sucht den Hinweis in unmittelbarer N&#228;he der Br&#252;cke / search the hint within spitting distance to the bridge.
-Br&#252;ckenb&#246;gen / Arcs: Anzahl ist kleiner 10 / less than 10.
-Es z&#228;hlen als ganze Tiere: halb dargestellte Tiere, kleine Tiere und auch, wenn welche der gleichen Art angeh&#246;ren, jedes f&#252;r sich.
+Station 2: Sucht den Hinweis in unmittelbarer Nähe der Brücke / search the hint within spitting distance to the bridge.
+Brückenbögen / Arcs: Anzahl ist kleiner 10 / less than 10.
+Es zählen als ganze Tiere: halb dargestellte Tiere, kleine Tiere und auch, wenn welche der gleichen Art angehören, jedes für sich.
 Animals: everything counts! Also half-shown animals, little animals and duplicates (counts also separately).
-Oberbaumbr&#252;cke</name>
+Oberbaumbrücke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12717,7 +12718,7 @@ Abgestorben</name>
 <wpt lat="52.509033" lon="13.244767">
     <name>GC8TNQ7
 D2/T1.5
-Auf Knieh&#246;he im Hedera helix
+Auf Kniehöhe im Hedera helix
 Le Corbusier</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12811,7 +12812,7 @@ Geisterbahnhof </name>
 <wpt lat="52.419067" lon="13.31855">
     <name>GC5GWD1
 D3/T1.5
-Im Finale wartet eine besondere Dose- Hinter gro&#223;en B&#228;umen -Bitte wieder gut verstecken.Es sind nur immer Buchstaben zu z&#228;hlen (nicht &#8222; ! ? -/&#8220; usw)Alle notwendigen Informationen sind im Internet verf&#252;gbar. Ggf. auch in "Du R&#246;hre" schauen.Kein Zaun muss &#252;berquert werden. Kein Geb&#228;ude ist zu betreten.
+Im Finale wartet eine besondere Dose- Hinter großen Bäumen -Bitte wieder gut verstecken.Es sind nur immer Buchstaben zu zählen (nicht „ ! ? -/“ usw)Alle notwendigen Informationen sind im Internet verfügbar. Ggf. auch in "Du Röhre" schauen.Kein Zaun muss überquert werden. Kein Gebäude ist zu betreten.
 Das unbekannte Denkmal in Lichterfelde</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12840,7 +12841,7 @@ D3.5/T3.5
 9 = ganz unten
 blind
 10
-3.500er Jubi f&#252;r Rattchen</name>
+3.500er Jubi für Rattchen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12866,7 +12867,7 @@ Hello Internet - Unofficial Official Geocache</name>
     <name>GC9212Y
 D1.5/T3
 Feuerwehrzufahrt
-Bonus  &#128214; Lesen bildet - In Memoriam...&#128214; Labcache</name>
+Bonus  📖 Lesen bildet - In Memoriam...📖 Labcache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12893,10 +12894,10 @@ Britzer Bunker - Massiner Weg</name>
     <name>GC7E1Z4
 D3.5/T2.5
 Station vier: der Cache ist ja von mir
-Station f&#252;nf: wei&#223; auf blau
-Station sechs: r&#246;tlich
-F&#252;r Haarspalter: Linien sind nicht krumm
-Final: Da, wo der sch&#246;ne Blick ist. Brusth&#246;he, innen.
+Station fünf: weiß auf blau
+Station sechs: rötlich
+Für Haarspalter: Linien sind nicht krumm
+Final: Da, wo der schöne Blick ist. Brusthöhe, innen.
 Bock, Brunn, Blick, Land, Berg und Tal</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12909,10 +12910,10 @@ Bock, Brunn, Blick, Land, Berg und Tal</name>
 <wpt lat="52.524733" lon="13.42755">
     <name>GC67QNW
 D3/T2.5
-Am 15.3.2018 Zwischenstation eingef&#252;gt und Listing ver&#228;ndert!
+Am 15.3.2018 Zwischenstation eingefügt und Listing verändert!
 
-Bitte wieder richtig verschlie&#223;en!
-B&#252;schingstra&#223;e  4</name>
+Bitte wieder richtig verschließen!
+Büschingstraße  4</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12924,7 +12925,7 @@ B&#252;schingstra&#223;e  4</name>
 <wpt lat="52.43" lon="13.278583">
     <name>GC8Y1BZ
 D4/T4.5
-Finale: "66", nicht die Birke!, ungef&#228;hr 6m H&#246;he
+Finale: "66", nicht die Birke!, ungefähr 6m Höhe
 Nattifftoffen-Mathematik</name>
     <sym>custom 0</sym>
     <extensions>
@@ -12938,7 +12939,7 @@ Nattifftoffen-Mathematik</name>
     <name>GC6ZA40
 D4.5/T1.5
 Tipps zum Versteck gibt die Website zusammen mit den Finalkoordinaten :-).Hier nur die Bitte, dass sich alle Teilnehmer eines Geomobs mit ihrem eigenen Nickname ins Logbuch eintragen (lassen), und nicht nur ein Eintrag der Art "Geomob-Gruppe Sowieso" drinsteht. Danke!
-&#128241; 1. Berliner GeoMob-Cache &#128241;</name>
+📱 1. Berliner GeoMob-Cache 📱</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12951,7 +12952,7 @@ Tipps zum Versteck gibt die Website zusammen mit den Finalkoordinaten :-).Hier n
     <name>GC26GFV
 D1.5/T1.5
 Stage 3: 8 Buchstaben
-Arbeiterpal&#228;ste IV</name>
+Arbeiterpaläste IV</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -12990,7 +12991,7 @@ Verformt</name>
     <name>GC6F2MT
 D1.5/T1.5
 
----H&#228;ngendes Gr&#252;n Olympia---</name>
+---Hängendes Grün Olympia---</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13003,7 +13004,7 @@ D1.5/T1.5
     <name>GC7GVQ6
 D1.5/T1.5
 - strecken - - stretch -
-Bitte auf der Seite mit dem "X" &#246;ffnen. 
+Bitte auf der Seite mit dem "X" öffnen. 
 Please open at the "X"-site. Thanks!
 Grenzwachturm Schlesischer Busch (reloaded)</name>
     <sym>custom 0</sym>
@@ -13017,7 +13018,7 @@ Grenzwachturm Schlesischer Busch (reloaded)</name>
 <wpt lat="52.50295" lon="13.44775">
     <name>GC46EY7
 D3.5/T1
-Oh, okay.. wie bei Columbo w&#228;re da noch eine Kleinigkeit... Die T-Wertung stimmt wirklich. Rollstuhlfahrer haben die gleiche Chance wie jeder andere. // Oh, just like with Columbo there is one more thing... The T-rating is correct. The odds for wheelchair people are as good as for anyone else.
+Oh, okay.. wie bei Columbo wäre da noch eine Kleinigkeit... Die T-Wertung stimmt wirklich. Rollstuhlfahrer haben die gleiche Chance wie jeder andere. // Oh, just like with Columbo there is one more thing... The T-rating is correct. The odds for wheelchair people are as good as for anyone else.
 Ich glaub' es clubbt! / Club the Night Away</name>
     <sym>custom 0</sym>
     <extensions>
@@ -13030,7 +13031,7 @@ Ich glaub' es clubbt! / Club the Night Away</name>
 <wpt lat="52.5344" lon="13.412917">
     <name>GC1HT58
 D2/T2
-Die "Dose" war schon da. Wir haben sie nur gef&#252;llt.
+Die "Dose" war schon da. Wir haben sie nur gefüllt.
 Judengang</name>
     <sym>custom 0</sym>
     <extensions>
@@ -13043,8 +13044,8 @@ Judengang</name>
 <wpt lat="52.4864" lon="13.234483">
     <name>GC6JQGM
 D4.5/T1.5
-Etwa in acht metern H&#246;he.
-L&#228;rche</name>
+Etwa in acht metern Höhe.
+Lärche</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13057,7 +13058,7 @@ L&#228;rche</name>
     <name>GC61FT0
 D2.5/T1.5
 Bolzplatz
-Gr&#252;ner Streifen durch das Cityvillage</name>
+Grüner Streifen durch das Cityvillage</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13074,16 +13075,16 @@ D4/T3.5
 [03] Backe, backe, Kuchen!
 [04] Poller
 [05] Kaffeezeit
-[06] ca 2,00m H&#246;he
+[06] ca 2,00m Höhe
 [07] Landungssteg
 [08] nicht wirklich hinfahren (TT.MM.JJJJ)
-[09] senkrechtes Grau, ungef&#228;hr 1,4m H&#246;he
-[10] Robinie, ca. 1,7m H&#246;he
+[09] senkrechtes Grau, ungefähr 1,4m Höhe
+[10] Robinie, ca. 1,7m Höhe
 [11] Wann kommt er?
 [12] dahinter / Bedenke den Namen der Station / Alle Ziffern des gesuchten Wertes: &gt; 5
 [13] Pfahl
 [13.5] unter Holz
-Aus dem Leben eines Buntb&#228;ren</name>
+Aus dem Leben eines Buntbären</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13109,7 +13110,7 @@ Bio?</name>
     <name>GC549WN
 D1.5/T1.5
 
-Fluchttunnel Heidelberger Stra&#223;e</name>
+Fluchttunnel Heidelberger Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13147,8 +13148,8 @@ Es war einmal</name>
 <wpt lat="52.540583" lon="13.399317">
     <name>GC8Z43T
 D2.5/T1
-[HINWEIS ZUM R&#196;TSEL:] kcehcnetkaf. *** [HINWEIS ZUM FINAL:] 6791 netsop fua.
-&#220;ber die Mauer</name>
+[HINWEIS ZUM RÄTSEL:] kcehcnetkaf. *** [HINWEIS ZUM FINAL:] 6791 netsop fua.
+Über die Mauer</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13174,7 +13175,7 @@ St.Marien-St.Nikolai-Friedhof II/Georgenfriedhof I</name>
 <wpt lat="52.421933" lon="13.298233">
     <name>GC46WDX
 D2/T2
-Vor dem Haus ist ist der B&#252;rgersteig in gutem Zustand, an der Ecke schr&#228;g gegen&#252;ber leider nicht.
+Vor dem Haus ist ist der Bürgersteig in gutem Zustand, an der Ecke schräg gegenüber leider nicht.
 Muggel-ORT</name>
     <sym>custom 0</sym>
     <extensions>
@@ -13189,7 +13190,7 @@ Muggel-ORT</name>
 D3.5/T2
 Frage 1: - 
 Frage 2: GK=GE
-Frage 3: ARegV, Anlage 1, &#167;&#167; 3,4I,6,11,12II,15I+II,16
+Frage 3: ARegV, Anlage 1, §§ 3,4I,6,11,12II,15I+II,16
 Cache  : Ecke
 DSO Cache</name>
     <sym>custom 0</sym>
@@ -13204,7 +13205,7 @@ DSO Cache</name>
     <name>GC91RB4
 D3/T1.5
 
-D&#228;nische Bausteine, was sonst!?</name>
+Dänische Bausteine, was sonst!?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13217,7 +13218,7 @@ D&#228;nische Bausteine, was sonst!?</name>
     <name>GC6BZRG
 D2/T1
 Warum im Warten stehen? Nimm doch einfach Platz an den angebotenen Sitzgelegenheiten...
-Wartezeitverk&#252;rzer</name>
+Wartezeitverkürzer</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13269,7 +13270,7 @@ Lac de spa, ce kir</name>
     <name>GC6VF0H
 D2.5/T4
 Listing ordentlich lesen!, Finale Holzhaufen, Stempel und Kissen bitte im Cache lassen
-BWW 7 - H&#246;nower Weg</name>
+BWW 7 - Hönower Weg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13281,7 +13282,7 @@ BWW 7 - H&#246;nower Weg</name>
 <wpt lat="52.417333" lon="13.367517">
     <name>GC88CFZ
 D2/T1.5
-[S2] Gebertstr. / Inzestr. ist falsch, z&#228;hlt noch mal die &#220;berschriften
+[S2] Gebertstr. / Inzestr. ist falsch, zählt noch mal die Überschriften
 [Final] Klassisch in gelb
 LiLaReSa</name>
     <sym>custom 0</sym>
@@ -13349,7 +13350,7 @@ Plitsch platsch #5</name>
     <name>GC92BND
 D1.5/T1.5
 Unter Stein im Laub versteckt ist der Cash verborgen - ich mach mir keine Sorgen!
-Irgendwo in der N&#228;he von Nirgendwo</name>
+Irgendwo in der Nähe von Nirgendwo</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13361,12 +13362,12 @@ Irgendwo in der N&#228;he von Nirgendwo</name>
 <wpt lat="52.550283" lon="13.337917">
     <name>GC8YVH4
 D1.5/T1
-27.12. 20: Kurzlogs werden ab sofort gel&#246;scht (1 Zeichen, TFTC usw)
+27.12. 20: Kurzlogs werden ab sofort gelöscht (1 Zeichen, TFTC usw)
 Nr. 38   Rinde
 Bitte nicht mit Gewalt, Du bekommst
 ihn leicht raus, notfalls gibt es passende ECA vor Ort
 
-Gerne ein Log pro Seite, hier mu&#223; keiner seinen Text quetschen :-)
+Gerne ein Log pro Seite, hier muß keiner seinen Text quetschen :-)
 im Afrikanischen Viertel</name>
     <sym>custom 0</sym>
     <extensions>
@@ -13419,7 +13420,7 @@ Reklame</name>
 <wpt lat="52.5249" lon="13.430567">
     <name>GCKGVD
 D3.5/T3
-Rechnen: Nehme die Koordinaten im Format hdd,ddddd. (Wer wei&#223;, was eine AFFINE gewichtete Summe ist, spart sich Arbeit!)
+Rechnen: Nehme die Koordinaten im Format hdd,ddddd. (Wer weiß, was eine AFFINE gewichtete Summe ist, spart sich Arbeit!)
 Finden: Nehme die liegende Birke, suche am Wurzelstock.
 Parken: Nehme diesen Ort: N52 ??.178 E13 ??.035
 DToB</name>
@@ -13448,7 +13449,7 @@ LaTaBo#2</name>
     <name>GC1A818
 D1.5/T1.5
 
-M&#228;rchenhaft</name>
+Märchenhaft</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -13460,7 +13461,7 @@ M&#228;rchenhaft</name>
 <wpt lat="52.419617" lon="13.382133">
     <name>GC4A75C
 D2/T1.5
-Es gr&#252;nt so gr&#252;n ...
+Es grünt so grün ...
 Holzwurm</name>
     <sym>custom 0</sym>
     <extensions>

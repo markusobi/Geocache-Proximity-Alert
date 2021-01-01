@@ -121,7 +121,7 @@ def alarm_for_files(gpx_filepaths, out_file_or_filename, distance, display_name)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
         ElementTree.register_namespace(prefix, schema_url)
-    tree.write(out_file_or_filename)
+    tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
 
 
 def main():

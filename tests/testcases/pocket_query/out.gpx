@@ -1,3 +1,4 @@
+<?xml version='1.0' encoding='utf-8'?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Geocache Proximity Alert" version="1.1" xsi:schemaLocation="         http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd         http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd         http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd">
 <metadata>
     <link href="https://github.com/markusobi/Geocache-Proximity-Alert">
@@ -21,7 +22,7 @@ Vergessene Welten </name>
     <name>GC38FFM
 D2.5/T2.5
 
-Dunkles Kapitel I (An der D&#252;ne)</name>
+Dunkles Kapitel I (An der Düne)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -74,7 +75,7 @@ Dunkles Kapitel III (Der Kommandantenhof)</name>
     <name>GC74ER7
 D2/T3
 
-Der Br&#252;ckenw&#228;chter am Kanal</name>
+Der Brückenwächter am Kanal</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -131,7 +132,7 @@ Oranienburgs (fast) vergessene Orte</name>
 <wpt lat="52.763783" lon="13.260967">
     <name>GC5R20T
 D2/T5
-Ich stehe gerne als Joker zur Verf&#252;gung einfach vor dem Start bei mir melden.
+Ich stehe gerne als Joker zur Verfügung einfach vor dem Start bei mir melden.
 Summe aller Stationen 117
 Todesmarsch-Gedenk-Cache</name>
     <sym>custom 0</sym>
@@ -212,7 +213,7 @@ Der Lehnitzsee</name>
 <wpt lat="52.7596" lon="13.275417">
     <name>GC8HFH0
 D2/T2
-Denke wie eine Elfe,wo w&#252;rdest du wohnen wollen.
+Denke wie eine Elfe,wo würdest du wohnen wollen.
 Hidden People</name>
     <sym>custom 0</sym>
     <extensions>
@@ -225,8 +226,8 @@ Hidden People</name>
 <wpt lat="52.761083" lon="13.280717">
     <name>GC50XB8
 D1.5/T1.5
-schm&#228;chtiger, hohler Baum
-Tiere am See - 2 Die s&#252;dliche Saubucht</name>
+schmächtiger, hohler Baum
+Tiere am See - 2 Die südliche Saubucht</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -342,7 +343,7 @@ D3.5/T2
 <wpt lat="52.783333" lon="13.291667">
     <name>GC844HX
 D1.5/T2
-ACHTUNG: rege WILDSCHWEIN-AKTIVIT&#196;T bei Dunkelheit, au&#223;erdem ist hier der J&#196;GER aktiv!
+ACHTUNG: rege WILDSCHWEIN-AKTIVITÄT bei Dunkelheit, außerdem ist hier der JÄGER aktiv!
 Zum Cache: im Kleineren
 (k)ein Problem</name>
     <sym>custom 0</sym>
@@ -356,8 +357,8 @@ Zum Cache: im Kleineren
 <wpt lat="52.767333" lon="13.23535">
     <name>GC8ZGAQ
 D2/T2.5
-S&#252;&#223;e Fr&#252;chte
-Ein Kleiner an der Havel (sch&#246;ne Natur)</name>
+Süße Früchte
+Ein Kleiner an der Havel (schöne Natur)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -408,9 +409,9 @@ GHG - WTB</name>
 <wpt lat="52.790417" lon="13.286467">
     <name>GC625YM
 D3.5/T2.5
-R&#228;tsel: Der Checker zeigt und best&#228;tigt euch den Weg zum Final.
+Rätsel: Der Checker zeigt und bestätigt euch den Weg zum Final.
 Final: Wo zwei zusammenkommen.
-Geburtstagsr&#228;tsel - Reloaded</name>
+Geburtstagsrätsel - Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -479,7 +480,7 @@ Dunkles Kapitel II (Schmachtenhagener Forst)</name>
     <name>GC8JZG5
 D2/T5
 
-Die Br&#252;cke</name>
+Die Brücke</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -530,7 +531,7 @@ Die Schranke</name>
 <wpt lat="52.7641" lon="13.312217">
     <name>GC6F96X
 D3/T1.5
-Finde F&#252;nf Hinweise. Suchradius 60m.
+Finde Fünf Hinweise. Suchradius 60m.
 Batmans Versteck</name>
     <sym>custom 0</sym>
     <extensions>
@@ -556,8 +557,8 @@ Kein Drive In - Ein Efeu In #1</name>
 <wpt lat="52.74775" lon="13.237533">
     <name>GC8P6Q9
 D2.5/T1.5
-Nicht Muggelfrei &#128521;
-Einfach mal abh&#228;ngen </name>
+Nicht Muggelfrei 😉
+Einfach mal abhängen </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -595,8 +596,8 @@ Der Legostein</name>
 <wpt lat="52.756633" lon="13.223717">
     <name>GC78TN7
 D2/T1.5
-Kleine ECA f&#252;r's Logbuch n&#246;tig.
-Zum Jubil&#228;um 110 Jahre "Kolonie Eintracht Orania"</name>
+Kleine ECA für's Logbuch nötig.
+Zum Jubiläum 110 Jahre "Kolonie Eintracht Orania"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -608,7 +609,7 @@ Zum Jubil&#228;um 110 Jahre "Kolonie Eintracht Orania"</name>
 <wpt lat="52.798233" lon="13.292933">
     <name>GC7BF1Y
 D1.5/T1.5
-In 1.80m H&#246;he
+In 1.80m Höhe
 Birkenhaus-An der Linde</name>
     <sym>custom 0</sym>
     <extensions>
@@ -622,7 +623,7 @@ Birkenhaus-An der Linde</name>
     <name>GC4BWN0
 D1/T1.5
 Wasser, Wasser, Wasser
-Bonus - Faunas Merkw&#252;rdigkeiten</name>
+Bonus - Faunas Merkwürdigkeiten</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -674,7 +675,7 @@ Immer am Wasser entlang...</name>
     <name>GC4BRVD
 D3.5/T1.5
 Bei D ist nicht die Spitzmaus gemeint.
-Faunas Merkw&#252;rdigkeiten</name>
+Faunas Merkwürdigkeiten</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -764,7 +765,7 @@ Die Pappe im Wald</name>
 <wpt lat="52.75" lon="13.216667">
     <name>GC345KR
 D3/T4
-der Adler wird eher f&#252;ndig als die Schlange
+der Adler wird eher fündig als die Schlange
 Der Garten Eden - Bonus</name>
     <sym>custom 0</sym>
     <extensions>
@@ -777,7 +778,7 @@ Der Garten Eden - Bonus</name>
 <wpt lat="52.743" lon="13.3117">
     <name>GC6J6KZ
 D2/T1.5
-Die Kinderchen spielen gern zwischen dem ganzen Geh&#246;lz.
+Die Kinderchen spielen gern zwischen dem ganzen Gehölz.
 Waldgeisterchen Luca &amp; Fine</name>
     <sym>custom 0</sym>
     <extensions>
@@ -790,8 +791,8 @@ Waldgeisterchen Luca &amp; Fine</name>
 <wpt lat="52.73265" lon="13.28065">
     <name>GC8RY0N
 D2.5/T1.5
-Ein Busch sch&#252;tzt das D&#246;schen vor neugierigen Blicken vom Weg aus.
-Herausforderung f&#252;r schwere Gef&#228;hrte</name>
+Ein Busch schützt das Döschen vor neugierigen Blicken vom Weg aus.
+Herausforderung für schwere Gefährte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -816,7 +817,7 @@ Lieblingsfarbe GELB (1)</name>
 <wpt lat="52.738883" lon="13.308167">
     <name>GC6J6K0
 D1/T1.5
-BOO! auf Augenh&#246;he (etwa 1,70 Meter), D&#246;schen dann unten
+BOO! auf Augenhöhe (etwa 1,70 Meter), Döschen dann unten
 Waldgeist Bibi</name>
     <sym>custom 0</sym>
     <extensions>
@@ -842,7 +843,7 @@ Wasser ist Leben</name>
 <wpt lat="52.773333" lon="13.2">
     <name>GC470D4
 D3/T5
-Wenn es vor Ort nicht weitergeht, strengt euer Hirn an und nutzt all eure Ausr&#252;stung.
+Wenn es vor Ort nicht weitergeht, strengt euer Hirn an und nutzt all eure Ausrüstung.
 Der Teerbrenner Erdmann</name>
     <sym>custom 0</sym>
     <extensions>
@@ -855,7 +856,7 @@ Der Teerbrenner Erdmann</name>
 <wpt lat="52.73515" lon="13.304367">
     <name>GC6J6JH
 D2/T2
-Im Hogan am Fu&#223;e des Berges.
+Im Hogan am Fuße des Berges.
 Waldgeist David</name>
     <sym>custom 0</sym>
     <extensions>
@@ -868,7 +869,7 @@ Waldgeist David</name>
 <wpt lat="52.740733" lon="13.316667">
     <name>GC6FX0N
 D2/T2
-Am Fu&#223;e des schlafenden Riesen
+Am Fuße des schlafenden Riesen
 Happy Birthday -Waldgeister- |reloaded|</name>
     <sym>custom 0</sym>
     <extensions>
@@ -881,7 +882,7 @@ Happy Birthday -Waldgeister- |reloaded|</name>
 <wpt lat="52.738833" lon="13.313833">
     <name>GC6GBVH
 D1.5/T2
-Beh&#252;tet von drei Schwestern.
+Behütet von drei Schwestern.
 Waldgeist Sarah</name>
     <sym>custom 0</sym>
     <extensions>
@@ -986,7 +987,7 @@ Waldgeist Ida</name>
     <name>GC8FG3Q
 D1.5/T1.5
 Bohrloch
-Der Wald schl&#228;gt zur&#252;ck</name>
+Der Wald schlägt zurück</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
