@@ -14,6 +14,7 @@ class Test(unittest.TestCase):
         def display_name(geocache):
             return "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}".format(**vars(geocache))
 
+        encoding = "utf-8"
         for testcase_dir in glob.glob("testcases/*/"):
             with self.subTest(testcase_dir):
                 gpx_filepaths = glob.glob(testcase_dir + "/in/*.gpx")
@@ -26,9 +27,9 @@ class Test(unittest.TestCase):
                     with open(reference_output_filepath, "wb") as f:
                         f.write(outfile.getvalue())
                     continue
-                with open(reference_output_filepath) as reference_file:
+                with open(reference_output_filepath, encoding=encoding) as reference_file:
                     reference_output = reference_file.read()
-                self.assertEqual(outfile.getvalue().decode("utf-8"), reference_output)
+                self.assertEqual(outfile.getvalue().decode(encoding), reference_output)
 
 
 if __name__ == "__main__":
