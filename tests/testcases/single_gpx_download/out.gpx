@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Geocache Proximity Alert" version="1.1" xsi:schemaLocation="         http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd         http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd         http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd">
+<metadata>
+    <link href="https://github.com/markusobi/Geocache-Proximity-Alert">
+        <text>Created by Geocache Proximity Alert</text>
+    </link>
+</metadata>
+<wpt lat="52.550883" lon="13.3987">
+    <name>GC1GTKQ
+D2/T1
+von der Aussenseite und nicht fallen lassen
+Behmstraßenbrücke</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+</gpx>

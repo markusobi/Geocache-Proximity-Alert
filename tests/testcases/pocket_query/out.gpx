@@ -1,0 +1,999 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Geocache Proximity Alert" version="1.1" xsi:schemaLocation="         http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd         http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd         http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd">
+<metadata>
+    <link href="https://github.com/markusobi/Geocache-Proximity-Alert">
+        <text>Created by Geocache Proximity Alert</text>
+    </link>
+</metadata>
+<wpt lat="52.7709" lon="13.268783">
+    <name>GC37T0H
+D4/T3.5
+Hinweise in der Vorstation und in den Wegpunkten
+Vergessene Welten </name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7714" lon="13.265667">
+    <name>GC38FFM
+D2.5/T2.5
+
+Dunkles Kapitel I (An der Düne)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.771667" lon="13.273333">
+    <name>GC7509B
+D4/T2
+
+Bonus- Vergessene Welten</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7682" lon="13.2607">
+    <name>GC36JYJ
+D1/T1.5
+- Beamte arbeiten nicht, .... arbeitet.
+- Pettling
+Vogel des Jahres</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.770067" lon="13.25885">
+    <name>GC2BNY4
+D1.5/T1.5
+
+Dunkles Kapitel III (Der Kommandantenhof)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.772333" lon="13.27915">
+    <name>GC74ER7
+D2/T3
+
+Der Brückenwächter am Kanal</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.766117" lon="13.2778">
+    <name>GC5KQGA
+D2/T1.5
+
+Das verbindende Element</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.778817" lon="13.268367">
+    <name>GC36F8X
+D3/T1.5
+72
+ 9
+
+
+
+
+Name ist Programm
+Meilenstein im Gleisbett</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.768283" lon="13.281317">
+    <name>GC8HJ31
+D1.5/T1.5
+netnuekce
+Oranienburgs (fast) vergessene Orte</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.763783" lon="13.260967">
+    <name>GC5R20T
+D2/T5
+Ich stehe gerne als Joker zur Verfügung einfach vor dem Start bei mir melden.
+Summe aller Stationen 117
+Todesmarsch-Gedenk-Cache</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.763333" lon="13.275833">
+    <name>GC6WBFZ
+D3/T2
+
+Fischi, Fischi, Fischi</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.763333" lon="13.278333">
+    <name>GC7FNQM
+D1/T5
+
+Teufel, Fehler und ihre Verknotungen (reload)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.763583" lon="13.256861">
+    <name>GC82MBX
+D2.5/T1.5
+Horrorklassiker von Stephen King
+Hauptrolle: ein tierischen Helfer.
+Hicks &amp; Astrid's Runde #01</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.76035" lon="13.26365">
+    <name>GC7D2NT
+D1.5/T1.5
+60 Wochen ist die Tragzeit bei Giraffen
+60 Zoll entsprechen circa 1 Meter 50
+Sechzig</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.763117" lon="13.2819">
+    <name>GC34NG9
+D2/T2
+
+Der Lehnitzsee</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7596" lon="13.275417">
+    <name>GC8HFH0
+D2/T2
+Denke wie eine Elfe,wo würdest du wohnen wollen.
+Hidden People</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.761083" lon="13.280717">
+    <name>GC50XB8
+D1.5/T1.5
+schmächtiger, hohler Baum
+Tiere am See - 2 Die südliche Saubucht</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.759367" lon="13.255167">
+    <name>GC549N3
+D3.5/T1.5
+
+Bekannte Melodie</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.755933" lon="13.262083">
+    <name>GC6P1JD
+D2/T4.5
+piep!
+Tanjas Herbstbaum</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.764683" lon="13.292817">
+    <name>GC3N57X
+D1/T5
+
+Methusalem</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.772933" lon="13.241933">
+    <name>GC70M2J
+D1.5/T2
+
+Unterwegs in Oranienburg - An der Rolle #Reloaded#</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.754033" lon="13.261733">
+    <name>GC30K5Q
+D2.5/T2
+
+Seeblick</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.788867" lon="13.268617">
+    <name>GC8TKEG
+D2.5/T1.5
+[Natur pur mit Blick aufs Training, nahe Eingangstor]
+Kreisliga-Legendinnen # 1</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.752667" lon="13.265">
+    <name>GC789CE
+D2.5/T2
+
+Hochwasser in Oranienburg</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.752667" lon="13.263333">
+    <name>GC74W7H
+D3.5/T2
+
+# 1 Thank you Pierce34</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.783333" lon="13.291667">
+    <name>GC844HX
+D1.5/T2
+ACHTUNG: rege WILDSCHWEIN-AKTIVITÄT bei Dunkelheit, außerdem ist hier der JÄGER aktiv!
+Zum Cache: im Kleineren
+(k)ein Problem</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.767333" lon="13.23535">
+    <name>GC8ZGAQ
+D2/T2.5
+Süße Früchte
+Ein Kleiner an der Havel (schöne Natur)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.754333" lon="13.248333">
+    <name>GC7C7QK
+D2/T3.5
+Es sollte ohne gehen, aber Leitplanke  :-)
+Rund um Berlin #1</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.750933" lon="13.259117">
+    <name>GC8Q7AW
+D1.5/T1.5
+Bridges - Go! - Countries
+Lieblingsfarbe GELB (3)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.766667" lon="13.233333">
+    <name>GC3CMRX
+D5/T1.5
+
+GHG - WTB</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.790417" lon="13.286467">
+    <name>GC625YM
+D3.5/T2.5
+Rätsel: Der Checker zeigt und bestätigt euch den Weg zum Final.
+Final: Wo zwei zusammenkommen.
+Geburtstagsrätsel - Reloaded</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.758117" lon="13.237167">
+    <name>GC3J1QH
+D2/T2
+Station eins bis drei: beide Seiten
+Station eins: Ecke
+Station drei: Zaun unten
+Finale: Alles notiert - liegende Birke
+ACHTET AUF DIE ANGLER
+Oranienburger Schloss-Runde</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.754167" lon="13.241983">
+    <name>GC7K2GF
+D2/T1.5
+magnetisch
+Wie unangenehm!</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.785567" lon="13.238833">
+    <name>GC5NVAH
+D2/T1.5
+
+Rapunzel</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.765133" lon="13.306783">
+    <name>GC2BCAR
+D1.5/T1.5
+
+Dunkles Kapitel II (Schmachtenhagener Forst)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.77085" lon="13.229233">
+    <name>GC8JZG5
+D2/T5
+
+Die Brücke</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.792483" lon="13.287417">
+    <name>GC4NFGA
+D3/T2.5
+
+Grabowsee</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.754817" lon="13.236683">
+    <name>GC91XF1
+D2/T1
+
+Schloss Oranienburg (LAB-Bonus)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7784" lon="13.2265">
+    <name>GC5CD36
+D1.5/T1.5
+Abstand zur Schranke etwa 10 Meter. Da sollte die Suche etwas erleichtern. Er soll ja nicht zu schwer sein.
+Die Schranke</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7641" lon="13.312217">
+    <name>GC6F96X
+D3/T1.5
+Finde Fünf Hinweise. Suchradius 60m.
+Batmans Versteck</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.766667" lon="13.317267">
+    <name>GC6KE5K
+D1.5/T1.5
+ca. 1,50 m
+Kein Drive In - Ein Efeu In #1</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.74775" lon="13.237533">
+    <name>GC8P6Q9
+D2.5/T1.5
+Nicht Muggelfrei 😉
+Einfach mal abhängen </name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.742483" lon="13.252867">
+    <name>GC8H6C6
+D1.5/T1
+Magnetisch
+Drope-In</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7411" lon="13.262967">
+    <name>GC6D59M
+D3/T2
+
+Der Legostein</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.756633" lon="13.223717">
+    <name>GC78TN7
+D2/T1.5
+Kleine ECA für's Logbuch nötig.
+Zum Jubiläum 110 Jahre "Kolonie Eintracht Orania"</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.798233" lon="13.292933">
+    <name>GC7BF1Y
+D1.5/T1.5
+In 1.80m Höhe
+Birkenhaus-An der Linde</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.75765" lon="13.222067">
+    <name>GC4BWN0
+D1/T1.5
+Wasser, Wasser, Wasser
+Bonus - Faunas Merkwürdigkeiten</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.78715" lon="13.3131">
+    <name>GC53HYP
+D1.5/T1.5
+
+Baumhochzeit</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.742833" lon="13.2411">
+    <name>GC86VFX
+D1.5/T1.5
+Bitte nicht in der Nacht suchen. Der Deckel ist Magnetisch.
+Am Karpfenteich Krankenhaus Oranienburg</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.752133" lon="13.222483">
+    <name>GC4ZB5G
+D2.5/T2
+Wo ist das Wasser???
+Immer am Wasser entlang...</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.758333" lon="13.216667">
+    <name>GC4BRVD
+D3.5/T1.5
+Bei D ist nicht die Spitzmaus gemeint.
+Faunas Merkwürdigkeiten</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.739783" lon="13.24575">
+    <name>GC91QBG
+D2/T2.5
+unter einem Steinchen
+Lieblingsfarbe Gelb (6)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.740283" lon="13.23895">
+    <name>GC8T7PC
+D1.5/T1.5
+geht auch ohne Leiter
+Lieblingsfarbe GELB (4)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.77935" lon="13.32595">
+    <name>GC576WC
+D2/T2.5
+Nicht am Boden, doch nah am Stein.
+DC+RI</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.773767" lon="13.328633">
+    <name>GC5N2CP
+D2/T3
+
+Schmachtenhagener Dorfrunde</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7475" lon="13.2225">
+    <name>GC1P5QG
+D3/T4.5
+links oben!
+Heinkel Flugzeugwerke Bonus Cache </name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.735167" lon="13.287">
+    <name>GC5126G
+D2/T2
+
+Die Pappe im Wald</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.75" lon="13.216667">
+    <name>GC345KR
+D3/T4
+der Adler wird eher fündig als die Schlange
+Der Garten Eden - Bonus</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.743" lon="13.3117">
+    <name>GC6J6KZ
+D2/T1.5
+Die Kinderchen spielen gern zwischen dem ganzen Gehölz.
+Waldgeisterchen Luca &amp; Fine</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.73265" lon="13.28065">
+    <name>GC8RY0N
+D2.5/T1.5
+Ein Busch schützt das Döschen vor neugierigen Blicken vom Weg aus.
+Herausforderung für schwere Gefährte</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.734217" lon="13.2452">
+    <name>GC8BE7P
+D2/T1.5
+rund
+Lieblingsfarbe GELB (1)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.738883" lon="13.308167">
+    <name>GC6J6K0
+D1/T1.5
+BOO! auf Augenhöhe (etwa 1,70 Meter), Döschen dann unten
+Waldgeist Bibi</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7306" lon="13.25605">
+    <name>GC8PV1W
+D1.5/T1.5
+Reisighaufen
+Wasser ist Leben</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.773333" lon="13.2">
+    <name>GC470D4
+D3/T5
+Wenn es vor Ort nicht weitergeht, strengt euer Hirn an und nutzt all eure Ausrüstung.
+Der Teerbrenner Erdmann</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.73515" lon="13.304367">
+    <name>GC6J6JH
+D2/T2
+Im Hogan am Fuße des Berges.
+Waldgeist David</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.740733" lon="13.316667">
+    <name>GC6FX0N
+D2/T2
+Am Fuße des schlafenden Riesen
+Happy Birthday -Waldgeister- |reloaded|</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.738833" lon="13.313833">
+    <name>GC6GBVH
+D1.5/T2
+Behütet von drei Schwestern.
+Waldgeist Sarah</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.75" lon="13.208333">
+    <name>GC345K0
+D2.5/T2
+St. 4: nicht die kleine Tafel mit drei Jahreszahlen, WAND-Relief mit EINER Jahreszahl
+Der Garten Eden</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.73335" lon="13.23335">
+    <name>GC36C9A
+D2.5/T4
+
+O-Town</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.736383" lon="13.224733">
+    <name>GC3EAMD
+D2.5/T1.5
+
+Sport Frei!</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.741417" lon="13.21475">
+    <name>GC1N71M
+D3/T3.5
+
+Heinkel Flugzeugwerke LP-Cache (second edition)</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7314" lon="13.30095">
+    <name>GC6J6MV
+D2/T2
+ECKstein, ECKstein, alles muss versteckt sein.
+Waldgeister Bonus</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.730017" lon="13.241567">
+    <name>GC3684H
+D2/T1.5
+wikipedia
+06502</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.734833" lon="13.311333">
+    <name>GC6GBPW
+D1.5/T2
+In einem Baum
+Waldgeist Ida</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.7269" lon="13.281">
+    <name>GC8FG3Q
+D1.5/T1.5
+Bohrloch
+Der Wald schlägt zurück</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+</gpx>

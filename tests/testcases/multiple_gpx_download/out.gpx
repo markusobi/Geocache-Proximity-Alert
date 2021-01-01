@@ -1,0 +1,48 @@
+<?xml version='1.0' encoding='utf-8'?>
+<gpx xmlns="http://www.topografix.com/GPX/1/1" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" creator="Geocache Proximity Alert" version="1.1" xsi:schemaLocation="         http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd         http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd         http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd">
+<metadata>
+    <link href="https://github.com/markusobi/Geocache-Proximity-Alert">
+        <text>Created by Geocache Proximity Alert</text>
+    </link>
+</metadata>
+<wpt lat="52.51705" lon="13.423233">
+    <name>GC2DP6F
+D1/T1
+Ping Pong
+Bitte auf Muggel achten.
+Nicht vom Beckenrand springen!</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.513483" lon="13.41145">
+    <name>GC4QF5G
+D1/T1
+Seemannsgruß
+Historischer Hafen Berlin</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+<wpt lat="52.544583" lon="13.374467">
+    <name>GCQMYN
+D1.5/T2.5
+Streck Dich - überm Wasser bist du richtig
+Pankebogen</name>
+    <sym>custom 0</sym>
+    <extensions>
+        <wptx1:WaypointExtension>
+            <wptx1:Proximity>42.0</wptx1:Proximity>
+            <wptx1:DisplayMode>SymbolOnly</wptx1:DisplayMode>
+        </wptx1:WaypointExtension>
+    </extensions>
+</wpt>
+</gpx>

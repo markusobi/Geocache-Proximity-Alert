@@ -1,0 +1,213 @@
+<?xml version="1.0" encoding="utf-8"?>
+<gpx xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="1.0" creator="Groundspeak, Inc. All Rights Reserved. http://www.groundspeak.com" xsi:schemaLocation="http://www.topografix.com/GPX/1/0 http://www.topografix.com/GPX/1/0/gpx.xsd http://www.groundspeak.com/cache/1/0/1 http://www.groundspeak.com/cache/1/0/1/cache.xsd" xmlns="http://www.topografix.com/GPX/1/0">
+  <name>Cache Listing Generated from Geocaching.com</name>
+  <desc>This is an individual cache generated from Geocaching.com</desc>
+  <author>Account "OlePinguin" From Geocaching.com</author>
+  <email>contact@geocaching.com</email>
+  <url>https://www.geocaching.com</url>
+  <urlname>Geocaching - High Tech Treasure Hunting</urlname>
+  <time>2020-12-27T16:12:05.5722557Z</time>
+  <keywords>cache, geocache</keywords>
+  <bounds minlat="52.544583" minlon="13.374467" maxlat="52.544583" maxlon="13.374467" />
+  <wpt lat="52.544583" lon="13.374467">
+    <time>2005-09-21T00:00:00</time>
+    <name>GCQMYN</name>
+    <desc>Pankebogen by CyberMan54 adopted by OlePinguin, Traditional Cache (1.5/2.5)</desc>
+    <url>https://www.geocaching.com/seek/cache_details.aspx?guid=5635572d-9ac2-4ad0-951d-8d3f4329e297</url>
+    <urlname>Pankebogen</urlname>
+    <sym>Geocache</sym>
+    <type>Geocache|Traditional Cache</type>
+    <groundspeak:cache id="294213" available="True" archived="False" xmlns:groundspeak="http://www.groundspeak.com/cache/1/0/1">
+      <groundspeak:name>Pankebogen</groundspeak:name>
+      <groundspeak:placed_by>CyberMan54 adopted by OlePinguin</groundspeak:placed_by>
+      <groundspeak:owner id="1708852">OlePinguin</groundspeak:owner>
+      <groundspeak:type>Traditional Cache</groundspeak:type>
+      <groundspeak:container>Micro</groundspeak:container>
+      <groundspeak:attributes>
+        <groundspeak:attribute id="24" inc="0">Wheelchair accessible</groundspeak:attribute>
+        <groundspeak:attribute id="1" inc="1">Dogs</groundspeak:attribute>
+        <groundspeak:attribute id="7" inc="1">Takes less than one hour</groundspeak:attribute>
+        <groundspeak:attribute id="9" inc="1">Significant hike</groundspeak:attribute>
+        <groundspeak:attribute id="13" inc="1">Available 24/7</groundspeak:attribute>
+        <groundspeak:attribute id="15" inc="1">Available in winter</groundspeak:attribute>
+        <groundspeak:attribute id="23" inc="1">Dangerous area</groundspeak:attribute>
+        <groundspeak:attribute id="32" inc="1">Bicycles</groundspeak:attribute>
+        <groundspeak:attribute id="40" inc="1">Stealth required</groundspeak:attribute>
+        <groundspeak:attribute id="63" inc="1">Recommended for tourists</groundspeak:attribute>
+      </groundspeak:attributes>
+      <groundspeak:difficulty>1.5</groundspeak:difficulty>
+      <groundspeak:terrain>2.5</groundspeak:terrain>
+      <groundspeak:country>Germany</groundspeak:country>
+      <groundspeak:state>Berlin</groundspeak:state>
+      <groundspeak:short_description html="True">&lt;b&gt;Der Pankebogen-Cache&lt;/b&gt;
+</groundspeak:short_description>
+      <groundspeak:long_description html="True">&lt;div class="Section1"&gt;
+&lt;p class="MsoNormal"&gt;&lt;b&gt;Ein Cache am Panke-Grünzug in Berlin-Wedding&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Der &lt;b&gt;Panke-Grünzug&lt;/b&gt; durchzieht als grünes Band den Bezirk Wedding und ist eine interessante Grünverbindung, die den Bezirk weitgehend abseits seiner Problemkieze durchquert. Entlang des Pankeweges findet man neben den Wegeflächen eine Reihe versteckter Platzsituationen mit Aufenthaltsqualität und Blick auf die Panke. Zu genau so einer Stelle führt Euch dieser Cache.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Nach dem Neubau des S-Bahn-Ringes und seiner Untertunnelung wurde das letzte noch fehlende Stück des Panke-Spazierweges zwischen Pank- und Gerichtstraße geschlossen. Der Weg wird südlich der Ringbahn auf dem westlichen Pankeufer, angrenzend und teilweise auf dem Grundstück eines Gewerbehofes in der Gerichtstraße geführt. Dort sind in den Gewerbeflächen im Erdgeschoss gastronomische Einrichtungen geplant, die sich mit ihren Höfen und Sitzplätzen zum Pankegrünzug hin öffnen sollen. Das ist aber noch nicht realisiert.&lt;/p&gt;
+&lt;p class="MsoNormal"&gt;Übrigens, entlang der Panke findet ihr weitere Caches, zum Beispiel: &lt;a rel="nofollow" href="http://www.geocaching.com/seek/cache_details.aspx?wp=GCQKP4&amp;amp;Submit6=Find"&gt;Pankemühle&lt;/a&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" align="center" style="text-align:center;"&gt;&lt;img width="533" height="400" src="http://img.groundspeak.com/cache/5c7eab26-e8d9-4c83-8316-09619624a02c.jpg" /&gt;&lt;/p&gt;
+&lt;p class="MsoNormal" align="center" style="text-align:center;"&gt;&lt;b&gt;&lt;span style="font-family:Arial;"&gt;Mann über Bord im Pankebogen!?&lt;/span&gt;&lt;/b&gt;&lt;/p&gt;
+&lt;p class="MsoNormal"&gt; &lt;/p&gt;
+&lt;/div&gt;
+
+</groundspeak:long_description>
+      <groundspeak:encoded_hints>Streck Dich - überm Wasser bist du richtig
+</groundspeak:encoded_hints>
+      <groundspeak:logs>
+        <groundspeak:log id="985242014">
+          <groundspeak:date>2020-12-27T20:00:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="32864055">zobel59</groundspeak:finder>
+          <groundspeak:text encoded="False">Trotz Strecken und überm Wasser suchen nichts gefunden vielleicht ist er ins Wasser gestürzt der kleine.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="982379945">
+          <groundspeak:date>2020-12-03T21:44:00Z</groundspeak:date>
+          <groundspeak:type>Didn't find it</groundspeak:type>
+          <groundspeak:finder id="1312959">Johnny&amp;Cache</groundspeak:finder>
+          <groundspeak:text encoded="False">Ewig gesucht, keine Chance. Schade.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="973798335">
+          <groundspeak:date>2020-10-25T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="8019108">diomedea24</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei einem wunderbarem Spaziergang konnten viele schöne Tradis, Multis und Mysterys gefunden werden. Da lassen wir gerne den ein oder anderen Favoritenpunkt zurück. 
+Danke an alle Owner fürs Ausdenken, Verstecken und Herführen. Tftc</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="973615278">
+          <groundspeak:date>2020-10-25T02:27:23Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="25513111">shoxman</groundspeak:finder>
+          <groundspeak:text encoded="False">Vor ein paar Wochen hatten wir keinen Erfolg. Es war einfach zu viel los auf der Brücke und am Wasser. Da war es heute morgen deutlich ruhiger und wir konnten mit einem Tipp ausgerüstet direkt fündig werden. 
+Danke fürs Legen und Pflegen!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="969705941">
+          <groundspeak:date>2020-10-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="24922574">naraiDD</groundspeak:finder>
+          <groundspeak:text encoded="False">Wir waren gerade erst in Berlin angekommen, mussten wir doch erst einmal ein paar Döschen einsammeln. Der Spaziergang nach der Fahrt mit dem Zug 🚆, half uns, vor dem Kongress frische Luft zu tanken. OGHK hatte hierfür schon alles vorbereitet. 
+Vielen Dank für das Legen und Pflegen Eurer Caches! 
+
+Wer folgendes entschlüsselt, bekommt eine kleine Belohnung. ;-)
+ 20 4e 69 63 68 74 20 73 6f 20 6c 61 6e 67 77 65 69 6c 69 67 20 77 69 65 20 65 69 6e 68 75 6e 64 65 72 74 20 6d 61 6c 20 74 66 20 74 63 2c 20 61 62 65 72 20 67 65 6e 61 75 73 6f 20 67 75 74 20 66 fc 72 20 64 69 65 20 53 74 61 74 69 73 74 69 6b 20 69 73 74 20 64 69 65 73 65 72 20 6b 6c 65 69 6e 65 20 54 72 69 63 6b 20 68 69 65 72 2c 20 64 65 6e 20 69 63 68 20 6d 69 72 20 62 65 69 20 62 65 66 72 65 75 6e 64 65 74 65 6e 20 43 61 63 68 65 72 6e 20 61 62 67 65 67 75 63 6b 74 20 68 61 62 65 2e 20 49 63 68 20 66 61 6e 64 20 64 69 65 20 49 64 65 65 20 73 6f 20 77 69 74 7a 69 67 2c 20 64 61 73 73 20 69 63 68 20 73 69 65 20 6e 75 6e 20 61 75 63 68 20 6d 61 6c 20 61 75 73 70 72 6f 62 69 65 72 65 6e 20 6d f6 63 68 74 65 2e a 57 65 72 20 73 69 63 68 20 6e 75 6e 20 73 63 68 6f 6e 20 6d 61 6c 20 64 69 65 20 4d fc 68 65 20 67 65 6d 61 63 68 74 20 68 61 74 20 64 61 73 20 61 6c 6c 65 73 20 7a 75 20 65 6e 74 73 63 68 6c fc 73 73 65 6c 6e 2c 20 64 65 72 20 64 61 72 66 20 6e 75 6e 20 61 75 63 68 20 75 6e 73 65 72 65 6e 20 65 72 73 74 65 6e 20 75 6e 64 20 6a 65 74 7a 74 20 61 75 63 68 20 6e 6f 63 68 20 64 65 6e 20 7a 77 65 69 74 65 20 54 42 20 6c 6f 67 67 65 6e 3a 20 47 53 33 48 52 45 20 2f 20 5a 4b 4e 39 4e 42 20 2f 20 4d 54 54 48 42 59 a 42 69 6e 20 6a 61 20 6d 61 6c 20 67 65 73 70 61 6e 6e 74 20 77 69 65 20 6f 66 74 20 64 61 73 20 67 65 6e 75 74 7a 74 20 77 69 72 64 20 75 6e 64 20 77 fc 6e 73 63 68 65 20 61 6c 6c 7a 65 69 74 20 68 61 70 70 79 20 68 75 6e 74 69 6e 67 2e 20 20 20</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="969334568">
+          <groundspeak:date>2020-10-06T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="10615215">OGHK</groundspeak:finder>
+          <groundspeak:text encoded="False">Heute ging es gemeinsam mit Herrn naraiDD auf Dienstreise nach Berlin. Die Zeit vor dem Seminar konnte mit Dosensuchen gut überbrückt werden.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="969281230">
+          <groundspeak:date>2020-10-05T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4335489">js_tsro</groundspeak:finder>
+          <groundspeak:text encoded="False">Bei einer Vormittags-Cache-Runde vom Hauptbahnhof bis zum Gesundbrunnen diesen Cache erfolgreich be-/gesucht. DFDC.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="968461999">
+          <groundspeak:date>2020-10-03T20:31:27Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="20377520">herrhb</groundspeak:finder>
+          <groundspeak:text encoded="False">Der Feiertag und das schöne Wetter luden zu einer Bike&amp;Cache-Tour ein.
+Dieser war einer auf meiner Runde durch Mitte.
+
+Beim ersten Mal hatte ich hier vergeblich gesucht. Nach den erfolgreichen Logs der letzten Wochen heute erneut angesteuert und gleich erfolgreich gewesen.
+
+Danke fürs Verstecken!</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="968740512">
+          <groundspeak:date>2020-10-01T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="32448693">Schaf26</groundspeak:finder>
+          <groundspeak:text encoded="False">Ein sehr schönes Versteck. Konnte schnell gefunden werden. TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="965960766">
+          <groundspeak:date>2020-09-22T01:15:08Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="30552767">lilalynnie</groundspeak:finder>
+          <groundspeak:text encoded="False">Letztes Mal habe ich nur aus der falschen Perspektive gesucht, heute habe dann nochmal versucht und schnell Erfolg gehabt. Danke! </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="964050805">
+          <groundspeak:date>2020-09-14T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="22149028">Knoedelsalat</groundspeak:finder>
+          <groundspeak:text encoded="False">Dank präziser Koordinaten und Hinweis war der Cache rasch erblickt und zum Glück reichte such meine Größe aus, um ihn unbeschadet und unbeobachtet zu bergen und mich im Logbuch zu verewigen.
+Dose und Logbuch geht's prima; offensichtlich hab ich die neue Dose erwischt.
+Vielen Dank an Owner und Vorowner für's Hierherführen und für diesen Cache.</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="963277707">
+          <groundspeak:date>2020-09-12T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="11401267">Moritz der Ältere</groundspeak:finder>
+          <groundspeak:text encoded="False">O Mann! Den hab ich bestimmt schon fünfmal gesucht. Heute habe ich die ganze Familie mitgebracht und zu dritt haben wir ihn, bzw. die beiden Dosen (!) dann auch gefunden. Einer ist tatsächlich total durchgeschimmelt, aber es gibt da noch ein zweites Döschen. Wie schön, dass hier auch endlich ein Smiley lächelt...
+
+TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="963214168">
+          <groundspeak:date>2020-09-13T01:28:49Z</groundspeak:date>
+          <groundspeak:type>Write note</groundspeak:type>
+          <groundspeak:finder id="4543275">ranmile</groundspeak:finder>
+          <groundspeak:text encoded="False">Logbuch ist sehr nass   </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="963212995">
+          <groundspeak:date>2020-09-13T01:26:18Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4543275">ranmile</groundspeak:finder>
+          <groundspeak:text encoded="False">Dank der Vorlogs schnell gefunden und ergriffen. Fotolog ist aufgrund des angeschimmelten Logbuchs aber sympatischer. 
+DfdC </groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="963212671">
+          <groundspeak:date>2020-09-13T01:25:31Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="31667075">Partenopea</groundspeak:finder>
+          <groundspeak:text encoded="False">Schön hier!!!!!! Danke für’s Herführen. Und danke für den Cache!
+🌈</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="962641595">
+          <groundspeak:date>2020-09-08T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="8653806">Katzrin</groundspeak:finder>
+          <groundspeak:text encoded="False">Nach der T-Säule weiter zu diesem Cache geschlendert, umrundet, Turnübungen veranstaltet,... Gar nicht so einfach hier immer Momente abzupassen, ganz schön muggelig.
+
+Ganz großen Dank an OlePinguin, dass ich mit Fotolog loggen durfte und das es diesen alten Cache nach wie vor gibt.
+
+In: FP 💚</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="961561255">
+          <groundspeak:date>2020-09-06T22:12:10Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="5908765">oLeeee</groundspeak:finder>
+          <groundspeak:text encoded="False">TFTC</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="960859968">
+          <groundspeak:date>2020-09-04T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="4423629">lagunenfee</groundspeak:finder>
+          <groundspeak:text encoded="False">Die Dose konnte ich schnell ausfindig machen.
+Leider komme ich mit meiner Größe von 1,56m beim besten Willen nicht an die Dose ran.
+
+Nach Rücksprache mit dem freundlichen Cacheowner darf ich einen Log per Fotobeweis machen. 
+
+Vielen Dank dafür!
+
+DFDC und das Zeigen der schönen Gegend
+
+LG
+Lagunenfee</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="959176924">
+          <groundspeak:date>2020-08-29T19:48:29Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="6999317">Genkidama</groundspeak:finder>
+          <groundspeak:text encoded="False">Gefunden, jedoch meinen Kuli verloren. Sehr mutiges cache an meinem Lieblingswort der Heimatstadt &lt;3 gefunden mit huhligan. Da war nich ein anderer Cache aber der ist ganz vermodert</groundspeak:text>
+        </groundspeak:log>
+        <groundspeak:log id="956004487">
+          <groundspeak:date>2020-08-18T19:00:00Z</groundspeak:date>
+          <groundspeak:type>Found it</groundspeak:type>
+          <groundspeak:finder id="9828377">Frohnau</groundspeak:finder>
+          <groundspeak:text encoded="False">In der ehemaligen Workzone unterwegs und diesen idyllischen Flecken entdeckt, dank dieses Caches. Schön hier, dafür lassen wir mal ein blaues Herzchen da.</groundspeak:text>
+        </groundspeak:log>
+      </groundspeak:logs>
+      <groundspeak:travelbugs />
+    </groundspeak:cache>
+  </wpt>
+</gpx>
