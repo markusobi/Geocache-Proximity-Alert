@@ -97,7 +97,7 @@ def get_xml_namespaces(filename):
             ElementTree.iterparse(filename, events=['start-ns'])]
 
 
-def proximity_alert_tree(geocaches, distance, display_name):
+def proximity_alert_tree(geocaches, distance, display_format):
     gpx_template_root = ElementTree.fromstring(gpx_template)
     root = gpx_template_root
     template_wpt = root.find("{*}wpt")
@@ -106,18 +106,18 @@ def proximity_alert_tree(geocaches, distance, display_name):
         new_wpt_element = copy.deepcopy(template_wpt)
         new_wpt_element.set("lat", geocache.lat)
         new_wpt_element.set("lon", geocache.lon)
-        new_wpt_element.find("{*}name").text = display_name(geocache)
+        new_wpt_element.find("{*}name").text = display_format.format(**vars(geocache))
         new_wpt_element.find("{*}extensions/{*}WaypointExtension/{*}Proximity").text = str(distance)
         root.append(new_wpt_element)
     return ElementTree.ElementTree(root)
 
 
-def alarm_for_files(gpx_filepaths, out_file_or_filename, distance, display_name):
+def alarm_for_files(gpx_filepaths, out_file_or_filename, distance, display_format):
     geocaches = []
     for gpx_filepath in gpx_filepaths:
         geocaches.extend(read_geocaches(gpx_filepath))
     print(f"{len(geocaches)} geocache(s) found")
-    tree = proximity_alert_tree(geocaches, distance, display_name)
+    tree = proximity_alert_tree(geocaches, distance, display_format)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
         ElementTree.register_namespace(prefix, schema_url)
@@ -133,10 +133,9 @@ def main():
         if len(gpx_filepaths) == 0:
             sys.exit("error: no gpx files given and no gpx files found in current directory")
 
-    def display_name(geocache):
-        return "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}".format(**vars(geocache))
+    display_format = "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}"
     distance = 50.0
-    alarm_for_files(gpx_filepaths, "proximity_alarm.gpx", distance, display_name)
+    alarm_for_files(gpx_filepaths, "proximity_alarm.gpx", distance, display_format)
 
 
 if __name__ == "__main__":

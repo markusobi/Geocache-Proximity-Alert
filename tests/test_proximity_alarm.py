@@ -11,25 +11,24 @@ import proximity_alarm
 
 class Test(unittest.TestCase):
     def test_alarm_for_files(self):
-        def display_name(geocache):
-            return "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}".format(**vars(geocache))
-
+        generate_reference_output = False
+        display_format = "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}"
+        distance = 42.0
         encoding = "utf-8"
+
         for testcase_dir in glob.glob("testcases/*/"):
             with self.subTest(testcase_dir):
                 gpx_filepaths = glob.glob(testcase_dir + "/in/*.gpx")
                 outfile = io.BytesIO()
-                distance = 42.0
-                proximity_alarm.alarm_for_files(gpx_filepaths, outfile, distance, display_name)
+                proximity_alarm.alarm_for_files(gpx_filepaths, outfile, distance, display_format)
                 reference_output_filepath = testcase_dir + "/out.gpx"
-                generate_reference_output = False
                 if generate_reference_output:
                     with open(reference_output_filepath, "wb") as f:
                         f.write(outfile.getvalue())
-                    continue
-                with open(reference_output_filepath, encoding=encoding) as reference_file:
-                    reference_output = reference_file.read()
-                self.assertEqual(outfile.getvalue().decode(encoding), reference_output)
+                else:
+                    with open(reference_output_filepath, encoding=encoding) as reference_file:
+                        reference_output = reference_file.read()
+                    self.assertEqual(outfile.getvalue().decode(encoding), reference_output)
 
 
 if __name__ == "__main__":
