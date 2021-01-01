@@ -12,10 +12,7 @@ import proximity_alarm
 class Test(unittest.TestCase):
     def test_alarm_for_files(self):
         def display_name(geocache):
-            if geocache.hint is None:
-                return "{gc_code}\nD{difficulty}/T{terrain}\n{name}".format(**vars(geocache))
-            else:
-                return "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}".format(**vars(geocache))
+            return "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}".format(**vars(geocache))
 
         for testcase_dir in glob.glob("testcases/*/"):
             with self.subTest(testcase_dir):

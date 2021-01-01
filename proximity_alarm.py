@@ -72,10 +72,11 @@ def read_geocaches(gpx_filepath):
         difficulty = wpt.find(".//{*}cache/{*}difficulty").text
         terrain = wpt.find(".//{*}cache/{*}terrain").text
         hint = wpt.find(".//{*}cache/{*}encoded_hints").text
-        if hint is not None:
+        if hint is None:
+            hint = ""
+        else:
             # replace xhtml linebreaks in hints
             hint = re.sub(r"<br\s*?/>", "\n", hint).strip()
-            hint = None if hint == "" else hint
         lat = wpt.get("lat")
         lon = wpt.get("lon")
         geocache = Geocache(name=name_element.text,
@@ -133,10 +134,7 @@ def main():
             sys.exit("error: no gpx files given and no gpx files found in current directory")
 
     def display_name(geocache):
-        if geocache.hint is None:
-            return "{gc_code}\nD{difficulty}/T{terrain}\n{name}".format(**vars(geocache))
-        else:
-            return "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}".format(**vars(geocache))
+        return "{gc_code}\nD{difficulty}/T{terrain}\n{hint}\n{name}".format(**vars(geocache))
     distance = 50.0
     alarm_for_files(gpx_filepaths, "proximity_alarm.gpx", distance, display_name)
 
