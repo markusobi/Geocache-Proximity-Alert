@@ -1,10 +1,15 @@
-from unittest import TestCase
+import os
+import pathlib
+import unittest
 import io
 import glob
+import sys
+os.chdir(pathlib.Path(__file__).parent)
+sys.path.append("..")
 import proximity_alarm
 
 
-class Test(TestCase):
+class Test(unittest.TestCase):
     def test_alarm_for_files(self):
         def display_name(geocache):
             if geocache.hint is None:
@@ -26,3 +31,7 @@ class Test(TestCase):
                 with open(reference_output_filepath) as reference_file:
                     reference_output = reference_file.read()
                 self.assertEqual(outfile.getvalue().decode("utf-8"), reference_output)
+
+
+if __name__ == "__main__":
+    unittest.main()
