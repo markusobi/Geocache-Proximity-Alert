@@ -1,6 +1,7 @@
 #!/usr/bin/env python3
 import copy
 import glob
+import os
 import re
 import sys
 import xml.etree.ElementTree as ElementTree
@@ -111,12 +112,21 @@ def proximity_alert_tree(geocaches, distance, display_format):
     return ElementTree.ElementTree(root)
 
 
+def get_filename(file_or_filename):
+    if isinstance(file_or_filename, io.TextIOWrapper):
+        return file_or_filename.name
+    elif isinstance(file_or_filename, io.BufferedWriter):
+        return file_or_filename.name
+    else:
+        return str(file_or_filename)
+
+
 def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, verbose):
     geocaches = []
     for gpx_filepath in gpx_filepaths:
         geocaches_found = read_geocaches(gpx_filepath)
         if verbose:
-            print(f"{len(geocaches_found)} geocache(s) found in {gpx_filepath}")
+            print(f"{len(geocaches_found)} geocache(s) found in {get_filename(gpx_filepath)}")
         geocaches.extend(geocaches_found)
 
     tree = proximity_alert_tree(geocaches, distance, display_format)
@@ -125,31 +135,53 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
         ElementTree.register_namespace(prefix, schema_url)
     tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
     if verbose:
-        print(f"{len(geocaches)} proximity alert waypoints written to {out_file_or_filename}")
+        print(f"{len(geocaches)} total proximity alert waypoint(s) written to {get_filename(out_file_or_filename)}")
+
+
+def parse_args(args):
+    import argparse
+    parser = argparse.ArgumentParser()
+    parser.add_argument("gpx_input_files", nargs="*", type=argparse.FileType("r", encoding="utf-8"),
+                        help="input files containing geocaches in gpx format")
+    parser.add_argument("-r", "--recursive", action=argparse.BooleanOptionalAction, default=False,
+                        help="use all gpx files in the current working directory (recursive search)"
+                             " as gpx input files")
+    parser.add_argument("-o", "--output", type=argparse.FileType("wb"), default="proximity_alert.gpx",
+                        help="output filename. "
+                             "this tool will write proximity waypoints in gpx format to it (default: %(default)s)")
+    parser.add_argument("--distance", type=float, default=50.0,
+                        help="alert radius in meters around a geocache (default: %(default)s)")
+    parser.add_argument("--displayformat", type=str,
+                        default="{gc_code}\n"
+                                "D{difficulty}/T{terrain}\n"
+                                "{hint}\n"
+                                "{name}",
+                        help="custom display format string (default: %(default)s). "
+                             "supported vars: [name, gc_code, lat, lon, difficulty, terrain, hint]")
+    parser.add_argument("-v", "--verbose", action=argparse.BooleanOptionalAction, default=False,
+                        help="print extra information")
+    options = parser.parse_args(args)
+
+    if options.recursive:
+        options.gpx_input_files = [filename for filename in glob.glob("**/*.gpx", recursive=True)
+                                   if not os.path.samefile(filename, options.output.name)]
+        if len(options.gpx_input_files) == 0:
+            sys.exit("error: no gpx input files found in current working directory")
+    else:
+        if len(options.gpx_input_files) == 0:
+            sys.exit("error: no gpx input files given")
+    return options
 
 
 def main():
-    if sys.version_info < (3, 8):
-        sys.exit("error: python version too old. python 3.8 or higher is required to run this program")
-    gpx_filepaths = sys.argv[1:]
-    if len(gpx_filepaths) == 0:
-        gpx_filepaths = glob.glob("**/*.gpx", recursive=True)
-        if len(gpx_filepaths) == 0:
-            sys.exit("error: no gpx files given and no gpx files found in current directory")
+    options = parse_args(sys.argv[1:])
 
-    display_format =\
-        "{gc_code}\n" \
-        "D{difficulty}/T{terrain}\n" \
-        "{hint}\n" \
-        "{name}"
-
-    create_alert(gpx_filepaths=gpx_filepaths,
-                 out_file_or_filename="proximity_alert.gpx",
-                 distance=50.0,
-                 display_format=display_format,
-                 verbose=True)
+    create_alert(gpx_filepaths=options.gpx_input_files,
+                 out_file_or_filename=options.output,
+                 distance=options.distance,
+                 display_format=options.displayformat,
+                 verbose=options.verbose)
 
 
 if __name__ == "__main__":
     main()
-    input("Press Enter to continue...")
