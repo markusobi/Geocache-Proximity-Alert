@@ -172,8 +172,6 @@ def parse_args(args):
 
 
 def main():
-    if sys.version_info < (3, 8):
-        sys.exit("error: python version too old. python 3.8 or higher is required to run this program")
     options = parse_args(sys.argv[1:])
 
     create_alert(gpx_filepaths=options.gpx_files,
