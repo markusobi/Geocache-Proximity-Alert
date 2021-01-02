@@ -113,7 +113,9 @@ def proximity_alert_tree(geocaches, distance, display_format):
 
 
 def get_filename(file_or_filename):
-    if isinstance(file_or_filename, io.IOBase):
+    if isinstance(file_or_filename, io.TextIOWrapper):
+        return file_or_filename.name
+    elif isinstance(file_or_filename, io.BufferedWriter):
         return file_or_filename.name
     else:
         return str(file_or_filename)
@@ -139,8 +141,8 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
 def parse_args(args):
     import argparse
     parser = argparse.ArgumentParser()
-    parser.add_argument("gpx_files", nargs="*", type=argparse.FileType("r", encoding="utf-8"),
-                        help="gpx input files. this tool will scan these files for geocaches")
+    parser.add_argument("gpx_input_files", nargs="*", type=argparse.FileType("r", encoding="utf-8"),
+                        help="input files containing geocaches in gpx format")
     parser.add_argument("-r", "--recursive", action=argparse.BooleanOptionalAction, default=False,
                         help="use all gpx files in the current working directory (recursive search)"
                              " as gpx input files")
@@ -161,20 +163,20 @@ def parse_args(args):
     options = parser.parse_args(args)
 
     if options.recursive:
-        options.gpx_files = [filename for filename in glob.glob("**/*.gpx", recursive=True)
-                             if not os.path.samefile(filename, options.output.name)]
-        if len(options.gpx_files) == 0:
-            sys.exit("error: no gpx files found in current working directory")
+        options.gpx_input_files = [filename for filename in glob.glob("**/*.gpx", recursive=True)
+                                   if not os.path.samefile(filename, options.output.name)]
+        if len(options.gpx_input_files) == 0:
+            sys.exit("error: no gpx input files found in current working directory")
     else:
-        if len(options.gpx_files) == 0:
-            sys.exit("error: no gpx files given")
+        if len(options.gpx_input_files) == 0:
+            sys.exit("error: no gpx input files given")
     return options
 
 
 def main():
     options = parse_args(sys.argv[1:])
 
-    create_alert(gpx_filepaths=options.gpx_files,
+    create_alert(gpx_filepaths=options.gpx_input_files,
                  out_file_or_filename=options.output,
                  distance=options.distance,
                  display_format=options.displayformat,
