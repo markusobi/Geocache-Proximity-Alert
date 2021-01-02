@@ -119,13 +119,13 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
             print(f"{len(geocaches_found)} geocache(s) found in {gpx_filepath}")
         geocaches.extend(geocaches_found)
 
-    if verbose:
-        print(f"{len(geocaches)} geocache(s) found in total")
     tree = proximity_alert_tree(geocaches, distance, display_format)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
         ElementTree.register_namespace(prefix, schema_url)
     tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
+    if verbose:
+        print(f"{len(geocaches)} proximity alert waypoints written to {out_file_or_filename}")
 
 
 def main():
