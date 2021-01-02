@@ -40,7 +40,7 @@ gpx_template = """<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 
 
 class Geocache(object):
-    def __init__(self, name, gc_code, lat, lon, types, difficulty, terrain, hint=None):
+    def __init__(self, name, gc_code, lat, lon, types, difficulty, terrain, hint):
         self.name = name
         self.gc_code = gc_code
         self.lat = lat
