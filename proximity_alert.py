@@ -124,7 +124,7 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
     for gpx_filepath in gpx_filepaths:
         geocaches_found = read_geocaches(gpx_filepath)
         if verbose:
-            print(f"{len(geocaches_found)} geocache(s) found in {get_filename(gpx_filepath)}")
+            print(f"{len(geocaches_found):>4} geocache(s) found in {get_filename(gpx_filepath)}")
         geocaches.extend(geocaches_found)
 
     tree = proximity_alert_tree(geocaches, distance, display_format)
@@ -133,7 +133,7 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
         ElementTree.register_namespace(prefix, schema_url)
     tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
     if verbose:
-        print(f"{len(geocaches)} total proximity alert waypoint(s) written to {get_filename(out_file_or_filename)}")
+        print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {get_filename(out_file_or_filename)}")
 
 
 def parse_args(args):
