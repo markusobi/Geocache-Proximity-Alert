@@ -115,8 +115,6 @@ def proximity_alert_tree(geocaches, distance, display_format):
 def get_filename(file_or_filename):
     if isinstance(file_or_filename, io.TextIOWrapper):
         return file_or_filename.name
-    elif isinstance(file_or_filename, io.BufferedWriter):
-        return file_or_filename.name
     else:
         return str(file_or_filename)
 
@@ -146,8 +144,8 @@ def parse_args(args):
     parser.add_argument("-r", "--recursive", action=argparse.BooleanOptionalAction, default=False,
                         help="use all gpx files in the current working directory (recursive search)"
                              " as gpx input files")
-    parser.add_argument("-o", "--output", type=argparse.FileType("wb"), default="proximity_alert.gpx",
-                        help="output filename. "
+    parser.add_argument("-o", "--output", type=str, default="proximity_alert.gpx",
+                        help="output filename"
                              "this tool will write proximity waypoints in gpx format to it (default: %(default)s)")
     parser.add_argument("--distance", type=float, default=50.0,
                         help="alert radius in meters around a geocache (default: %(default)s)")
@@ -163,8 +161,12 @@ def parse_args(args):
     options = parser.parse_args(args)
 
     if options.recursive:
-        options.gpx_input_files = [filename for filename in glob.glob("**/*.gpx", recursive=True)
-                                   if not os.path.samefile(filename, options.output.name)]
+        gpx_input_files = [path for path in glob.glob("**/*.gpx", recursive=True)]
+        # exclude output file if it already exists
+        if os.path.isfile(options.output):
+            gpx_input_files = [path for path in gpx_input_files
+                               if not os.path.samefile(path, options.output)]
+        options.gpx_input_files = gpx_input_files
         if len(options.gpx_input_files) == 0:
             sys.exit("error: no gpx input files found in current working directory")
     else:
