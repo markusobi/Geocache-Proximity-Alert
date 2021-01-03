@@ -126,7 +126,8 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
         if verbose:
             print(f"{len(geocaches_found):>4} geocache(s) found in {get_filename(gpx_filepath)}")
         geocaches.extend(geocaches_found)
-
+    if len(geocaches) == 0:
+        sys.exit("error: no geocaches found in gpx file(s)")
     tree = proximity_alert_tree(geocaches, distance, display_format)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
