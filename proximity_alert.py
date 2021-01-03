@@ -156,7 +156,7 @@ def parse_args(args):
                                 "{hint}\n"
                                 "{name}",
                         help="custom display format string (default: %(default)s). "
-                             "supported vars: [name, gc_code, lat, lon, difficulty, terrain, hint]")
+                             "supported vars: [name, gc_code, difficulty, terrain, hint]")
     parser.add_argument("-v", "--verbose", action=argparse.BooleanOptionalAction, default=False,
                         help="print extra information")
     options = parser.parse_args(args)
