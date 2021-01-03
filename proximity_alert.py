@@ -60,10 +60,10 @@ def read_geocaches(gpx_filepath):
     for wpt in root.findall("{*}wpt[{*}type][{*}name][@lat][@lon]"):
         wpt_type = wpt.find("{*}type")
         types = wpt_type.text.split("|")
-        # pocket queries have an extra type field
-        types2 = wpt.find("{*}extensions/{*}cache/{*}type")
-        if types2 is not None:
-            types.extend(types2.text.split("|"))
+        # geocaches files created by Garmin Desktop App use different node for geocache types
+        extension_cache_type = wpt.find("{*}extensions/{*}cache/{*}type")
+        if extension_cache_type is not None:
+            types.extend(extension_cache_type.text.split("|"))
         if "geocache" not in map(str.lower, types):
             continue
         name_element = wpt.find(".//{*}cache/{*}name")
