@@ -16,7 +16,8 @@ class Test(unittest.TestCase):
             "{gc_code}\n" \
             "D{difficulty}/T{terrain}\n" \
             "{hint}\n" \
-            "{name}"
+            "{name}\n" \
+            "{type}"
         encoding = "utf-8"
 
         for testcase_dir in glob.glob("testcases/*/"):

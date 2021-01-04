@@ -9,7 +9,8 @@
     <name>GC37T0H
 D4/T3.5
 Hinweise in der Vorstation und in den Wegpunkten
-Vergessene Welten </name>
+Vergessene Welten 
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -22,7 +23,8 @@ Vergessene Welten </name>
     <name>GC38FFM
 D2.5/T2.5
 
-Dunkles Kapitel I (An der Düne)</name>
+Dunkles Kapitel I (An der Düne)
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -35,7 +37,8 @@ Dunkles Kapitel I (An der Düne)</name>
     <name>GC7509B
 D4/T2
 
-Bonus- Vergessene Welten</name>
+Bonus- Vergessene Welten
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -49,7 +52,8 @@ Bonus- Vergessene Welten</name>
 D1/T1.5
 - Beamte arbeiten nicht, .... arbeitet.
 - Pettling
-Vogel des Jahres</name>
+Vogel des Jahres
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -62,7 +66,8 @@ Vogel des Jahres</name>
     <name>GC2BNY4
 D1.5/T1.5
 
-Dunkles Kapitel III (Der Kommandantenhof)</name>
+Dunkles Kapitel III (Der Kommandantenhof)
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -75,7 +80,8 @@ Dunkles Kapitel III (Der Kommandantenhof)</name>
     <name>GC74ER7
 D2/T3
 
-Der Brückenwächter am Kanal</name>
+Der Brückenwächter am Kanal
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -88,7 +94,8 @@ Der Brückenwächter am Kanal</name>
     <name>GC5KQGA
 D2/T1.5
 
-Das verbindende Element</name>
+Das verbindende Element
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -107,7 +114,8 @@ D3/T1.5
 
 
 Name ist Programm
-Meilenstein im Gleisbett</name>
+Meilenstein im Gleisbett
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -120,7 +128,8 @@ Meilenstein im Gleisbett</name>
     <name>GC8HJ31
 D1.5/T1.5
 netnuekce
-Oranienburgs (fast) vergessene Orte</name>
+Oranienburgs (fast) vergessene Orte
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -134,7 +143,8 @@ Oranienburgs (fast) vergessene Orte</name>
 D2/T5
 Ich stehe gerne als Joker zur Verfügung einfach vor dem Start bei mir melden.
 Summe aller Stationen 117
-Todesmarsch-Gedenk-Cache</name>
+Todesmarsch-Gedenk-Cache
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -147,7 +157,8 @@ Todesmarsch-Gedenk-Cache</name>
     <name>GC6WBFZ
 D3/T2
 
-Fischi, Fischi, Fischi</name>
+Fischi, Fischi, Fischi
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -160,7 +171,8 @@ Fischi, Fischi, Fischi</name>
     <name>GC7FNQM
 D1/T5
 
-Teufel, Fehler und ihre Verknotungen (reload)</name>
+Teufel, Fehler und ihre Verknotungen (reload)
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -174,7 +186,8 @@ Teufel, Fehler und ihre Verknotungen (reload)</name>
 D2.5/T1.5
 Horrorklassiker von Stephen King
 Hauptrolle: ein tierischen Helfer.
-Hicks &amp; Astrid's Runde #01</name>
+Hicks &amp; Astrid's Runde #01
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -188,7 +201,8 @@ Hicks &amp; Astrid's Runde #01</name>
 D1.5/T1.5
 60 Wochen ist die Tragzeit bei Giraffen
 60 Zoll entsprechen circa 1 Meter 50
-Sechzig</name>
+Sechzig
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -201,7 +215,8 @@ Sechzig</name>
     <name>GC34NG9
 D2/T2
 
-Der Lehnitzsee</name>
+Der Lehnitzsee
+Earthcache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -214,7 +229,8 @@ Der Lehnitzsee</name>
     <name>GC8HFH0
 D2/T2
 Denke wie eine Elfe,wo würdest du wohnen wollen.
-Hidden People</name>
+Hidden People
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -227,7 +243,8 @@ Hidden People</name>
     <name>GC50XB8
 D1.5/T1.5
 schmächtiger, hohler Baum
-Tiere am See - 2 Die südliche Saubucht</name>
+Tiere am See - 2 Die südliche Saubucht
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -240,7 +257,8 @@ Tiere am See - 2 Die südliche Saubucht</name>
     <name>GC549N3
 D3.5/T1.5
 
-Bekannte Melodie</name>
+Bekannte Melodie
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -253,7 +271,8 @@ Bekannte Melodie</name>
     <name>GC6P1JD
 D2/T4.5
 piep!
-Tanjas Herbstbaum</name>
+Tanjas Herbstbaum
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -266,7 +285,8 @@ Tanjas Herbstbaum</name>
     <name>GC3N57X
 D1/T5
 
-Methusalem</name>
+Methusalem
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -279,7 +299,8 @@ Methusalem</name>
     <name>GC70M2J
 D1.5/T2
 
-Unterwegs in Oranienburg - An der Rolle #Reloaded#</name>
+Unterwegs in Oranienburg - An der Rolle #Reloaded#
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -292,7 +313,8 @@ Unterwegs in Oranienburg - An der Rolle #Reloaded#</name>
     <name>GC30K5Q
 D2.5/T2
 
-Seeblick</name>
+Seeblick
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -305,7 +327,8 @@ Seeblick</name>
     <name>GC8TKEG
 D2.5/T1.5
 [Natur pur mit Blick aufs Training, nahe Eingangstor]
-Kreisliga-Legendinnen # 1</name>
+Kreisliga-Legendinnen # 1
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -318,7 +341,8 @@ Kreisliga-Legendinnen # 1</name>
     <name>GC789CE
 D2.5/T2
 
-Hochwasser in Oranienburg</name>
+Hochwasser in Oranienburg
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -331,7 +355,8 @@ Hochwasser in Oranienburg</name>
     <name>GC74W7H
 D3.5/T2
 
-# 1 Thank you Pierce34</name>
+# 1 Thank you Pierce34
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -345,7 +370,8 @@ D3.5/T2
 D1.5/T2
 ACHTUNG: rege WILDSCHWEIN-AKTIVITÄT bei Dunkelheit, außerdem ist hier der JÄGER aktiv!
 Zum Cache: im Kleineren
-(k)ein Problem</name>
+(k)ein Problem
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -358,7 +384,8 @@ Zum Cache: im Kleineren
     <name>GC8ZGAQ
 D2/T2.5
 Süße Früchte
-Ein Kleiner an der Havel (schöne Natur)</name>
+Ein Kleiner an der Havel (schöne Natur)
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -371,7 +398,8 @@ Ein Kleiner an der Havel (schöne Natur)</name>
     <name>GC7C7QK
 D2/T3.5
 Es sollte ohne gehen, aber Leitplanke  :-)
-Rund um Berlin #1</name>
+Rund um Berlin #1
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -384,7 +412,8 @@ Rund um Berlin #1</name>
     <name>GC8Q7AW
 D1.5/T1.5
 Bridges - Go! - Countries
-Lieblingsfarbe GELB (3)</name>
+Lieblingsfarbe GELB (3)
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -397,7 +426,8 @@ Lieblingsfarbe GELB (3)</name>
     <name>GC3CMRX
 D5/T1.5
 
-GHG - WTB</name>
+GHG - WTB
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -411,7 +441,8 @@ GHG - WTB</name>
 D3.5/T2.5
 Rätsel: Der Checker zeigt und bestätigt euch den Weg zum Final.
 Final: Wo zwei zusammenkommen.
-Geburtstagsrätsel - Reloaded</name>
+Geburtstagsrätsel - Reloaded
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -428,7 +459,8 @@ Station eins: Ecke
 Station drei: Zaun unten
 Finale: Alles notiert - liegende Birke
 ACHTET AUF DIE ANGLER
-Oranienburger Schloss-Runde</name>
+Oranienburger Schloss-Runde
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -441,7 +473,8 @@ Oranienburger Schloss-Runde</name>
     <name>GC7K2GF
 D2/T1.5
 magnetisch
-Wie unangenehm!</name>
+Wie unangenehm!
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -454,7 +487,8 @@ Wie unangenehm!</name>
     <name>GC5NVAH
 D2/T1.5
 
-Rapunzel</name>
+Rapunzel
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -467,7 +501,8 @@ Rapunzel</name>
     <name>GC2BCAR
 D1.5/T1.5
 
-Dunkles Kapitel II (Schmachtenhagener Forst)</name>
+Dunkles Kapitel II (Schmachtenhagener Forst)
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -480,7 +515,8 @@ Dunkles Kapitel II (Schmachtenhagener Forst)</name>
     <name>GC8JZG5
 D2/T5
 
-Die Brücke</name>
+Die Brücke
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -493,7 +529,8 @@ Die Brücke</name>
     <name>GC4NFGA
 D3/T2.5
 
-Grabowsee</name>
+Grabowsee
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -506,7 +543,8 @@ Grabowsee</name>
     <name>GC91XF1
 D2/T1
 
-Schloss Oranienburg (LAB-Bonus)</name>
+Schloss Oranienburg (LAB-Bonus)
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -519,7 +557,8 @@ Schloss Oranienburg (LAB-Bonus)</name>
     <name>GC5CD36
 D1.5/T1.5
 Abstand zur Schranke etwa 10 Meter. Da sollte die Suche etwas erleichtern. Er soll ja nicht zu schwer sein.
-Die Schranke</name>
+Die Schranke
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -532,7 +571,8 @@ Die Schranke</name>
     <name>GC6F96X
 D3/T1.5
 Finde Fünf Hinweise. Suchradius 60m.
-Batmans Versteck</name>
+Batmans Versteck
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -545,7 +585,8 @@ Batmans Versteck</name>
     <name>GC6KE5K
 D1.5/T1.5
 ca. 1,50 m
-Kein Drive In - Ein Efeu In #1</name>
+Kein Drive In - Ein Efeu In #1
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -558,7 +599,8 @@ Kein Drive In - Ein Efeu In #1</name>
     <name>GC8P6Q9
 D2.5/T1.5
 Nicht Muggelfrei 😉
-Einfach mal abhängen </name>
+Einfach mal abhängen 
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -571,7 +613,8 @@ Einfach mal abhängen </name>
     <name>GC8H6C6
 D1.5/T1
 Magnetisch
-Drope-In</name>
+Drope-In
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -584,7 +627,8 @@ Drope-In</name>
     <name>GC6D59M
 D3/T2
 
-Der Legostein</name>
+Der Legostein
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -597,7 +641,8 @@ Der Legostein</name>
     <name>GC78TN7
 D2/T1.5
 Kleine ECA für's Logbuch nötig.
-Zum Jubiläum 110 Jahre "Kolonie Eintracht Orania"</name>
+Zum Jubiläum 110 Jahre "Kolonie Eintracht Orania"
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -610,7 +655,8 @@ Zum Jubiläum 110 Jahre "Kolonie Eintracht Orania"</name>
     <name>GC7BF1Y
 D1.5/T1.5
 In 1.80m Höhe
-Birkenhaus-An der Linde</name>
+Birkenhaus-An der Linde
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -623,7 +669,8 @@ Birkenhaus-An der Linde</name>
     <name>GC4BWN0
 D1/T1.5
 Wasser, Wasser, Wasser
-Bonus - Faunas Merkwürdigkeiten</name>
+Bonus - Faunas Merkwürdigkeiten
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -636,7 +683,8 @@ Bonus - Faunas Merkwürdigkeiten</name>
     <name>GC53HYP
 D1.5/T1.5
 
-Baumhochzeit</name>
+Baumhochzeit
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -649,7 +697,8 @@ Baumhochzeit</name>
     <name>GC86VFX
 D1.5/T1.5
 Bitte nicht in der Nacht suchen. Der Deckel ist Magnetisch.
-Am Karpfenteich Krankenhaus Oranienburg</name>
+Am Karpfenteich Krankenhaus Oranienburg
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -662,7 +711,8 @@ Am Karpfenteich Krankenhaus Oranienburg</name>
     <name>GC4ZB5G
 D2.5/T2
 Wo ist das Wasser???
-Immer am Wasser entlang...</name>
+Immer am Wasser entlang...
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -675,7 +725,8 @@ Immer am Wasser entlang...</name>
     <name>GC4BRVD
 D3.5/T1.5
 Bei D ist nicht die Spitzmaus gemeint.
-Faunas Merkwürdigkeiten</name>
+Faunas Merkwürdigkeiten
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -688,7 +739,8 @@ Faunas Merkwürdigkeiten</name>
     <name>GC91QBG
 D2/T2.5
 unter einem Steinchen
-Lieblingsfarbe Gelb (6)</name>
+Lieblingsfarbe Gelb (6)
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -701,7 +753,8 @@ Lieblingsfarbe Gelb (6)</name>
     <name>GC8T7PC
 D1.5/T1.5
 geht auch ohne Leiter
-Lieblingsfarbe GELB (4)</name>
+Lieblingsfarbe GELB (4)
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -714,7 +767,8 @@ Lieblingsfarbe GELB (4)</name>
     <name>GC576WC
 D2/T2.5
 Nicht am Boden, doch nah am Stein.
-DC+RI</name>
+DC+RI
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -727,7 +781,8 @@ DC+RI</name>
     <name>GC5N2CP
 D2/T3
 
-Schmachtenhagener Dorfrunde</name>
+Schmachtenhagener Dorfrunde
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -740,7 +795,8 @@ Schmachtenhagener Dorfrunde</name>
     <name>GC1P5QG
 D3/T4.5
 links oben!
-Heinkel Flugzeugwerke Bonus Cache </name>
+Heinkel Flugzeugwerke Bonus Cache 
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -753,7 +809,8 @@ Heinkel Flugzeugwerke Bonus Cache </name>
     <name>GC5126G
 D2/T2
 
-Die Pappe im Wald</name>
+Die Pappe im Wald
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -766,7 +823,8 @@ Die Pappe im Wald</name>
     <name>GC345KR
 D3/T4
 der Adler wird eher fündig als die Schlange
-Der Garten Eden - Bonus</name>
+Der Garten Eden - Bonus
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -779,7 +837,8 @@ Der Garten Eden - Bonus</name>
     <name>GC6J6KZ
 D2/T1.5
 Die Kinderchen spielen gern zwischen dem ganzen Gehölz.
-Waldgeisterchen Luca &amp; Fine</name>
+Waldgeisterchen Luca &amp; Fine
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -792,7 +851,8 @@ Waldgeisterchen Luca &amp; Fine</name>
     <name>GC8RY0N
 D2.5/T1.5
 Ein Busch schützt das Döschen vor neugierigen Blicken vom Weg aus.
-Herausforderung für schwere Gefährte</name>
+Herausforderung für schwere Gefährte
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -805,7 +865,8 @@ Herausforderung für schwere Gefährte</name>
     <name>GC8BE7P
 D2/T1.5
 rund
-Lieblingsfarbe GELB (1)</name>
+Lieblingsfarbe GELB (1)
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -818,7 +879,8 @@ Lieblingsfarbe GELB (1)</name>
     <name>GC6J6K0
 D1/T1.5
 BOO! auf Augenhöhe (etwa 1,70 Meter), Döschen dann unten
-Waldgeist Bibi</name>
+Waldgeist Bibi
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -831,7 +893,8 @@ Waldgeist Bibi</name>
     <name>GC8PV1W
 D1.5/T1.5
 Reisighaufen
-Wasser ist Leben</name>
+Wasser ist Leben
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -844,7 +907,8 @@ Wasser ist Leben</name>
     <name>GC470D4
 D3/T5
 Wenn es vor Ort nicht weitergeht, strengt euer Hirn an und nutzt all eure Ausrüstung.
-Der Teerbrenner Erdmann</name>
+Der Teerbrenner Erdmann
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -857,7 +921,8 @@ Der Teerbrenner Erdmann</name>
     <name>GC6J6JH
 D2/T2
 Im Hogan am Fuße des Berges.
-Waldgeist David</name>
+Waldgeist David
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -870,7 +935,8 @@ Waldgeist David</name>
     <name>GC6FX0N
 D2/T2
 Am Fuße des schlafenden Riesen
-Happy Birthday -Waldgeister- |reloaded|</name>
+Happy Birthday -Waldgeister- |reloaded|
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -883,7 +949,8 @@ Happy Birthday -Waldgeister- |reloaded|</name>
     <name>GC6GBVH
 D1.5/T2
 Behütet von drei Schwestern.
-Waldgeist Sarah</name>
+Waldgeist Sarah
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -896,7 +963,8 @@ Waldgeist Sarah</name>
     <name>GC345K0
 D2.5/T2
 St. 4: nicht die kleine Tafel mit drei Jahreszahlen, WAND-Relief mit EINER Jahreszahl
-Der Garten Eden</name>
+Der Garten Eden
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -909,7 +977,8 @@ Der Garten Eden</name>
     <name>GC36C9A
 D2.5/T4
 
-O-Town</name>
+O-Town
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -922,7 +991,8 @@ O-Town</name>
     <name>GC3EAMD
 D2.5/T1.5
 
-Sport Frei!</name>
+Sport Frei!
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -935,7 +1005,8 @@ Sport Frei!</name>
     <name>GC1N71M
 D3/T3.5
 
-Heinkel Flugzeugwerke LP-Cache (second edition)</name>
+Heinkel Flugzeugwerke LP-Cache (second edition)
+Multi-cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -948,7 +1019,8 @@ Heinkel Flugzeugwerke LP-Cache (second edition)</name>
     <name>GC6J6MV
 D2/T2
 ECKstein, ECKstein, alles muss versteckt sein.
-Waldgeister Bonus</name>
+Waldgeister Bonus
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -961,7 +1033,8 @@ Waldgeister Bonus</name>
     <name>GC3684H
 D2/T1.5
 wikipedia
-06502</name>
+06502
+Unknown Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -974,7 +1047,8 @@ wikipedia
     <name>GC6GBPW
 D1.5/T2
 In einem Baum
-Waldgeist Ida</name>
+Waldgeist Ida
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -987,7 +1061,8 @@ Waldgeist Ida</name>
     <name>GC8FG3Q
 D1.5/T1.5
 Bohrloch
-Der Wald schlägt zurück</name>
+Der Wald schlägt zurück
+Traditional Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
