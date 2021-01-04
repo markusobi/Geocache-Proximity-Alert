@@ -62,12 +62,16 @@ class Geocache(object):
 def read_geocaches(gpx_filepath):
     geocaches = []
     tree = ElementTree.parse(gpx_filepath)
-    root = tree.getroot()
-    if not root.tag.endswith("}gpx"):
+    root_element = tree.getroot()
+    if not root_element.tag.endswith("}gpx"):
         return []
-    for wpt in root.findall("{*}wpt[{*}type][{*}name][@lat][@lon]"):
-        type_element = wpt.find("{*}type")
-        if type_element is None or type_element.text is None:
+    for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][{*}cache][@lat][@lon]"):
+        name_element = wpt_element.find("{*}name")
+        type_element = wpt_element.find("{*}type")
+        cache_element = wpt_element.find("{*}cache")
+        lat = wpt_element.get("lat")
+        lon = wpt_element.get("lon")
+        if type_element.text is None:
             continue
         types = type_element.text.split("|")
         if len(types) != 2:
@@ -75,18 +79,16 @@ def read_geocaches(gpx_filepath):
         wpt_type, cache_type = types
         if wpt_type.lower() != "geocache":
             continue
-        gc_code = wpt.find("{*}name").text
-        name = wpt.find(".//{*}cache/{*}name").text
-        difficulty = wpt.find(".//{*}cache/{*}difficulty").text
-        terrain = wpt.find(".//{*}cache/{*}terrain").text
-        hint = wpt.find(".//{*}cache/{*}encoded_hints").text
+        gc_code = name_element.text
+        name = cache_element.find("{*}name").text
+        difficulty = cache_element.find("{*}difficulty").text
+        terrain = cache_element.find("{*}terrain").text
+        hint = cache_element.find("{*}encoded_hints").text
         if hint is None:
             hint = ""
         else:
             # replace xhtml linebreaks in hints
             hint = re.sub(r"<br\s*?/>", "\n", hint).strip()
-        lat = wpt.get("lat")
-        lon = wpt.get("lon")
         geocache = Geocache(name=name,
                             gc_code=gc_code,
                             lat=lat,
