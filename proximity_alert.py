@@ -38,14 +38,22 @@ gpx_template = """<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 </wpt>
 </gpx>"""
 
+cache_types = {'Earthcache',
+               'Letterbox Hybrid',
+               'Multi-cache',
+               'Traditional Cache',
+               'Unknown Cache',
+               'Virtual Cache',
+               'Wherigo Cache', }
+
 
 class Geocache(object):
-    def __init__(self, name, gc_code, lat, lon, types, difficulty, terrain, hint):
+    def __init__(self, name, gc_code, lat, lon, cache_type, difficulty, terrain, hint):
         self.name = name
         self.gc_code = gc_code
         self.lat = lat
         self.lon = lon
-        self.types = types
+        self.type = cache_type
         self.difficulty = difficulty
         self.terrain = terrain
         self.hint = hint
@@ -58,18 +66,17 @@ def read_geocaches(gpx_filepath):
     if not root.tag.endswith("}gpx"):
         return []
     for wpt in root.findall("{*}wpt[{*}type][{*}name][@lat][@lon]"):
-        wpt_type = wpt.find("{*}type")
-        types = wpt_type.text.split("|")
-        # geocaches files created by Garmin Desktop App use different node for geocache types
-        extension_cache_type = wpt.find("{*}extensions/{*}cache/{*}type")
-        if extension_cache_type is not None:
-            types.extend(extension_cache_type.text.split("|"))
-        if "geocache" not in map(str.lower, types):
+        type_element = wpt.find("{*}type")
+        if type_element is None or type_element.text is None:
             continue
-        name_element = wpt.find(".//{*}cache/{*}name")
-        if name_element is None:
+        types = type_element.text.split("|")
+        if len(types) != 2:
+            continue
+        wpt_type, cache_type = types
+        if wpt_type.lower() != "geocache":
             continue
         gc_code = wpt.find("{*}name").text
+        name = wpt.find(".//{*}cache/{*}name").text
         difficulty = wpt.find(".//{*}cache/{*}difficulty").text
         terrain = wpt.find(".//{*}cache/{*}terrain").text
         hint = wpt.find(".//{*}cache/{*}encoded_hints").text
@@ -80,11 +87,11 @@ def read_geocaches(gpx_filepath):
             hint = re.sub(r"<br\s*?/>", "\n", hint).strip()
         lat = wpt.get("lat")
         lon = wpt.get("lon")
-        geocache = Geocache(name=name_element.text,
+        geocache = Geocache(name=name,
                             gc_code=gc_code,
                             lat=lat,
                             lon=lon,
-                            types=types,
+                            cache_type=cache_type,
                             difficulty=difficulty,
                             terrain=terrain,
                             hint=hint)
@@ -156,7 +163,7 @@ def parse_args(args):
                                 "{hint}\n"
                                 "{name}",
                         help="custom display format string (default: %(default)s). "
-                             "supported vars: [name, gc_code, difficulty, terrain, hint]")
+                             "supported vars: [name, gc_code, difficulty, terrain, hint, type]")
     parser.add_argument("-v", "--verbose", action=argparse.BooleanOptionalAction, default=False,
                         help="print extra information")
     options = parser.parse_args(args)
