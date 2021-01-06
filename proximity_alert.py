@@ -68,7 +68,9 @@ def read_geocaches(gpx_filepath):
     for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][{*}cache][@lat][@lon]"):
         name_element = wpt_element.find("{*}name")
         type_element = wpt_element.find("{*}type")
-        cache_element = wpt_element.find("{*}cache")
+        cache_element = wpt_element.find("{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
+        if cache_element is None:
+            continue
         lat = wpt_element.get("lat")
         lon = wpt_element.get("lon")
         if type_element.text is None:
