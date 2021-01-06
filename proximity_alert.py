@@ -151,7 +151,7 @@ def parse_args(args):
     parser = argparse.ArgumentParser()
     parser.add_argument("gpx_input_files", nargs="*", type=argparse.FileType("r", encoding="utf-8"),
                         help="input files containing geocaches in gpx format")
-    parser.add_argument("-r", "--recursive", action=argparse.BooleanOptionalAction, default=False,
+    parser.add_argument("-r", "--recursive", action="store_true",
                         help="use all gpx files in the current working directory (recursive search)"
                              " as gpx input files")
     parser.add_argument("-o", "--output", type=str, default="proximity_alert.gpx",
@@ -166,7 +166,7 @@ def parse_args(args):
                                 "{name}",
                         help="custom display format string (default: %(default)s). "
                              "supported vars: [name, gc_code, difficulty, terrain, hint, type]")
-    parser.add_argument("-v", "--verbose", action=argparse.BooleanOptionalAction, default=False,
+    parser.add_argument("-v", "--verbose", action="store_true",
                         help="print extra information")
     options = parser.parse_args(args)
 
