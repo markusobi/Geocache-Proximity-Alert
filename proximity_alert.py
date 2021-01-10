@@ -65,24 +65,16 @@ def read_geocaches(gpx_filepath):
     root_element = tree.getroot()
     if not root_element.tag.endswith("}gpx"):
         return []
-    for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][{*}cache][@lat][@lon]"):
-        name_element = wpt_element.find("{*}name")
-        type_element = wpt_element.find("{*}type")
-        cache_element = wpt_element.find("{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
+    for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][@lat][@lon]"):
+        cache_element = wpt_element.find(".//{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
         if cache_element is None:
             continue
         lat = wpt_element.get("lat")
         lon = wpt_element.get("lon")
-        if type_element.text is None:
-            continue
-        types = type_element.text.split("|")
-        if len(types) != 2:
-            continue
-        wpt_type, cache_type = types
-        if wpt_type.lower() != "geocache":
-            continue
-        gc_code = name_element.text
+        gc_code = wpt_element.find("{*}name").text
+
         name = cache_element.find("{*}name").text
+        cache_type = cache_element.find("{*}type").text
         difficulty = cache_element.find("{*}difficulty").text
         terrain = cache_element.find("{*}terrain").text
         hint = cache_element.find("{*}encoded_hints").text
