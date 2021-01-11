@@ -1,0 +1,1375 @@
+﻿<?xml version="1.0" encoding="utf-8"?><gpx creator="Garmin Desktop App" version="1.1" xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd http://www.garmin.com/xmlschemas/WaypointExtension/v1 http://www8.garmin.com/xmlschemas/WaypointExtensionv1.xsd http://www.garmin.com/xmlschemas/TrackPointExtension/v1 http://www.garmin.com/xmlschemas/TrackPointExtensionv1.xsd http://www.garmin.com/xmlschemas/GpxExtensions/v3 http://www8.garmin.com/xmlschemas/GpxExtensionsv3.xsd http://www.garmin.com/xmlschemas/ActivityExtension/v1 http://www8.garmin.com/xmlschemas/ActivityExtensionv1.xsd http://www.garmin.com/xmlschemas/AdventuresExtensions/v1 http://www8.garmin.com/xmlschemas/AdventuresExtensionv1.xsd http://www.garmin.com/xmlschemas/PressureExtension/v1 http://www.garmin.com/xmlschemas/PressureExtensionv1.xsd http://www.garmin.com/xmlschemas/TripExtensions/v1 http://www.garmin.com/xmlschemas/TripExtensionsv1.xsd http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1 http://www.garmin.com/xmlschemas/TripMetaDataExtensionsv1.xsd http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1 http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensionsv1.xsd http://www.garmin.com/xmlschemas/CreationTimeExtension/v1 http://www.garmin.com/xmlschemas/CreationTimeExtensionsv1.xsd http://www.garmin.com/xmlschemas/AccelerationExtension/v1 http://www.garmin.com/xmlschemas/AccelerationExtensionv1.xsd http://www.garmin.com/xmlschemas/PowerExtension/v1 http://www.garmin.com/xmlschemas/PowerExtensionv1.xsd http://www.garmin.com/xmlschemas/VideoExtension/v1 http://www.garmin.com/xmlschemas/VideoExtensionv1.xsd" xmlns="http://www.topografix.com/GPX/1/1" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:wptx1="http://www.garmin.com/xmlschemas/WaypointExtension/v1" xmlns:gpxtrx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:gpxtpx="http://www.garmin.com/xmlschemas/TrackPointExtension/v1" xmlns:gpxx="http://www.garmin.com/xmlschemas/GpxExtensions/v3" xmlns:trp="http://www.garmin.com/xmlschemas/TripExtensions/v1" xmlns:adv="http://www.garmin.com/xmlschemas/AdventuresExtensions/v1" xmlns:prs="http://www.garmin.com/xmlschemas/PressureExtension/v1" xmlns:tmd="http://www.garmin.com/xmlschemas/TripMetaDataExtensions/v1" xmlns:vptm="http://www.garmin.com/xmlschemas/ViaPointTransportationModeExtensions/v1" xmlns:ctx="http://www.garmin.com/xmlschemas/CreationTimeExtension/v1" xmlns:gpxacc="http://www.garmin.com/xmlschemas/AccelerationExtension/v1" xmlns:gpxpx="http://www.garmin.com/xmlschemas/PowerExtension/v1" xmlns:vidx1="http://www.garmin.com/xmlschemas/VideoExtension/v1">
+
+  <metadata>
+    <link href="http://www.garmin.com">
+      <text>Garmin International</text>
+    </link>
+    <time>2021-01-11T18:51:50Z</time>
+    <bounds maxlat="52.661033011972904" maxlon="13.119917018339038" minlat="52.633333001285791" minlon="13.077950002625585" />
+  </metadata>
+
+  <wpt lat="52.644432988017797" lon="13.100000023841858">
+    <time>2013-08-23T00:00:00Z</time>
+    <name>GC4JYM0</name>
+    <cmt>Bonsai by dety, Unknown Cache (1.5/5)</cmt>
+    <desc>Bonsai by dety, Unknown Cache (1.5/5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=1b87cb36-3582-4762-9ff6-08f4158c1366" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="3847691" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Bonsai</name>
+        <placed_by>dety</placed_by>
+        <owner id="4696411">dety</owner>
+        <type>Unknown Cache</type>
+        <container>Regular</container>
+        <difficulty>1.5</difficulty>
+        <terrain>5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;div style="text-align:center;"&gt;&lt;img alt src="http://img.geocaching.com/cache/5e90a29a-f9e4-4528-9d60-50d97b781bcb.bmp" style="width:700px;height:998px;" /&gt;&lt;br /&gt;&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;&lt;big&gt;&lt;big&gt;&lt;br /&gt;
+&lt;a href="http://geocheck.org/geo_inputchkcoord.php?gid=6150695c2b2234e-e1a5-4222-9bdd-4a064fa66c64" style="color:rgb(255, 0, 0);"&gt;Prüfe Deine Lösung und erhalte weitere Hinweise&lt;/a&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt src="http://img.geocaching.com/cache/1009cee4-4909-489c-a598-1a7267c28cc8.png?rnd=0.5103985" style="width:500px;height:268px;" /&gt;&lt;br /&gt;&lt;/big&gt;&lt;/big&gt;&lt;/div&gt;
+
+&lt;p&gt;Additional Waypoints&lt;/p&gt;</long_description>
+        <encoded_hints>
+      </encoded_hints>  <logs>
+          <log id="979495209">
+            <date>2020-11-21T23:37:47Z</date>
+            <type>Found it</type>
+            <finder id="4002281">toemlebaer</finder>
+            <text encoded="False">Zum achten Mal stand für uns, Sohni und Vadder ein Tausender-Meilenstein an. Soeben hatten wir unser Jubi bei einem Prachtbäumchen von dety umgehängt, da trieb es uns noch hier kurz vorbei. Im Kampf um das letzte Licht erkletterten wir die nötigen Infos und standen unversehens an diesem Baum. Der Einbau war kein Problem. Eher zickdas Schloss ein wenig, befand das Bärchi. Wahrscheinlich setzt ihm die Witterung ein wenig zu. Irgendwann klickte es dann doch und dem 8001. stand nichts mehr im Weg. Beste Grüße an den Owner.
+Mission completed.
+
+## **&gt;&gt;&gt; 8.001 um 15.35 Uhr  &lt;&lt;&lt;** ##</text>
+          </log>
+          <log id="963186263">
+            <date>2020-09-13T00:01:46Z</date>
+            <type>Found it</type>
+            <finder id="15052296">Igelretter04</finder>
+            <text encoded="False">Vor fast zwei Jahren waren wir schon mal hier. Damals wurde es leider zu schnell dunkel. Der Smiley musste bis heute warten. Unterwegs im Auto fiel uns dann auf, dass der Zettel mit den bereits gefundenen Codes noch in der Küche liegt... Also haben wir uns die noch mal frisch vom Baum gepflückt. Und anschließend hat’s dann endlich auch mit dem prächtigen Finale geklappt.
+
+Vielen Dank fürs Legen!
+</text>
+          </log>
+          <log id="963335377">
+            <date>2020-09-12T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="14218081">Vollseiler</finder>
+            <text encoded="False">Lass uns doch mal den Bonsai fertig machen. So lag ich der Igelretterin schon immer wieder Mal im Ohr. Als sich heute ein unerwartetes Zeitfenster ergab, begaben wir uns an den fast vergessenen Ort des Geschehens von vor ca. 2 Jahren. Eigentlich sollte nur noch das Final besucht werden... aber ohne Aufzeichnungen (lagen auf dem Küchentisch) wird das wohl nix. Also nochmal die Qualifikation gemacht, sooooo hoch war sie ja nicht, und wir standen endlich  unter dem finalen Gewächs. Bonsai, eindeutig ;-) Die Igelretter hatten schon ihren Beitrag geleistet, so dass ich selbst nach oben durfte. So gut mir das Starträtsel von der Hand ging, hier wäre die Blockade gewesen. Aber dafür ist man ja im Team unterwegs. Kurze Zeit später wurden 4 magische Zahlen nach oben gerufen und Sesam öffnete sich.
+Alle Bäume erfreuen sich einer einigermaßen Gesundheit und das finale Häuschen ist im Top- Zustand. Nur die Unmengen an sechsbeinigen Bewohnern waren not amused von der unverhofften Störung. Aber jetzt herrscht wieder Ruhe für wahrscheinlich leider längere Zeit. Lieber Dety, das waren wieder ein gelungener Cache und ein schöner Zeitvertreib bei bestem Spätsommerwetter. Danke vom Vollseiler und vom Team Igelretter04. FP Ehrensache. Die Antwort ist in Arbeit.</text>
+          </log>
+          <log id="862421111">
+            <date>2019-07-07T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="11621384">Limzwerg1</finder>
+            <text encoded="False">😊Heute nutzten wir gleich mal das kühlere Wetter und da mein MamaZwerg nicht so richtig Lust auf Kajak-Tour hatte wurde beschlossen etwas zu klettern😉
+Brav stellten wir unser CM am Anfang der Fahrradstraße ab und bestückten unsere neue Errungenschaft mit allem nötigen und auf gings👍😅
+Es hat wieder viel Spaß gemacht und das Final war dann auch schnell gesichtet (...Toll, vorher schön dran vorbeigerannt 😎😂😂😂) an diesem schönen und mächtigen Bäumchen 😉
+
+DfdC und die schöne Herausforderung !!</text>
+          </log>
+          <log id="848668347">
+            <date>2019-05-05T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="16367706">Mr.Wulf</finder>
+            <text encoded="False">Oh Mann oh Mann, diese Dose, bzw die Beziehung zwischen mir und der Dose hat eine lange Leidensgeschichte. Das "?" beinahe vor der Haustür wurde schon in den ersten Zügen des Cacherdaseins entdeckt, immer wieder Mal geöffnet, jedoch genauso schnell wieder geschlossen. Das Rätsel sagte mir so gar nix und da ich auch noch km weit vom Klettern entfernt war, biss ich mich nie so richtig fest. Als das Klettern anfing nahm ich mir die kryptischen Zahlen vor und erkannte plötzlich das Muster. Wie es dann viel zu oft so ist, kam ich nicht dazu den Outdoor-Teil anzugehen und das so lange, dass ich vergessen hatte wie ich das Rätsel gelöst hatte. Natürlich hatte ich Sorge, dass wir dann nach Stage 1 nicht weiterkommen.
+Heute fassten wir, das sind Seven3716 und ich, uns dann ein Herz und machten uns auf zum Spielen und es war ein großer Spaß, zumindest bis ich vorm Final baumelte und Tarantula ihre acht eiskalten Pfoten nach mir austreckte. Wuah. Aber sicher ist sie nicht ganz unschuldig, dass der Cache so wohl gepflegt und trocken ist, feines Monster. Nach kurzem Zögern entriss ich ihr die Dose und loggte. 
+Schöne Bäume zum Erklimmen und Gott sei Dank ging auch das Geländerätsel gut von der Hand.
+Vielen Dank an dety für diesen D1,5 Spaziergang, ich bin freudig gespannt, wo du uns das nächste Mal  hinjagst :-)
+# 2751</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2013-08-23T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.642132993787527" lon="13.101983014494181">
+    <time>2014-05-04T00:00:00Z</time>
+    <name>GC53BEE</name>
+    <cmt>Die Seuche by dety, Unknown Cache (4/5)</cmt>
+    <desc>Die Seuche by dety, Unknown Cache (4/5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=469a894b-71cc-4abe-ab75-4a7a193eca0c" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="4306877" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Die Seuche</name>
+        <placed_by>dety</placed_by>
+        <owner id="4696411">dety</owner>
+        <type>Unknown Cache</type>
+        <container>Regular</container>
+        <difficulty>4</difficulty>
+        <terrain>5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;div style="text-align:center;background-color:rgb(0, 0, 0);"&gt;&lt;span style="color:rgb(255, 255, 255);"&gt;&lt;img alt src="http://imgcdn.geocaching.com/cache/large/89fbe065-746f-4a76-a792-4ef7624e5ce1.jpg" style="width:640px;height:632px;" /&gt;&lt;br /&gt;
+&lt;span style="color:rgb(255, 255, 0);"&gt;&lt;big&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Du brauchst:&lt;br /&gt;
+&lt;br /&gt;
+Das übliche Geraffel inkl. Bandschlingen&lt;br /&gt;
+&lt;br /&gt;
+Smartphone&lt;br /&gt;
+&lt;br /&gt;
+Kondition um die Ausrüstung auch mal querfeldein zu tragen&lt;br /&gt;
+&lt;br /&gt;
+Aufmerksamkeit&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:rgb(255, 255, 0);"&gt;IM DSCHUNGEL  LAUERN GEFAHREN !&lt;br /&gt;
+BEHALTE ABGEKNICKTE BÄUME IM AUGE UND UMGEHE DIESE  GEFAHRENSTELLEN !&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;span style="color:rgb(255, 255, 0);"&gt;7 Stationen + Final&lt;br /&gt;
+&lt;span style="color:rgb(255, 204, 0);"&gt;(&lt;/span&gt;Nicht alle zu klettern)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+Das Banner für alle Überlebenden:&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt src="http://imgcdn.geocaching.com/cache/large/012054f2-f243-4b9b-b93e-f3a27481e7bd.jpg" style="width:640px;height:237px;" /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/span&gt;&lt;/span&gt;&lt;/big&gt;&lt;/span&gt;&lt;/span&gt;&lt;span style="color:rgb(255, 255, 255);"&gt;&lt;span style="color:rgb(255, 255, 0);"&gt;&lt;big&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/big&gt;&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt src="http://imgcdn.geocaching.com/cache/83ee68e3-e453-46ea-b795-f99a9f1e1896.jpg" style="width:500px;height:268px;" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+
+&lt;p&gt;Additional Waypoints&lt;/p&gt;</long_description>
+        <encoded_hints>50m Seil reichen dicke.
+St1. rostig in knapp 2m höhe und nimm den direkten Weg zur 2. Station !</encoded_hints>
+        <logs>
+          <log id="972875515">
+            <date>2020-04-18T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="5141096">xFeuersteinx</finder>
+            <text encoded="False">20:13
+Passend zur Coronazeit hatten wir uns für den heutigen Tag dieser Herausforderung gewidmet. Das Viererteam, ausgestattet mit allem Equipment was man für diese hartnäckige Seuchenbekämfung brauch, war hoch motiviert und dies nicht nur am Boden. Die Abwehrkräfte hielten bis zum Schluss auch wenn bei mir zum Ende hin die Luft dünner wurde. FreakyFour, erprobt auch ohne Sauerstoffzufuhr in luftiger Höhe operieren zu können, leistete hier besonderen Einsatz. 
+Aber auch die rückwärtigen Dienste von GreenWitch79 und Kunoichi82 rundeten unsere Teamarbeit ab, sodass wir das notwendige Serum zum Schluss in unseren Händen halten konnten.
+Danke für die abenteuerliche Aktion heut und Dank dem Owner für's Ermöglichen unseres Einsatzes</text>
+          </log>
+          <log id="926840146">
+            <date>2020-04-18T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="20090768">GreenWitch79</finder>
+            <text encoded="False">Heute standen ein paar ausgesuchte Dosen auf dem Programm.
+Das Rätsel wurde in Heimarbeit entschlüsselt und nun stand der OutdoorTeil an.
+Ich muss sagen, die Jungs hatten ganz schön zu leiden an der Seuche. 
+Am Final trugen wir uns natürlich in die Krankenakte ein und beließen das Serum in der Phiole.
+TFTC und fürs Legen und Pflegen sagt GreenWitch79 aus Berlin.</text>
+          </log>
+          <log id="922001029">
+            <date>2020-04-18T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="11289910">Kunoichi82</finder>
+            <text encoded="False">Mit FreakyFour, GreenWitch79 und xFeuersteinx standen heute einige Dosen im Raum Potsdam auf dem Programm. 
+Das Rätsel konnten wir zu Hause gut lösen.
+Heute trafen wir uns vor Ort, um den Outdoorteil anzugehen.
+S1: Klassiker, S2: erstmal dran vorbei gelaufen, S3: ganze Weile gesucht weil wir die Option dort nicht vermuteten, S4: ging schneller, S5 und S6: schöne Klassiker, S7: schon fett!
+Ich muss sagen, ich bin stolz auf die Jungs - die haben heute ordentlich was geleistet! Spätestens an S7 merkt man eindeutig, wenn man infiziert ist [:D] das Final fanden wir gut verschlossen vor, aber auch schon bissel angegammelt. Zum Glück war das Antiserum unversehrt!
+Nach Studium der Unterlagen ging es dann weiter zum letzten Zug in Richtung Menzelstraße ...
+Vielen Dank an dety für diese Herausforderungen!</text>
+          </log>
+          <log id="921546092">
+            <date>2020-04-18T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="19934491">FreakyFour</finder>
+            <text encoded="False">Nachdem unser kleines Team das Geheimnis von MI IV Cäser erfolgreich gelüftet hatten, wurden wir trotz perfekter Wetterbedingungen von der Seuche befallen. Also machten wir uns sofort auf die Suche nach dem Serum. Alle Herausforderungen konnten von uns super, mal schnell, mal weniger schnell bewältigt werden. Leider wussten wir irgendwann nicht mehr ob es die Seuche oder die Höhenkrankheit war ;-). Naja es heißt ja nur die Harten kommen in den Garten.  Also alles voll durchgezogen, das Serum injiziert und die Gästeliste signiert ;-). Jetzt mussten wir nur noch schnell alles wieder verstauen und uns beeilen, denn in nicht allzu langer Zeit fuhr unserer letzter Nighttrain😎.
+
+Ein großes DANKESCHÖN an dety für die Herausforderungen, das Herführen sowie für das Legen und Pflegen.</text>
+          </log>
+          <log id="827921523">
+            <date>2019-02-08T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="14218081">Vollseiler</finder>
+            <text encoded="False">Ein Hauch Frühling lag in der Luft. So entschieden sich FF20 und Vollseiler zu einem längeren Spaziergang samt Cachedog in den heimischen Wäldern. Das genaue Ziel bzw. die Startkoordinate lag schon lange im GC- Aktenordner. Alle Stationen waren fair zu finden und sind in gutem Zustand. Nur am Logbuch beginnt sich die Seuche auszubreiten. Ein schönes Stückchen Wald hat sich der Owner hier ausgesucht: Prachtbäume im Überfluss, die andernorts in den Kiefern- Monokulturen fehlen. Das Final war leider unverschlossen, ist jetzt nach üppiger Caramba- Behandlung aber wieder voll funktionsfähig. Vielen Dank für den gemütlichen und gelungenen Cache und Grüße an den Owner und FF 20. FP in, klar doch.</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-05-04T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.633333001285791" lon="13.083333028480411">
+    <time>2014-08-29T00:00:00Z</time>
+    <name>GC5BYNH</name>
+    <cmt>Wieder ein Jahr vorbei by Bandit2504, Unknown Cache (5/5)</cmt>
+    <desc>Wieder ein Jahr vorbei by Bandit2504, Unknown Cache (5/5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=db0fc9fb-a8bb-4e96-855a-56c3f6ba9f5d" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="4562723" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Wieder ein Jahr vorbei</name>
+        <placed_by>Bandit2504</placed_by>
+        <owner id="4750789">Bandit2504</owner>
+        <type>Unknown Cache</type>
+        <container>Other</container>
+        <difficulty>5</difficulty>
+        <terrain>5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;p align="center"&gt;&lt;font size="+3"&gt;&lt;font face="Bastion"&gt;&lt;font color="#FF8000"&gt;Und wieder ist ein Jahr um&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+2"&gt;&lt;font face="Arial Rounded MT Bold"&gt;&lt;font color="#0000FF"&gt;Wie jedes Jahr so auch dieses bekommst du lieber Dety von mir einen Cache zu deinem Ehrentag. Da du dich ja seid einiger Zeit mit dem klettern beschäftigst, habe ich dir einen kleinen T5er gelegt. Es handelt sich hier um eine besondere Art zum erreichen der Dose. Löse die kleine Aufgabe und schon kann es los gehen.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+2"&gt;&lt;font face="Bernard MT Condensed"&gt;&lt;font color="#FF0000"&gt;&lt;font size="+3"&gt;&lt;font color="#FF0000"&gt;nootnbudsrseenew &lt;font color="#0000FF"&gt;diundreuenhetinw&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+2"&gt;&lt;font face="Bernard MT Condensed"&gt;&lt;font color="#008000"&gt;&lt;font size="+3"&gt;&lt;font color="#000000"&gt;hurfudazntünfnig&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+2"&gt;&lt;font face="Bernard MT Condensed"&gt;&lt;font color="#008000"&gt;&lt;font size="+3"&gt;&lt;font color="#000000"&gt;&lt;font color="#FF8000"&gt;zndüzg-xfzni-xxx&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Book Antiqua"&gt;&lt;font color="#000000"&gt;Bringe die Buchstaben in die richtige Reihenfolge.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+2"&gt;&lt;font face="Book Antiqua"&gt;&lt;font color="#FF8000"&gt;Übrigens dieses Rätsel ist in Zusammenarbeit mit H bH entstanden von dem ich dir auch Glückwünsche ausrichten soll&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+2"&gt;&lt;font face="Arial Rounded MT Bold"&gt;&lt;font color="#000000"&gt;An alle anderen T5 Cachern sei die Bitte gerichtet Dety den FTF zu überlassen&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+2"&gt;&lt;font face="Elephant"&gt;&lt;font color="#008000"&gt;Der Bandit wünscht dir und allen aus der Cacher-Gemeinde Viel Spaß&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;img src="http://imgcdn.geocaching.com/cache/large/46251377-8805-479d-8c35-b7aec0e708bf.gif" alt border="0" width height /&gt;&lt;/p&gt;
+
+&lt;p&gt;Additional Waypoints&lt;/p&gt;</long_description>
+        <encoded_hints>Hier bedarf es keiner Hinweise, außer Stift mitbringen</encoded_hints>
+        <logs>
+          <log id="810569122">
+            <date>2018-10-20T19:13:57Z</date>
+            <type>Found it</type>
+            <finder id="19683240">Tentakel_87</finder>
+            <text encoded="False">Puh, das war ein verdammt langer Weg bis hierher...
+Als ich die Aufgabe entdeckte hatte ich wieder einmal nur Fragezeichen auf der Stirn.
+Also gesucht, probiert, verworfen und weiterprobiert.
+Das zog sich dann geraume Zeit hin, aber irgendwann wurde durch einen Hinweis Licht ins Dunkle gebracht.
+Letzte Woche dann Start zum Outdoorteil und heute das Finale.
+Dar Baum war schnell ausgemacht, das Seil eingebaut und aufgeentert.
+Oben dann die Überraschung: dann hat sich wohl jemand mit grober Gewalt den Zutritt zur Dose verschafft. Das Büchlein selber ist OK, und vorgewarnt durch diverse Vorlogger wartete in luftiger Höhe noch eine spezielle Aufgabe ;-))
+Zum Glück wars ja nicht so kalt.
+Alles wieder verpackt, ein wenig Reparatur und weiter ging es.
+
+Für diesen Spaß laß ich mal was blaues im Geäst hängen.
+
+#1812</text>
+          </log>
+          <log id="712087868">
+            <date>2017-08-06T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="3066064">Bernd2010</finder>
+            <text encoded="False">Im Team ging es noch zu diesem Klettercache.
+Wie auch schon im Log von TeamDR49a steht, ging hier nicht alles glatt.
+Das Klettern war nicht das Problem und so war ich fix oben.
+Mit dem nötigen Ausgerüstet wollte ich mich dann auch ans Heben des Finals machen.
+Leider ist die Dose durch den Regen etwas aufgeweicht und daher war es leichter als erwartet.
+Ich habe Kontakt mit dem Owner aufgenommen, doch leider meldet dieser sich nicht.
+Am Ende haben wir es ins Logbuch geschafft.
+Der Cache war cool gemacht!
+
+TFTC sagt Bernd2010.</text>
+          </log>
+          <log id="710342742">
+            <date>2017-08-06T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="10122041">DrSalami</finder>
+            <text encoded="False">Nach dem Paddel Event wurden noch ein paar Dosen besucht. Meinen Sohn Pumba06 hatte ich bei mir mit und im anderen CM saßen Bernd2020, NetF1re, DamNam und Ainadilion. So hatten wir noch ein paar spaßige Stunden zusammen. Dieser Cache war auch dabei. Bernd2010 hatte die Lösung dabei. So machten wir uns ans Werk. Leider war da am Ende nicht Alles in Ordnung. Aber in das Logbuch haben wir es geschafft. Ich denke Bernd2010, der oben war, wird genaueres an den Owner schreiben.
+
+Danke für das Legen und Pflegen sagt TeamDR49a!</text>
+          </log>
+          <log id="689161818">
+            <date>2017-05-28T04:00:00Z</date>
+            <type>Found it</type>
+            <finder id="2897462">chicago gen</finder>
+            <text encoded="False">Bei diesem Rätsel saß ich eine Weile. War fest überzeugt alles wieder mal imListing zu haben was ich brauchte, aber wie ordnen? Es vergingen Tage, Wochen, Monate...
+
+Und dann war ich mal klettern in der Gruppe und mit dem Owner. Und er plauderte etwas [:D]. Und schubste und klopfte auf dem Kopf von Hinten bis der Neuronensalat sich ordnete. Ahhhh....
+
+Auch das war bestimmt schon ein Jahr her und ich kam irgendwie auch nie dazu - und hatte vielleicht auch etwas Respekt von einem 5/5er von Bandit - der wohlbenannte...
+
+Da wir diese Woche jedoch mit Göttin einige nette Dinger absolvierten und uns richtig gut eingespielt haben trauten wir uns auch diesen.
+
+Am Start suchten wir dann erstmal eine ganze Weile und ich errinerte mich an einen Log der erwähnte daß es mit Laubdach schwierig wird. Plötzlich entdeckte ihn Göttin. Die Höhe war ja sehr human und nach dem Studium der Gabeln im näherem Umfeld hatte ich eine Idee. Warum kompliziert wenn es einfach geht? Also meiner Scharfschützin zwei Schüße bestellt, einer dort ganz oben und einer da durchs Nadelohr. Sie brauchte insgesammt drei Schüße - nicht mal Zeit mich hinsetzen und das schöne Stückchen Wald zu geniessen...
+
+Ich erklärte dann Göttin wo sie hochgeht und wo ich sie zum Cache ziehe und schon hatten wir die Infos um zum Final zu gelangen.
+
+Dort entschieden wir uns mal wieder gemeinsam hoch zugehen und den Sieg gemeinsam oben zu feiern - obwohl es mir etwas zu einfach schien, das Ganze, für einen Cache des Wohlbenannten. So war es dann auch. Nach dem ersten Erfolg die Ernüchterung... Ach ja, auch das noch. Zum Glück hatte ich die gebrauchte ECA noch nicht ausgepackt und so konnte Göttin am Boden die letzte Stufe noch vollenden.
+
+Ahhhh [:)]
+
+Danke an den Owner für den Cache ( der jetzt mit´ner blauen Schleife noch besser hängt) und natürlich lieben Gruß!</text>
+          </log>
+          <log id="689154603">
+            <date>2017-05-27T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="13901141">Göttin, die wahre</finder>
+            <text encoded="False">Zusammen mit chicago gen habe ich heute ohne größere Hindernisse den schönen Multi geloggt. Für die ausführliche Beschreibung verweise ich auf chicago gen's Logeintrag 😜. DfdC</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2014-08-29T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.647300017997622" lon="13.083382984623313">
+    <time>2016-01-01T00:00:00Z</time>
+    <name>GC68ZQ1</name>
+    <cmt>Elfenschatz II by Ahtenga, Traditional Cache (1.5/1.5)</cmt>
+    <desc>Elfenschatz II by Ahtenga, Traditional Cache (1.5/1.5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=0447b8ce-6083-4345-9691-f8eca4fcf4d4" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="5397878" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Elfenschatz II</name>
+        <placed_by>Ahtenga</placed_by>
+        <owner id="5291767">Ahtenga</owner>
+        <type>Traditional Cache</type>
+        <container>Small</container>
+        <difficulty>1.5</difficulty>
+        <terrain>1.5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">&lt;p&gt;Hier haben die Elfen einen Schatz versteckt. Geht achtsam mit der Natur um, dann werden die Elfen euch den Schatz auch finden lassen.&lt;/p&gt;
+&lt;p&gt;Inhalt des Caches:&lt;/p&gt;
+&lt;p&gt;- Logbuch&lt;/p&gt;
+&lt;p&gt;- glitzernde Dinge (Elfen lieben so etwas)&lt;/p&gt;
+&lt;p&gt;Im Cache befindet sich kein Stift.&lt;/p&gt;
+Gerne dürfen glitzernde Dinge aus dem Schatz mitgenommen werden und genauso freuen sich die Elfen über neue funkelnde Gaben für ihren Schatz.
+</short_description>
+        <long_description html="True">&lt;p&gt;Wenn Elfen anwesend sind, gibt es dafür die folgenden Anzeichen:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;Intensive Emotionen - wenn man sich von der Natur angenommen fühlt und ein Gefühl von Zuneigung und Geborgenheit auftritt; wenn plötzlich eine ungewöhnliche Freude und Heiterkeit oder aber Gelöstheit spürbar wird.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Auch negative Emotionen sind möglich, beispielsweise eine plötzlich auftretende Angst, durch den Wald zu gehen, im dunklen See zu schwimmen usw.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Auffällige Körperempfindungen: eine Gänsehaut; ein Kribbeln auf der Haut; das Gefühl, dass einem ein Schauer über den Rücken läuft; ungewöhnliche Temperaturempfindungen: wenn es einen plötzlich fröstelt oder wenn einem scheinbar grundlos warm wird.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Veränderungen des Zeitgefühls: wenn die Zeit still zu stehen scheint oder man das Gefühl hat, nur kurz in der Natur gewesen zu sein, obwohl es in Wirklichkeit sehr lange gedauert hat.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Unerwartete Geräusche: unerklärliches Rascheln, ein Rauschen oder ungewöhnliche Klänge in der Natur, die man nicht orten kann.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Unerklärliche Bewegungen: wenn sich Wasser plötzlich kräuselt, wenn Gras oder Blätter sich bewegen, obwohl es windstill ist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eine plötzliche Brise - scheinbar aus dem Nichts auftretender Wind oder Windwirbel.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Eigenartige optische Erscheinungen, beispielsweise, wenn ihr plötzlich Lichtblitze seht; wenn ein Flimmern auftaucht, oder wenn man einen bestimmten Teil der Landschaft verwaschen sieht.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Auffallende Düfte, die einem plötzlich in die Nase strömen, obwohl es keine erklärbare Quelle dafür gibt. Es können leichte, frische und blumige oder auch erdige, harzige und schwere Düfte sein.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Scheue Waldtiere, die sich nähern (Naturwesen können in Tiergestalt auftreten).&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Das Gefühl einer „Anwesenheit“ von etwas, das nicht eingeordnet werden kann.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Das Gefühl, dass Spinnweben über das Gesicht streichen, obwohl dies eigentlich nicht möglich ist.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;Das Gefühl, ein Insekt krabbelt auf dem Kopf durch das Haar, aber da ist keines.&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt; &lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;An manchen Tagen lassen sich Elfen auch fotografieren, ich bin gespannt auf eure Fotos :)&lt;/p&gt;
+&lt;p&gt; &lt;/p&gt;
+Hier könnt ihr das Banner des Elfenschatzes kopieren und in euer Profil einfügen: &lt;a href="http://coord.info/GC68ZQ1"&gt;&lt;img src="https://d1u1p2xjjiahg3.cloudfront.net/da2abbaf-dee3-42d9-9487-a9323bb475e8_l.jpg" width height alt /&gt;&lt;/a&gt; &amp;lt;a href="http://coord.info/GC68ZQ1"&amp;gt;&amp;lt;img src="https://d1u1p2xjjiahg3.cloudfront.net/da2abbaf-dee3-42d9-9487-a9323bb475e8_l.jpg" width height alt /&amp;gt;&amp;lt;/a&amp;gt;
+</long_description>
+        <encoded_hints>
+      </encoded_hints>  <logs>
+          <log id="987527766">
+            <date>2021-01-03T23:01:16Z</date>
+            <type>Found it</type>
+            <finder id="8686227">HeSiMaAl</finder>
+            <text encoded="False">Heute mit den Kindern den Schatz gehoben. Danke dafür</text>
+          </log>
+          <log id="983077523">
+            <date>2020-12-13T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="8221539">DieLs+E</finder>
+            <text encoded="False">Von Pausin durch den Wald kommend hatten wir eine weite Anreise für unseren Besuch bei den Elfen. Wir haben Ihre glitzernden Schätze bewundert und uns in ihr Gästebuch eingetragen. 
+#1315</text>
+          </log>
+          <log id="978459527">
+            <date>2020-11-15T21:33:31Z</date>
+            <type>Found it</type>
+            <finder id="16842816">Mottenmama04</finder>
+            <text encoded="False">Heute bei bestem Wetter zusammen mit Hijacker7 und dem Cacherhund unterwegs gewesen um ein paar Caches zu suchen. Dieser lag ebenfalls auf unserer heutigen Route.
+Schöne kleine Dose!
+DFDC</text>
+          </log>
+          <log id="978654289">
+            <date>2020-11-15T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="7353625">hijacker7</finder>
+            <text encoded="False">Zusammen mit Mottenmama04 konnte der Schatz gehoben werden.
+TFTC</text>
+          </log>
+          <log id="977570554">
+            <date>2020-11-05T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="10963908">n1974</finder>
+            <text encoded="False">Wie lange wollte ich doch schon zur **Indischen Fimindustrie**? Ewig. Heute war es dann nun endlich so weit. Und da dieser schöne Elfenschatz "auf dem Weg lag", sammelte ich diesen natürlich auch sehr gerne ein. Vor Ort untersuchte ich erst das falsche Objekt und dann kam aber zeitnah der Schlag vor den Kopf. Manchmal ist man doch ganz schön blind. 
+
+Lieben, lieben Dank für diesen wunderschönen Cache. </text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2016-01-01T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.645000023767352" lon="13.086667014285922">
+    <time>2017-04-06T00:00:00Z</time>
+    <name>GC73CHA</name>
+    <cmt>Die Indische Filmindustrie by Seven3716, Unknown Cache (2/2)</cmt>
+    <desc>Die Indische Filmindustrie by Seven3716, Unknown Cache (2/2)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=b97e312d-12d1-4c28-b08e-a1b16b04b912" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="6154969" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Die Indische Filmindustrie</name>
+        <placed_by>Seven3716</placed_by>
+        <owner id="16250445">Seven3716</owner>
+        <type>Unknown Cache</type>
+        <container>Small</container>
+        <difficulty>2</difficulty>
+        <terrain>2</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">&lt;p&gt;Nach über 500 gefundenen Caches möchte ich euch schöne Plätze in meinem kleinen  Dorf zeigen.Da das mein erster eigener Cache ist und auch gleich ein Rätselcache wird hoffe ich alles richtig gemacht zu haben so, dass  ihr Spass habt.&lt;/p&gt;
+
+</short_description>
+        <long_description html="True">&lt;p&gt;Mein erster Cach dreht sich um die Indische Filmindustrie.Rätsel und Outdoorteil sind  sehr einfach gehalten  um mich erst mal an das Ganze  ran zu tasten.Für Fans der besagten Filme wird es ein Klacks für alle anderen etwas Googlearbeit.Nun zum Cache.B.z.w dem Rätsel.Wie bereits erwähnt geht es um die Indische Filmindustrie.Dazu gibt es sechs einfache Fragen um die Koordinaten zu ermitteln.&lt;/p&gt;
+&lt;p&gt;Los geht's&lt;/p&gt;
+&lt;p&gt;Wie wird die "Indische Filmindustrie" allgemein genannt?&lt;/p&gt;
+&lt;p&gt;A= WW-115&lt;/p&gt;
+&lt;p&gt;Der wohl bekannteste männliche  Indische Schauspieler heißt...?&lt;/p&gt;
+&lt;p&gt;B= WW-125&lt;/p&gt;
+&lt;p&gt;Welche Hauptstadt war maßgeblich für die Bezeichnung des für A gesuchten Wortes &lt;/p&gt;
+&lt;p&gt;C= &lt;span style="line-height:1.6;"&gt;WW-51&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;Wie heißt diese Stadt heute?&lt;/p&gt;
+&lt;p&gt;D= WW-56&lt;/p&gt;
+&lt;p&gt;Kabhi Khushi Kabhie Gham war einer der ersten auch in Deutschland bekanntenFilme.Wie lautet der deutsche Tietel?&lt;/p&gt;
+&lt;p&gt;E= WW-292&lt;/p&gt;
+&lt;p&gt;Oft vor der Kamera an der Seite von (Antwort für B) ist diese wunderschöne Schauspielerin auch im für E genannten Film als Hauptdarstellerin zu sehen.&lt;/p&gt;
+&lt;p&gt;F= WW nur (Vorname)-44&lt;/p&gt;
+&lt;h2&gt;&lt;span style="line-height:1.6;"&gt;Den Cach findet ihr so hoffe ich bei&lt;/span&gt;&lt;/h2&gt;
+&lt;p&gt;&lt;span style="line-height:1.6;"&gt;52° 38 ABC&lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span style="line-height:1.6;"&gt;013° 05 DEF&lt;/span&gt;&lt;/p&gt;
+&lt;a href="http://geocheck.org/geo_inputchkcoord.php?gid=6270132eab43e3f-5f0d-4567-b18e-358a2ce67459"&gt;Prüfe Deine Lösung&lt;/a&gt; &lt;a href="http://geocheck.org/geo_inputchkcoord.php?gid=6270132eab43e3f-5f0d-4567-b18e-358a2ce67459"&gt;&lt;img src="http://geocheck.org/geocheck_small.php?gid=6270132eab43e3f-5f0d-4567-b18e-358a2ce67459" title="Prüfe Deine Lösung" border="0" /&gt;&lt;/a&gt;
+&lt;p&gt;Additional Waypoints&lt;/p&gt;P073CHA - Parkplatz&lt;br /&gt;N 52° 38.833 E 013° 04.824&lt;br /&gt;Hier könnt ihr euer Cachmobil  abstellen.&lt;br /&gt;</long_description>
+        <encoded_hints>Den Cache zu finden war nicht schwer aber wo ist das Logbuch bitte sehr?</encoded_hints>
+        <logs>
+          <log id="987118372">
+            <date>2021-01-02T23:19:09Z</date>
+            <type>Found it</type>
+            <finder id="15004635">pikodex</finder>
+            <text encoded="False">Wir sind jetzt keine Fans dieses Genre 🤗 aber das Rätsel ließ sich mit ein bißchen Recherche gut lösen. Heute ging es dann zum Outdoor-Teil 🚶‍♂️🚶‍♀️🐕 Nach kurzer Suche wurden wir fündig und konnten uns im Logbuch verewigen 📝
+Wir sind uns nicht sicher ob die Dose wirklich keinen Deckel hat, aber wir haben in der näheren Umgebung nichts weiter gefunden und so haben wir alles wieder versteckt, wie vorgefunden. 
+Danke fürs legen und pflegen. 
+Viele Grüße von Pikodex 🙋‍♂️🙋‍♀️🐶</text>
+          </log>
+          <log id="978460322">
+            <date>2020-11-15T21:44:32Z</date>
+            <type>Found it</type>
+            <finder id="16842816">Mottenmama04</finder>
+            <text encoded="False">Heute bei bestem Wetter zusammen mit Hijacker7 und dem Cacherhund unterwegs gewesen um ein paar Caches zu suchen. Dieser lag ebenfalls auf unserer heutigen Route. 
+Das Rätsel war in Heimarbeit flink gelöst und so konnten wir uns auch gleich an den Outdoor-Teil machen!
+Schöne kleine Dose!
+DFDC</text>
+          </log>
+          <log id="978655086">
+            <date>2020-11-15T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="7353625">hijacker7</finder>
+            <text encoded="False">Für die indische Filmindustrie kann ich mich nicht so recht begeistern, aber fürs Cachen. Und so konnte ich heute zusammen mit Mottenmama04 den Cache finden.
+TFTC</text>
+          </log>
+          <log id="977572692">
+            <date>2020-11-05T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="10963908">n1974</finder>
+            <text encoded="False">Wie lange wollte ich doch schon zur **Indischen Fimindustrie**? Ewig. Heute war es dann nun endlich so weit. Ganz unüblich für mich, kontrollierte ich die ewig gespeicherten Koordinaten und fütterte noch einmal den Checker. Da er immer noch GRÜN anzeigte und auch die letzten Funde nicht so lange zurücklagen, war heute der ultimative Tag. Vor Ort ging es dann auch ganz schnell. Flott hatte ich die schöne Dose und dann auch das Logbuch entdeckt. 
+
+Lieben Dank fürs Herlocken. Die Gegend ist sehr schön. </text>
+          </log>
+          <log id="965974462">
+            <date>2020-09-20T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="8840126">Nohoch Ich</finder>
+            <text encoded="False">Auf der 6. Etappe des RUB von Elstal nach Hennigsdorf wurden wieder verschiedene Abstecher gemacht. 
+
+Diese Rätsel wurden noch schnell gelöst. Die Anfahrt war etwas beschwerlich und dann erstmal super erschreckt, ein Mensch obwohl mir zuvor kilometerweit niemand begegnet war. Hab ich da etwa den Owner beim Logbuchtausch gestört? ;-)</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-04-06T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.646667016670108" lon="13.088333001360297">
+    <time>2017-08-30T00:00:00Z</time>
+    <name>GC7CHWQ</name>
+    <cmt>Die Indische Filmindustrie2 by Seven3716, Unknown Cache (3/2)</cmt>
+    <desc>Die Indische Filmindustrie2 by Seven3716, Unknown Cache (3/2)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=fd706461-6b48-4105-996b-e364aee33804" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="6428216" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Die Indische Filmindustrie2</name>
+        <placed_by>Seven3716</placed_by>
+        <owner id="16250445">Seven3716</owner>
+        <type>Unknown Cache</type>
+        <container>Micro</container>
+        <difficulty>3</difficulty>
+        <terrain>2</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">&lt;p&gt;Der erste Cache dieser Reihe war ja offenbar für alle viel zu einfach,das war auch gut so den im Umkreis von 100km scheint es außer mir hier keinen Fan dieser Filme zu geben .Dennoch hoffe ich euch mit der Nummer ZWEI doch etwas heraus zu  fordern. Viel Spaß beim Recherchieren. .&lt;/p&gt;
+
+</short_description>
+        <long_description html="True">&lt;p&gt; &lt;/p&gt;
+&lt;hr /&gt;
+&lt;p&gt; Natürlich wird der Film gesucht.&lt;/p&gt;
+&lt;p&gt;Wie heißt der Film?(vier Worte)&lt;/p&gt;
+&lt;p&gt;   A=Zähle die Buchstaben und Bilde die Quersumme&lt;/p&gt;
+&lt;p&gt;2.Die Schönheit mit dem weißen Röckchen ist wann geboren?&lt;/p&gt;
+&lt;p&gt;    B=Einerstelle der Geburtsjahres&lt;/p&gt;
+&lt;p&gt;3.Wie der Film heißt wisst ihr ja schon.&lt;/p&gt;
+&lt;p&gt;    C= der wievielte Teil ist es?&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;die Hälfte habt ihr geschafft.War doch leicht oder?&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;Weiter geht's&lt;/strong&gt;&lt;/p&gt;
+&lt;p&gt;4.Jetzt kommen wir zu dem wohl hübschesten Mann Indiens(rote Weste)Er hat eine Besonderheit.&lt;/p&gt;
+&lt;p&gt;   D=Ein Finger ist doppelt,Welcher?Bildet die iterierte Summe des WW&lt;/p&gt;
+&lt;p&gt;5.Nochmal zum Film.&lt;/p&gt;
+&lt;p&gt;   E=Ihr wisst wie er heißt ,ihr wisst welcher Teil.Dann wisst ihr auch wann er erschienen ist.Einerstelle der Jahreszahl.&lt;/p&gt;
+&lt;p&gt;6.Im ersten Cache dieser Reihe wurde nach dem wohl bekanntesten indischen Schauspieler gefragt.&lt;/p&gt;
+&lt;p&gt;    F= Da ihr ja alle Teil eins schon gelöst habt wisst ihr von wem die Rede ist.Oft spielt er die Hauptrolle hier aber nicht.Wie oft ist er in     diesem Film zu sehen?&lt;/p&gt;
+&lt;p&gt;Nun nur noch die Ergebnisse einsetzten und es kann los gehen&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;N 52°38 ABC E 013°05 DEF&lt;/strong&gt;&lt;/p&gt;
+&lt;a href="http://geocheck.org/geo_inputchkcoord.php?gid=62845680dddba96-ad51-4a87-b342-204b99d48122"&gt;Prüfe Deine Lösung&lt;/a&gt; &lt;a href="http://geocheck.org/geo_inputchkcoord.php?gid=62845680dddba96-ad51-4a87-b342-204b99d48122" target="_blank"&gt;&lt;img alt="GeoCheck.org" src="http://geocheck.org/geocheck_small.php?gid=62845680dddba96-ad51-4a87-b342-204b99d48122" title="Prüfe Deine Lösung" style="border-width:0px;border-style:solid;height:40px;width:150px;" /&gt;&lt;/a&gt;
+&lt;p&gt;Additional Waypoints&lt;/p&gt;P07CHWQ - Parkplatz&lt;br /&gt;N 52° 38.833 E 013° 04.824&lt;br /&gt;Cachmobilrastplatz&lt;br /&gt;</long_description>
+        <encoded_hints>Da die Koordinaten hier tanzen wie im Film gebe ich den Hint: Oben.Bitte nicht so tief versenken.Gebt den Anderen ne Chance.</encoded_hints>
+        <logs>
+          <log id="977573569">
+            <date>2020-11-05T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="10963908">n1974</finder>
+            <text encoded="False">Wie lange wollte ich doch schon zur **Indischen Fimindustrie**? Ewig. Heute war es dann nun endlich so weit. Ganz unüblich für mich, kontrollierte ich die ewig gespeicherten Koordinaten und fütterte noch einmal den Checker. Da er immer noch GRÜN anzeigte und auch die letzten Funde nicht so lange zurücklagen, war heute der ultimative Tag. Vor Ort ging es dann leider nicht so schnell. Was wanderte ich nicht hin und her. Wenn ich so allein unterwegs bin, habe ich immer Angst, dass ich den falschen Fokus habe, also untersuchte ich wirklich alles. (Wo ich nicht überall meine Finger drin hatte.) Nachdem ich so den Suchradius sehr ausgedehnt hatte, las ich Logeinträge. Und einer ... und diesem bin ich sehr dankbar ... schrieb von den guten Koordinaten. Und siehe da. Da dauerte es gar nicht mehr lange und ich hatte den Schlingel entdeckt. Es dauerte dann zwar noch ein paar Minuten, ehe ich ihn hervorzaubern konnte, da er sich verkantet hatte, aber dann ... HEUREKA.
+
+Also ich kann nur sagen: Vertraut den Koordinaten. Bei mir haben sie genau gepasst. 
+
+Lieben, lieben Dank für diesen schönen Cache. Bei dem ich nur ein ganz kleines bisschen vor Ort geflucht habe. GRINS. </text>
+          </log>
+          <log id="965975290">
+            <date>2020-09-20T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="8840126">Nohoch Ich</finder>
+            <text encoded="False">Auf der 6. Etappe des RUB von Elstal nach Hennigsdorf wurden wieder verschiedene Abstecher gemacht. 
+
+Auch diesen konnte ich nach etwas Suchen entdecken.</text>
+          </log>
+          <log id="935444367">
+            <date>2020-06-10T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="1920093">CC-Fliegen</finder>
+            <text encoded="False">Mit Engel000 ging es heute zum zweiten Teil.
+Hier suchten wir eine Weile bevor Engel000 dann das erlösende "hier, ich hab sie" von sich gab.
+TFTC 
+CC
+# 7446</text>
+          </log>
+          <log id="935428623">
+            <date>2020-06-10T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="19163402">Engel000</finder>
+            <text encoded="False">Vor längerer Zeit hatte ich die Indische Filmindustrie1 besucht aber das Rätsel von der 2 noch nicht gelöst gehabt. 
+Das hat mir dann auch gut gefallen. 
+Nun verging noch eine lange Zeit bis ich mal wieder herkommen konnte. CC-Fliegen begleitete mich und wir liefen zum Final. Die Pflanzen sind ja gerade herrlich anzuschauen: schön und farbenfroh wie indische Kostüme bei den Tanzeinlagen!
+Das kleine Döselchen an den doch guten Koordinaten nach einigen Minuten beim griffeln ertastet, dann auch gesehen und herausgefummelt. Ging relativ gut, das Logbuch signiert und wieder dort platziert.
+
+Merci an Seven3716.
+10. Juni 2020 17:20</text>
+          </log>
+          <log id="934702084">
+            <date>2020-06-06T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="20247378">LuiLiex</finder>
+            <text encoded="False">Nach einer Woche geprägt von Home-Schooling und Home-Office ging es heute Mal alleine hier in dieser Gegend, um die eingestaubten Knochen zu bewegen.
+
+Nach einem gemütlichen Spaziergang kam ich hier in den Erlebnisraum. Das Dösken hatte sich ein schönes Versteck ausgesucht, aber mit ein bisschen Hartnäckigkeit beim suchen konnte ich das Logbuch entsprechend signieren.
+
+TFTC &amp; Liebe Grüße aus dem "fernen Tegel" sagt LuiLiex</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-08-30T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.653833040967584" lon="13.077950002625585">
+    <time>2017-11-05T00:00:00Z</time>
+    <name>GC7EFVJ</name>
+    <cmt>Bunkergold Bonus [Reloaded] by dety, Unknown Cache (1.5/4.5)</cmt>
+    <desc>Bunkergold Bonus [Reloaded] by dety, Unknown Cache (1.5/4.5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=1d05feb0-40ed-46d2-8721-89cd6fbf036b" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="6485840" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Bunkergold Bonus [Reloaded]</name>
+        <placed_by>dety</placed_by>
+        <owner id="4696411">dety</owner>
+        <type>Unknown Cache</type>
+        <container>Micro</container>
+        <difficulty>1.5</difficulty>
+        <terrain>4.5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;div style="text-align:center;"&gt;&lt;span&gt;&lt;img alt src="https://s3.amazonaws.com/gs-geo-images/61e38206-9713-4814-95d5-d30830c6d716.jpg" style="width:580px;height:377px;" /&gt;&lt;br /&gt;
+&lt;br /&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;div style="text-align:center;"&gt;&lt;big&gt;&lt;big&gt;&lt;span&gt;An der Angegebenen Stelle ist &lt;span style="color:rgb(255, 0, 0);text-decoration:underline;"&gt;nicht&lt;/span&gt; der Cache !!!!&lt;/span&gt;&lt;br /&gt;
+&lt;br /&gt;
+&lt;span&gt;Die Koordinaten findest du im Bunkergold (GC3B0TC) -Final!&lt;/span&gt;&lt;/big&gt;&lt;/big&gt;&lt;/div&gt;
+
+&lt;p&gt;Additional Waypoints&lt;/p&gt;</long_description>
+        <encoded_hints>
+      </encoded_hints>  <logs>
+          <log id="983646032">
+            <date>2020-12-18T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="28384113">Michbert1</finder>
+            <text encoded="False">Etwas rutschig bei der Witterung, aber sicher erreichbar.</text>
+          </log>
+          <log id="978461069">
+            <date>2020-11-15T20:47:39Z</date>
+            <type>Found it</type>
+            <finder id="16842816">Mottenmama04</finder>
+            <text encoded="False">Heute bei bestem Wetter zusammen mit Hijacker7 und dem Cacherhund unterwegs gewesen um ein paar Caches zu suchen. Dieser lag ebenfalls auf unserer heutigen Route, nachdem wir Bunkergold endlich erfolgreich gefunden hatten.
+Der Kletterpart war schnell erfolgt und so konnten wir uns erfolgreich im Logbuch verewigen!
+DFDC</text>
+          </log>
+          <log id="978654051">
+            <date>2020-11-15T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="7353625">hijacker7</finder>
+            <text encoded="False">Schöne kleine Kletterpartie zusammen mit Mottenmama04.
+TFTC </text>
+          </log>
+          <log id="967926588">
+            <date>2020-09-29T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="10614441">Michao Team</finder>
+            <text encoded="False">Dziś wybraliśmy się na keszerski wypad na północno- zachodnie obrzeża Berlina. W planie była spora dawka samych przyjemności: ciekawe losty, wieloetapowe i wymagające multi oraz nocne wherigo. Zaczęliśmy od kesza **Komplex 5000**. Pierwsze dwa etapy znaleźliśmy bez problemu, a potem.... po gruntownym zwiedzeniu kilku interesujących zakamarków także finał. [;)] Bardzo ciekawa miejscówka i na pewno warto tu zajrzeć. 
+Potem udaliśmy się na **Bunkergold**. Trochę się obawialiśmy, bo kesz jest już dość wiekowy, ale na szczęście (pomimo mocnego skorodowania niektórych rekwizytów), wszystkie etapy daje się rozwiązać, a w nagrodę można zgarnąć odrobinę kosztowności [;)]
+Następnie przez kilka tradi pojechaliśmy na **R.I.P. clever und smart ... ** Łooo panie. Oczywiście nie poprzestaliśmy na wpisaniu się do logbooka dla niedzielnych keszerów, tylko chcieliśmy zobaczyć chociaż fragment słynnego  poprzednika... Pierwszy zamek przepuścił nas gładko, a potem zaczęły się schody.. Po dłuuuuższej  walce z mechanizmem (dopiero potem doczytaliśmy w logach, że nie funkcjonuje od dość dawna) zdecydowaliśmy się zastosować wariant ... brudniejszy i nieźle utytłani mogliśmy podziwiać izbę pamięci. Niestety nie odszyfrowaliśmy kodu do zamka, ale i tak jesteśmy pełni podziwu dla pomysłu i konstrukcji.. Po prostu fantastyczna robota.
+Kolejny kesz to **Artes Mágicas reloaded**. Tu również czekały na nas bardzo pomysłowe i świetnie przygotowane etapy oraz tematyczny i pięknie wykonany finał. Mieliśmy problem - ktoś zniszczył etap trzeci - ale na szczęście Owner poratował nas wskazówką i mogliśmy całej zgłębiać arkana czarnej magii.. 
+Na koniec zaaplikowaliśmy sobie odrobinę horroru podczas wherigo **Das verlassene Friedhof** Było super :) 
+Bardzo dziękujemy wszystkim założycielom za ogrom włożonej pracy i fantastyczną zabawę. Pozdrawiamy ze Szczecina.
+
+Heute waren wir auf kleine LP-Tour und  haben diesen Multi auf dem Plan gehabt.  
+Wir waren etwas besorgt, weil der Cache ziemlich alt ist, aber zum Glück (trotz der starken Korrosion einiger Requisiten) können alle Stationen gut gelöst werden, und als Belohnung können wir schönen Schatz bewundern [;)]
+Vielen Dank für den Spaß. 
+Schöne Grüße aus Stettin.</text>
+          </log>
+          <log id="966747167">
+            <date>2020-09-25T22:35:36Z</date>
+            <type>Found it</type>
+            <finder id="14827165">Gustav2019</finder>
+            <text encoded="False">Den Bonus mussten wir natürlich auf dem Rückweg noch mitnehmen...danke fürs „Legen“ und Pflegen </text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-05T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.646316988393664" lon="13.101783022284508">
+    <time>2017-11-12T00:00:00Z</time>
+    <name>GC7ET66</name>
+    <cmt>The little Scotsman by dety, Unknown Cache (2/5)</cmt>
+    <desc>The little Scotsman by dety, Unknown Cache (2/5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=e52ba702-846e-4f72-a14c-2abcc68e7d75" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="6494818" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>The little Scotsman</name>
+        <placed_by>dety</placed_by>
+        <owner id="4696411">dety</owner>
+        <type>Unknown Cache</type>
+        <container>Micro</container>
+        <difficulty>2</difficulty>
+        <terrain>5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;div style="text-align:center;background-color:rgb(0, 0, 0);"&gt;
+&lt;h1 style="text-align:center;"&gt;&lt;span style="color:rgb(255, 255, 153);"&gt;The little Scotsman&lt;/span&gt;&lt;/h1&gt;
+&lt;img alt src="https://s3.amazonaws.com/gs-geo-images/2cc604f8-6604-40e4-8fcf-6077b7971c37.jpg" style="width:415px;height:489px;" /&gt;&lt;br /&gt;
+&lt;span style="color:rgb(255, 255, 153);"&gt;&lt;big&gt;Herr Mailens, professioneller Rätseldesigner der schottischen Tageszeitung&lt;/big&gt;&lt;/span&gt;&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;span style="color:rgb(255, 255, 204);"&gt;&lt;big&gt;&lt;span style="color:rgb(255, 255, 153);"&gt;"The Scotsman" , saß in seinem Sessel mit einem Foto seines dreijährigen Enkels in der Hand und&lt;/span&gt;&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;span style="color:rgb(255, 255, 153);"&gt;....hatte mal wieder einen völlig wirren Traum.&lt;/span&gt;&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;span style="color:rgb(255, 255, 153);"&gt;Er stand an einem nebelverhangenen See auf einer HALBINSEL (nicht auf einer INSEL)&lt;/span&gt;&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;span style="color:rgb(255, 255, 153);"&gt;plötzlich bewegte sich die Wasseroberfläche und eine riesige grüne RAUPE&lt;/span&gt;&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;span style="color:rgb(255, 255, 153);"&gt;(nicht etwa eine SCHLANGE) kam auf ihn zu geschwommen.&lt;/span&gt;&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;span style="color:rgb(255, 255, 153);"&gt;Sie kam an Land, bewegte sich ganz dicht an seinen Kopf und flüsterte&lt;/span&gt;&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;span style="color:rgb(255, 255, 153);"&gt;ihn nur ein WORT (ein ganzer SATZ war es nicht) in sein rechtes Ohr.&lt;/span&gt;&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;br style="color:rgb(255, 255, 153);" /&gt;
+&lt;span style="color:rgb(255, 255, 153);"&gt;Was hat das nur wieder zu bedeuten ?&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;img alt src="https://s3.amazonaws.com/gs-geo-images/af9a0346-531c-4198-b847-4173b31ac24f.png" style="width:500px;height:268px;" /&gt;&lt;br /&gt;
+&lt;br /&gt;
+Der Petling hängt ca. 12m hoch . Jeder der besser einwerfen kann als ich&lt;br /&gt;
+(und daß ist fast jeder) brauch keine Bigshot :-)&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;
+&lt;br /&gt;&lt;/span&gt;&lt;br /&gt;&lt;/big&gt;&lt;/span&gt;&lt;/div&gt;
+&lt;span style="color:rgb(255, 255, 255);"&gt;watch?v=d7O741M4308&lt;br /&gt;&lt;/span&gt;
+&lt;p&gt;Additional Waypoints&lt;/p&gt;017ET66 - Start&lt;br /&gt;N/S  __ ° __ . ___ W/E ___ ° __ . ___ &lt;br /&gt;hier gibt es zwei Zahlen die dir weiterhelfen..., nichts zu klettern...
+Jetzt liegt er am Boden 8-()&lt;br /&gt;</long_description>
+        <encoded_hints>
+      </encoded_hints>  <logs>
+          <log id="961243180">
+            <date>2020-09-05T21:04:06Z</date>
+            <type>Found it</type>
+            <finder id="4119008">Sleeping Devil</finder>
+            <text encoded="False">Nach unserem Alternativplan für die Regenphase, konnten wir anschließend unseren eigentlichen Plan verfolgen. Zusammen mit Ritters_p und AmorK wollte jeder von uns noch ein paar Meter in die Höhe. Nach dem uns the little Scotsman den Weg gewiesen hat, hat sich AmorK nach langer Zwangspause in die Höhe begeben und bewiesen, dass er kaum was verlernt hat. 
+
+Danke sagt Sleeping Devil 😈 
+
+P.S.: Falls Ihr mal was teuflisches suchen möchtet, schaut einfach mal [😈 hier 😈](https://www.geocaching.com/bookmarks/view.aspx?guid=e0c6d8a0-32d2-4c03-ab58-b764198c18ca) vorbei. Ich würde mich freuen!</text>
+          </log>
+          <log id="964048155">
+            <date>2020-09-05T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="4003280">ritters_p</finder>
+            <text encoded="False">Das Rätsel war schnell gelöst. Irgendwie erkennt man diese Art von Rätsel immer wieder. Station 1 war nach etwas längerer Suche dann endlich gefunden und schnell entschlüsselt worden. Nun aber erstmal den Multi absolvieren. Nachdem das Bunkergold schon gefunden wurde, wollten wir noch ein wenig klettern. Also das Klettergeraffel in den Bollerwagen geladen und hierher gelaufen. AmorK wollte endlich mal wieder klettern, so ging es für ihn nach dem Aufbau nach oben und dann auch wieder sicher nach unten. 
+
+Danke fürs Zeigen und Verstecken sagt
+ritters_p</text>
+          </log>
+          <log id="961547063">
+            <date>2020-09-05T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="2355778">AmorK</finder>
+            <text encoded="False">###Gefunden!!!!###
+[:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^][:D][^]
+
+Ausflug mit **sleeping devil** und **Ritters_p**.. eigentlich war Klettern der feste Plan, aber das Wetter riet zu einer Alternativplanung... also erst den Multi mit Bonus und danach Wetter checken... und jeder durfte klettern...
+
+Beim Rätsel hatte ich gleich den richtigen Einfall....
+Stage 1 suchten wir etwas länger... als wir sie gefunden hatten, machte der Hint Sinn...
+
+Das hatten wir zu Beginn erledigt und nach dem die Teufelin gerade geklettert war, wollte ich nun auch mal wieder nach der langen Zwangspause an Seil.... nach kurze Strecke stellte ich dann fest, dass irgendwas nicht stimmt und seilte erst mal wieder ab... Pantin links gehört hat auch an den linken Fuß... und siehe da es funktioniert direkt, wenn man es richtig macht... Pause war einfach zu lang...
+
+Oben dann für alle ins Logbuch geschrieben und zurück zu den anderen...
+
+*TFTC*
+
+**AmorK**</text>
+          </log>
+          <log id="912458925">
+            <date>2020-03-08T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="8916926">DonBerty</finder>
+            <text encoded="False">schon seit geraumer Zeit trage ich den Start zu diesem Cache mit mir rum, als ich dann mal Zeit hatte und sowieso wegen einer anderen Aufgabe in der Gegend war schaute ich mir S1 an bzw. wollte sie mir ansehen was aber nicht gelang, irgend wann traf ich mal einen Vorfinder der mir diesen Standort bestätigte und mir auch die weiterführenden Koord gab, heute wollte ich paar Aufgaben dann erledigten bevor das Laub wieder raus kommt, nun wissend schaute ich noch mal nach S1, sie war da wenn auch vergraben, am Final dann schaute ich ewig bis ich die Anomalie sah, wenigstens ging der Einschuss und der Einbau fix, mein Seil sagte aber eher eine Zahl mit einer 2 vorn anstaat 12m, egal also rauf, dauerte zwar aber am Ende war es vollbracht, weitere Aufgaben brauchte ich dann heut aber nicht mehr und so werde ich wohl irgend wann hier wieder erscheinen, Potential gibt es für mich noch...
+Danke für die sehr sportliche Herausforderung </text>
+          </log>
+          <log id="849321339">
+            <date>2019-04-27T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="16250445">Seven3716</finder>
+            <text encoded="False">Na soooo little war der aber nicht und ohne Biggi...nö.12m?nö.Oder der gute ist wohl ganz schön gewachsen.Entweder standen wir auf der falschen Seite oder waren einfach mächtig aus der Übung.Na ja lange Rede kurzer Sinn.Mr.Wulff musste ganz schön ackern.Und ich bangte mit steifem Nacken als Bodencrew.So ganz wohl ist mir immer nicht wenn sie in solchen Höhen rumbaumelt.
+Alles für die Dose alles für nen Punkt😁
+TFTC</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-11-12T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.658717008307576" lon="13.11149999499321">
+    <time>2017-12-24T00:00:00Z</time>
+    <name>GC7GB6J</name>
+    <cmt>Angel dir den Punkt 1 by Bandit2504, Traditional Cache (5/2.5)</cmt>
+    <desc>Angel dir den Punkt 1 by Bandit2504, Traditional Cache (5/2.5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=1a44398b-3a90-42a0-a03a-d6cfa4c0e7d8" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="6540958" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Angel dir den Punkt 1</name>
+        <placed_by>Bandit2504</placed_by>
+        <owner id="4750789">Bandit2504</owner>
+        <type>Traditional Cache</type>
+        <container>Micro</container>
+        <difficulty>5</difficulty>
+        <terrain>2.5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;p align="center"&gt;&lt;font size="+3"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF0000"&gt;Angel dir den Punkt&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#804000"&gt;Bei einem kleinen Spaziergang in meiner Homezone kam mir doch die Idee zu einer neuen Angelrunde&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#0000FF"&gt;Hier kommt nun das Ergebnis meiner Idee&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF8000"&gt;Eine kleine Runde bestehend aus 9 Cache mit der richtigen ECA&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#400080"&gt;Als kleines Schmankel gibt es noch einen kleinen Bonus GC7GB7D&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF0000"&gt;Also wenn ihr die Runde erfolgreich absolviert habt und auf alles geachtet habt dann könnt ihr noch einen 10. Punkt einfahren.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF8000"&gt;Aber ich möchte gleich vorweg sagen "leicht wird es nicht"&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;img src="https://s3.amazonaws.com/gs-geo-images/11f3d8b6-ec14-426a-bed2-edc2018ae127.jpg" alt border="0" width height /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#000000"&gt;Nun bleibt mir nurnoch euch viel Spaß und Erfolg zu wünschen&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+
+</long_description>
+        <encoded_hints>
+      </encoded_hints>  <logs>
+          <log id="962502370">
+            <date>2020-08-22T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="6472220">Calli87</finder>
+            <text encoded="False"># 10197
+Heute ging es alleine auf eine kleine Angeltour, da keiner meiner üblichen Begleitungen Zeit hatte. Also wurde in Ruhe gemütlich gefrühstückt und das CM beladen. Als erstes hatte ich mir die "Angel dir den Punkt"-Runde herausgesucht. Hier stellte ich erst im Wald fest, dass leider schon ein paar davon archiviert waren. So kam ich auf jedenfall schneller durch und hatte die restlichen nach knapp einer Stunde alle gefunden und mit der ECA erfolgreich geborgen.
+Nach dem Signieren des Logbuches habe ich wieder alles ordentlich zusammengepackt und in sein Versteck gelegt.
+Vielen Dank sagt Calli87.
+T4T$
+
+Schaut auch mal bei unseren Dosen von unserem Teamaccount der 'Verrückten' vorbei [;)]
+[Die Eule](https://coord.info/GC77H77/ 'Die Eule')
+[Der Flussinspektor](https://coord.info/GC73312/ 'Der Flussinspektor')</text>
+          </log>
+          <log id="947779960">
+            <date>2020-07-24T01:09:26Z</date>
+            <type>Found it</type>
+            <finder id="27504560">umbogen</finder>
+            <text encoded="False">+++UMBOGEN/NO+TINA/SENI74/STIPPI55 = UNOSS+++ auf unserer heutigen Tour ins Berliner Umfeld platzsparende als UNOSS geloggt!+++
+Auch dieser Cache wurde heute bei schönstem Sommerwetter erfolgreich abgearbeitet. Da heute insgesamt 50 Caches absolviert wurden, ist hier leider ein Einheitslog notwendig um zeitnahe zu bleiben. TFTC sagt Umbogen.</text>
+          </log>
+          <log id="969664995">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="11408924">stippi55</finder>
+            <text encoded="False">Camping Urlaub 🚙👩‍❤️‍💋‍👨 mit &gt;Seni74&lt; 👩‍❤️‍💋‍👨 am Mahlower See 🤗 da gehört Cachen natürlich mit dazu 😎 Heute mit &gt;NO+Tina&lt; sowie &gt;umbogen&lt; zum gemeinsamen 🎣Cachen verabredet. Gefunden, geloggt ✍️ und zurück gehängt 👍 
+
+Danke sagt 
+stippi55</text>
+          </log>
+          <log id="948842530">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="22724484">Seni74</finder>
+            <text encoded="False">Heute haben wir, stippi55 und ich, uns mit NO+Tina und Umbogen getroffen  um einige ausgewählte Caches zu machen. 
+Auch diese standen mit auf unserer Liste. Auch wenn die Mücken es uns nicht gerade einfach machten konnten alle Dosen gut erangelt werden. Doch hier ist dringend eine Wartung nötig entweder war das LB voll oder nass. 
+
+Danke sagt
+Seni74</text>
+          </log>
+          <log id="947791243">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="12358207">NO+Tina</finder>
+            <text encoded="False">Heute mit umbogen,Seni 74 und Stippi55 ein paar Angelcaches nördlich von Berlin gemacht. Platzsparend signierten wir uns als UNOSS 2020. Hier konnten wir schnell fündig werden.
+TFTC sagen NO und Tina</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-24T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.657250007614493" lon="13.113666968420148">
+    <time>2017-12-24T00:00:00Z</time>
+    <name>GC7GB6P</name>
+    <cmt>Angel dir den Punkt 2 by Bandit2504, Traditional Cache (5/2.5)</cmt>
+    <desc>Angel dir den Punkt 2 by Bandit2504, Traditional Cache (5/2.5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=eddc2367-684c-4004-bcfa-997fd668e465" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="6540962" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Angel dir den Punkt 2</name>
+        <placed_by>Bandit2504</placed_by>
+        <owner id="4750789">Bandit2504</owner>
+        <type>Traditional Cache</type>
+        <container>Micro</container>
+        <difficulty>5</difficulty>
+        <terrain>2.5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;p align="center"&gt;&lt;font size="+3"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF0000"&gt;Angel dir den Punkt&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#804000"&gt;Bei einem kleinen Spaziergang in meiner Homezone kam mir doch die Idee zu einer neuen Angelrunde&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#0000FF"&gt;Hier kommt nun das Ergebnis meiner Idee&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF8000"&gt;Eine kleine Runde bestehend aus 9 Cache mit der richtigen ECA&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#400080"&gt;Als kleines Schmankel gibt es noch einen kleinen Bonus GC7GB7D&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF0000"&gt;Also wenn ihr die Runde erfolgreich absolviert habt und auf alles geachtet habt dann könnt ihr noch einen 10. Punkt einfahren.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF8000"&gt;Aber ich möchte gleich vorweg sagen "leicht wird es nicht"&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;img src="https://s3.amazonaws.com/gs-geo-images/11f3d8b6-ec14-426a-bed2-edc2018ae127.jpg" alt border="0" width height /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#000000"&gt;Nun bleibt mir nurnoch euch viel Spaß und Erfolg zu wünschen&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+
+</long_description>
+        <encoded_hints>
+      </encoded_hints>  <logs>
+          <log id="962503246">
+            <date>2020-08-22T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="6472220">Calli87</finder>
+            <text encoded="False"># 10200
+Heute ging es alleine auf eine kleine Angeltour, da keiner meiner üblichen Begleitungen Zeit hatte. Also wurde in Ruhe gemütlich gefrühstückt und das CM beladen. Als erstes hatte ich mir die "Angel dir den Punkt"-Runde herausgesucht. Hier stellte ich erst im Wald fest, dass leider schon ein paar davon archiviert waren. So kam ich auf jedenfall schneller durch und hatte die restlichen nach knapp einer Stunde alle gefunden und mit der ECA erfolgreich geborgen.
+Nach dem Signieren des Logbuches habe ich wieder alles ordentlich zusammengepackt und in sein Versteck gelegt.
+Vielen Dank sagt Calli87.
+T4T$
+
+Schaut auch mal bei unseren Dosen von unserem Teamaccount der 'Verrückten' vorbei [;)]
+[Die Eule](https://coord.info/GC77H77/ 'Die Eule')
+[Der Flussinspektor](https://coord.info/GC73312/ 'Der Flussinspektor')</text>
+          </log>
+          <log id="947781838">
+            <date>2020-07-24T01:36:56Z</date>
+            <type>Found it</type>
+            <finder id="27504560">umbogen</finder>
+            <text encoded="False">+++UMBOGEN/NO+TINA/SENI74/STIPPI55 = UNOSS+++ auf unserer heutigen Tour ins Berliner Umfeld platzsparende als UNOSS geloggt!+++
+Auch dieser Cache wurde heute bei schönstem Sommerwetter erfolgreich abgearbeitet. Das Logbuch ist hier nicht wirklich zum Log zu gebrauchen, da es klitschnass ist, deshalb unterstützend Fotolog. Der Owner könnte hier etwas nachbessern, zumal die Strecke durch den Wald zum Cache, entgegen der wunderbaren Schilderungen einiger unserer Vorgänger, nicht ohne ist! Trotzdem ,TFTC sagt Umbogen.</text>
+          </log>
+          <log id="969665172">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="11408924">stippi55</finder>
+            <text encoded="False">Camping Urlaub 🚙👩‍❤️‍💋‍👨 mit &gt;Seni74&lt; 👩‍❤️‍💋‍👨 am Mahlower See 🤗 da gehört Cachen natürlich mit dazu 😎 Heute mit &gt;NO+Tina&lt; sowie &gt;umbogen&lt; zum gemeinsamen 🎣Cachen verabredet. Gefunden, geloggt ✍️ und zurück gehängt 👍 
+
+Danke sagt 
+stippi55</text>
+          </log>
+          <log id="948843851">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="22724484">Seni74</finder>
+            <text encoded="False">Heute haben wir, stippi55 und ich, uns mit NO+Tina und Umbogen getroffen  um einige ausgewählte Caches zu machen. 
+Auch diese standen mit auf unserer Liste. Auch wenn die Mücken es uns nicht gerade einfach machten konnten alle Dosen gut erangelt werden. Doch hier ist dringend eine Wartung nötig entweder war das LB voll oder nass. 
+
+Danke sagt
+Seni74</text>
+          </log>
+          <log id="947790935">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="12358207">NO+Tina</finder>
+            <text encoded="False">Heute mit umbogen,Seni 74 und Stippi55 ein paar Angelcaches nördlich von Berlin gemacht. Platzsparend signierten wir uns als UNOSS 2020. Hier war der Weg zum Caches schon ein Abenteuer für sich und das dann noch das Logbuch total nass war, machte es nicht besser. Hier konnten wir nur noch ein Fotolog machen.
+TFTC sagen NO und Tina</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-24T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.661033011972904" lon="13.115249974653125">
+    <time>2017-12-24T00:00:00Z</time>
+    <name>GC7GB71</name>
+    <cmt>Angel dir den Punkt 6 by Bandit2504, Traditional Cache (5/2.5)</cmt>
+    <desc>Angel dir den Punkt 6 by Bandit2504, Traditional Cache (5/2.5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=0cfb2f6a-c109-442b-b036-f2e34eeac7c9" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="6540972" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Angel dir den Punkt 6</name>
+        <placed_by>Bandit2504</placed_by>
+        <owner id="4750789">Bandit2504</owner>
+        <type>Traditional Cache</type>
+        <container>Micro</container>
+        <difficulty>5</difficulty>
+        <terrain>2.5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;p align="center"&gt;&lt;font size="+3"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF0000"&gt;Angel dir den Punkt&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#804000"&gt;Bei einem kleinen Spaziergang in meiner Homezone kam mir doch die Idee zu einer neuen Angelrunde&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#0000FF"&gt;Hier kommt nun das Ergebnis meiner Idee&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF8000"&gt;Eine kleine Runde bestehend aus 9 Cache mit der richtigen ECA&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#400080"&gt;Als kleines Schmankel gibt es noch einen kleinen Bonus GC7GB7D&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF0000"&gt;Also wenn ihr die Runde erfolgreich absolviert habt und auf alles geachtet habt dann könnt ihr noch einen 10. Punkt einfahren.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF8000"&gt;Aber ich möchte gleich vorweg sagen "leicht wird es nicht"&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;img src="https://s3.amazonaws.com/gs-geo-images/11f3d8b6-ec14-426a-bed2-edc2018ae127.jpg" alt border="0" width height /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#000000"&gt;Nun bleibt mir nurnoch euch viel Spaß und Erfolg zu wünschen&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+
+</long_description>
+        <encoded_hints>
+      </encoded_hints>  <logs>
+          <log id="962500279">
+            <date>2020-08-22T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="6472220">Calli87</finder>
+            <text encoded="False"># 10195
+Heute ging es alleine auf eine kleine Angeltour, da keiner meiner üblichen Begleitungen Zeit hatte. Also wurde in Ruhe gemütlich gefrühstückt und das CM beladen. Als erstes hatte ich mir die "Angel dir den Punkt"-Runde herausgesucht. Hier stellte ich erst im Wald fest, dass leider schon ein paar davon archiviert waren. So kam ich auf jedenfall schneller durch und hatte die restlichen nach knapp einer Stunde alle gefunden und mit der ECA erfolgreich geborgen.
+Nach dem Signieren des Logbuches habe ich wieder alles ordentlich zusammengepackt und in sein Versteck gelegt.
+Vielen Dank sagt Calli87.
+T4T$
+
+Schaut auch mal bei unseren Dosen von unserem Teamaccount der 'Verrückten' vorbei [;)]
+[Die Eule](https://coord.info/GC77H77/ 'Die Eule')
+[Der Flussinspektor](https://coord.info/GC73312/ 'Der Flussinspektor')</text>
+          </log>
+          <log id="947781936">
+            <date>2020-07-24T01:39:58Z</date>
+            <type>Found it</type>
+            <finder id="27504560">umbogen</finder>
+            <text encoded="False">+++UMBOGEN/NO+TINA/SENI74/STIPPI55 = UNOSS+++ auf unserer heutigen Tour ins Berliner Umfeld platzsparende als UNOSS geloggt!+++
+Auch dieser Cache wurde heute bei schönstem Sommerwetter erfolgreich abgearbeitet. Da heute insgesamt 50 Caches absolviert wurden, ist hier leider ein Einheitslog notwendig um zeitnahe zu bleiben. TFTC sagt Umbogen.</text>
+          </log>
+          <log id="969665265">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="11408924">stippi55</finder>
+            <text encoded="False">Camping Urlaub 🚙👩‍❤️‍💋‍👨 mit &gt;Seni74&lt; 👩‍❤️‍💋‍👨 am Mahlower See 🤗 da gehört Cachen natürlich mit dazu 😎 Heute mit &gt;NO+Tina&lt; sowie &gt;umbogen&lt; zum gemeinsamen 🎣Cachen verabredet. Gefunden, geloggt ✍️ und zurück gehängt 👍 
+
+Danke sagt 
+stippi55</text>
+          </log>
+          <log id="948845477">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="22724484">Seni74</finder>
+            <text encoded="False">Heute haben wir, stippi55 und ich, uns mit NO+Tina und Umbogen getroffen  um einige ausgewählte Caches zu machen. 
+Auch diese standen mit auf unserer Liste. Auch wenn die Mücken es uns nicht gerade einfach machten konnten alle Dosen gut erangelt werden. Doch hier ist dringend eine Wartung nötig entweder war das LB voll oder nass. 
+
+Danke sagt
+Seni74</text>
+          </log>
+          <log id="947791703">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="12358207">NO+Tina</finder>
+            <text encoded="False">Heute mit umbogen,Seni 74 und Stippi55 ein paar Angelcaches nördlich von Berlin gemacht. Platzsparend signierten wir uns als UNOSS 2020. Hier konnten wir schnell fündig werden.
+TFTC sagen NO und Tina</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-24T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.660032967105508" lon="13.113049976527691">
+    <time>2017-12-24T00:00:00Z</time>
+    <name>GC7GB74</name>
+    <cmt>Angel dir den Punkt 7 by Bandit2504, Traditional Cache (5/2.5)</cmt>
+    <desc>Angel dir den Punkt 7 by Bandit2504, Traditional Cache (5/2.5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=3f46dc0a-162e-4160-b82b-79aff049ffd1" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="6540975" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Angel dir den Punkt 7</name>
+        <placed_by>Bandit2504</placed_by>
+        <owner id="4750789">Bandit2504</owner>
+        <type>Traditional Cache</type>
+        <container>Micro</container>
+        <difficulty>5</difficulty>
+        <terrain>2.5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;p align="center"&gt;&lt;font size="+3"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF0000"&gt;Angel dir den Punkt&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#804000"&gt;Bei einem kleinen Spaziergang in meiner Homezone kam mir doch die Idee zu einer neuen Angelrunde&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#0000FF"&gt;Hier kommt nun das Ergebnis meiner Idee&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF8000"&gt;Eine kleine Runde bestehend aus 9 Cache mit der richtigen ECA&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#400080"&gt;Als kleines Schmankel gibt es noch einen kleinen Bonus GC7GB7D&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF0000"&gt;Also wenn ihr die Runde erfolgreich absolviert habt und auf alles geachtet habt dann könnt ihr noch einen 10. Punkt einfahren.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#FF8000"&gt;Aber ich möchte gleich vorweg sagen "leicht wird es nicht"&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;img src="https://s3.amazonaws.com/gs-geo-images/11f3d8b6-ec14-426a-bed2-edc2018ae127.jpg" alt border="0" width height /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Flubber"&gt;&lt;font color="#000000"&gt;Nun bleibt mir nurnoch euch viel Spaß und Erfolg zu wünschen&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+
+</long_description>
+        <encoded_hints>
+      </encoded_hints>  <logs>
+          <log id="957032355">
+            <date>2020-08-22T20:27:04Z</date>
+            <type>Needs Maintenance</type>
+            <finder id="6472220">Calli87</finder>
+            <text encoded="False">Dieser Geocacher hat gemeldet, dass der Behälter beschädigt ist.</text>
+          </log>
+          <log id="962502697">
+            <date>2020-08-22T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="6472220">Calli87</finder>
+            <text encoded="False"># 10198
+Heute ging es alleine auf eine kleine Angeltour, da keiner meiner üblichen Begleitungen Zeit hatte. Also wurde in Ruhe gemütlich gefrühstückt und das CM beladen. Als erstes hatte ich mir die "Angel dir den Punkt"-Runde herausgesucht. Hier stellte ich erst im Wald fest, dass leider schon ein paar davon archiviert waren. So kam ich auf jedenfall schneller durch und hatte die restlichen nach knapp einer Stunde alle gefunden und mit der ECA erfolgreich geborgen. Hier konnte ich keinen Eintrag mehr im Logbuch vornehmen, da das Logbuch nur noch ein Wasserlogbuch war.
+Nach dem Signieren des Logbuches habe ich wieder alles ordentlich zusammengepackt und in sein Versteck gelegt.
+Vielen Dank sagt Calli87.
+T4T$
+
+Schaut auch mal bei unseren Dosen von unserem Teamaccount der 'Verrückten' vorbei [;)]
+[Die Eule](https://coord.info/GC77H77/ 'Die Eule')
+[Der Flussinspektor](https://coord.info/GC73312/ 'Der Flussinspektor')</text>
+          </log>
+          <log id="957032309">
+            <date>2020-08-22T19:00:00Z</date>
+            <type>Write note</type>
+            <finder id="6472220">Calli87</finder>
+            <text encoded="False">Dringende Wartung notwendig. Deckel kaputt, Wassereintritt, Logbuch völlig durchnässt</text>
+          </log>
+          <log id="969665222">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="11408924">stippi55</finder>
+            <text encoded="False">Camping Urlaub 🚙👩‍❤️‍💋‍👨 mit &gt;Seni74&lt; 👩‍❤️‍💋‍👨 am Mahlower See 🤗 da gehört Cachen natürlich mit dazu 😎 Heute mit &gt;NO+Tina&lt; sowie &gt;umbogen&lt; zum gemeinsamen 🎣Cachen verabredet. Gefunden, geloggt ✍️ und zurück gehängt 👍 
+
+Danke sagt 
+stippi55</text>
+          </log>
+          <log id="948845287">
+            <date>2020-07-23T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="22724484">Seni74</finder>
+            <text encoded="False">Heute haben wir, stippi55 und ich, uns mit NO+Tina und Umbogen getroffen  um einige ausgewählte Caches zu machen. 
+Auch diese standen mit auf unserer Liste. Auch wenn die Mücken es uns nicht gerade einfach machten konnten alle Dosen gut erangelt werden. Doch hier ist dringend eine Wartung nötig entweder war das LB voll oder nass. 
+
+Danke sagt
+Seni74</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2017-12-24T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.641249960288405" lon="13.087766971439123">
+    <time>2018-01-28T00:00:00Z</time>
+    <name>GC7HNDA</name>
+    <cmt>Am alten Bhf. by daba1979, Traditional Cache (1.5/1.5)</cmt>
+    <desc>Am alten Bhf. by daba1979, Traditional Cache (1.5/1.5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=b5981634-d1c5-469c-ac86-ec944f243f6b" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="6580568" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Am alten Bhf.</name>
+        <placed_by>daba1979</placed_by>
+        <owner id="21399536">daba1979</owner>
+        <type>Traditional Cache</type>
+        <container>Micro</container>
+        <difficulty>1.5</difficulty>
+        <terrain>1.5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;p&gt;Bis zum 8. Dezember 1963 gab es hier den Bahnhof Wansdorf mit Personenverkehr. Hier fuhr die Kleinbahn der Osthavelländischen Kreisbahn.&lt;/p&gt;
+&lt;p&gt;Hier seht ihr einen Fahrplan aus der damaligen Zeit.&lt;/p&gt;
+&lt;img src="https://s3.amazonaws.com/gs-geo-images/e5303a55-956d-43a1-93d2-a6aac537d1cc.jpg" alt="alter Fahrplan" /&gt;
+&lt;p&gt;Zum Cache:&lt;/p&gt;
+&lt;p&gt;Der Cache liegt etwas entfernt da das damalige Bahnhofsgebäude ein Jugendclub ist und dadurch mit vielen Muggels zu rechnen ist.&lt;/p&gt;
+&lt;p&gt;Stift ist vorhanden. Viel Spaß beim suchen.&lt;/p&gt;
+
+</long_description>
+        <encoded_hints>
+      </encoded_hints>  <logs>
+          <log id="977574103">
+            <date>2020-11-09T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="10963908">n1974</finder>
+            <text encoded="False">Diesen habe ich auf der Durchreise schnell eingesammelt. Der "Parkplatz" war ja groß genug. GRINS. Ich musste natürlich erst sämtliche Objekte untersuchen bis ich bei dem eigentlichen RICHTIG guckte. Aber das ist ja immer so. 
+
+Lieben Dank an dieser Stelle für den schönen Drive-In. Es war ein bisschen wie am **Bahnhof**. GRINS. 
+
+PS: Cooler Nickname übrigens. Fast so schön wie meiner. </text>
+          </log>
+          <log id="975366603">
+            <date>2020-11-01T23:08:30Z</date>
+            <type>Owner Maintenance</type>
+            <finder id="21399536">daba1979</finder>
+            <text encoded="False">Neue Dose gelegt. </text>
+          </log>
+          <log id="975365801">
+            <date>2020-11-01T23:06:56Z</date>
+            <type>Enable Listing</type>
+            <finder id="21399536">daba1979</finder>
+            <text encoded="False">Neue Dose, es kann weiter gehen. </text>
+          </log>
+          <log id="972936918">
+            <date>2020-10-22T00:56:21Z</date>
+            <type>Temporarily Disable Listing</type>
+            <finder id="21399536">daba1979</finder>
+            <text encoded="False">.</text>
+          </log>
+          <log id="972872405">
+            <date>2020-10-21T19:23:14Z</date>
+            <type>Needs Maintenance</type>
+            <finder id="18166110">Snowerteam</finder>
+            <text encoded="False">Vor Ort leider nur noch die Kappe gefunden.</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2018-01-28T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="52.644600039348006" lon="13.119917018339038">
+    <time>2020-04-04T00:00:00Z</time>
+    <name>GC8QPVM</name>
+    <cmt>Auf dem Weg zum illegalem Osterfeuer by Bandit2504, Traditional Cache (4.5/1.5)</cmt>
+    <desc>Auf dem Weg zum illegalem Osterfeuer by Bandit2504, Traditional Cache (4.5/1.5)</desc>
+    <link href="http://www.geocaching.com/seek/cache_details.aspx?guid=bd9aa8f2-9187-44bc-ba66-b401151ddc5c" />
+    <sym>Geocache</sym>
+    <type>geocache</type>
+    <extensions>
+      <wptx1:WaypointExtension>
+        <wptx1:DisplayMode>SymbolAndName</wptx1:DisplayMode>
+      </wptx1:WaypointExtension>
+      <cache archived="False" available="True" id="7684209" xmlns="http://www.groundspeak.com/cache/1/0">
+        <name>Auf dem Weg zum illegalem Osterfeuer</name>
+        <placed_by>Bandit2504</placed_by>
+        <owner id="4750789">Bandit2504</owner>
+        <type>Traditional Cache</type>
+        <container>Micro</container>
+        <difficulty>4.5</difficulty>
+        <terrain>1.5</terrain>
+        <country>Germany</country>
+        <state>Brandenburg</state>
+        <short_description html="True">
+</short_description>        <long_description html="True">&lt;p align="center"&gt;&lt;font size="+4"&gt;&lt;font face="Snap ITC"&gt;&lt;font color="#FF0000"&gt;Auf dem Weg zum illegalem Osterfeuer&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+2"&gt;&lt;font face="Bernard MT Condensed"&gt;&lt;font color="#004000"&gt;Der Bandit hat den Kafferoester zu einem (in dieser Zeit) illegalem Osterfeuer eingeladen.&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Bernard MT Condensed"&gt;&lt;font color="#000000"&gt;Um ihn dort hin zu führen habe ich einen kleinen Cache gelegt und ich würde mir wünschen ihr überlasst ihm den FTF&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;font size="+1"&gt;&lt;font face="Bernard MT Condensed"&gt;&lt;font color="#FF8000"&gt;Für alle anderen heißt es abwarten und bleibt gesund&lt;/font&gt;&lt;/font&gt;&lt;/font&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;img alt border="0" width height /&gt;&lt;/p&gt;
+&lt;p align="center"&gt;&lt;img src="https://www.geocaching.com/geocache/GC8QPVM_auf-dem-weg-zum-illegalem-osterfeuer?guid=bd9aa8f2-9187-44bc-ba66-b401151ddc5c" alt border="0" width height /&gt;&lt;/p&gt;
+
+</long_description>
+        <encoded_hints>hoch sehr hoch</encoded_hints>
+        <logs>
+          <log id="980550092">
+            <date>2020-11-27T20:00:00Z</date>
+            <type>Found it</type>
+            <finder id="11581547">DoriSingha</finder>
+            <text encoded="False">Mein täglicher Spaziergang -- in einer möglichst menschenarmen und virusarmen Gegend und gegebenenfalls mit viiiiiel Abstand. Die Bearbeitung eines Multis hatte mich in die Nähe gebracht, und so 'nem Angel-Cache kann ich natürlich nicht widerstehen [;)] Um 10:35 Uhr habe ich hier das Logbuch unterzeichnet. 
+Danke fürs Legen und Pflegen des Caches!</text>
+          </log>
+          <log id="945380967">
+            <date>2020-07-16T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="14218081">Vollseiler</finder>
+            <text encoded="False">Als Angeln aufkam, fand ich es doof. Jetzt habe ich selber Eine. Als Andere von der Matrix redeten, fand ich das sinnlos. Jetzt stopfe ich die letzten Löcher. Das hier ist eines davon ;-)  Ein hohes, sehr hohes Döslein war versprochen.  Trifft das auf 6 m zu? Jedenfalls habe ich der exzellenten Bastelarbeit ein wenig Auftrieb verliehen. Hoffe, es ist recht so. Danke für den Cache und Grüße vom Vollseiler</text>
+          </log>
+          <log id="947645846">
+            <date>2020-07-07T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="2325349">Traumhexe</finder>
+            <text encoded="False">Im Team mit  Puschbär unterwegs, gesucht und schnell gefunden [:)]  TFTC
+
+Viele Grüße
+Traumhexe</text>
+          </log>
+          <log id="942589176">
+            <date>2020-07-07T17:06:16Z</date>
+            <type>Found it</type>
+            <finder id="1639272">Puschbär</finder>
+            <text encoded="False">Heute ging es mit Traumhexe und den vier Cacherhunden Trixi, Marla, Kimi + Murzyn in Richtung Bötzow um noch einige Smileys "einzufangen" [;)] Diese Dose gehörte dazu [:D]  TFTC
+Gruß aus Bärlin
+Andreas</text>
+          </log>
+          <log id="936883563">
+            <date>2020-06-15T19:00:00Z</date>
+            <type>Found it</type>
+            <finder id="26584187">Hansi1979</finder>
+            <text encoded="False">So ein Angelcache passte heute noch genau ins Sortiment. 
+Da das CM ja grundsätzlich bestückt ist mit jeglicher ECA konnte diese Dose fix geangelt und das Logbuch signiert werden. 
+DfdC</text>
+          </log>
+        </logs>
+      </cache>
+      <ctx:CreationTimeExtension>
+        <ctx:CreationTime>2020-04-04T00:00:00Z</ctx:CreationTime>
+      </ctx:CreationTimeExtension>
+    </extensions>
+  </wpt>
+
+</gpx>
