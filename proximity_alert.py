@@ -2,7 +2,6 @@
 import copy
 import glob
 import os
-import re
 import sys
 import xml.etree.ElementTree as ElementTree
 import io
@@ -80,9 +79,7 @@ def read_geocaches(gpx_filepath):
         hint = cache_element.find("{*}encoded_hints").text
         if hint is None:
             hint = ""
-        else:
-            # replace xhtml linebreaks in hints
-            hint = re.sub(r"<br\s*?/>", "\n", hint).strip()
+        hint = hint.strip()
         geocache = Geocache(name=name,
                             gc_code=gc_code,
                             lat=lat,
