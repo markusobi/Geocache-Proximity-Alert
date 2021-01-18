@@ -21,9 +21,9 @@ class Test(unittest.TestCase):
         encoding = "utf-8"
         self.maxDiff = None
 
-        for testcase_dir in glob.glob("testcases/*/"):
+        for testcase_dir in sorted(glob.glob("testcases/*/")):
             with self.subTest(testcase_dir):
-                gpx_filepaths = glob.glob(testcase_dir + "/in/*.gpx")
+                gpx_filepaths = sorted(glob.glob(testcase_dir + "/in/*.gpx"))
                 outfile = io.BytesIO()
                 proximity_alert.create_alert(
                     gpx_filepaths=gpx_filepaths,

@@ -164,7 +164,7 @@ def parse_args(args):
     options = parser.parse_args(args)
 
     if options.recursive:
-        gpx_input_files = [path for path in glob.glob("**/*.gpx", recursive=True)]
+        gpx_input_files = sorted(glob.glob("**/*.gpx", recursive=True))
         # exclude output file if it already exists
         if os.path.isfile(options.output):
             gpx_input_files = [path for path in gpx_input_files
