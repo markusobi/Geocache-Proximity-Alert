@@ -19,6 +19,7 @@ class Test(unittest.TestCase):
             "{name}\n" \
             "{type}"
         encoding = "utf-8"
+        self.maxDiff = None
 
         for testcase_dir in glob.glob("testcases/*/"):
             with self.subTest(testcase_dir):
