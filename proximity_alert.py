@@ -6,6 +6,8 @@ import sys
 import xml.etree.ElementTree as ElementTree
 import io
 
+assert sys.version_info >= (3, 8), "python 3.8 or newer is required to run this program"
+
 # symbol custom 0 refers to a 24x24 pixel image "H:\Garmin\CustomSymbols\custom 0.bmp"
 # color format must be 24 or 8 bit RBG bmp
 # color magenta (R, G, B) == (255, 0, 255) is used for transparent pixels
