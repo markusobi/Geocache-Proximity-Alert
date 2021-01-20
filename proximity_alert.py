@@ -48,6 +48,10 @@ cache_types = {'Earthcache',
                'Wherigo Cache', }
 
 
+class ProximityAlertError(Exception):
+    pass
+
+
 class Geocache(object):
     def __init__(self, name, gc_code, lat, lon, cache_type, difficulty, terrain, hint):
         self.name = name
@@ -60,12 +64,22 @@ class Geocache(object):
         self.hint = hint
 
 
+def get_filename(file_or_filename):
+    if isinstance(file_or_filename, io.TextIOWrapper):
+        return file_or_filename.name
+    else:
+        return file_or_filename
+
+
 def read_geocaches(gpx_filepath):
     geocaches = []
-    tree = ElementTree.parse(gpx_filepath)
+    try:
+        tree = ElementTree.parse(gpx_filepath)
+    except ElementTree.ParseError as e:
+        raise ProximityAlertError("{} is not a valid xml file: {}".format(get_filename(gpx_filepath), e))
     root_element = tree.getroot()
     if not root_element.tag.endswith("}gpx"):
-        return []
+        raise ProximityAlertError("{} is not a valid gpx file".format(get_filename(gpx_filepath)))
     for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][@lat][@lon]"):
         cache_element = wpt_element.find(".//{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
         if cache_element is None:
@@ -105,10 +119,14 @@ def proximity_alert_tree(geocaches, distance, display_format):
     template_wpt = root.find("{*}wpt")
     root.remove(template_wpt)
     for geocache in geocaches:
+        try:
+            display_text = display_format.format(**vars(geocache))
+        except Exception as e:
+            raise ProximityAlertError("invalid displayformat string: {}".format(e))
         new_wpt_element = copy.deepcopy(template_wpt)
         new_wpt_element.set("lat", geocache.lat)
         new_wpt_element.set("lon", geocache.lon)
-        new_wpt_element.find("{*}name").text = display_format.format(**vars(geocache))
+        new_wpt_element.find("{*}name").text = display_text
         new_wpt_element.find("{*}extensions/{*}WaypointExtension/{*}Proximity").text = str(distance)
         root.append(new_wpt_element)
     return ElementTree.ElementTree(root)
@@ -129,14 +147,18 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
             print(f"{len(geocaches_found):>4} geocache(s) found in {get_filename(gpx_filepath)}")
         geocaches.extend(geocaches_found)
     if len(geocaches) == 0:
-        sys.exit("error: no geocaches found in gpx file(s)")
+        return len(geocaches)
     tree = proximity_alert_tree(geocaches, distance, display_format)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
         ElementTree.register_namespace(prefix, schema_url)
-    tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
+    try:
+        tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
+    except OSError as e:
+        raise ProximityAlertError("failed to write to file {}: {}".format(out_file_or_filename, e))
     if verbose:
         print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {get_filename(out_file_or_filename)}")
+    return len(geocaches)
 
 
 def parse_args(args):
@@ -171,22 +193,29 @@ def parse_args(args):
                                if not os.path.samefile(path, options.output)]
         options.gpx_input_files = gpx_input_files
         if len(options.gpx_input_files) == 0:
-            sys.exit("error: no gpx input files found in current working directory")
+            raise ProximityAlertError("error: no gpx input files found in current working directory")
     else:
         if len(options.gpx_input_files) == 0:
-            sys.exit("error: no gpx input files given")
+            raise ProximityAlertError("error: no gpx input files given")
     return options
 
 
-def main():
-    options = parse_args(sys.argv[1:])
+def main(command_line_arguments):
+    try:
+        options = parse_args(command_line_arguments)
 
-    create_alert(gpx_filepaths=options.gpx_input_files,
-                 out_file_or_filename=options.output,
-                 distance=options.distance,
-                 display_format=options.displayformat,
-                 verbose=options.verbose)
+        num_caches_found = create_alert(
+            gpx_filepaths=options.gpx_input_files,
+            out_file_or_filename=options.output,
+            distance=options.distance,
+            display_format=options.displayformat,
+            verbose=options.verbose)
+
+        if num_caches_found == 0:
+            raise ProximityAlertError("error: no geocaches found in gpx file(s)")
+    except ProximityAlertError as e:
+        sys.exit(e)
 
 
 if __name__ == "__main__":
-    main()
+    main(sys.argv[1:])
