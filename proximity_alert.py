@@ -181,8 +181,9 @@ def parse_args(args):
                                 "{name}",
                         help="custom display format string (default: %(default)s). "
                              "supported vars: [name, gc_code, difficulty, terrain, hint, type]")
-    parser.add_argument("-v", "--verbose", action="store_true",
+    parser.add_argument("--verbose", action="store_true",
                         help="print extra information")
+    parser.add_argument('--version', action='version', version='geocache proximity alert 1.0preview')
     options = parser.parse_args(args)
 
     if options.recursive:
