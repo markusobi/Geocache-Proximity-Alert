@@ -120,7 +120,14 @@ def proximity_alert_tree(geocaches, distance, display_format):
     root.remove(template_wpt)
     for geocache in geocaches:
         try:
-            display_text = display_format.format(**vars(geocache))
+            display_text = display_format.format(
+                name=geocache.name,
+                gc_code=geocache.gc_code,
+                difficulty=geocache.difficulty,
+                terrain=geocache.terrain,
+                hint=geocache.hint,
+                type=geocache.type
+                )
         except Exception as e:
             raise ProximityAlertError("invalid displayformat string: {}".format(e))
         new_wpt_element = copy.deepcopy(template_wpt)
