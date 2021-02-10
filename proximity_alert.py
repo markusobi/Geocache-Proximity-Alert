@@ -182,10 +182,9 @@ def parse_args(args):
     parser.add_argument("--distance", type=float, default=50.0,
                         help="alert radius in meters around a geocache (default: %(default)s)")
     parser.add_argument("--displayformat", type=str,
-                        default="{gc_code}\n"
+                        default="{name}\n"
                                 "D{difficulty}/T{terrain}\n"
-                                "{hint}\n"
-                                "{name}",
+                                "{type}",
                         help="custom display format string (default: %(default)s). "
                              "supported vars: [name, gc_code, difficulty, terrain, hint, type]")
     parser.add_argument("--verbose", action="store_true",
