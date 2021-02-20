@@ -12,12 +12,12 @@ If this generated `.gpx` is placed inside the `Garmin\GPX\` folder, the Garmin d
 The following will create a `proximity_alert.gpx` file containing proximity alert waypoints for all caches found in all `.gpx` files in the current working directory (recursive search). It is not necessary to put this tool onto your Garmin device, but this will save you the manual copying each time you generate the `proximity_alert.gpx` file. You have two options:
 #### A: Using proximity_alert.exe (Windows only)
  - Copy your geocache `.gpx` files to your Garmin device into `Garmin\GPX\geocaches\`
- - Download `geocache_proximity_alert-*-windows-x86.zip` and extract content to `Garmin\GPX\geocaches\`
+ - Download [geocache_proximity_alert-...-windows-x86.zip](https://github.com/markusobi/Geocache-Proximity-Alert/releases) and extract content to `Garmin\GPX\geocaches\`
  - Run `Garmin\GPX\geocaches\proximity_alert.bat` inside `Garmin\GPX\geocaches\`
 #### B: Using proximity_alert.py (python script, any OS)
  - Copy your geocache `.gpx` files to your Garmin device into `Garmin\GPX\geocaches\`
  - Install Python 3.8 (or higher)
- - Download `geocache_proximity_alert-*-python.zip` and extract content to `Garmin\GPX\geocaches\`
+ - Download [geocache_proximity_alert-...-python.zip](https://github.com/markusobi/Geocache-Proximity-Alert/releases) and extract content to `Garmin\GPX\geocaches\`
  - Run `python3 proximity_alert.py --recursive --verbose` (On Windows use command `python` instead or specify full path to `python.exe` if python is not in your PATH)
 
 ### How to hide the additional waypoint symbols (blue flags)
