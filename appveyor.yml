@@ -1,0 +1,51 @@
+# build is triggered on commits and PRs to the following branches
+branches:
+  # whitelist
+  only:
+    - master
+
+image: Visual Studio 2019
+
+environment:
+  matrix:
+  - PYTHON: C:\Python38
+
+install:
+- set PATH=%PYTHON%;%PYTHON%/Scripts;%PATH%
+- ps: >-
+    If ($env:APPVEYOR_REPO_TAG -eq "true")
+    {
+      $env:BUILD_NUMBER_OR_TAG_NAME = $env:APPVEYOR_REPO_TAG_NAME
+    }
+    Else
+    {
+      $env:BUILD_NUMBER_OR_TAG_NAME = "$env:APPVEYOR_BUILD_NUMBER.$env:APPVEYOR_REPO_COMMIT"
+    }
+- set WINDOWS_ZIP_FILENAME=geocache_proximity_alert-%BUILD_NUMBER_OR_TAG_NAME%-windows-x86.zip
+- echo windows artifact zip filename is %WINDOWS_ZIP_FILENAME%
+- python -m pip install pyinstaller
+
+# run a custom scripts instead of automatic MSBuild
+build_script:
+- mkdir build
+- cd build
+- python -m PyInstaller ../proximity_alert.py
+- 7z a %WINDOWS_ZIP_FILENAME% ./dist/proximity_alert/
+
+artifacts:
+  - path: proximity_alert.py
+    name: python_script
+
+  - path: build/$(WINDOWS_ZIP_FILENAME)
+    name: windows_executable
+
+deploy:
+  description: 'Initial Version'
+  provider: GitHub
+  auth_token:
+    secure: otqspNIm5V2kdkjcw/i6tJHmx4G/Py3cTmYacEqLGfqlZfD6tfEH4MsuMgcwlPiu
+  artifact: python_script, windows_executable
+  draft: false
+  on:
+    APPVEYOR_REPO_TAG: true
+
