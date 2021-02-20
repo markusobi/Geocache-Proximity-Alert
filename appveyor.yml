@@ -31,9 +31,9 @@ install:
 build_script:
 - 7z a %PYTHON_ZIP_FILENAME% proximity_alert.py "custom 0.bmp" README.md LICENSE
 - mkdir build
-- pushd build
+- cd build
 - python -m PyInstaller ../proximity_alert.py
-- popd
+- cd ..
 - 7z a %WINDOWS_ZIP_FILENAME% build/dist/proximity_alert/ proximity_alert.bat "custom 0.bmp" README.md LICENSE
 
 artifacts:
