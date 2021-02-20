@@ -21,8 +21,8 @@ The following will create a `proximity_alert.gpx` file containing proximity aler
  - Run `python3 proximity_alert.py --recursive --verbose` (On Windows use command `python` instead or specify full path to `python.exe` if python is not in your PATH)
 
 ### How to hide the additional waypoint symbols (blue flags)
- - Copy [custom 0.bmp](custom&#32;0.bmp) to `Garmin\CustomSymbols\`. This will make the icons of the proximity waypoints invisible on the garmin device. See [Saving a Custom Symbol to a Device](https://support.garmin.com/?faq=VTS8XTdjCW5Tx3HyfJ3eQ6).
- - Copy [custom 0.bmp](custom&#32;0.bmp) to `C:\Users\%USERNAME%\Documents\My Garmin\Custom Waypoint Symbols\` and rename it to `000.BMP`. This will make the proximity waypoints invisible in BaseCamp. See [Creating a Custom Symbol](https://support.garmin.com/?faq=VTS8XTdjCW5Tx3HyfJ3eQ6).
+ - Copy [custom 0.bmp](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/custom%200.bmp) to `Garmin\CustomSymbols\`. This will make the icons of the proximity waypoints invisible on the garmin device. See [Saving a Custom Symbol to a Device](https://support.garmin.com/?faq=VTS8XTdjCW5Tx3HyfJ3eQ6).
+ - Copy [custom 0.bmp](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/custom%200.bmp) to `C:\Users\%USERNAME%\Documents\My Garmin\Custom Waypoint Symbols\` and rename it to `000.BMP`. This will make the proximity waypoints invisible in BaseCamp. See [Creating a Custom Symbol](https://support.garmin.com/?faq=VTS8XTdjCW5Tx3HyfJ3eQ6).
 
 ## Command-Line Reference
 ```
