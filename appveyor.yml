@@ -19,28 +19,32 @@ install:
     }
     Else
     {
-      $env:BUILD_NUMBER_OR_TAG_NAME = "$env:APPVEYOR_BUILD_NUMBER.$env:APPVEYOR_REPO_COMMIT"
+      $env:BUILD_NUMBER_OR_TAG_NAME = "build.$env:APPVEYOR_BUILD_NUMBER"
     }
 - set WINDOWS_ZIP_FILENAME=geocache_proximity_alert-%BUILD_NUMBER_OR_TAG_NAME%-windows-x86.zip
+- set PYTHON_ZIP_FILENAME=geocache_proximity_alert-%BUILD_NUMBER_OR_TAG_NAME%-python.zip
 - echo windows artifact zip filename is %WINDOWS_ZIP_FILENAME%
+- echo python artifact zip filename is %PYTHON_ZIP_FILENAME%
 - python -m pip install pyinstaller
 
 # run a custom scripts instead of automatic MSBuild
 build_script:
+- 7z a %PYTHON_ZIP_FILENAME% proximity_alert.py "custom 0.bmp" README.md LICENSE
 - mkdir build
 - cd build
 - python -m PyInstaller ../proximity_alert.py
-- 7z a %WINDOWS_ZIP_FILENAME% ./dist/proximity_alert/
+- cd ..
+- 7z a %WINDOWS_ZIP_FILENAME% ./build/dist/proximity_alert/ proximity_alert.bat "custom 0.bmp" README.md LICENSE
 
 artifacts:
-  - path: proximity_alert.py
+  - path: $(PYTHON_ZIP_FILENAME)
     name: python_script
 
-  - path: build/$(WINDOWS_ZIP_FILENAME)
+  - path: $(WINDOWS_ZIP_FILENAME)
     name: windows_executable
 
 deploy:
-  description: 'Initial Version'
+  description: 'Release'
   provider: GitHub
   auth_token:
     secure: otqspNIm5V2kdkjcw/i6tJHmx4G/Py3cTmYacEqLGfqlZfD6tfEH4MsuMgcwlPiu
