@@ -19,7 +19,7 @@ install:
     }
     Else
     {
-      $env:BUILD_NUMBER_OR_TAG_NAME = "$env:APPVEYOR_BUILD_NUMBER.$env:APPVEYOR_REPO_COMMIT"
+      $env:BUILD_NUMBER_OR_TAG_NAME = "build.$env:APPVEYOR_BUILD_NUMBER"
     }
 - set WINDOWS_ZIP_FILENAME=geocache_proximity_alert-%BUILD_NUMBER_OR_TAG_NAME%-windows-x86.zip
 - set PYTHON_ZIP_FILENAME=geocache_proximity_alert-%BUILD_NUMBER_OR_TAG_NAME%-python.zip
