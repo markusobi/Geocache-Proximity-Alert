@@ -37,10 +37,10 @@ build_script:
 - 7z a %WINDOWS_ZIP_FILENAME% build/dist/proximity_alert/ proximity_alert.bat "custom 0.bmp" README.md LICENSE
 
 artifacts:
-  - path: build/$(PYTHON_ZIP_FILENAME)
+  - path: $(PYTHON_ZIP_FILENAME)
     name: python_script
 
-  - path: build/$(WINDOWS_ZIP_FILENAME)
+  - path: $(WINDOWS_ZIP_FILENAME)
     name: windows_executable
 
 deploy:
