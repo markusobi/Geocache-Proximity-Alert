@@ -170,23 +170,28 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
 
 def parse_args(args):
     import argparse
-    parser = argparse.ArgumentParser()
+
+    default_display_format = "{name}\n"\
+                             "D{difficulty}/T{terrain}\n"\
+                             "{type}"
+
+    parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter)
     parser.add_argument("gpx_input_files", nargs="*", type=argparse.FileType("r", encoding="utf-8"),
                         help="input files containing geocaches in gpx format")
     parser.add_argument("-r", "--recursive", action="store_true",
                         help="use all gpx files in the current working directory (recursive search)"
                              " as gpx input files")
     parser.add_argument("-o", "--output", type=str, default="proximity_alert.gpx",
-                        help="output filename"
-                             "this tool will write proximity waypoints in gpx format to it (default: %(default)s)")
+                        help="filename to which this tool will write proximity waypoints to (default: %(default)s)")
     parser.add_argument("--distance", type=float, default=50.0,
                         help="alert radius in meters around a geocache (default: %(default)s)")
     parser.add_argument("--displayformat", type=str,
-                        default="{name}\n"
-                                "D{difficulty}/T{terrain}\n"
-                                "{type}",
-                        help="custom display format string (default: %(default)s). "
-                             "supported vars: [name, gc_code, difficulty, terrain, hint, type]")
+                        default=default_display_format,
+                        help="display format of the names of the generated waypoints\n"
+                             "a Garmin device will display this text when a proximity waypoint is near\n"
+                             "supported variables: [name, gc_code, difficulty, terrain, hint, type]\n"
+                             "default display format:\n"
+                             "%(default)s")
     parser.add_argument("--verbose", action="store_true",
                         help="print extra information")
     parser.add_argument('--version', action='version', version='geocache proximity alert 1.0preview')
