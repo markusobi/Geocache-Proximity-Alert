@@ -68,7 +68,7 @@ def get_filename(file_or_filename):
     if isinstance(file_or_filename, io.TextIOWrapper):
         return file_or_filename.name
     else:
-        return file_or_filename
+        return str(file_or_filename)
 
 
 def read_geocaches(gpx_filepath):
@@ -131,13 +131,6 @@ def proximity_alert_tree(geocaches, distance):
         new_wpt_element.find("{*}extensions/{*}WaypointExtension/{*}Proximity").text = str(distance)
         root.append(new_wpt_element)
     return ElementTree.ElementTree(root)
-
-
-def get_filename(file_or_filename):
-    if isinstance(file_or_filename, io.TextIOWrapper):
-        return file_or_filename.name
-    else:
-        return str(file_or_filename)
 
 
 def create_alert(gpx_filepaths, out_file_or_filename, distance, verbose):
