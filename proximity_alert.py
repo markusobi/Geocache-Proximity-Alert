@@ -113,23 +113,17 @@ def get_xml_namespaces(filename):
             ElementTree.iterparse(filename, events=['start-ns'])]
 
 
-def proximity_alert_tree(geocaches, distance, display_format):
+def proximity_alert_tree(geocaches, distance):
     gpx_template_root = ElementTree.fromstring(gpx_template)
     root = gpx_template_root
     template_wpt = root.find("{*}wpt")
     root.remove(template_wpt)
+    garmin_waypoint_display_max_text_length = 30
     for geocache in geocaches:
-        try:
-            display_text = display_format.format(
-                name=geocache.name,
-                gc_code=geocache.gc_code,
-                difficulty=geocache.difficulty,
-                terrain=geocache.terrain,
-                hint=geocache.hint,
-                type=geocache.type
-                )
-        except Exception as e:
-            raise ProximityAlertError("invalid displayformat string: {}".format(e))
+        if len(geocache.name) <= garmin_waypoint_display_max_text_length:
+            display_text = geocache.name
+        else:
+            display_text = geocache.name[:6] + "~" + geocache.name[-23:]
         new_wpt_element = copy.deepcopy(template_wpt)
         new_wpt_element.set("lat", geocache.lat)
         new_wpt_element.set("lon", geocache.lon)
@@ -146,7 +140,7 @@ def get_filename(file_or_filename):
         return str(file_or_filename)
 
 
-def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, verbose):
+def create_alert(gpx_filepaths, out_file_or_filename, distance, verbose):
     geocaches = []
     for gpx_filepath in gpx_filepaths:
         geocaches_found = read_geocaches(gpx_filepath)
@@ -155,7 +149,7 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
         geocaches.extend(geocaches_found)
     if len(geocaches) == 0:
         return len(geocaches)
-    tree = proximity_alert_tree(geocaches, distance, display_format)
+    tree = proximity_alert_tree(geocaches, distance)
     # need to register old namespace prefix alias in order to keep it
     for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
         ElementTree.register_namespace(prefix, schema_url)
@@ -171,11 +165,7 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, display_format, 
 def parse_args(args):
     import argparse
 
-    default_display_format = "{name}\n"\
-                             "D{difficulty}/T{terrain}\n"\
-                             "{type}"
-
-    parser = argparse.ArgumentParser(formatter_class=argparse.RawTextHelpFormatter)
+    parser = argparse.ArgumentParser()
     parser.add_argument("gpx_input_files", nargs="*", type=argparse.FileType("r", encoding="utf-8"),
                         help="input files containing geocaches in gpx format")
     parser.add_argument("-r", "--recursive", action="store_true",
@@ -185,16 +175,9 @@ def parse_args(args):
                         help="filename to which this tool will write proximity waypoints to (default: %(default)s)")
     parser.add_argument("--distance", type=float, default=50.0,
                         help="alert radius in meters around a geocache (default: %(default)s)")
-    parser.add_argument("--displayformat", type=str,
-                        default=default_display_format,
-                        help="display format of the names of the generated waypoints\n"
-                             "a Garmin device will display this text when a proximity waypoint is near\n"
-                             "supported variables: [name, gc_code, difficulty, terrain, hint, type]\n"
-                             "default display format:\n"
-                             "%(default)s")
     parser.add_argument("--verbose", action="store_true",
                         help="print extra information")
-    parser.add_argument('--version', action='version', version='geocache proximity alert 1.0preview')
+    parser.add_argument('--version', action='version', version='geocache proximity alert 0.2preview')
     options = parser.parse_args(args)
 
     if options.recursive:
@@ -220,7 +203,6 @@ def main(command_line_arguments):
             gpx_filepaths=options.gpx_input_files,
             out_file_or_filename=options.output,
             distance=options.distance,
-            display_format=options.displayformat,
             verbose=options.verbose)
 
         if num_caches_found == 0:

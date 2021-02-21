@@ -12,12 +12,6 @@ import proximity_alert
 class Test(unittest.TestCase):
     def test_create_alert(self):
         generate_reference_output = False
-        display_format = \
-            "{gc_code}\n" \
-            "D{difficulty}/T{terrain}\n" \
-            "{hint}\n" \
-            "{name}\n" \
-            "{type}"
         encoding = "utf-8"
         self.maxDiff = None
 
@@ -29,7 +23,6 @@ class Test(unittest.TestCase):
                     gpx_filepaths=gpx_filepaths,
                     out_file_or_filename=outfile,
                     distance=42.0,
-                    display_format=display_format,
                     verbose=False)
                 reference_output_filepath = testcase_dir + "/out.gpx"
                 if generate_reference_output:
@@ -47,7 +40,6 @@ class Test(unittest.TestCase):
             gpx_filepaths=["test_proximity_alert.py"],
             out_file_or_filename=io.BytesIO(),
             distance=0.0,
-            display_format="",
             verbose=False)
 
     def test_invalid_gpx(self):
@@ -57,7 +49,6 @@ class Test(unittest.TestCase):
             gpx_filepaths=["testcases/invalid_gpx.xml"],
             out_file_or_filename=io.BytesIO(),
             distance=0.0,
-            display_format="",
             verbose=False)
 
     def test_no_caches_found(self):
@@ -65,7 +56,6 @@ class Test(unittest.TestCase):
             gpx_filepaths=["testcases/no_caches.gpx"],
             out_file_or_filename=io.BytesIO(),
             distance=0.0,
-            display_format="",
             verbose=False)
         self.assertEqual(num_caches, 0)
 
@@ -76,17 +66,6 @@ class Test(unittest.TestCase):
             gpx_filepaths=["testcases/single_gpx_download/in/GC1GTKQ.gpx"],
             out_file_or_filename="foobar/",
             distance=0.0,
-            display_format="",
-            verbose=False)
-
-    def test_invalid_displayformat(self):
-        self.assertRaises(
-            proximity_alert.ProximityAlertError,
-            proximity_alert.create_alert,
-            gpx_filepaths=["testcases/single_gpx_download/in/GC1GTKQ.gpx"],
-            out_file_or_filename=io.BytesIO(),
-            distance=0.0,
-            display_format="{",
             verbose=False)
 
 

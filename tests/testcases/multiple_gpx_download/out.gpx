@@ -6,12 +6,7 @@
     </link>
 </metadata>
 <wpt lat="52.51705" lon="13.423233">
-    <name>GC2DP6F
-D1/T1
-Ping Pong
-Bitte auf Muggel achten.
-Nicht vom Beckenrand springen!
-Traditional Cache</name>
+    <name>Nicht vom Beckenrand springen!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -21,11 +16,7 @@ Traditional Cache</name>
     </extensions>
 </wpt>
 <wpt lat="52.513483" lon="13.41145">
-    <name>GC4QF5G
-D1/T1
-Seemannsgruß
-Historischer Hafen Berlin
-Traditional Cache</name>
+    <name>Historischer Hafen Berlin</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -35,11 +26,7 @@ Traditional Cache</name>
     </extensions>
 </wpt>
 <wpt lat="52.544583" lon="13.374467">
-    <name>GCQMYN
-D1.5/T2.5
-Streck Dich - überm Wasser bist du richtig
-Pankebogen
-Traditional Cache</name>
+    <name>Pankebogen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
