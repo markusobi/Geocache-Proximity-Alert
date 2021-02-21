@@ -26,10 +26,7 @@ The following will create a `proximity_alert.gpx` file containing proximity aler
 
 ## Command-Line Reference
 ```
-usage: proximity_alert.exe [-h] [-r] [-o OUTPUT] [--distance DISTANCE]
-                           [--displayformat DISPLAYFORMAT] [--verbose]
-                           [--version]
-                           [gpx_input_files [gpx_input_files ...]]
+usage: proximity_alert.py [-h] [-r] [-o OUTPUT] [--distance DISTANCE] [--verbose] [--version] [gpx_input_files [gpx_input_files ...]]
 
 positional arguments:
   gpx_input_files       input files containing geocaches in gpx format
@@ -40,17 +37,8 @@ optional arguments:
   -o OUTPUT, --output OUTPUT
                         filename to which this tool will write proximity waypoints to (default: proximity_alert.gpx)
   --distance DISTANCE   alert radius in meters around a geocache (default: 50.0)
-  --displayformat DISPLAYFORMAT
-                        display format of the names of the generated waypoints
-                        a Garmin device will display this text when a proximity waypoint is near
-                        supported variables: [name, gc_code, difficulty, terrain, hint, type]
-                        default display format:
-                        {name}
-                        D{difficulty}/T{terrain}
-                        {type}
   --verbose             print extra information
   --version             show program's version number and exit
-
 ```
 
 ## Tested on the following Garmin devices:
