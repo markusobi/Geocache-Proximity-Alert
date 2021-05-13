@@ -42,14 +42,6 @@ gpx_template = """<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 </wpt>
 </gpx>"""
 
-cache_types = {'Earthcache',
-               'Letterbox Hybrid',
-               'Multi-cache',
-               'Traditional Cache',
-               'Unknown Cache',
-               'Virtual Cache',
-               'Wherigo Cache', }
-
 
 class ProximityAlertError(Exception):
     pass
