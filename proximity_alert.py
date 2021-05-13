@@ -82,7 +82,7 @@ def get_xml_attribute_value(element: ElementTree.Element, attribute: str) -> str
     return attr_value
 
 
-def get_xml_child(parent: ElementTree.Element, child_name: str) -> ElementTree.Element:
+def find_xml_child(parent: ElementTree.Element, child_name: str) -> ElementTree.Element:
     child = parent.find(child_name)
     if child is None:
         raise ProximityAlertError(f"failed to find xml element {child_name} in xml element {parent.tag}")
@@ -95,8 +95,8 @@ def get_xml_text(element: ElementTree.Element) -> str:
     return element.text
 
 
-def get_xml_child_text(parent: ElementTree.Element, child_name: str) -> str:
-    return get_xml_text(get_xml_child(parent, child_name))
+def find_xml_child_and_get_text(parent: ElementTree.Element, child_name: str) -> str:
+    return get_xml_text(find_xml_child(parent, child_name))
 
 
 def read_geocaches(gpx_filepath) -> Sequence[Geocache]:
@@ -112,62 +112,44 @@ def read_geocaches(gpx_filepath) -> Sequence[Geocache]:
         cache_element = wpt_element.find(".//{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
         if cache_element is None:
             continue
-        lat = get_xml_attribute_value(wpt_element, "lat")
-        lon = get_xml_attribute_value(wpt_element, "lon")
-        gc_code = get_xml_child_text(wpt_element, "{*}name")
 
-        name = get_xml_child_text(cache_element, "{*}name")
-        cache_type = get_xml_child_text(cache_element, "{*}type")
-        difficulty = get_xml_child_text(cache_element, "{*}difficulty")
-        terrain = get_xml_child_text(cache_element, "{*}terrain")
-        hint_element = get_xml_child(cache_element, "{*}encoded_hints")
+        hint_element = find_xml_child(cache_element, "{*}encoded_hints")
         hint = hint_element.text if hint_element.text is not None else ""
-        geocache = Geocache(name=name,
-                            gc_code=gc_code,
-                            lat=lat,
-                            lon=lon,
-                            cache_type=cache_type,
-                            difficulty=difficulty,
-                            terrain=terrain,
+
+        geocache = Geocache(name=find_xml_child_and_get_text(cache_element, "{*}name"),
+                            gc_code=find_xml_child_and_get_text(wpt_element, "{*}name"),
+                            lat=get_xml_attribute_value(wpt_element, "lat"),
+                            lon=get_xml_attribute_value(wpt_element, "lon"),
+                            cache_type=find_xml_child_and_get_text(cache_element, "{*}type"),
+                            difficulty=find_xml_child_and_get_text(cache_element, "{*}difficulty"),
+                            terrain=find_xml_child_and_get_text(cache_element, "{*}terrain"),
                             hint=hint)
         geocaches.append(geocache)
     return geocaches
 
 
-@dataclasses.dataclass
-class XMLNamespace:
-    prefix: str
-    schema_url: str
-
-
-def get_xml_namespaces(input_file: typing.IO) -> Sequence[XMLNamespace]:
-    return [XMLNamespace(prefix=ns_prefix, schema_url=schema_url)
-            for event, (ns_prefix, schema_url) in ElementTree.iterparse(input_file, events=['start-ns'])]
+def register_namespace_prefixes_globally(input_file: typing.IO) -> None:
+    for event, (ns_prefix, schema_url) in ElementTree.iterparse(input_file, events=['start-ns']):
+        ElementTree.register_namespace(ns_prefix, schema_url)
 
 
 def proximity_alert_tree(geocaches: Sequence[Geocache], distance: float) -> ElementTree.ElementTree:
     gpx_template_root = ElementTree.fromstring(gpx_template)
     root = gpx_template_root
-    template_wpt = root.find("{*}wpt")
-    if template_wpt is None:
-        raise ProximityAlertError("internal error: failed to find wpt xml element in gpx template")
+    template_wpt = find_xml_child(root, "{*}wpt")
     root.remove(template_wpt)
-    garmin_waypoint_display_max_text_length = 30
+    garmin_max_display_text_length = 30
     for geocache in geocaches:
-        if len(geocache.name) <= garmin_waypoint_display_max_text_length:
+        if len(geocache.name) <= garmin_max_display_text_length:
             display_text = geocache.name
         else:
             display_text = geocache.name[:6] + "~" + geocache.name[-23:]
         proximity_wpt = copy.deepcopy(template_wpt)
         proximity_wpt.set("lat", geocache.lat)
         proximity_wpt.set("lon", geocache.lon)
-        wpt_name = proximity_wpt.find("{*}name")
-        if wpt_name is None:
-            raise ProximityAlertError("internal error: failed to find name xml element in gpx template")
+        wpt_name = find_xml_child(proximity_wpt, "{*}name")
         wpt_name.text = display_text
-        wpt_distance = proximity_wpt.find("{*}extensions/{*}WaypointExtension/{*}Proximity")
-        if wpt_distance is None:
-            raise ProximityAlertError("internal error: failed to find Proximity xml element in gpx template")
+        wpt_distance = find_xml_child(proximity_wpt, "{*}extensions/{*}WaypointExtension/{*}Proximity")
         wpt_distance.text = str(distance)
         root.append(proximity_wpt)
     return ElementTree.ElementTree(root)
@@ -183,9 +165,8 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance: float, verbose: 
     if len(geocaches) == 0:
         return len(geocaches)
     tree = proximity_alert_tree(geocaches, distance)
-    # need to register old namespace prefix alias in order to keep it
-    for xml_namespace in get_xml_namespaces(io.StringIO(gpx_template)):
-        ElementTree.register_namespace(xml_namespace.prefix, xml_namespace.schema_url)
+    # need to register old xml namespace prefixes to keep it
+    register_namespace_prefixes_globally(io.StringIO(gpx_template))
     try:
         tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
     except OSError as e:
