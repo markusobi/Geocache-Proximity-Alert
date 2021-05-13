@@ -5,6 +5,7 @@ import os
 import sys
 import xml.etree.ElementTree as ElementTree
 import io
+import dataclasses
 
 assert sys.version_info >= (3, 8), "python 3.8 or newer is required to run this program"
 
@@ -52,16 +53,16 @@ class ProximityAlertError(Exception):
     pass
 
 
-class Geocache(object):
-    def __init__(self, name, gc_code, lat, lon, cache_type, difficulty, terrain, hint):
-        self.name = name
-        self.gc_code = gc_code
-        self.lat = lat
-        self.lon = lon
-        self.type = cache_type
-        self.difficulty = difficulty
-        self.terrain = terrain
-        self.hint = hint
+@dataclasses.dataclass
+class Geocache:
+    name: str
+    gc_code: str
+    lat: str
+    lon: str
+    cache_type: str
+    difficulty: str
+    terrain: str
+    hint: str
 
 
 def get_filename(file_or_filename):
