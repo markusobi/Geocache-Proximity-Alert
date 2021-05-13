@@ -77,20 +77,20 @@ def get_filename(file_or_filename):
 def get_xml_attribute_value(element: ElementTree.Element, attribute: str) -> str:
     attr_value = element.get(attribute)
     if attr_value is None:
-        raise ProximityAlertError(f"failed to find attribute {attribute} in xml element {element.tag}")
+        raise ProximityAlertError(f"error: failed to find attribute {attribute} in xml element {element.tag}")
     return attr_value
 
 
 def find_xml_child(parent: ElementTree.Element, child_name: str) -> ElementTree.Element:
     child = parent.find(child_name)
     if child is None:
-        raise ProximityAlertError(f"failed to find xml element {child_name} in xml element {parent.tag}")
+        raise ProximityAlertError(f"error: failed to find xml element {child_name} in xml element {parent.tag}")
     return child
 
 
 def get_xml_text(element: ElementTree.Element) -> str:
     if element.text is None:
-        raise ProximityAlertError(f"xml element {element.tag} is empty")
+        raise ProximityAlertError(f"error: xml element {element.tag} is empty")
     return element.text
 
 
@@ -103,10 +103,10 @@ def read_geocaches(gpx_file_or_path: Union[IO, str]) -> Sequence[Geocache]:
     try:
         tree = ElementTree.parse(gpx_file_or_path)
     except Exception as e:
-        raise ProximityAlertError(f"failed to open/parse xml file {get_filename(gpx_file_or_path)}: {e}")
+        raise ProximityAlertError(f"error: failed to open/parse xml file {get_filename(gpx_file_or_path)}: {e}")
     root_element = tree.getroot()
     if not root_element.tag.endswith("}gpx"):
-        raise ProximityAlertError(f"{get_filename(gpx_file_or_path)} is not a valid gpx file")
+        raise ProximityAlertError(f"error: failed to find gpx element in file {get_filename(gpx_file_or_path)}")
     for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][@lat][@lon]"):
         cache_element = wpt_element.find(".//{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
         if cache_element is None:
@@ -173,7 +173,7 @@ def create_alert(
     try:
         xml_tree.write(out_file_or_path, encoding="utf-8", xml_declaration=True)
     except OSError as e:
-        raise ProximityAlertError(f"failed to write to file {out_file_or_path}: {e}")
+        raise ProximityAlertError(f"error: failed to write to file {out_file_or_path}: {e}")
     if verbose:
         print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {get_filename(out_file_or_path)}")
     return len(geocaches)
