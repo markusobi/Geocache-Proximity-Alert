@@ -189,7 +189,7 @@ class Options:
 
 def parse_args(args: Sequence[str]) -> Options:
     parser = argparse.ArgumentParser()
-    parser.add_argument("gpx_input_files", nargs="+", type=str,
+    parser.add_argument("gpx_input_files", nargs="*", type=str,
                         help="input files containing geocaches in gpx format")
     parser.add_argument("-r", "--recursive", action="store_true",
                         help="use all gpx files in the current working directory (recursive search)"
