@@ -103,11 +103,11 @@ def read_geocaches(gpx_filepath) -> Sequence[Geocache]:
     geocaches = []
     try:
         tree = ElementTree.parse(gpx_filepath)
-    except ElementTree.ParseError as e:
-        raise ProximityAlertError("{} is not a valid xml file: {}".format(get_filename(gpx_filepath), e))
+    except Exception as e:
+        raise ProximityAlertError(f"failed to open/parse xml file {get_filename(gpx_filepath)}: {e}")
     root_element = tree.getroot()
     if not root_element.tag.endswith("}gpx"):
-        raise ProximityAlertError("{} is not a valid gpx file".format(get_filename(gpx_filepath)))
+        raise ProximityAlertError(f"{get_filename(gpx_filepath)} is not a valid gpx file")
     for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][@lat][@lon]"):
         cache_element = wpt_element.find(".//{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
         if cache_element is None:
@@ -170,15 +170,23 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance: float, verbose: 
     try:
         tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
     except OSError as e:
-        raise ProximityAlertError("failed to write to file {}: {}".format(out_file_or_filename, e))
+        raise ProximityAlertError(f"failed to write to file {out_file_or_filename}: {e}")
     if verbose:
         print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {get_filename(out_file_or_filename)}")
     return len(geocaches)
 
 
-def parse_args(args: Sequence[str]) -> argparse.Namespace:
+@dataclasses.dataclass
+class Options:
+    gpx_input_files: typing.List[str]
+    output: str
+    distance: float
+    verbose: bool
+
+
+def parse_args(args: Sequence[str]) -> Options:
     parser = argparse.ArgumentParser()
-    parser.add_argument("gpx_input_files", nargs="*", type=argparse.FileType("r", encoding="utf-8"),
+    parser.add_argument("gpx_input_files", nargs="+", type=str,
                         help="input files containing geocaches in gpx format")
     parser.add_argument("-r", "--recursive", action="store_true",
                         help="use all gpx files in the current working directory (recursive search)"
@@ -204,7 +212,10 @@ def parse_args(args: Sequence[str]) -> argparse.Namespace:
     else:
         if len(options.gpx_input_files) == 0:
             raise ProximityAlertError("error: no gpx input files given")
-    return options
+    return Options(gpx_input_files=options.gpx_input_files,
+                   output=options.output,
+                   distance=options.distance,
+                   verbose=options.verbose)
 
 
 def main(args: Sequence[str]):
@@ -224,4 +235,4 @@ def main(args: Sequence[str]):
 
 
 if __name__ == "__main__":
-    main(sys.argv)
+    main(sys.argv[1:])
