@@ -4,16 +4,15 @@ import copy
 import glob
 import os
 import sys
-import typing
 import xml.etree.ElementTree as ElementTree
 import io
 import dataclasses
-from typing import Sequence
+from typing import Sequence, List, Union, IO
 
 assert sys.version_info >= (3, 8), "python 3.8 or newer is required to run this program"
 
 # symbol custom 0 refers to a 24x24 pixel image "H:\Garmin\CustomSymbols\custom 0.bmp"
-# color format must be 24 or 8 bit RBG bmp
+# color format must be 24 bit or 8 bit RBG bmp
 # color magenta (R, G, B) == (255, 0, 255) is used for transparent pixels
 gpx_template = """<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
 <gpx xmlns="http://www.topografix.com/GPX/1/1"
@@ -99,15 +98,15 @@ def find_xml_child_and_get_text(parent: ElementTree.Element, child_name: str) ->
     return get_xml_text(find_xml_child(parent, child_name))
 
 
-def read_geocaches(gpx_filepath) -> Sequence[Geocache]:
+def read_geocaches(gpx_file_or_path: Union[IO, str]) -> Sequence[Geocache]:
     geocaches = []
     try:
-        tree = ElementTree.parse(gpx_filepath)
+        tree = ElementTree.parse(gpx_file_or_path)
     except Exception as e:
-        raise ProximityAlertError(f"failed to open/parse xml file {get_filename(gpx_filepath)}: {e}")
+        raise ProximityAlertError(f"failed to open/parse xml file {get_filename(gpx_file_or_path)}: {e}")
     root_element = tree.getroot()
     if not root_element.tag.endswith("}gpx"):
-        raise ProximityAlertError(f"{get_filename(gpx_filepath)} is not a valid gpx file")
+        raise ProximityAlertError(f"{get_filename(gpx_file_or_path)} is not a valid gpx file")
     for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][@lat][@lon]"):
         cache_element = wpt_element.find(".//{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
         if cache_element is None:
@@ -128,7 +127,7 @@ def read_geocaches(gpx_filepath) -> Sequence[Geocache]:
     return geocaches
 
 
-def register_namespace_prefixes_globally(input_file: typing.IO) -> None:
+def register_namespace_prefixes_globally(input_file: IO) -> None:
     for event, (ns_prefix, schema_url) in ElementTree.iterparse(input_file, events=['start-ns']):
         ElementTree.register_namespace(ns_prefix, schema_url)
 
@@ -155,30 +154,34 @@ def proximity_alert_tree(geocaches: Sequence[Geocache], distance: float) -> Elem
     return ElementTree.ElementTree(root)
 
 
-def create_alert(gpx_filepaths, out_file_or_filename, distance: float, verbose: bool):
-    geocaches: typing.List[Geocache] = []
-    for gpx_filepath in gpx_filepaths:
+def create_alert(
+        gpx_files_or_paths: Sequence[Union[IO, str]],
+        out_file_or_path: Union[IO, str],
+        distance: float,
+        verbose: bool):
+    geocaches: List[Geocache] = []
+    for gpx_filepath in gpx_files_or_paths:
         geocaches_found = read_geocaches(gpx_filepath)
         if verbose:
             print(f"{len(geocaches_found):>4} geocache(s) found in {get_filename(gpx_filepath)}")
         geocaches.extend(geocaches_found)
     if len(geocaches) == 0:
         return len(geocaches)
-    tree = proximity_alert_tree(geocaches, distance)
+    xml_tree = proximity_alert_tree(geocaches, distance)
     # need to register old xml namespace prefixes to keep it
     register_namespace_prefixes_globally(io.StringIO(gpx_template))
     try:
-        tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
+        xml_tree.write(out_file_or_path, encoding="utf-8", xml_declaration=True)
     except OSError as e:
-        raise ProximityAlertError(f"failed to write to file {out_file_or_filename}: {e}")
+        raise ProximityAlertError(f"failed to write to file {out_file_or_path}: {e}")
     if verbose:
-        print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {get_filename(out_file_or_filename)}")
+        print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {get_filename(out_file_or_path)}")
     return len(geocaches)
 
 
 @dataclasses.dataclass
 class Options:
-    gpx_input_files: typing.List[str]
+    gpx_input_files: List[str]
     output: str
     distance: float
     verbose: bool
@@ -223,8 +226,8 @@ def main(args: Sequence[str]):
         options = parse_args(args)
 
         num_caches_found = create_alert(
-            gpx_filepaths=options.gpx_input_files,
-            out_file_or_filename=options.output,
+            gpx_files_or_paths=options.gpx_input_files,
+            out_file_or_path=options.output,
             distance=options.distance,
             verbose=options.verbose)
 
