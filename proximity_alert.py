@@ -204,18 +204,20 @@ def parse_args(args: Sequence[str]) -> Options:
     options = parser.parse_args(args)
 
     if options.recursive:
+        if len(options.gpx_input_files) != 0:
+            raise ProximityAlertError("error: input files may not be provided when using --recursive")
         gpx_input_files = sorted(glob.glob("**/*.gpx", recursive=True))
         # exclude output file if it already exists
         if os.path.isfile(options.output):
             gpx_input_files = [path for path in gpx_input_files
                                if not os.path.samefile(path, options.output)]
-        options.gpx_input_files = gpx_input_files
-        if len(options.gpx_input_files) == 0:
+        if len(gpx_input_files) == 0:
             raise ProximityAlertError("error: no gpx input files found in current working directory")
     else:
         if len(options.gpx_input_files) == 0:
-            raise ProximityAlertError("error: no gpx input files given")
-    return Options(gpx_input_files=options.gpx_input_files,
+            raise ProximityAlertError("error: no gpx input files given and --recursive is not set")
+        gpx_input_files = options.gpx_input_files
+    return Options(gpx_input_files=gpx_input_files,
                    output=options.output,
                    distance=options.distance,
                    verbose=options.verbose)
