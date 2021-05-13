@@ -1,11 +1,14 @@
 #!/usr/bin/env python3
+import argparse
 import copy
 import glob
 import os
 import sys
+import typing
 import xml.etree.ElementTree as ElementTree
 import io
 import dataclasses
+from typing import Sequence
 
 assert sys.version_info >= (3, 8), "python 3.8 or newer is required to run this program"
 
@@ -72,7 +75,31 @@ def get_filename(file_or_filename):
         return str(file_or_filename)
 
 
-def read_geocaches(gpx_filepath):
+def get_xml_attribute_value(element: ElementTree.Element, attribute: str) -> str:
+    attr_value = element.get(attribute)
+    if attr_value is None:
+        raise ProximityAlertError(f"failed to find attribute {attribute} in xml element {element.tag}")
+    return attr_value
+
+
+def get_xml_child(parent: ElementTree.Element, child_name: str) -> ElementTree.Element:
+    child = parent.find(child_name)
+    if child is None:
+        raise ProximityAlertError(f"failed to find xml element {child_name} in xml element {parent.tag}")
+    return child
+
+
+def get_xml_text(element: ElementTree.Element) -> str:
+    if element.text is None:
+        raise ProximityAlertError(f"xml element {element.tag} is empty")
+    return element.text
+
+
+def get_xml_child_text(parent: ElementTree.Element, child_name: str) -> str:
+    return get_xml_text(get_xml_child(parent, child_name))
+
+
+def read_geocaches(gpx_filepath) -> Sequence[Geocache]:
     geocaches = []
     try:
         tree = ElementTree.parse(gpx_filepath)
@@ -85,18 +112,16 @@ def read_geocaches(gpx_filepath):
         cache_element = wpt_element.find(".//{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
         if cache_element is None:
             continue
-        lat = wpt_element.get("lat")
-        lon = wpt_element.get("lon")
-        gc_code = wpt_element.find("{*}name").text
+        lat = get_xml_attribute_value(wpt_element, "lat")
+        lon = get_xml_attribute_value(wpt_element, "lon")
+        gc_code = get_xml_child_text(wpt_element, "{*}name")
 
-        name = cache_element.find("{*}name").text
-        cache_type = cache_element.find("{*}type").text
-        difficulty = cache_element.find("{*}difficulty").text
-        terrain = cache_element.find("{*}terrain").text
-        hint = cache_element.find("{*}encoded_hints").text
-        if hint is None:
-            hint = ""
-        hint = hint.strip()
+        name = get_xml_child_text(cache_element, "{*}name")
+        cache_type = get_xml_child_text(cache_element, "{*}type")
+        difficulty = get_xml_child_text(cache_element, "{*}difficulty")
+        terrain = get_xml_child_text(cache_element, "{*}terrain")
+        hint_element = get_xml_child(cache_element, "{*}encoded_hints")
+        hint = hint_element.text if hint_element.text is not None else ""
         geocache = Geocache(name=name,
                             gc_code=gc_code,
                             lat=lat,
@@ -109,15 +134,23 @@ def read_geocaches(gpx_filepath):
     return geocaches
 
 
-def get_xml_namespaces(filename):
-    return [(prefix, schema_url) for event, (prefix, schema_url) in
-            ElementTree.iterparse(filename, events=['start-ns'])]
+@dataclasses.dataclass
+class XMLNamespace:
+    prefix: str
+    schema_url: str
 
 
-def proximity_alert_tree(geocaches, distance):
+def get_xml_namespaces(input_file: typing.IO) -> Sequence[XMLNamespace]:
+    return [XMLNamespace(prefix=ns_prefix, schema_url=schema_url)
+            for event, (ns_prefix, schema_url) in ElementTree.iterparse(input_file, events=['start-ns'])]
+
+
+def proximity_alert_tree(geocaches: Sequence[Geocache], distance: float) -> ElementTree.ElementTree:
     gpx_template_root = ElementTree.fromstring(gpx_template)
     root = gpx_template_root
     template_wpt = root.find("{*}wpt")
+    if template_wpt is None:
+        raise ProximityAlertError("internal error: failed to find wpt xml element in gpx template")
     root.remove(template_wpt)
     garmin_waypoint_display_max_text_length = 30
     for geocache in geocaches:
@@ -125,17 +158,23 @@ def proximity_alert_tree(geocaches, distance):
             display_text = geocache.name
         else:
             display_text = geocache.name[:6] + "~" + geocache.name[-23:]
-        new_wpt_element = copy.deepcopy(template_wpt)
-        new_wpt_element.set("lat", geocache.lat)
-        new_wpt_element.set("lon", geocache.lon)
-        new_wpt_element.find("{*}name").text = display_text
-        new_wpt_element.find("{*}extensions/{*}WaypointExtension/{*}Proximity").text = str(distance)
-        root.append(new_wpt_element)
+        proximity_wpt = copy.deepcopy(template_wpt)
+        proximity_wpt.set("lat", geocache.lat)
+        proximity_wpt.set("lon", geocache.lon)
+        wpt_name = proximity_wpt.find("{*}name")
+        if wpt_name is None:
+            raise ProximityAlertError("internal error: failed to find name xml element in gpx template")
+        wpt_name.text = display_text
+        wpt_distance = proximity_wpt.find("{*}extensions/{*}WaypointExtension/{*}Proximity")
+        if wpt_distance is None:
+            raise ProximityAlertError("internal error: failed to find Proximity xml element in gpx template")
+        wpt_distance.text = str(distance)
+        root.append(proximity_wpt)
     return ElementTree.ElementTree(root)
 
 
-def create_alert(gpx_filepaths, out_file_or_filename, distance, verbose):
-    geocaches = []
+def create_alert(gpx_filepaths, out_file_or_filename, distance: float, verbose: bool):
+    geocaches: typing.List[Geocache] = []
     for gpx_filepath in gpx_filepaths:
         geocaches_found = read_geocaches(gpx_filepath)
         if verbose:
@@ -145,8 +184,8 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, verbose):
         return len(geocaches)
     tree = proximity_alert_tree(geocaches, distance)
     # need to register old namespace prefix alias in order to keep it
-    for prefix, schema_url in get_xml_namespaces(io.StringIO(gpx_template)):
-        ElementTree.register_namespace(prefix, schema_url)
+    for xml_namespace in get_xml_namespaces(io.StringIO(gpx_template)):
+        ElementTree.register_namespace(xml_namespace.prefix, xml_namespace.schema_url)
     try:
         tree.write(out_file_or_filename, encoding="utf-8", xml_declaration=True)
     except OSError as e:
@@ -156,9 +195,7 @@ def create_alert(gpx_filepaths, out_file_or_filename, distance, verbose):
     return len(geocaches)
 
 
-def parse_args(args):
-    import argparse
-
+def parse_args(args: Sequence[str]) -> argparse.Namespace:
     parser = argparse.ArgumentParser()
     parser.add_argument("gpx_input_files", nargs="*", type=argparse.FileType("r", encoding="utf-8"),
                         help="input files containing geocaches in gpx format")
@@ -189,9 +226,9 @@ def parse_args(args):
     return options
 
 
-def main(command_line_arguments):
+def main(args: Sequence[str]):
     try:
-        options = parse_args(command_line_arguments)
+        options = parse_args(args)
 
         num_caches_found = create_alert(
             gpx_filepaths=options.gpx_input_files,
@@ -206,4 +243,4 @@ def main(command_line_arguments):
 
 
 if __name__ == "__main__":
-    main(sys.argv[1:])
+    main(sys.argv)
