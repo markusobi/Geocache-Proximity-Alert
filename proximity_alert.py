@@ -59,7 +59,7 @@ class Geocache:
     hint: str
 
 
-def get_filename(file_or_filename):
+def get_filename(file_or_filename) -> str:
     if isinstance(file_or_filename, io.TextIOWrapper):
         return file_or_filename.name
     else:
@@ -150,7 +150,7 @@ def create_alert(
         gpx_files_or_paths: Sequence[Union[IO, str]],
         out_file_or_path: Union[IO, str],
         distance: float,
-        verbose: bool):
+        verbose: bool) -> int:
     geocaches: List[Geocache] = []
     for gpx_filepath in gpx_files_or_paths:
         geocaches_found = read_geocaches(gpx_filepath)
@@ -200,7 +200,7 @@ def parse_args(args: Sequence[str]) -> Options:
             raise ProximityAlertError("error: input files may not be provided when using --recursive")
         gpx_input_files = sorted(glob.glob("**/*.gpx", recursive=True))
 
-        def is_not_output_file(path):
+        def is_not_output_file(path: str) -> bool:
             try:
                 return not os.path.samefile(path, options.output)
             except FileNotFoundError:
@@ -220,7 +220,7 @@ def parse_args(args: Sequence[str]) -> Options:
                    verbose=options.verbose)
 
 
-def main(args: Sequence[str]):
+def main(args: Sequence[str]) -> None:
     try:
         options = parse_args(args)
 
