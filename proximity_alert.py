@@ -7,7 +7,8 @@ import sys
 import xml.etree.ElementTree as ElementTree
 import io
 import dataclasses
-from typing import Sequence, List, Union, IO
+import pathlib
+from typing import Sequence, List, Union, IO, AnyStr
 
 assert sys.version_info >= (3, 8), "python 3.8 or newer is required to run this program"
 
@@ -59,13 +60,6 @@ class Geocache:
     hint: str
 
 
-def get_filename(file_or_filename):
-    if isinstance(file_or_filename, io.TextIOWrapper):
-        return file_or_filename.name
-    else:
-        return str(file_or_filename)
-
-
 def get_xml_attribute_value(element: ElementTree.Element, attribute: str) -> str:
     attr_value = element.get(attribute)
     if attr_value is None:
@@ -90,15 +84,15 @@ def find_xml_child_and_get_text(parent: ElementTree.Element, child_name: str) ->
     return get_xml_text(find_xml_child(parent, child_name))
 
 
-def read_geocaches(gpx_file_or_path: Union[IO, str]) -> Sequence[Geocache]:
+def read_geocaches(gpx_filepath: Union[str, pathlib.Path]) -> Sequence[Geocache]:
     geocaches = []
     try:
-        tree = ElementTree.parse(gpx_file_or_path)
+        tree = ElementTree.parse(gpx_filepath)
     except Exception as e:
-        raise ProximityAlertError(f"error: failed to open/parse xml file {get_filename(gpx_file_or_path)}: {e}")
+        raise ProximityAlertError(f"error: failed to open/parse xml file {gpx_filepath}: {e}")
     root_element = tree.getroot()
     if not root_element.tag.endswith("}gpx"):
-        raise ProximityAlertError(f"error: failed to find gpx element in file {get_filename(gpx_file_or_path)}")
+        raise ProximityAlertError(f"error: failed to find gpx element in file {gpx_filepath}")
     for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][@lat][@lon]"):
         cache_element = wpt_element.find(".//{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
         if cache_element is None:
@@ -119,7 +113,7 @@ def read_geocaches(gpx_file_or_path: Union[IO, str]) -> Sequence[Geocache]:
     return geocaches
 
 
-def register_namespace_prefixes_globally(input_file: IO) -> None:
+def register_namespace_prefixes_globally(input_file: IO[AnyStr]) -> None:
     for event, (ns_prefix, schema_url) in ElementTree.iterparse(input_file, events=['start-ns']):
         ElementTree.register_namespace(ns_prefix, schema_url)
 
@@ -147,15 +141,15 @@ def proximity_alert_tree(geocaches: Sequence[Geocache], distance: float) -> Elem
 
 
 def create_alert(
-        gpx_files_or_paths: Sequence[Union[IO, str]],
-        out_file_or_path: Union[IO, str],
+        gpx_filepaths: Sequence[str],
+        out_file_or_path: Union[str, IO[AnyStr]],
         distance: float,
-        verbose: bool):
+        verbose: bool) -> int:
     geocaches: List[Geocache] = []
-    for gpx_filepath in gpx_files_or_paths:
+    for gpx_filepath in gpx_filepaths:
         geocaches_found = read_geocaches(gpx_filepath)
         if verbose:
-            print(f"{len(geocaches_found):>4} geocache(s) found in {get_filename(gpx_filepath)}")
+            print(f"{len(geocaches_found):>4} geocache(s) found in {gpx_filepath}")
         geocaches.extend(geocaches_found)
     if len(geocaches) == 0:
         return len(geocaches)
@@ -167,7 +161,7 @@ def create_alert(
     except OSError as e:
         raise ProximityAlertError(f"error: failed to write to file {out_file_or_path}: {e}")
     if verbose:
-        print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {get_filename(out_file_or_path)}")
+        print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {out_file_or_path}")
     return len(geocaches)
 
 
@@ -200,7 +194,7 @@ def parse_args(args: Sequence[str]) -> Options:
             raise ProximityAlertError("error: input files may not be provided when using --recursive")
         gpx_input_files = sorted(glob.glob("**/*.gpx", recursive=True))
 
-        def is_not_output_file(path):
+        def is_not_output_file(path: str) -> bool:
             try:
                 return not os.path.samefile(path, options.output)
             except FileNotFoundError:
@@ -220,12 +214,12 @@ def parse_args(args: Sequence[str]) -> Options:
                    verbose=options.verbose)
 
 
-def main(args: Sequence[str]):
+def main(args: Sequence[str]) -> None:
     try:
         options = parse_args(args)
 
         num_caches_found = create_alert(
-            gpx_files_or_paths=options.gpx_input_files,
+            gpx_filepaths=options.gpx_input_files,
             out_file_or_path=options.output,
             distance=options.distance,
             verbose=options.verbose)
