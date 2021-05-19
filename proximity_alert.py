@@ -59,13 +59,6 @@ class Geocache:
     hint: str
 
 
-def get_filename(file_or_filename) -> str:
-    if isinstance(file_or_filename, io.TextIOWrapper):
-        return file_or_filename.name
-    else:
-        return str(file_or_filename)
-
-
 def get_xml_attribute_value(element: ElementTree.Element, attribute: str) -> str:
     attr_value = element.get(attribute)
     if attr_value is None:
@@ -95,10 +88,10 @@ def read_geocaches(gpx_file_or_path: Union[IO, str]) -> Sequence[Geocache]:
     try:
         tree = ElementTree.parse(gpx_file_or_path)
     except Exception as e:
-        raise ProximityAlertError(f"error: failed to open/parse xml file {get_filename(gpx_file_or_path)}: {e}")
+        raise ProximityAlertError(f"error: failed to open/parse xml file {gpx_file_or_path}: {e}")
     root_element = tree.getroot()
     if not root_element.tag.endswith("}gpx"):
-        raise ProximityAlertError(f"error: failed to find gpx element in file {get_filename(gpx_file_or_path)}")
+        raise ProximityAlertError(f"error: failed to find gpx element in file {gpx_file_or_path}")
     for wpt_element in root_element.findall("{*}wpt[{*}name][{*}type][@lat][@lon]"):
         cache_element = wpt_element.find(".//{*}cache[{*}name][{*}difficulty][{*}terrain][{*}encoded_hints]")
         if cache_element is None:
@@ -155,7 +148,7 @@ def create_alert(
     for gpx_filepath in gpx_files_or_paths:
         geocaches_found = read_geocaches(gpx_filepath)
         if verbose:
-            print(f"{len(geocaches_found):>4} geocache(s) found in {get_filename(gpx_filepath)}")
+            print(f"{len(geocaches_found):>4} geocache(s) found in {gpx_filepath}")
         geocaches.extend(geocaches_found)
     if len(geocaches) == 0:
         return len(geocaches)
@@ -167,7 +160,7 @@ def create_alert(
     except OSError as e:
         raise ProximityAlertError(f"error: failed to write to file {out_file_or_path}: {e}")
     if verbose:
-        print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {get_filename(out_file_or_path)}")
+        print(f"{len(geocaches):>4} total proximity alert waypoint(s) written to {out_file_or_path}")
     return len(geocaches)
 
 
