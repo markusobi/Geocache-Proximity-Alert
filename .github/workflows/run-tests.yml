@@ -23,4 +23,6 @@ jobs:
     - name: Discover and run all tests using unittest module
       run: |
         cd tests
-        python3 -m unittest
+        mypy --strict proximity_alert.py
+        mypy --strict tests/test_proximity_alert.py
+        python3 -m unittest tests/test_proximity_alert.py
