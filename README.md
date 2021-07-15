@@ -9,7 +9,7 @@ If this generated `.gpx` is placed inside the `Garmin\GPX\` folder, the Garmin d
 ## How to Install
 The following instructions assume that your geocache GPX files are stored in `Garmin\GPX\geocaches\` on your Garmin device.
  - Install Python 3.8 or higher (Windows download: https://www.python.org/downloads/) and ensure that the location of python.exe is in your PATH variable.
- - Download the latest release [geocache_proximity_alert.zip](https://github.com/markusobi/Geocache-Proximity-Alert/releases) and extract content to `Garmin\GPX\geocaches\`.
+ - Download the latest release [Geocache-Proximity-Alert.zip](https://github.com/markusobi/Geocache-Proximity-Alert/releases) and extract content to `Garmin\GPX\geocaches\`.
 ## How to Run
 The following will create a `proximity_alert.gpx` file containing proximity alert waypoints for all caches found in all `.gpx` files in the current working directory (recursive search).
  - Open `cmd` in `Garmin\GPX\geocaches\`.
