@@ -1,3 +1,3 @@
 @echo off
-proximity_alert\proximity_alert.exe --verbose --recursive
+python.exe proximity_alert.py --verbose --recursive
 pause

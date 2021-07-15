@@ -15,6 +15,8 @@ The following will create a `proximity_alert.gpx` file containing proximity aler
  - Open `cmd` in `Garmin\GPX\geocaches\`.
  - Run command `python.exe proximity_alert.py --recursive --verbose`.
 
+Alternatively you can use the convenience script [proximity_alert.bat](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/proximity_alert.bat).
+
 ## How to hide the proximity alarm waypoint symbols on the Garmin device
  - Download [custom 0.bmp](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/custom%200.bmp) and save it to `Garmin\CustomSymbols\`.
 
