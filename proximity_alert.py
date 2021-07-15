@@ -128,7 +128,7 @@ def proximity_alert_tree(geocaches: Sequence[Geocache], distance: float) -> Elem
         if len(geocache.name) <= garmin_max_display_text_length:
             display_text = geocache.name
         else:
-            display_text = geocache.name[:6] + "~" + geocache.name[-23:]
+            display_text = geocache.name[:10] + "~" + geocache.name[-19:]
         proximity_wpt = copy.deepcopy(template_wpt)
         proximity_wpt.set("lat", geocache.lat)
         proximity_wpt.set("lon", geocache.lon)
