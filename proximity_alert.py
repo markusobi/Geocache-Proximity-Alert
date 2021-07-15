@@ -133,7 +133,10 @@ def proximity_alert_tree(geocaches: Sequence[Geocache], distance: float) -> Elem
         proximity_wpt.set("lat", geocache.lat)
         proximity_wpt.set("lon", geocache.lon)
         wpt_name = find_xml_child(proximity_wpt, "{*}name")
-        wpt_name.text = display_text
+        # BaseCamp cannot display multiple waypoints with the same name.
+        # That's why the distance is added to the name.
+        # This way multiple proximity circles can be seen in BaseCamp.
+        wpt_name.text = f"{display_text} {round(distance)}m"
         wpt_distance = find_xml_child(proximity_wpt, "{*}extensions/{*}WaypointExtension/{*}Proximity")
         wpt_distance.text = str(distance)
         root.append(proximity_wpt)
