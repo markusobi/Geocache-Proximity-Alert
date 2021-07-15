@@ -9,13 +9,14 @@ If this generated `.gpx` is placed inside the `Garmin\GPX\` folder, the Garmin d
 ## How to Install
 The following instructions assume that your geocache GPX files are stored in `Garmin\GPX\geocaches\` on your Garmin device.
  - Install Python 3.8 or higher (Windows download: https://www.python.org/downloads/) and ensure that the location of python.exe is in your PATH variable.
- - Download the latest release [geocache_proximity_alert-...-python.zip](https://github.com/markusobi/Geocache-Proximity-Alert/releases) and extract content to `Garmin\GPX\geocaches\`.
+ - Download the latest release [geocache_proximity_alert.zip](https://github.com/markusobi/Geocache-Proximity-Alert/releases) and extract content to `Garmin\GPX\geocaches\`.
 ## How to Run
 The following will create a `proximity_alert.gpx` file containing proximity alert waypoints for all caches found in all `.gpx` files in the current working directory (recursive search).
  - Open `cmd` in `Garmin\GPX\geocaches\`.
  - Run command `python.exe proximity_alert.py --recursive --verbose`.
 
-Alternatively you can use the convenience script [proximity_alert.bat](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/proximity_alert.bat).
+It is possible to create alerts for multiple distances.
+The script `proximity_alert_5m_50m.bat` (part of the release) creates alerts at 5 m and 50 m.
 
 ## How to hide the proximity alarm waypoint symbols on the Garmin device
  - Download [custom 0.bmp](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/custom%200.bmp) and save it to `Garmin\CustomSymbols\`.

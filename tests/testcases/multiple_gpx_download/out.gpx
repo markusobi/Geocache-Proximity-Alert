@@ -6,7 +6,7 @@
     </link>
 </metadata>
 <wpt lat="52.51705" lon="13.423233">
-    <name>Nicht vom Beckenrand springen!</name>
+    <name>Nicht vom Beckenrand springen! 42m</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -16,7 +16,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.513483" lon="13.41145">
-    <name>Historischer Hafen Berlin</name>
+    <name>Historischer Hafen Berlin 42m</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -26,7 +26,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.544583" lon="13.374467">
-    <name>Pankebogen</name>
+    <name>Pankebogen 42m</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
