@@ -1,28 +1,30 @@
 # Geocache Proximity Alert
-This is a command line tool that can be used to make a Garmin device raise a proximity alarm when a geocache is closer than a certain distance.
-This tool takes one or more geocache `.gpx` files as input and generates a `.gpx` output file.
-The generated `.gpx` file contains one gpx-waypoint for each cache.
-If this generated `.gpx` is placed inside the `Garmin\GPX\` folder, the Garmin device will raise an alarm every time one of these gpx-waypoints is near.
+## What it does
+This is a command line tool that can be used to make a Garmin device raise an acoustic alert every time the distance to a geocache falls below a certain threshold.
+## How it works
+This command line tool takes one or more geocache `.gpx` files as input and generates a `.gpx` output file (default: `proximity_alert.gpx`).
+The generated `.gpx` file contains one additional proximity gpx-waypoint for each cache.
+If this generated `.gpx` is placed inside the `Garmin\GPX\` folder, the Garmin device will raise an alert every time a geocache is near.
 
-## Requirements
- - Python 3.8 or higher (Windows download: https://www.python.org/downloads/)
+## How to Install
+The following instructions assume that your geocache GPX files are stored in `Garmin\GPX\geocaches\` on your Garmin device.
+ - Install Python 3.8 or higher (Windows download: https://www.python.org/downloads/) and ensure that the location of python.exe is in your PATH variable.
+ - Download the latest release [geocache_proximity_alert-...-python.zip](https://github.com/markusobi/Geocache-Proximity-Alert/releases) and extract content to `Garmin\GPX\geocaches\`.
+## How to Run
+The following will create a `proximity_alert.gpx` file containing proximity alert waypoints for all caches found in all `.gpx` files in the current working directory (recursive search).
+ - Open `cmd` in `Garmin\GPX\geocaches\`.
+ - Run command `python.exe proximity_alert.py --recursive --verbose`.
 
-## Getting Started
-### Running
-The following will create a `proximity_alert.gpx` file containing proximity alert waypoints for all caches found in all `.gpx` files in the current working directory (recursive search). It is not necessary to put this tool onto your Garmin device, but this will save you the manual copying each time you generate the `proximity_alert.gpx` file. You have two options:
-#### A: Using proximity_alert.exe (Windows only)
- - Copy your geocache `.gpx` files to your Garmin device into `Garmin\GPX\geocaches\`
- - Download [geocache_proximity_alert-...-windows-x86.zip](https://github.com/markusobi/Geocache-Proximity-Alert/releases) and extract content to `Garmin\GPX\geocaches\`
- - Run `Garmin\GPX\geocaches\proximity_alert.bat` inside `Garmin\GPX\geocaches\`
-#### B: Using proximity_alert.py (python script, any OS)
- - Copy your geocache `.gpx` files to your Garmin device into `Garmin\GPX\geocaches\`
- - Install Python 3.8 (or higher)
- - Download [geocache_proximity_alert-...-python.zip](https://github.com/markusobi/Geocache-Proximity-Alert/releases) and extract content to `Garmin\GPX\geocaches\`
- - Run `python3 proximity_alert.py --recursive --verbose` (On Windows use command `python` instead or specify full path to `python.exe` if python is not in your PATH)
+Alternatively you can use the convenience script [proximity_alert.bat](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/proximity_alert.bat).
 
-### How to hide the additional waypoint symbols (blue flags)
- - Copy [custom 0.bmp](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/custom%200.bmp) to `Garmin\CustomSymbols\`. This will make the icons of the proximity waypoints invisible on the garmin device. See [Saving a Custom Symbol to a Device](https://support.garmin.com/?faq=VTS8XTdjCW5Tx3HyfJ3eQ6).
- - Copy [custom 0.bmp](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/custom%200.bmp) to `C:\Users\%USERNAME%\Documents\My Garmin\Custom Waypoint Symbols\` and rename it to `000.BMP`. This will make the proximity waypoints invisible in BaseCamp. See [Creating a Custom Symbol](https://support.garmin.com/?faq=VTS8XTdjCW5Tx3HyfJ3eQ6).
+## How to hide the proximity alarm waypoint symbols on the Garmin device
+ - Download [custom 0.bmp](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/custom%200.bmp) and save it to `Garmin\CustomSymbols\`.
+
+This will make the icons of the proximity waypoints invisible on the Garmin device. Reference: [Saving a Custom Symbol to a Device](https://support.garmin.com/?faq=VTS8XTdjCW5Tx3HyfJ3eQ6).
+## How to hide the proximity alarm waypoint symbols in Basecamp
+ - Navigate to `C:\Users\%USERNAME%\Documents\My Garmin\Custom Waypoint Symbols\`.
+ - Delete or rename any existing `000.BMP` or `000.png` files.
+ - Download [custom 0.bmp](https://raw.githubusercontent.com/markusobi/Geocache-Proximity-Alert/master/custom%200.bmp) and save it as `000.BMP`. Reference: [Creating a Custom Symbol](https://support.garmin.com/?faq=VTS8XTdjCW5Tx3HyfJ3eQ6).
 
 ## Command-Line Reference
 ```
