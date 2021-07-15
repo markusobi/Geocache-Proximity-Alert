@@ -26,7 +26,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.482983" lon="13.3385">
-    <name>BERLIN~TZWERK - Meraner Straße</name>
+    <name>BERLINER S~RK - Meraner Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -36,7 +36,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4868" lon="13.342667">
-    <name>6f: Th~w must go on (Tribute) </name>
+    <name>6f: The Sh~st go on (Tribute) </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -66,7 +66,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4842" lon="13.335183">
-    <name>BERLIN~K - Babelsberger Straße</name>
+    <name>BERLINER S~Babelsberger Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -116,7 +116,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.488083" lon="13.334667">
-    <name>Kleine~gruß - Geburtstagscache</name>
+    <name>Kleiner Va~ - Geburtstagscache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -126,7 +126,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.475083" lon="13.3418">
-    <name>Friede~hnanlage Ceciliengärten</name>
+    <name>Friedenaue~lage Ceciliengärten</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -166,7 +166,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4761" lon="13.333333">
-    <name>Friede~uer Puzzle - Die Schule</name>
+    <name>Friedenaue~Puzzle - Die Schule</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -196,7 +196,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4925" lon="13.339">
-    <name>Tiersa~ drei entlaufenen Tiger</name>
+    <name>Tiersafari~i entlaufenen Tiger</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -256,7 +256,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4934" lon="13.351117">
-    <name>The Re~ goes to ... ///13monde</name>
+    <name>The Regenb~s to ... ///13monde</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -266,7 +266,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.472583" lon="13.335667">
-    <name>Friede~er Puzzle - Das Rathaus</name>
+    <name>Friedenaue~uzzle - Das Rathaus</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -276,7 +276,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.474083" lon="13.356117">
-    <name>Priest~-Radrennbahn-Schöneberg</name>
+    <name>Priesterwe~rennbahn-Schöneberg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -286,7 +286,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.48545" lon="13.324467">
-    <name>Ein kl~ T5er für zwischendurch</name>
+    <name>Ein kleine~r für zwischendurch</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -346,7 +346,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.485217" lon="13.364">
-    <name>Berlin~lpersteine "Paul Hinze"</name>
+    <name>Berliner S~steine "Paul Hinze"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -356,7 +356,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.470417" lon="13.340417">
-    <name>Friede~ Puzzle - Der S-Bahnhof</name>
+    <name>Friedenaue~zle - Der S-Bahnhof</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -446,7 +446,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4712" lon="13.332133">
-    <name>Friede~er Puzzle - Das Postamt</name>
+    <name>Friedenaue~uzzle - Das Postamt</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -456,7 +456,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4693" lon="13.344067">
-    <name>Koloni~usstellung in Friedenau</name>
+    <name>Kolonialau~ellung in Friedenau</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -466,7 +466,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4715" lon="13.331333">
-    <name>Friede~zle - Die Landhausvilla</name>
+    <name>Friedenaue~- Die Landhausvilla</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -486,7 +486,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.475833" lon="13.323833">
-    <name>Friede~r Puzzle - Der Friedhof</name>
+    <name>Friedenaue~zzle - Der Friedhof</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -496,7 +496,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.47575" lon="13.322967">
-    <name>Kuenst~hof Friedenau - MARLENE</name>
+    <name>Kuenstlerf~Friedenau - MARLENE</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -516,7 +516,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4716" lon="13.328417">
-    <name>Friede~uer Puzzle - Die Kirche</name>
+    <name>Friedenaue~Puzzle - Die Kirche</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -566,7 +566,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.494317" lon="13.3267">
-    <name>Kleine~gscache 2018 - reloaded</name>
+    <name>Kleiner Va~che 2018 - reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -666,7 +666,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.499667" lon="13.341217">
-    <name>BERLIN~ - Lietzenburger Straße</name>
+    <name>BERLINER S~ietzenburger Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -816,7 +816,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.466333" lon="13.330167">
-    <name>Friede~Puzzle - Die Goerz-Höfe</name>
+    <name>Friedenaue~le - Die Goerz-Höfe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -876,7 +876,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.468783" lon="13.321583">
-    <name>Rheing~28 ehemals Polizeiwache</name>
+    <name>Rheingaust~hemals Polizeiwache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -896,7 +896,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.466233" lon="13.326383">
-    <name>Lefèvr~traße Ecke Büsingstraße</name>
+    <name>Lefèvrestr~e Ecke Büsingstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -906,7 +906,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.47705" lon="13.374733">
-    <name>Cachen~ckdown April 2020 Nr. 3</name>
+    <name>Cachen sta~wn April 2020 Nr. 3</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -926,7 +926,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.478233" lon="13.375667">
-    <name>Die Ed~in-Triologie "Rubinrot"</name>
+    <name>Die Edelst~riologie "Rubinrot"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -936,7 +936,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.463883" lon="13.3328">
-    <name>BERLIN~ZWERK - Feuerbachstraße</name>
+    <name>BERLINER S~K - Feuerbachstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1036,7 +1036,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.489167" lon="13.37715">
-    <name>Berlin~stspitzen # 6 Kreuzberg</name>
+    <name>Berliner K~itzen # 6 Kreuzberg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1076,7 +1076,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5044" lon="13.3377">
-    <name>Die Uh~ks of the Europa-Center</name>
+    <name>Die Uhren ~f the Europa-Center</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1216,7 +1216,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.492617" lon="13.309417">
-    <name>Kleine~- reloaded - TB Pension</name>
+    <name>Kleiner Ta~loaded - TB Pension</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1316,7 +1316,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4768" lon="13.3814">
-    <name>BERLIN~GENETZWERK - Bundesring</name>
+    <name>BERLINER S~TZWERK - Bundesring</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1336,7 +1336,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.460317" lon="13.330033">
-    <name>Ein Na~im Grünen... (reloaded)</name>
+    <name>Ein Nano i~rünen... (reloaded)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1346,7 +1346,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.475067" lon="13.381">
-    <name>BERLIN~TZWERK - Wiesenerstraße</name>
+    <name>BERLINER S~RK - Wiesenerstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1376,7 +1376,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.488417" lon="13.304883">
-    <name>Kleine~-Schmierfink - TB Hotel</name>
+    <name>Kleiner Le~mierfink - TB Hotel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1406,7 +1406,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.458967" lon="13.352583">
-    <name>Challe~ Events und Nachtcaches</name>
+    <name>Challenge ~nts und Nachtcaches</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1446,7 +1446,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.459986" lon="13.327296">
-    <name>375 ml~ie gewöhnliche Robinie </name>
+    <name>375 ml Die~ewöhnliche Robinie </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1516,7 +1516,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.46605" lon="13.312083">
-    <name>Eleven~ristmas Trees Have Gone</name>
+    <name>Eleven To ~mas Trees Have Gone</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1526,7 +1526,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.463833" lon="13.3715">
-    <name>Teufel~ Moritz macht das Spiel</name>
+    <name>Teufelskic~itz macht das Spiel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1536,7 +1536,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.464167" lon="13.372167">
-    <name>Teufel~ker #4- Stürmer gesucht</name>
+    <name>Teufelskic~#4- Stürmer gesucht</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1546,7 +1546,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.467167" lon="13.310367">
-    <name>16 Ear~ndesländern - Challenge</name>
+    <name>16 Earthca~ländern - Challenge</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1556,7 +1556,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.497283" lon="13.378633">
-    <name>Am Sci~ Center Spectrum Berlin</name>
+    <name>Am Science~ter Spectrum Berlin</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1566,7 +1566,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.464" lon="13.372167">
-    <name>Teufel~r #3- Holt euch den Cup</name>
+    <name>Teufelskic~- Holt euch den Cup</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1576,7 +1576,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.490083" lon="13.384267">
-    <name>BERLIN~ZWERK - Kreuzbergstraße</name>
+    <name>BERLINER S~K - Kreuzbergstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1636,7 +1636,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.506167" lon="13.3225">
-    <name>Bonus ~zz um den Savignyplatz"</name>
+    <name>Bonus zum ~m den Savignyplatz"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1746,7 +1746,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.483383" lon="13.38785">
-    <name>EAGLE ~ARE - Airport Tempelhof</name>
+    <name>EAGLE SQUA~- Airport Tempelhof</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1766,7 +1766,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.456217" lon="13.349067">
-    <name>Berlin~pitzen #9 Der Insulaner</name>
+    <name>Berliner K~en #9 Der Insulaner</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1776,7 +1776,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.459033" lon="13.322667">
-    <name>Ambigu~g – zu Oma Higallas 89.</name>
+    <name>Ambigu ode~zu Oma Higallas 89.</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1806,7 +1806,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.457783" lon="13.326783">
-    <name>Rosebu~The Rose For The Ladies</name>
+    <name>Rosebud 4 ~Rose For The Ladies</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1816,7 +1816,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.51" lon="13.351667">
-    <name>Erdmän~s 2. Familiengeschichte</name>
+    <name>Erdmännche~ Familiengeschichte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1826,7 +1826,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.471417" lon="13.302567">
-    <name>Seebäd~ Berlin III : Norderney</name>
+    <name>Seebäder i~lin III : Norderney</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1926,7 +1926,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.488017" lon="13.29695">
-    <name>Steckd~ier Nachtcache Reloaded</name>
+    <name>Steckdosen~Nachtcache Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1956,7 +1956,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.473283" lon="13.2988">
-    <name>Seebäd~: Zoppoter Str. ( rel.)</name>
+    <name>Seebäder i~ppoter Str. ( rel.)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -1966,7 +1966,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.470417" lon="13.3004">
-    <name>Seebäd~erlin V : Borkumer Str.</name>
+    <name>Seebäder I~n V : Borkumer Str.</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2036,7 +2036,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.500917" lon="13.382567">
-    <name>Die Ru~nie im Robinienwäldchen</name>
+    <name>Die Rubini~im Robinienwäldchen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2066,7 +2066,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4569" lon="13.319333">
-    <name>Berlin~routen - Steglitz Route</name>
+    <name>Berliner F~en - Steglitz Route</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2116,7 +2116,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.507567" lon="13.372683">
-    <name>Millim~ten-Roulette (reloaded)</name>
+    <name>Milliminut~Roulette (reloaded)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2156,7 +2156,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.48405" lon="13.292866666666669">
-    <name>Kleine~Blumenfreund - Reloaded</name>
+    <name>Kleiner Bl~enfreund - Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2226,7 +2226,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.503667" lon="13.382233">
-    <name>Berlin~ten – RR12 Teltow-Route</name>
+    <name>Berliner F~– RR12 Teltow-Route</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2306,7 +2306,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.514533" lon="13.3472">
-    <name>Film a~ Agenten sterben einsam</name>
+    <name>Film ab! A~nten sterben einsam</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2336,7 +2336,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5145" lon="13.34955">
-    <name>Berlin~/ Berlin Victory Column</name>
+    <name>Berliner S~rlin Victory Column</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2366,7 +2366,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.46625" lon="13.299133">
-    <name>Finde ~einen Tradi - Challenge</name>
+    <name>Finde an 3~n Tradi - Challenge</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2456,7 +2456,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.471733" lon="13.293833">
-    <name>Seebäd~eiligendamm und Misdroy</name>
+    <name>Seebäder i~gendamm und Misdroy</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2466,7 +2466,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4693" lon="13.391817">
-    <name>Die Ei~uf dem Tempelhofer Feld</name>
+    <name>Die Eisenb~em Tempelhofer Feld</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2486,7 +2486,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.456417" lon="13.312917">
-    <name>Xter V~ des Fichtenberg Multis</name>
+    <name>Xter Versu~ Fichtenberg Multis</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2516,7 +2516,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.475" lon="13.291667">
-    <name>"D0" M~terie #1.5 Lightversion</name>
+    <name>"D0" Myste~e #1.5 Lightversion</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2536,7 +2536,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.45975" lon="13.30605">
-    <name> Rätse~1- 3.5  Challenge Cache</name>
+    <name> Rätselsch~.5  Challenge Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2546,7 +2546,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.50845" lon="13.376917">
-    <name>Quiets~ente am Potsdamer Platz</name>
+    <name>Quietschee~ am Potsdamer Platz</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2556,7 +2556,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.468917" lon="13.2953">
-    <name>Fragez~rix  - Challenge Cache </name>
+    <name>Fragezeich~ - Challenge Cache </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2576,7 +2576,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.47465" lon="13.395483">
-    <name>Tempel~- The X marks the Tradi</name>
+    <name>Tempelhof-~e X marks the Tradi</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2616,7 +2616,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.509017" lon="13.310267">
-    <name>Gottes~r: Ev. Trinitatiskirche</name>
+    <name>Gotteshäus~v. Trinitatiskirche</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2646,7 +2646,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.476" lon="13.290517">
-    <name>Seebäd~Warnemünde nach Kolberg</name>
+    <name>Seebäder i~emünde nach Kolberg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2656,7 +2656,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.452983333333336" lon="13.366683333333333">
-    <name>Keine ~n Sachen... oder doch?!</name>
+    <name>Keine Halb~chen... oder doch?!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2676,7 +2676,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.509717" lon="13.375983">
-    <name>LAHRSC~CKEL AM POTSDAMER PLATZ</name>
+    <name>LAHRSCHICK~ AM POTSDAMER PLATZ</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2706,7 +2706,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.51595" lon="13.3527">
-    <name>Berlin~oss Bellevue - reloaded</name>
+    <name>Berlin Sig~Bellevue - reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2726,7 +2726,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.455733" lon="13.375517">
-    <name>Rosebu~ Red Rose From The Fair</name>
+    <name>Rosebud 1 ~ Rose From The Fair</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2736,7 +2736,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.51345" lon="13.367033">
-    <name>Bonus ~r Tiergartenspaziergang</name>
+    <name>Bonus Adve~ergartenspaziergang</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2746,7 +2746,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.452267" lon="13.32095">
-    <name>Challe~- Multies und Mysteries</name>
+    <name>Challenge ~lties und Mysteries</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2776,7 +2776,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.451917" lon="13.36615">
-    <name>Berlin~spitzen #1&amp;6 Marienhöhe</name>
+    <name>Berliner K~zen #1&amp;6 Marienhöhe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2806,7 +2806,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4644" lon="13.296667">
-    <name>Berlin~adrouten - Dahlem Route</name>
+    <name>Berliner F~uten - Dahlem Route</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2816,7 +2816,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.517267" lon="13.342317">
-    <name>Kreuz ~uer durchs Hansaviertel</name>
+    <name>Kreuz und ~durchs Hansaviertel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2846,7 +2846,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.510583" lon="13.309633">
-    <name>2. Jun~hnesorg (Astradynes #1)</name>
+    <name>2. Juni 19~org (Astradynes #1)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2876,7 +2876,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.479117" lon="13.287233">
-    <name>Wenn d~ann dreimal klingelt...</name>
+    <name>Wenn der P~dreimal klingelt...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2896,7 +2896,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.515283" lon="13.3643">
-    <name>Super-~ Tiergarten, 3. Auflage</name>
+    <name>Super-Nano~rgarten, 3. Auflage</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2916,7 +2916,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4537" lon="13.374067">
-    <name>Nachta~ve Igel, Bären &amp; Katzen</name>
+    <name>Nachtaktiv~gel, Bären &amp; Katzen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2926,7 +2926,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.463333" lon="13.296667">
-    <name>Freude~änen zum 4.K von dibo22</name>
+    <name>Freudenträ~ zum 4.K von dibo22</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2936,7 +2936,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.468833" lon="13.291333">
-    <name>Finden~en - Loggen #4 Reloaded</name>
+    <name>Finden - P~ Loggen #4 Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -2976,7 +2976,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.512467" lon="13.312217">
-    <name>Der Fr~Ein märchenhafter Cache</name>
+    <name>Der Frosch~märchenhafter Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3016,7 +3016,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.513117" lon="13.37375">
-    <name>Kugelg~nit - Orbicular Granite</name>
+    <name>Kugelgrani~- Orbicular Granite</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3046,7 +3046,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.465083" lon="13.293633">
-    <name>Rätsel~t  4 - 5 Challengecache</name>
+    <name>Rätselschw~ - 5 Challengecache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3066,7 +3066,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.448467" lon="13.330483">
-    <name>Souven~  - 16 dt. Bundesländer</name>
+    <name>Souvenir C~16 dt. Bundesländer</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3086,7 +3086,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.491667" lon="13.286817">
-    <name>wenn V~ ertragen / If dads can</name>
+    <name>wenn Väter~ragen / If dads can</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3096,7 +3096,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.50925" lon="13.383317">
-    <name>Erdmän~ Don Luigis Schatzkarte</name>
+    <name>Erdmännche~ Luigis Schatzkarte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3146,7 +3146,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5053" lon="13.2968">
-    <name>Die Le~aße und ihr Namensgeber</name>
+    <name>Die Leonha~und ihr Namensgeber</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3156,7 +3156,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.51325" lon="13.37625">
-    <name>6s: sa~apphire (virtual cache)</name>
+    <name>6s: saphir~ire (virtual cache)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3196,7 +3196,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.460383" lon="13.29655">
-    <name>Das We~eug des Erek el Strimel</name>
+    <name>Das Werkze~des Erek el Strimel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3276,7 +3276,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.45555" lon="13.3842">
-    <name>Tempel~t am Ende des Tunnels ?</name>
+    <name>Tempelhofe~ Ende des Tunnels ?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3296,7 +3296,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.45295" lon="13.379233">
-    <name>Simon ~kels - B.O.T.W. - Cache</name>
+    <name>Simon &amp; Ga~ - B.O.T.W. - Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3306,7 +3306,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.451033" lon="13.374417">
-    <name>Matrix~voritenpunkte Challenge</name>
+    <name>Matrix mit~tenpunkte Challenge</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3356,7 +3356,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.46915" lon="13.28665">
-    <name>Messel~Überquere die Ziellinie</name>
+    <name>Messelpark~quere die Ziellinie</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3396,7 +3396,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.447017" lon="13.325983">
-    <name>Der Ga~ ehemals Ameisen Cache </name>
+    <name>Der Garnel~mals Ameisen Cache </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3496,7 +3496,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.516633" lon="13.37195">
-    <name>Code o~s Top Secret Mineral #3</name>
+    <name>Code orang~p Secret Mineral #3</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3526,7 +3526,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.494067" lon="13.403283">
-    <name>Der Er~Zahlensysteme umrechnen</name>
+    <name>Der Erklär~ensysteme umrechnen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3546,7 +3546,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4705" lon="13.284667">
-    <name>Messel~Vorbei an Startnummer 1</name>
+    <name>Messelpark~ei an Startnummer 1</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3626,7 +3626,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.50395" lon="13.291266666666669">
-    <name>Tante ~a gönnt sich eine Pause</name>
+    <name>Tante Emma~nnt sich eine Pause</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3656,7 +3656,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.445083" lon="13.333667">
-    <name>Kirchn~ücke - Es war einmal...</name>
+    <name>Kirchnerbr~ - Es war einmal...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3696,7 +3696,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4453" lon="13.3305">
-    <name>Berlin~routen - TR1 Westspange</name>
+    <name>Berliner F~en - TR1 Westspange</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3766,7 +3766,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.453817" lon="13.30065">
-    <name>Geocac~ights - Challenge Cache</name>
+    <name>Geocaching~s - Challenge Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3776,7 +3776,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.516283" lon="13.377717">
-    <name>Virtua~ard - Brandenburger Tor</name>
+    <name>Virtual Re~- Brandenburger Tor</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3786,7 +3786,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5163" lon="13.377683">
-    <name>Geheim~t aus der Vergangenheit</name>
+    <name>Geheime Bo~s der Vergangenheit</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3826,7 +3826,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.473233" lon="13.280883">
-    <name>Messel~enlauf mit Angelturnier</name>
+    <name>Messelpark~uf mit Angelturnier</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3886,7 +3886,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.518" lon="13.3746">
-    <name>Die Gl~kuppel - Virtual Reward</name>
+    <name>Die Glasku~el - Virtual Reward</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3896,7 +3896,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4513" lon="13.303983">
-    <name>25 Ear~ches Challenge "Bronze"</name>
+    <name>25 Earthca~ Challenge "Bronze"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3936,7 +3936,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.516667" lon="13.379383">
-    <name>Radfer~enhagen (Berliner Teil)</name>
+    <name>Radfernweg~gen (Berliner Teil)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -3946,7 +3946,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.516567" lon="13.379617">
-    <name>Berlin~ten - RR3 Spandau-Route</name>
+    <name>Berliner F~- RR3 Spandau-Route</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4086,7 +4086,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.495917" lon="13.279867">
-    <name>🏃Fix f~hendurch...Halenseepark</name>
+    <name>🏃Fix für z~urch...Halenseepark</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4096,7 +4096,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.457983" lon="13.2903">
-    <name>Berlin~drouten - TR4 Südspange</name>
+    <name>Berliner F~ten - TR4 Südspange</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4116,7 +4116,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.499333" lon="13.405417">
-    <name>Berlin~ersteine - Moritzstraße</name>
+    <name>Berliner S~eine - Moritzstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4126,7 +4126,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.475233" lon="13.40985">
-    <name>Tempel~ - the X marks the spot</name>
+    <name>Tempelhof ~he X marks the spot</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4256,7 +4256,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.459417" lon="13.286667">
-    <name>Bonus ~  Martin Niemöller Haus</name>
+    <name>Bonus Adve~rtin Niemöller Haus</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4286,7 +4286,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.522967" lon="13.321917">
-    <name>Film a~che odyssey for WWFibis</name>
+    <name>Film ab! 2~odyssey for WWFibis</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4376,7 +4376,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.509133" lon="13.288567">
-    <name>Tante ~t sich eine Nachricht !</name>
+    <name>Tante Emma~ch eine Nachricht !</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4406,7 +4406,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.491667" lon="13.275">
-    <name>Kannst~n - Adventure Lab Bonus</name>
+    <name>Kannste ma~Adventure Lab Bonus</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4416,7 +4416,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.494767" lon="13.276117">
-    <name>Wie ko~die Löcher in den Käse?</name>
+    <name>Wie kommen~Löcher in den Käse?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4426,7 +4426,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.513617" lon="13.392667">
-    <name>GESTEI~eicher KREISLAUF Berlin</name>
+    <name>GESTEINSre~er KREISLAUF Berlin</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4476,7 +4476,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.487367" lon="13.4144">
-    <name>Berlin~itzen #2 Rixdorfer Höhe</name>
+    <name>Berliner K~n #2 Rixdorfer Höhe</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4536,7 +4536,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4959" lon="13.2747">
-    <name>Reichs~erungswerk RAW Reloaded</name>
+    <name>Reichsbahn~gswerk RAW Reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4586,7 +4586,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.46575" lon="13.2771">
-    <name>40.000~unden - Challenge Cache</name>
+    <name>40.000 Fav~n - Challenge Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4626,7 +4626,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.499633" lon="13.276433">
-    <name>AVUS-R~re Nordschleife (Vol.2)</name>
+    <name>AVUS-Renne~ordschleife (Vol.2)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4666,7 +4666,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.449383" lon="13.3912">
-    <name>Dem Hi~h - Bonus Adventure Lab</name>
+    <name>Dem Himmel~Bonus Adventure Lab</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4726,7 +4726,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.52235" lon="13.3777">
-    <name>BERLIN~RK - Residenz einer Uhr</name>
+    <name>BERLINER S~ Residenz einer Uhr</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4786,7 +4786,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5266" lon="13.359433">
-    <name>Berlin~ritz-Schloß Park Gipfel</name>
+    <name>Berliner K~-Schloß Park Gipfel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4826,7 +4826,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.45335" lon="13.288317">
-    <name>Who to~hat meine Nuss geklaut?</name>
+    <name>Who took m~meine Nuss geklaut?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4856,7 +4856,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4645" lon="13.411">
-    <name>"Und A~ino in Berlin" - Bonus </name>
+    <name>"Und Actio~in Berlin" - Bonus </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4896,7 +4896,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4478" lon="13.39015">
-    <name>I. Fri~h Geschlüpft Thalia E. </name>
+    <name>I. Frisch ~schlüpft Thalia E. </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4926,7 +4926,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.451283" lon="13.290483">
-    <name>Squirr~ Eichhörnchens Walnüsse</name>
+    <name>Squirrel's~hhörnchens Walnüsse</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -4986,7 +4986,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.519717" lon="13.387917">
-    <name>Züge i~Leben – Züge in den Tod</name>
+    <name>Züge in da~n – Züge in den Tod</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5036,7 +5036,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.456217" lon="13.2825">
-    <name>Fernge~äch zum Mondscheintarif</name>
+    <name>Ferngesprä~zum Mondscheintarif</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5046,7 +5046,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.451667" lon="13.288583">
-    <name>Wenn d~n kräht auf dem Mist...</name>
+    <name>Wenn der H~äht auf dem Mist...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5126,7 +5126,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.453817" lon="13.285083">
-    <name>BERLIN~GENETZWERK - Thielallee</name>
+    <name>BERLINER S~TZWERK - Thielallee</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5176,7 +5176,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5082" lon="13.27975">
-    <name>Advent~22 - Reise in die Ferne</name>
+    <name>Advent(ure~ Reise in die Ferne</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5196,7 +5196,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.474517" lon="13.418483">
-    <name>Die St~ng vom kleinen Maulwurf</name>
+    <name>Die Stadtw~om kleinen Maulwurf</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5246,7 +5246,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.461667" lon="13.411667">
-    <name>Auf de~uren von Friedrich Wurm</name>
+    <name>Auf den Sp~ von Friedrich Wurm</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5306,7 +5306,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4402" lon="13.3123">
-    <name>In Lic~rfelde geht die Post ab</name>
+    <name>In Lichter~de geht die Post ab</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5396,7 +5396,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.525733" lon="13.309917">
-    <name>Weintr~n und andere Leckereien</name>
+    <name>Weintraube~d andere Leckereien</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5446,7 +5446,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.437467" lon="13.32045">
-    <name>Earthc~hallenge Cache - "Gold"</name>
+    <name>Earthcache~enge Cache - "Gold"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5476,7 +5476,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.43785" lon="13.318017">
-    <name>Challe~schiedene D/T Varianten</name>
+    <name>Challenge-~edene D/T Varianten</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5536,7 +5536,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.520967" lon="13.295733">
-    <name>Virtua~Schloss Charlottenburg </name>
+    <name>Virtual Re~oss Charlottenburg </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5556,7 +5556,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.435817" lon="13.3293">
-    <name>Der We~acher - Challenge Cache</name>
+    <name>Der Weltre~r - Challenge Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5606,7 +5606,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.457829" lon="13.276189">
-    <name>Geheim~abe an der Keitel-Villa</name>
+    <name>Geheime Üb~an der Keitel-Villa</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5646,7 +5646,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.447667" lon="13.289383">
-    <name>Eine k~hte der Zahl / Numerals</name>
+    <name>Eine kurze~der Zahl / Numerals</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5676,7 +5676,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.450467" lon="13.284383">
-    <name>Muskra~ / Muskrat und die Nuss</name>
+    <name>Muskrat an~uskrat und die Nuss</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5696,7 +5696,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.525717" lon="13.381867">
-    <name>Der Te~l steckt in den Details</name>
+    <name>Der Teufel~eckt in den Details</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5776,7 +5776,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.459267" lon="13.41385">
-    <name>Friedr~iche Hinterlassenschaft</name>
+    <name>Friedrich ~ Hinterlassenschaft</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5786,7 +5786,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.524567" lon="13.386233">
-    <name>BERLIN~- Claire-Waldoff-Straße</name>
+    <name>BERLINER S~aire-Waldoff-Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5896,7 +5896,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5165" lon="13.402917">
-    <name>Berlin~ten - RR1 Wannsee-Route</name>
+    <name>Berliner F~- RR1 Wannsee-Route</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5906,7 +5906,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.532317" lon="13.341317">
-    <name>Aussti~genheit leider verpasst</name>
+    <name>Ausstiegsg~eit leider verpasst</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5916,7 +5916,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.442967" lon="13.391267">
-    <name>Advent~ 2018 #14 (MiniMultiNC)</name>
+    <name>Advent(ure~8 #14 (MiniMultiNC)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5986,7 +5986,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.512333" lon="13.409833">
-    <name>BERLIN~GENETZWERK - Wallstreet</name>
+    <name>BERLINER S~TZWERK - Wallstreet</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -5996,7 +5996,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.516367" lon="13.404767">
-    <name>Revers~o, Berlin-Mitte Edition</name>
+    <name>Reverse Wh~erlin-Mitte Edition</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6056,7 +6056,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.440433" lon="13.299617">
-    <name>BERLIN~ENETZWERK - Drakestraße</name>
+    <name>BERLINER S~ZWERK - Drakestraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6186,7 +6186,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.462133" lon="13.267233">
-    <name>Grunew~unde #1 - Die Efeu-Else</name>
+    <name>Grunewaldr~ #1 - Die Efeu-Else</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6246,7 +6246,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.509717" lon="13.271767">
-    <name>Bonus ~nture Lab: Buddy Bären </name>
+    <name>Bonus Aven~e Lab: Buddy Bären </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6296,7 +6296,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.444933" lon="13.400133">
-    <name>Alte F~m Dardanellenweg in s/w</name>
+    <name>Alte Fotos~rdanellenweg in s/w</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6396,7 +6396,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.53025" lon="13.379333">
-    <name>🌠Meteo~r Naturkunde in Berlin </name>
+    <name>🌠Meteorite~turkunde in Berlin </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6516,7 +6516,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.532" lon="13.313167">
-    <name>12.000~geht noch weiter ..... </name>
+    <name>12.000 Fun~ noch weiter ..... </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6536,7 +6536,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.43635" lon="13.303967">
-    <name>BERLIN~GENETZWERK - Alter 32er</name>
+    <name>BERLINER S~TZWERK - Alter 32er</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6546,7 +6546,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.523217" lon="13.399133">
-    <name>BERLIN~ETZWERK - Monbijouplatz</name>
+    <name>BERLINER S~ERK - Monbijouplatz</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6556,7 +6556,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.435517" lon="13.30645">
-    <name>Challe~n allen 12 M + 3 Monate</name>
+    <name>Challenge-~len 12 M + 3 Monate</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6576,7 +6576,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.518767" lon="13.2802">
-    <name>Kirche~nderschaft I - reloaded</name>
+    <name>Kirche auf~schaft I - reloaded</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6586,7 +6586,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5289" lon="13.3864">
-    <name>BERLIN~ENETZWERK - Tieckstraße</name>
+    <name>BERLINER S~ZWERK - Tieckstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6596,7 +6596,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.442383" lon="13.288333">
-    <name>Wenn d~tchen wenn nicht wär...</name>
+    <name>Wenn das W~n wenn nicht wär...</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6616,7 +6616,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.524633" lon="13.397167">
-    <name>Jolle ~ndauer Vorstadt Berlin)</name>
+    <name>Jolle Sein~er Vorstadt Berlin)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6676,7 +6676,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4862" lon="13.25645">
-    <name>Der Hu~kehlesee bei Mondschein</name>
+    <name>Der Hundek~esee bei Mondschein</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6696,7 +6696,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.53045" lon="13.383333">
-    <name>BERLIN~WERK - Naturkundemuseum</name>
+    <name>BERLINER S~ - Naturkundemuseum</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6726,7 +6726,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.50375" lon="13.262583">
-    <name>Offizi~effer Haus Cache Berlin</name>
+    <name>Offizielle~r Haus Cache Berlin</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6736,7 +6736,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.51985" lon="13.4073">
-    <name>BERLIN~ETZWERK - Dreister Nano</name>
+    <name>BERLINER S~ERK - Dreister Nano</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6766,7 +6766,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.521733" lon="13.404217">
-    <name>BERLIN~ENETZWERK - Rosenstraße</name>
+    <name>BERLINER S~ZWERK - Rosenstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6786,7 +6786,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.435833" lon="13.301667">
-    <name>Lichte~Burgen  -  wiederbelebt</name>
+    <name>Lichterfel~en  -  wiederbelebt</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6826,7 +6826,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.530117" lon="13.300967">
-    <name>Die ve~ Katze - Berlin Edition</name>
+    <name>Die versch~ze - Berlin Edition</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6856,7 +6856,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.487017" lon="13.255183">
-    <name>Sie JA~ATZEnartig ihr 2. M …. </name>
+    <name>Sie JAGD K~nartig ihr 2. M …. </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6876,7 +6876,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.473417" lon="13.256067">
-    <name>Klar g~ Steckdosen... (DE/ENG)</name>
+    <name>Klar gibt'~ckdosen... (DE/ENG)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6916,7 +6916,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.531117" lon="13.385467">
-    <name>BERLIN~NETZWERK - CashCenter 2</name>
+    <name>BERLINER S~WERK - CashCenter 2</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6926,7 +6926,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.491317" lon="13.432133">
-    <name>Der am~che Bruchpilot (rev up)</name>
+    <name>Der amerik~Bruchpilot (rev up)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -6966,7 +6966,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.450933" lon="13.27075">
-    <name>640 kB~o be enough for anybody</name>
+    <name>640 kB oug~ enough for anybody</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7036,7 +7036,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.428417" lon="13.35475">
-    <name>pienja~tion in German/English)</name>
+    <name>pienja's f~ in German/English)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7086,7 +7086,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.516167" lon="13.271167">
-    <name>Erdmän~ und der schräge Vogel </name>
+    <name>Erdmännche~ der schräge Vogel </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7106,7 +7106,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.475867" lon="13.253617">
-    <name>366 Ta~-gelöst-Challenge-Cache</name>
+    <name>366 Tage-P~öst-Challenge-Cache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7156,7 +7156,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.45" lon="13.416667">
-    <name>Ich an~eißt nun "Power-Bridge"</name>
+    <name>Ich angle ~ nun "Power-Bridge"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7306,7 +7306,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.531933" lon="13.388133">
-    <name>BERLIN~ENETZWERK - Nordbahnhof</name>
+    <name>BERLINER S~ZWERK - Nordbahnhof</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7376,7 +7376,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5033" lon="13.25745">
-    <name>Meine ~zu MeinSchulweg #1 - #4</name>
+    <name>Meine Schu~einSchulweg #1 - #4</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7416,7 +7416,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.438667" lon="13.400933">
-    <name>Film a~etzte Kreuzzug–Der Gral</name>
+    <name>Film ab!In~e Kreuzzug–Der Gral</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7486,7 +7486,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.475667" lon="13.251233">
-    <name>366  F~Datum (Challenge Cache)</name>
+    <name>366  Funde~m (Challenge Cache)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7506,7 +7506,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.536383" lon="13.375467">
-    <name>Einste~chtet die ganz Geheimen</name>
+    <name>Einstein b~t die ganz Geheimen</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7536,7 +7536,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.533333" lon="13.3">
-    <name>Käpt'n~ weg - Berlin Edition 3</name>
+    <name>Käpt'n, da~ - Berlin Edition 3</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7576,7 +7576,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.508467" lon="13.427417">
-    <name>Wer im~er Bitte nicht füttern!</name>
+    <name>Wer im Gla~itte nicht füttern!</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7626,7 +7626,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.52115" lon="13.4133">
-    <name>Wie sp~eltzeituhr) [D, EN, FR]</name>
+    <name>Wie spät i~eituhr) [D, EN, FR]</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7666,7 +7666,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.522" lon="13.413">
-    <name>Eiszei~e coole Stadt (Ice Age)</name>
+    <name>Eiszeit in~ole Stadt (Ice Age)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7756,7 +7756,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.529333" lon="13.28675">
-    <name>Da bis~ leider auf dem Holzweg</name>
+    <name>Da bist du~der auf dem Holzweg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7766,7 +7766,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.508283" lon="13.258083">
-    <name>Berlin~pitzen #1&amp;3 Teufelsberg</name>
+    <name>Berliner K~en #1&amp;3 Teufelsberg</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7786,7 +7786,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4289" lon="13.37825">
-    <name>Bilder~sel #4#: ВВ macht Pizza</name>
+    <name>Bilderräts~#4#: ВВ macht Pizza</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7936,7 +7936,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.438533" lon="13.27985">
-    <name>Mini J~lver - Challenge Cache </name>
+    <name>Mini Jasme~ - Challenge Cache </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7946,7 +7946,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.499667" lon="13.2505">
-    <name>Es läu~ täglich über den Weg,,</name>
+    <name>Es läuft E~lich über den Weg,,</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7956,7 +7956,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5325" lon="13.290683">
-    <name>6 Stei~icht anfassen reloaded"</name>
+    <name>6 Steine o~ anfassen reloaded"</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -7966,7 +7966,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.518917" lon="13.420783">
-    <name>BERLIN~ETZWERK - Magazinstraße</name>
+    <name>BERLINER S~ERK - Magazinstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8006,7 +8006,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.500333" lon="13.25055">
-    <name>Teufel~ache zu "Teufelsaugen")</name>
+    <name>Teufels Hü~ zu "Teufelsaugen")</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8016,7 +8016,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.537" lon="13.383383">
-    <name>Berlin~erweg: Stettiner Tunnel</name>
+    <name>Berliner M~g: Stettiner Tunnel</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8086,7 +8086,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.535433" lon="13.389733">
-    <name>Todess~l (english description)</name>
+    <name>Todesstrei~nglish description)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8106,7 +8106,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.467166666666664" lon="13.249316666666667">
-    <name>Cache ~icht !  100 x Bennymops</name>
+    <name>Cache in S~ !  100 x Bennymops</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8126,7 +8126,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.534483" lon="13.293733">
-    <name>Berlin~uerwehr #1 - Leitstelle</name>
+    <name>Berliner F~ehr #1 - Leitstelle</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8186,7 +8186,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.423483" lon="13.357467">
-    <name>Torona~. oder Torona’s day off</name>
+    <name>Torona mac~er Torona’s day off</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8216,7 +8216,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.425917" lon="13.37475">
-    <name>The Ro~Entscheidung ... Action</name>
+    <name>The Rock -~cheidung ... Action</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8296,7 +8296,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.543433" lon="13.339633">
-    <name>Furios~s - Die Kugel der Nacht</name>
+    <name>Furioser B~Die Kugel der Nacht</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8346,7 +8346,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.516983" lon="13.260983">
-    <name>Film -~ie drei Damen vom Grill</name>
+    <name>Film - Cac~rei Damen vom Grill</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8386,7 +8386,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.422167" lon="13.347556">
-    <name>Die ew~n Wachen vom Okengraben</name>
+    <name>Die ewigen~chen vom Okengraben</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8436,7 +8436,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5252" lon="13.416083">
-    <name>BERLIN~ETZWERK - Wadzeckstraße</name>
+    <name>BERLINER S~ERK - Wadzeckstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8446,7 +8446,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.52885" lon="13.410033">
-    <name>BERLIN~ERK - Schönhauser Allee</name>
+    <name>BERLINER S~- Schönhauser Allee</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8476,7 +8476,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.426917" lon="13.302683">
-    <name>¼ Schw~er Viertel (reloaded) ¼</name>
+    <name>¼ Schweize~iertel (reloaded) ¼</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8496,7 +8496,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.488833" lon="13.444">
-    <name>Kaufha~chmollerplatz (ehemals)</name>
+    <name>Kaufhalle ~llerplatz (ehemals)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8556,7 +8556,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4521" lon="13.431333333333333">
-    <name>Henrys~nd (Taschen CITO Depot)</name>
+    <name>Henrys Cur~Taschen CITO Depot)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8626,7 +8626,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.433017" lon="13.28315">
-    <name> Mini ~Gold - Challenge Cache </name>
+    <name> Mini Jasm~ - Challenge Cache </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8636,7 +8636,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.507683" lon="13.249917">
-    <name>Rumäni~he „Mihail und Gavriil“</name>
+    <name>Rumänisch-~Mihail und Gavriil“</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8656,7 +8656,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.440533" lon="13.41825">
-    <name>Don't ~afraid - Berlin Edition</name>
+    <name>Don't bee ~id - Berlin Edition</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8686,7 +8686,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.544783" lon="13.356267">
-    <name>Es war~den Wedding - der BONUS</name>
+    <name>Es war ein~Wedding - der BONUS</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8706,7 +8706,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.508333" lon="13.25">
-    <name>Erdmän~ auch gefüttert werden </name>
+    <name>Erdmännche~h gefüttert werden </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8926,7 +8926,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4356" lon="13.275">
-    <name>🔥 Supe~oiler - Light my Fire 🔥</name>
+    <name>🔥 Super Sp~r - Light my Fire 🔥</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8946,7 +8946,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.528841" lon="13.415377">
-    <name>Die hi~ste Ex-Bäckerei Berlins</name>
+    <name>Die hippst~Ex-Bäckerei Berlins</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -8996,7 +8996,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4327" lon="13.280117">
-    <name>Challe~n allen 12 M + 2 Monate</name>
+    <name>Challenge-~len 12 M + 2 Monate</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9036,7 +9036,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4281" lon="13.2902">
-    <name>Challe~in allen 12 M + 1 Monat</name>
+    <name>Challenge ~llen 12 M + 1 Monat</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9076,7 +9076,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.531283" lon="13.412483">
-    <name>BERLIN~TZWERK - Kollwitzstraße</name>
+    <name>BERLINER S~RK - Kollwitzstraße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9106,7 +9106,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.529867" lon="13.271483">
-    <name>Die Wi~iemensstadts (reloaded)</name>
+    <name>Die Wiege ~nsstadts (reloaded)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9116,7 +9116,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.449883" lon="13.253117">
-    <name>Bonus ~ Lab:  Onkel Toms Hütte</name>
+    <name>Bonus Adve~:  Onkel Toms Hütte</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9186,7 +9186,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.422883" lon="13.304717">
-    <name>4x4 D/~ritt zur 81 - Challenge</name>
+    <name>4x4 D/T Ma~ zur 81 - Challenge</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9216,7 +9216,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.533333" lon="13.410333">
-    <name>Spiegl~n Spieglein in der Hand</name>
+    <name>Spieglein ~ieglein in der Hand</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9356,7 +9356,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.537367" lon="13.402683">
-    <name>Wo bin~h ? - Mitte ( 1. Teil )</name>
+    <name>Wo bin ich~- Mitte ( 1. Teil )</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9376,7 +9376,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5446" lon="13.378533">
-    <name>Öffent~chtige Fernsprechanlage</name>
+    <name>Öffentlich~ge Fernsprechanlage</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9386,7 +9386,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.539917" lon="13.29135">
-    <name>Frau F~Volkspark Jungfernheide</name>
+    <name>Frau Fisch~spark Jungfernheide</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9466,7 +9466,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.528483" lon="13.42125">
-    <name>026/36~ zum Treffen: 96 Events</name>
+    <name>026/366 - ~ Treffen: 96 Events</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9496,7 +9496,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4295" lon="13.281017">
-    <name>Mini J~onze - Challenge Cache </name>
+    <name>Mini Jasme~ - Challenge Cache </name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9516,7 +9516,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.419067" lon="13.31855">
-    <name>Das un~Denkmal in Lichterfelde</name>
+    <name>Das unbeka~mal in Lichterfelde</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9546,7 +9546,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.423733" lon="13.296283">
-    <name>Hello ~icial Official Geocache</name>
+    <name>Hello Inte~l Official Geocache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9556,7 +9556,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.436667" lon="13.266667">
-    <name>Bonus ~n Memoriam...📖 Labcache</name>
+    <name>Bonus  📖 L~moriam...📖 Labcache</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9576,7 +9576,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.522483" lon="13.2568">
-    <name>Bock, ~ick, Land, Berg und Tal</name>
+    <name>Bock, Brun~ Land, Berg und Tal</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9656,7 +9656,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.4957" lon="13.450683">
-    <name>Grenzw~ischer Busch (reloaded)</name>
+    <name>Grenzwacht~er Busch (reloaded)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9666,7 +9666,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.50295" lon="13.44775">
-    <name>Ich gl~! / Club the Night Away</name>
+    <name>Ich glaub'~Club the Night Away</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9696,7 +9696,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.41825" lon="13.318267">
-    <name>Grüner~n durch das Cityvillage</name>
+    <name>Grüner Str~rch das Cityvillage</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9726,7 +9726,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.485917" lon="13.452917">
-    <name>Flucht~nel Heidelberger Straße</name>
+    <name>Fluchttunn~Heidelberger Straße</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9766,7 +9766,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.529667" lon="13.422117">
-    <name>St.Mar~of II/Georgenfriedhof I</name>
+    <name>St.Marien-~I/Georgenfriedhof I</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9796,7 +9796,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.506083" lon="13.447017">
-    <name>Dänisc~ Bausteine, was sonst!?</name>
+    <name>Dänische B~steine, was sonst!?</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9906,7 +9906,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.510333333333335" lon="13.444716666666666">
-    <name>Irgend~ der Nähe von Nirgendwo</name>
+    <name>Irgendwo i~ Nähe von Nirgendwo</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
@@ -9996,7 +9996,7 @@
     </extensions>
 </wpt>
 <wpt lat="52.5213" lon="13.252167">
-    <name>So nah~ern...(Letzter Versuch)</name>
+    <name>So nah und~..(Letzter Versuch)</name>
     <sym>custom 0</sym>
     <extensions>
         <wptx1:WaypointExtension>
